@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>PA Weather Watches & Warnings</title>
+</head>
+<body>
+  <h1>PA Weather Watches & Warnings</h1>
+
+  <button id="refreshBtn">Refresh Now</button>
+  <p id="status">Loading alerts…</p>
+
+  <div id="tableContainer"></div>
+
+  <script>
+    const API_URL = "https://api.weather.gov/alerts/active?area=PA";
+
+    function formatTime(isoString) {
+      if (!isoString) return "N/A";
+      const d = new Date(isoString);
+      if (isNaN(d.getTime())) return isoString;
+      return d.toLocaleString(undefined, {
+        year: "numeric",
+        month: "short",
+        day: "numeric",
+        hour: "numeric",
+        minute: "2-digit",
+        hour12: true
+      });
+    }
+
+    function isWatchOrWarning(properties) {
+      const event = (properties.event || "").toLowerCase();
+
+      const isWanted =
+        event.includes("watch") ||
+        event.includes("warning") ||
+        event.includes("emergency");
+
+      const isUnwanted =
+        event.includes("advisory") ||
+        event.includes("statement") ||
+        event.includes("outlook") ||
+        event.includes("test");
+
+      return isWanted && !isUnwanted;
+    }
+
+    function renderTable(alerts) {
+      const container = document.getElementById("tableContainer");
+      if (!alerts.length) {
+        container.innerHTML = "<p>No active watches or warnings for PA.</p>";
+        return;
+      }
+
+      let rows = alerts.map(f => {
+        const p = f.properties || {};
+        const event = p.event || "Unknown";
+        const locations = p.areaDesc || "—";
+        const expires = p.ends || p.expires || null;
+        const expiresStr = formatTime(expires);
+        return `<tr><td>${event}</td><td>${locations}</td><td>${expiresStr}</td></tr>`;
+      }).join("");
+
+      container.innerHTML = `
+        <table border="1" cellpadding="4" cellspacing="0">
+          <thead>
+            <tr>
+              <th>Type</th>
+              <th>Locations</th>
+              <th>Expires</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${rows}
+          </tbody>
+        </table>`;
+    }
+
+    async function fetchAlerts() {
+      const statusEl = document.getElementById("status");
+      const refreshBtn = document.getElementById("refreshBtn");
+
+      refreshBtn.disabled = true;
+      statusEl.textContent = "Loading alerts…";
+
+      try {
+        const response = await fetch(API_URL, {
+          headers: { "Accept": "application/geo+json" }
+        });
+
+        if (!response.ok) {
+          throw new Error("HTTP " + response.status);
+        }
+
+        const data = await response.json();
+        const features = Array.isArray(data.features) ? data.features : [];
+        const filtered = features.filter(f => f && f.properties && isWatchOrWarning(f.properties));
+
+        renderTable(filtered);
+
+        statusEl.textContent = "Last updated: " +
+          new Date().toLocaleString() + " | Alerts: " + filtered.length;
+
+      } catch (err) {
+        console.error(err);
+        statusEl.textContent = "Error loading alerts: " + err.message;
+      }
+
+      refreshBtn.disabled = false;
+    }
+
+    // Manual refresh button
+    document.getElementById("refreshBtn").addEventListener("click", fetchAlerts);
+
+    // Initial load
+    fetchAlerts();
+
+    // Auto-refresh every 5 minutes
+    setInterval(fetchAlerts, 5 * 60 * 1000);
+  </script>
+</body>
+</html>
