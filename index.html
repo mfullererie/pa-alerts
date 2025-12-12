@@ -15,8 +15,8 @@
   <script>
     const API_URL = "https://api.weather.gov/alerts/active?area=PA";
 
-    // Cache zone/county lookups so we don't hammer the API
-    const ugcNameCache = new Map(); // key: UGC like "PAZ006" -> value: "Northern Clinton" (etc.)
+    // Cache zone lookups so we don't hammer the API
+    const zoneNameCache = new Map(); // key: zone URL -> value: zone name
 
     function formatTime(isoString) {
       if (!isoString) return "N/A";
@@ -33,16 +33,14 @@
       });
     }
 
-    function isWatchOrWarning(properties) {
-      const event = (properties.event || "").toLowerCase();
+    function isWatchOrWarning(p) {
+      const event = (p.event || "").toLowerCase();
 
-      // Include: Watch / Warning / Emergency
       const isWanted =
         event.includes("watch") ||
         event.includes("warning") ||
         event.includes("emergency");
 
-      // Exclude: Advisory / Statement / Outlook / Test
       const isUnwanted =
         event.includes("advisory") ||
         event.includes("statement") ||
@@ -52,55 +50,74 @@
       return isWanted && !isUnwanted;
     }
 
-    // Pull UGC array safely
     function getUGCList(p) {
       return (p.geocode && Array.isArray(p.geocode.ugc)) ? p.geocode.ugc : [];
     }
 
-    // Keep only alerts that have at least one PA UGC (PAZ### / PAC###)
-    function hasAnyPennsylvaniaUGC(p) {
-      return getUGCList(p).some(code => typeof code === "string" && code.startsWith("PA"));
+    // Convert UGC code to a zone URL (best-effort)
+    function ugcToZoneUrl(ugc) {
+      // UGC like "PAZ006" or "PAC071"
+      if (typeof ugc !== "string" || ugc.length < 6) return null;
+      const third = ugc[2]; // 'Z' or 'C'
+      if (third === "Z") return `https://api.weather.gov/zones/forecast/${ugc}`;
+      if (third === "C") return `https://api.weather.gov/zones/county/${ugc}`;
+      return null;
     }
 
-    // Build the correct NWS endpoint for a given UGC code
-    // - PAZ### => forecast zone endpoint
-    // - PAC### => county zone endpoint
-    function ugcToNwsUrl(ugc) {
-      // UGC format is typically STZ### or STC###
-      const thirdChar = ugc[2]; // 'Z' or 'C'
-      if (thirdChar === "Z") return `https://api.weather.gov/zones/forecast/${ugc}`;
-      if (thirdChar === "C") return `https://api.weather.gov/zones/county/${ugc}`;
-      // Fallback (rare)
-      return `https://api.weather.gov/zones/forecast/${ugc}`;
+    // Pull PA-relevant zone URLs from affectedZones and/or UGC
+    function getPAZoneUrls(p) {
+      const urls = new Set();
+
+      // 1) Prefer affectedZones (most reliable)
+      if (Array.isArray(p.affectedZones)) {
+        for (const z of p.affectedZones) {
+          if (typeof z !== "string") continue;
+          // Keep only PA forecast/county zones
+          if (z.includes("/zones/forecast/PAZ") || z.includes("/zones/county/PAC")) {
+            urls.add(z);
+          }
+        }
+      }
+
+      // 2) Fallback: derive from UGC if present
+      for (const ugc of getUGCList(p)) {
+        if (typeof ugc === "string" && ugc.startsWith("PA")) {
+          const url = ugcToZoneUrl(ugc);
+          if (url) urls.add(url);
+        }
+      }
+
+      return Array.from(urls);
     }
 
-    async function lookupUGCName(ugc) {
-      if (ugcNameCache.has(ugc)) return ugcNameCache.get(ugc);
+    // Keep alert if it touches any PA zone/county
+    function isPennsylvaniaAlert(p) {
+      return getPAZoneUrls(p).length > 0;
+    }
+
+    async function lookupZoneName(zoneUrl) {
+      if (zoneNameCache.has(zoneUrl)) return zoneNameCache.get(zoneUrl);
 
       try {
-        const url = ugcToNwsUrl(ugc);
-        const resp = await fetch(url, { headers: { "Accept": "application/geo+json" } });
-        if (!resp.ok) throw new Error(`UGC lookup HTTP ${resp.status}`);
-
+        const resp = await fetch(zoneUrl, { headers: { "Accept": "application/geo+json" } });
+        if (!resp.ok) throw new Error(`Zone lookup HTTP ${resp.status}`);
         const data = await resp.json();
-        const name = data && data.properties && data.properties.name ? data.properties.name : ugc;
-
-        ugcNameCache.set(ugc, name);
+        const name = data?.properties?.name || zoneUrl;
+        zoneNameCache.set(zoneUrl, name);
         return name;
-      } catch (e) {
-        // If lookup fails, fall back to showing the code itself
-        ugcNameCache.set(ugc, ugc);
-        return ugc;
+      } catch {
+        zoneNameCache.set(zoneUrl, zoneUrl);
+        return zoneUrl;
       }
     }
 
-    // Return a PA-only location string for an alert
     async function getPALocationsString(p) {
-      const ugc = getUGCList(p);
-      const paUGC = ugc.filter(code => typeof code === "string" && code.startsWith("PA"));
+      const paZoneUrls = getPAZoneUrls(p);
 
-      // Convert PA UGC codes to human names
-      const names = await Promise.all(paUGC.map(lookupUGCName));
+      // If for some reason we kept it but didn't get urls, fall back to areaDesc
+      if (!paZoneUrls.length) return p.areaDesc || "—";
+
+      const names = await Promise.all(paZoneUrls.map(lookupZoneName));
 
       // Deduplicate while preserving order
       const seen = new Set();
@@ -110,7 +127,7 @@
         return true;
       });
 
-      return unique.length ? unique.join("; ") : (p.areaDesc || "—");
+      return unique.join("; ");
     }
 
     function renderTable(rowsHtml) {
@@ -145,22 +162,20 @@
       statusEl.textContent = "Loading alerts…";
 
       try {
-        const response = await fetch(API_URL, {
-          headers: { "Accept": "application/geo+json" }
-        });
+        const response = await fetch(API_URL, { headers: { "Accept": "application/geo+json" } });
         if (!response.ok) throw new Error("HTTP " + response.status);
 
         const data = await response.json();
         const features = Array.isArray(data.features) ? data.features : [];
 
-        // Watches/Warnings only + must include at least one PA UGC
-        const filtered = features.filter(f => {
-          if (!f || !f.properties) return false;
-          return isWatchOrWarning(f.properties) && hasAnyPennsylvaniaUGC(f.properties);
-        });
+        // First: watches/warnings only
+        const wwAll = features.filter(f => f?.properties && isWatchOrWarning(f.properties));
 
-        // Sort by expiration time (soonest first)
-        filtered.sort((a, b) => {
+        // Then: must touch PA (via affectedZones preferred)
+        const paOnly = wwAll.filter(f => isPennsylvaniaAlert(f.properties));
+
+        // Sort by expiration (soonest first)
+        paOnly.sort((a, b) => {
           const ap = a.properties || {};
           const bp = b.properties || {};
           const ae = new Date(ap.ends || ap.expires || 0).getTime();
@@ -168,14 +183,13 @@
           return ae - be;
         });
 
-        if (!filtered.length) {
+        if (!paOnly.length) {
           renderTable("");
           statusEl.textContent = "Last updated: " + new Date().toLocaleString() + " | Alerts: 0";
           return;
         }
 
-        // Build table rows with PA-only location names (async lookups)
-        const rows = await Promise.all(filtered.map(async (f) => {
+        const rows = await Promise.all(paOnly.map(async (f) => {
           const p = f.properties || {};
           const event = p.event || "Unknown";
           const expiresIso = p.ends || p.expires || null;
@@ -193,7 +207,7 @@
         renderTable(rows.join(""));
 
         statusEl.textContent =
-          "Last updated: " + new Date().toLocaleString() + " | Alerts: " + filtered.length;
+          "Last updated: " + new Date().toLocaleString() + " | Alerts: " + paOnly.length;
 
       } catch (err) {
         console.error(err);
@@ -206,7 +220,6 @@
     }
 
     document.getElementById("refreshBtn").addEventListener("click", fetchAlerts);
-
     fetchAlerts();
     setInterval(fetchAlerts, 5 * 60 * 1000);
   </script>
