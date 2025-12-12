@@ -15,8 +15,8 @@
   <script>
     const API_URL = "https://api.weather.gov/alerts/active?area=PA";
 
-    // Cache zone lookups so we don't hammer the API
-    const zoneNameCache = new Map(); // key: zone URL -> value: zone name
+    // Cache zone lookups: zone URL -> { name, state }
+    const zoneCache = new Map();
 
     function formatTime(isoString) {
       if (!isoString) return "N/A";
@@ -50,89 +50,49 @@
       return isWanted && !isUnwanted;
     }
 
-    function getUGCList(p) {
-      return (p.geocode && Array.isArray(p.geocode.ugc)) ? p.geocode.ugc : [];
-    }
-
-    // Convert UGC code to a zone URL (best-effort)
-    function ugcToZoneUrl(ugc) {
-      // UGC like "PAZ006" or "PAC071"
-      if (typeof ugc !== "string" || ugc.length < 6) return null;
-      const third = ugc[2]; // 'Z' or 'C'
-      if (third === "Z") return `https://api.weather.gov/zones/forecast/${ugc}`;
-      if (third === "C") return `https://api.weather.gov/zones/county/${ugc}`;
-      return null;
-    }
-
-    // Pull PA-relevant zone URLs from affectedZones and/or UGC
-    function getPAZoneUrls(p) {
-      const urls = new Set();
-
-      // 1) Prefer affectedZones (most reliable)
-      if (Array.isArray(p.affectedZones)) {
-        for (const z of p.affectedZones) {
-          if (typeof z !== "string") continue;
-          // Keep only PA forecast/county zones
-          if (z.includes("/zones/forecast/PAZ") || z.includes("/zones/county/PAC")) {
-            urls.add(z);
-          }
-        }
-      }
-
-      // 2) Fallback: derive from UGC if present
-      for (const ugc of getUGCList(p)) {
-        if (typeof ugc === "string" && ugc.startsWith("PA")) {
-          const url = ugcToZoneUrl(ugc);
-          if (url) urls.add(url);
-        }
-      }
-
-      return Array.from(urls);
-    }
-
-    // Keep alert if it touches any PA zone/county
-    function isPennsylvaniaAlert(p) {
-      return getPAZoneUrls(p).length > 0;
-    }
-
-    async function lookupZoneName(zoneUrl) {
-      if (zoneNameCache.has(zoneUrl)) return zoneNameCache.get(zoneUrl);
+    async function getZoneInfo(zoneUrl) {
+      if (zoneCache.has(zoneUrl)) return zoneCache.get(zoneUrl);
 
       try {
         const resp = await fetch(zoneUrl, { headers: { "Accept": "application/geo+json" } });
-        if (!resp.ok) throw new Error(`Zone lookup HTTP ${resp.status}`);
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
         const data = await resp.json();
-        const name = data?.properties?.name || zoneUrl;
-        zoneNameCache.set(zoneUrl, name);
-        return name;
+
+        const info = {
+          name: data?.properties?.name || zoneUrl,
+          state: data?.properties?.state || null
+        };
+
+        zoneCache.set(zoneUrl, info);
+        return info;
       } catch {
-        zoneNameCache.set(zoneUrl, zoneUrl);
-        return zoneUrl;
+        const info = { name: zoneUrl, state: null };
+        zoneCache.set(zoneUrl, info);
+        return info;
       }
     }
 
-    async function getPALocationsString(p) {
-      const paZoneUrls = getPAZoneUrls(p);
+    // Returns { paNames: string[], hasPA: boolean }
+    async function getPALocationsFromAffectedZones(p) {
+      const zones = Array.isArray(p.affectedZones) ? p.affectedZones : [];
+      if (!zones.length) return { paNames: [], hasPA: false };
 
-      // If for some reason we kept it but didn't get urls, fall back to areaDesc
-      if (!paZoneUrls.length) return p.areaDesc || "—";
+      const infos = await Promise.all(zones.map(getZoneInfo));
 
-      const names = await Promise.all(paZoneUrls.map(lookupZoneName));
+      // Keep only zones explicitly tagged as PA by NWS zone metadata
+      const paNames = infos
+        .filter(z => z && z.state === "PA")
+        .map(z => z.name);
 
-      // Deduplicate while preserving order
+      // Dedup
       const seen = new Set();
-      const unique = names.filter(n => {
-        if (seen.has(n)) return false;
-        seen.add(n);
-        return true;
-      });
+      const unique = paNames.filter(n => (seen.has(n) ? false : (seen.add(n), true)));
 
-      return unique.join("; ");
+      return { paNames: unique, hasPA: unique.length > 0 };
     }
 
     function renderTable(rowsHtml) {
       const container = document.getElementById("tableContainer");
-
       if (!rowsHtml) {
         container.innerHTML = "<p>No active watches or warnings for PA.</p>";
         return;
@@ -168,43 +128,47 @@
         const data = await response.json();
         const features = Array.isArray(data.features) ? data.features : [];
 
-        // First: watches/warnings only
+        // Watches/warnings only first
         const wwAll = features.filter(f => f?.properties && isWatchOrWarning(f.properties));
 
-        // Then: must touch PA (via affectedZones preferred)
-        const paOnly = wwAll.filter(f => isPennsylvaniaAlert(f.properties));
+        // For each alert, compute PA-only locations using authoritative zone metadata
+        const enriched = await Promise.all(wwAll.map(async (f) => {
+          const p = f.properties || {};
+          const pa = await getPALocationsFromAffectedZones(p);
+          return { feature: f, props: p, paNames: pa.paNames, hasPA: pa.hasPA };
+        }));
 
-        // Sort by expiration (soonest first)
+        // Keep only alerts with at least one PA zone
+        const paOnly = enriched.filter(x => x.hasPA);
+
+        // Sort by expiration soonest first
         paOnly.sort((a, b) => {
-          const ap = a.properties || {};
-          const bp = b.properties || {};
-          const ae = new Date(ap.ends || ap.expires || 0).getTime();
-          const be = new Date(bp.ends || bp.expires || 0).getTime();
+          const ae = new Date(a.props.ends || a.props.expires || 0).getTime();
+          const be = new Date(b.props.ends || b.props.expires || 0).getTime();
           return ae - be;
         });
 
         if (!paOnly.length) {
           renderTable("");
-          statusEl.textContent = "Last updated: " + new Date().toLocaleString() + " | Alerts: 0";
+          statusEl.textContent =
+            "Last updated: " + new Date().toLocaleString() + " | Alerts: 0";
           return;
         }
 
-        const rows = await Promise.all(paOnly.map(async (f) => {
-          const p = f.properties || {};
-          const event = p.event || "Unknown";
-          const expiresIso = p.ends || p.expires || null;
+        const rows = paOnly.map(x => {
+          const event = x.props.event || "Unknown";
+          const expiresIso = x.props.ends || x.props.expires || null;
           const expiresStr = formatTime(expiresIso);
-
-          const paLocations = await getPALocationsString(p);
+          const locations = x.paNames.join("; ");
 
           return `<tr>
             <td>${event}</td>
-            <td>${paLocations}</td>
+            <td>${locations || "—"}</td>
             <td>${expiresStr}</td>
           </tr>`;
-        }));
+        }).join("");
 
-        renderTable(rows.join(""));
+        renderTable(rows);
 
         statusEl.textContent =
           "Last updated: " + new Date().toLocaleString() + " | Alerts: " + paOnly.length;
