@@ -79,24 +79,63 @@
 
       const infos = await Promise.all(zones.map(getZoneInfo));
 
-      // Keep only zones explicitly tagged as PA by NWS zone metadata
       const paNames = infos
         .filter(z => z && z.state === "PA")
         .map(z => z.name);
 
-      // Dedup
+      // Dedup while preserving order
       const seen = new Set();
       const unique = paNames.filter(n => (seen.has(n) ? false : (seen.add(n), true)));
 
       return { paNames: unique, hasPA: unique.length > 0 };
     }
 
-    function renderTable(rowsHtml) {
+    // Group rows by (event + expires), merging locations
+    function groupAlerts(paOnly) {
+      const groups = new Map();
+      for (const x of paOnly) {
+        const event = x.props.event || "Unknown";
+        const expiresIso = x.props.ends || x.props.expires || null;
+        const key = `${event}||${expiresIso || "N/A"}`;
+
+        if (!groups.has(key)) {
+          groups.set(key, {
+            event,
+            expiresIso,
+            locations: new Set()
+          });
+        }
+
+        const g = groups.get(key);
+        for (const loc of x.paNames || []) g.locations.add(loc);
+      }
+
+      // Convert to array and sort by expiration
+      return Array.from(groups.values()).sort((a, b) => {
+        const ae = new Date(a.expiresIso || 0).getTime();
+        const be = new Date(b.expiresIso || 0).getTime();
+        return ae - be;
+      });
+    }
+
+    function renderTable(grouped) {
       const container = document.getElementById("tableContainer");
-      if (!rowsHtml) {
+
+      if (!grouped.length) {
         container.innerHTML = "<p>No active watches or warnings for PA.</p>";
         return;
       }
+
+      const rows = grouped.map(g => {
+        const expiresStr = formatTime(g.expiresIso);
+        const locations = Array.from(g.locations).join("; ");
+
+        return `<tr>
+          <td>${g.event}</td>
+          <td>${locations || "—"}</td>
+          <td>${expiresStr}</td>
+        </tr>`;
+      }).join("");
 
       container.innerHTML = `
         <table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%; max-width: 1200px;">
@@ -108,7 +147,7 @@
             </tr>
           </thead>
           <tbody>
-            ${rowsHtml}
+            ${rows}
           </tbody>
         </table>
       `;
@@ -131,47 +170,23 @@
         // Watches/warnings only first
         const wwAll = features.filter(f => f?.properties && isWatchOrWarning(f.properties));
 
-        // For each alert, compute PA-only locations using authoritative zone metadata
+        // Enrich each with PA-only locations using authoritative zone metadata
         const enriched = await Promise.all(wwAll.map(async (f) => {
           const p = f.properties || {};
           const pa = await getPALocationsFromAffectedZones(p);
-          return { feature: f, props: p, paNames: pa.paNames, hasPA: pa.hasPA };
+          return { props: p, paNames: pa.paNames, hasPA: pa.hasPA };
         }));
 
         // Keep only alerts with at least one PA zone
         const paOnly = enriched.filter(x => x.hasPA);
 
-        // Sort by expiration soonest first
-        paOnly.sort((a, b) => {
-          const ae = new Date(a.props.ends || a.props.expires || 0).getTime();
-          const be = new Date(b.props.ends || b.props.expires || 0).getTime();
-          return ae - be;
-        });
+        // Group by (type + expiration)
+        const grouped = groupAlerts(paOnly);
 
-        if (!paOnly.length) {
-          renderTable("");
-          statusEl.textContent =
-            "Last updated: " + new Date().toLocaleString() + " | Alerts: 0";
-          return;
-        }
-
-        const rows = paOnly.map(x => {
-          const event = x.props.event || "Unknown";
-          const expiresIso = x.props.ends || x.props.expires || null;
-          const expiresStr = formatTime(expiresIso);
-          const locations = x.paNames.join("; ");
-
-          return `<tr>
-            <td>${event}</td>
-            <td>${locations || "—"}</td>
-            <td>${expiresStr}</td>
-          </tr>`;
-        }).join("");
-
-        renderTable(rows);
+        renderTable(grouped);
 
         statusEl.textContent =
-          "Last updated: " + new Date().toLocaleString() + " | Alerts: " + paOnly.length;
+          "Last updated: " + new Date().toLocaleString() + " | Alerts: " + grouped.length;
 
       } catch (err) {
         console.error(err);
