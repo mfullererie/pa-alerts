@@ -19,7 +19,7 @@
     alt="NWS Current Watches, Warnings, and Advisories (PA)"
     style="max-width: 1200px; width: 100%; height: auto; border: 1px solid #ccc;"
   />
-  <p id="sources" style="margin-top: 6px; font-size: 0.95em;">
+  <p style="margin-top: 6px; font-size: 0.95em;">
     Map source:
     <a href="https://www.weather.gov/images/crh/noc/wwa_pa.png" target="_blank" rel="noopener noreferrer">
       NWS Current Watches, Warnings, and Advisories (PA)
@@ -73,11 +73,30 @@
       return isNaN(ms) ? null : ms;
     }
 
-    async function getZoneInfo(zoneUrl) {
-      if (zoneCache.has(zoneUrl)) return zoneCache.get(zoneUrl);
+    // Fetch with timeout so calls can't hang forever
+    async function fetchWithTimeout(url, options = {}, timeoutMs = 8000) {
+      const controller = new AbortController();
+      const id = setTimeout(() => controller.abort(), timeoutMs);
 
       try {
-        const resp = await fetch(zoneUrl, { headers: { "Accept": "application/geo+json" } });
+        const resp = await fetch(url, { ...options, signal: controller.signal });
+        return resp;
+      } finally {
+        clearTimeout(id);
+      }
+    }
+
+    async function getZoneInfo(zoneUrl) {
+      // Cached? return immediately
+      if (zoneCache.has(zoneUrl)) return zoneCache.get(zoneUrl);
+
+      // Not cached: fetch with a short timeout
+      try {
+        const resp = await fetchWithTimeout(
+          zoneUrl,
+          { headers: { "Accept": "application/geo+json" } },
+          5000
+        );
         if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
         const data = await resp.json();
 
@@ -89,9 +108,8 @@
         zoneCache.set(zoneUrl, info);
         return info;
       } catch {
-        const info = { name: zoneUrl, state: null };
-        zoneCache.set(zoneUrl, info);
-        return info;
+        // Don't poison cache forever with failures; but do return something usable
+        return { name: zoneUrl, state: null };
       }
     }
 
@@ -100,7 +118,12 @@
       const zones = Array.isArray(p.affectedZones) ? p.affectedZones : [];
       if (!zones.length) return { paNames: [], hasPA: false };
 
-      const infos = await Promise.all(zones.map(getZoneInfo));
+      // Use allSettled so one bad zone call doesn't stall everything
+      const settled = await Promise.allSettled(zones.map(getZoneInfo));
+
+      const infos = settled
+        .filter(r => r.status === "fulfilled" && r.value)
+        .map(r => r.value);
 
       const paNames = infos
         .filter(z => z && z.state === "PA")
@@ -152,8 +175,6 @@
 
       const rows = grouped.map(g => {
         const expiresStr = formatTime(g.expiresMs);
-
-        // Sort locations alphabetically (optional, helps readability)
         const locations = Array.from(g.locations).sort((a, b) => a.localeCompare(b)).join("; ");
 
         return `<tr>
@@ -182,7 +203,6 @@
     function refreshMapImage() {
       const mapImg = document.getElementById("wwaMap");
       if (!mapImg) return;
-      // Cache-bust so we always fetch the latest published graphic
       mapImg.src = MAP_URL + "?t=" + Date.now();
     }
 
@@ -194,7 +214,12 @@
       statusEl.textContent = "Loading alerts…";
 
       try {
-        const response = await fetch(API_URL, { headers: { "Accept": "application/geo+json" } });
+        // Fetch alerts with timeout so it can't hang forever
+        const response = await fetchWithTimeout(
+          API_URL,
+          { headers: { "Accept": "application/geo+json" } },
+          8000
+        );
         if (!response.ok) throw new Error("HTTP " + response.status);
 
         const data = await response.json();
@@ -204,7 +229,8 @@
         const wwAll = features.filter(f => f?.properties && isWatchOrWarning(f.properties));
 
         // Enrich each alert with PA-only locations + normalized expiration
-        const enriched = await Promise.all(wwAll.map(async (f) => {
+        // Use allSettled so one bad alert's zone lookups can't stall the whole page
+        const settled = await Promise.allSettled(wwAll.map(async (f) => {
           const p = f.properties || {};
           const pa = await getPALocationsFromAffectedZones(p);
           return {
@@ -215,6 +241,10 @@
           };
         }));
 
+        const enriched = settled
+          .filter(r => r.status === "fulfilled" && r.value)
+          .map(r => r.value);
+
         // Keep only alerts with at least one PA zone
         const paOnly = enriched.filter(x => x.hasPA);
 
@@ -223,21 +253,21 @@
 
         renderTable(grouped);
 
-        // ✅ Counter = actual alerts (not grouped rows)
+        // Counter = actual alerts (not grouped rows)
         statusEl.textContent =
           "Last updated: " + new Date().toLocaleString() +
           " | Alerts: " + paOnly.length;
 
-        // ✅ Refresh the map every time we refresh the table
+        // Refresh map each time
         refreshMapImage();
 
       } catch (err) {
         console.error(err);
-        statusEl.textContent = "Error loading alerts: " + err.message;
+        statusEl.textContent = "Error loading alerts: " + (err?.message || err);
         document.getElementById("tableContainer").innerHTML =
-          "<p>Error loading alerts. Check console/network access to api.weather.gov.</p>";
+          "<p>Error loading alerts. Try Refresh Now, or check network access to api.weather.gov.</p>";
 
-        // Still try refreshing the map (doesn't hurt)
+        // Still try map refresh
         refreshMapImage();
 
       } finally {
@@ -247,10 +277,7 @@
 
     document.getElementById("refreshBtn").addEventListener("click", fetchAlerts);
 
-    // Initial load
     fetchAlerts();
-
-    // Auto-refresh every 5 minutes
     setInterval(fetchAlerts, 5 * 60 * 1000);
   </script>
 </body>
