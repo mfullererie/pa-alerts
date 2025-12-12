@@ -46,6 +46,22 @@
     .type-warning {
       background-color: rgba(220, 38, 38, 0.5);
     }
+
+    .section-title {
+      margin-top: 16px;
+      margin-bottom: 6px;
+    }
+
+    .small-note {
+      margin-top: 6px;
+      margin-bottom: 0;
+      font-size: 0.92em;
+      color: #333;
+    }
+
+    .link-btn {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -58,7 +74,11 @@
 
   <p id="status">Loading alerts…</p>
 
+  <h2 class="section-title">Summary</h2>
   <div id="tableContainer"></div>
+
+  <h2 class="section-title">Alert Links</h2>
+  <div id="linksContainer"></div>
 
   <h2 style="margin-top: 18px;">Alert Map</h2>
   <img
@@ -81,9 +101,9 @@
     const zoneCache = new Map();
 
     function formatTime(val) {
-      if (!val) return "N/A";
+      if (val === null || val === undefined) return "N/A";
       const d = new Date(val);
-      return isNaN(d) ? val : d.toLocaleString();
+      return isNaN(d.getTime()) ? String(val) : d.toLocaleString();
     }
 
     function isWatchOrWarning(p) {
@@ -118,6 +138,7 @@
       if (zoneCache.has(zoneUrl)) return zoneCache.get(zoneUrl);
       try {
         const r = await fetchWithTimeout(zoneUrl, { headers: { Accept: "application/geo+json" } }, 5000);
+        if (!r.ok) throw new Error("HTTP " + r.status);
         const d = await r.json();
         const info = { name: d?.properties?.name || zoneUrl, state: d?.properties?.state || null };
         zoneCache.set(zoneUrl, info);
@@ -129,30 +150,22 @@
 
     async function getPALocationsFromAffectedZones(p) {
       const zones = Array.isArray(p.affectedZones) ? p.affectedZones : [];
+      if (!zones.length) return { paNames: [], hasPA: false };
+
       const settled = await Promise.allSettled(zones.map(getZoneInfo));
       const names = settled
-        .filter(r => r.status === "fulfilled" && r.value.state === "PA")
+        .filter(r => r.status === "fulfilled" && r.value && r.value.state === "PA")
         .map(r => r.value.name);
-      return { paNames: [...new Set(names)], hasPA: names.length > 0 };
-    }
 
-    function groupAlerts(list) {
-      const map = new Map();
-      for (const a of list) {
-        const key = `${a.event}||${a.expiresMs}`;
-        if (!map.has(key)) {
-          map.set(key, { event: a.event, expiresMs: a.expiresMs, locations: new Set() });
-        }
-        a.paNames.forEach(l => map.get(key).locations.add(l));
-      }
-      return [...map.values()].sort((a, b) => (a.expiresMs ?? 1e15) - (b.expiresMs ?? 1e15));
+      const unique = [...new Set(names)];
+      return { paNames: unique, hasPA: unique.length > 0 };
     }
 
     function getTypeClass(event) {
       return event.toLowerCase().includes("watch") ? "type-watch" : "type-warning";
     }
 
-    /* 🔧 FIXED: strip Northern/Southern/etc for sorting only */
+    // Direction-agnostic sort key (Northern Erie sorts as Erie, etc.)
     function locationSortKey(name) {
       return name
         .trim()
@@ -160,11 +173,37 @@
           /^(n|s|e|w|ne|nw|se|sw|north|south|east|west|northern|southern|eastern|western|northeastern|northwestern|southeastern|southwestern)\b\.?\s+/i,
           ""
         )
+        .trim()
         .toLowerCase();
     }
 
-    function renderTable(grouped) {
+    function sortLocations(locationsArray) {
+      return locationsArray.sort((a, b) => {
+        const ka = locationSortKey(a);
+        const kb = locationSortKey(b);
+        return ka === kb ? a.localeCompare(b) : ka.localeCompare(kb);
+      });
+    }
+
+    // Group by (event + expiresMs) and merge locations
+    function groupAlerts(list) {
+      const map = new Map();
+
+      for (const a of list) {
+        const key = `${a.event}||${a.expiresMs}`;
+        if (!map.has(key)) {
+          map.set(key, { event: a.event, expiresMs: a.expiresMs, locations: new Set() });
+        }
+        const g = map.get(key);
+        a.paNames.forEach(l => g.locations.add(l));
+      }
+
+      return [...map.values()].sort((a, b) => (a.expiresMs ?? 1e15) - (b.expiresMs ?? 1e15));
+    }
+
+    function renderSummaryTable(grouped) {
       const c = document.getElementById("tableContainer");
+
       if (!grouped.length) {
         c.innerHTML = "<p>No active watches or warnings for PA.</p>";
         return;
@@ -180,21 +219,74 @@
             </tr>
           </thead>
           <tbody>
-            ${grouped.map(g => `
-              <tr>
-                <td class="type-cell ${getTypeClass(g.event)}">${g.event}</td>
-                <td>${[...g.locations]
-                  .sort((a, b) => {
-                    const ka = locationSortKey(a);
-                    const kb = locationSortKey(b);
-                    return ka === kb ? a.localeCompare(b) : ka.localeCompare(kb);
-                  })
-                  .join("; ")}</td>
-                <td>${formatTime(g.expiresMs)}</td>
-              </tr>
-            `).join("")}
+            ${grouped.map(g => {
+              const locs = sortLocations([...g.locations]).join("; ");
+              return `
+                <tr>
+                  <td class="type-cell ${getTypeClass(g.event)}">${g.event}</td>
+                  <td>${locs || "—"}</td>
+                  <td>${formatTime(g.expiresMs)}</td>
+                </tr>
+              `;
+            }).join("")}
           </tbody>
         </table>
+      `;
+    }
+
+    // Bottom table: one row per actual alert (ungrouped), with link
+    function renderLinksTable(paOnlyAlerts) {
+      const c = document.getElementById("linksContainer");
+
+      if (!paOnlyAlerts.length) {
+        c.innerHTML = "<p>No active watches or warnings for PA.</p>";
+        return;
+      }
+
+      // Sort by type, then expiration, then first location sort key (helps scan)
+      const sorted = [...paOnlyAlerts].sort((a, b) => {
+        const te = (a.event || "").localeCompare(b.event || "");
+        if (te !== 0) return te;
+
+        const ae = a.expiresMs ?? 1e15;
+        const be = b.expiresMs ?? 1e15;
+        if (ae !== be) return ae - be;
+
+        const aFirst = (sortLocations([...a.paNames])[0] || "");
+        const bFirst = (sortLocations([...b.paNames])[0] || "");
+        return locationSortKey(aFirst).localeCompare(locationSortKey(bFirst));
+      });
+
+      c.innerHTML = `
+        <table>
+          <thead>
+            <tr>
+              <th>Type</th>
+              <th>Locations</th>
+              <th>Link</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${sorted.map((a, idx) => {
+              const locs = sortLocations([...a.paNames]).join("; ");
+              const safeUrl = a.link ? String(a.link) : "";
+              const linkHtml = safeUrl
+                ? `<a class="link-btn" href="${safeUrl}" target="_blank" rel="noopener noreferrer">Open</a>`
+                : "—";
+
+              return `
+                <tr>
+                  <td class="type-cell ${getTypeClass(a.event)}">${a.event || "Unknown"}</td>
+                  <td>${locs || "—"}</td>
+                  <td>${linkHtml}</td>
+                </tr>
+              `;
+            }).join("")}
+          </tbody>
+        </table>
+        <p class="small-note">
+          Links open the underlying NWS alert resource (may display as JSON depending on browser).
+        </p>
       `;
     }
 
@@ -211,25 +303,49 @@
 
       try {
         const r = await fetchWithTimeout(API_URL, { headers: { Accept: "application/geo+json" } }, 8000);
+        if (!r.ok) throw new Error("HTTP " + r.status);
         const d = await r.json();
 
-        const ww = (d.features || []).filter(f => f?.properties && isWatchOrWarning(f.properties));
+        const features = Array.isArray(d.features) ? d.features : [];
+        const ww = features.filter(f => f?.properties && isWatchOrWarning(f.properties));
 
         const settled = await Promise.allSettled(ww.map(async f => {
-          const p = f.properties;
+          const p = f.properties || {};
+
+          // Best “actual alert” link: the feature id from api.weather.gov
+          const link = f.id || p.id || p["@id"] || null;
+
           const pa = await getPALocationsFromAffectedZones(p);
-          return { event: p.event, expiresMs: getExpiresMs(p), paNames: pa.paNames, hasPA: pa.hasPA };
+          return {
+            event: p.event || "Unknown",
+            expiresMs: getExpiresMs(p),
+            paNames: pa.paNames,
+            hasPA: pa.hasPA,
+            link
+          };
         }));
 
-        const paOnly = settled.filter(x => x.status === "fulfilled" && x.value.hasPA).map(x => x.value);
+        const paOnly = settled
+          .filter(x => x.status === "fulfilled" && x.value && x.value.hasPA)
+          .map(x => x.value);
 
-        renderTable(groupAlerts(paOnly));
+        // Top table: grouped summary
+        renderSummaryTable(groupAlerts(paOnly));
 
+        // Bottom table: ungrouped links
+        renderLinksTable(paOnly);
+
+        // Counter = actual alerts (ungrouped count)
         status.textContent = `Last updated: ${new Date().toLocaleString()} | Alerts: ${paOnly.length}`;
+
+        // Refresh map each pull
         refreshMapImage();
-      } catch {
+
+      } catch (err) {
+        console.error(err);
         status.textContent = "Error loading alerts.";
         document.getElementById("tableContainer").innerHTML = "<p>Error loading alerts.</p>";
+        document.getElementById("linksContainer").innerHTML = "<p>Error loading alerts.</p>";
         refreshMapImage();
       } finally {
         btn.disabled = false;
