@@ -256,15 +256,15 @@
 
     // Ignore direction words for sorting only
     function locationSortKey(name) {
-      return name
-        .trim()
-        .replace(
-          /^(n|s|e|w|ne|nw|se|sw|north|south|east|west|northern|southern|eastern|western|northeastern|northwestern|southeastern|southwestern)\b\.?\s+/i,
-          ""
-        )
-        .trim()
-        .toLowerCase();
-    }
+  return name
+    .trim()
+    .replace(
+      /^(n|s|e|w|ne|nw|se|sw|north|south|east|west|upper|lower|northern|southern|eastern|western|northeastern|northwestern|southeastern|southwestern)\b\.?\s+/i,
+      ""
+    )
+    .trim()
+    .toLowerCase();
+}
 
     function sortLocations(arr) {
       return arr.sort((a, b) => {
