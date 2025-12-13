@@ -38,7 +38,6 @@
     .section-title { margin-top: 16px; margin-bottom: 6px; }
     .muted { color: #555; font-size: 0.95em; }
 
-    /* Type cell styling */
     .type-cell { font-weight: 600; color: #111; }
     .type-watch   { background-color: rgba(255, 165, 0, 0.5); }
     .type-warning { background-color: rgba(220, 38, 38, 0.5); }
@@ -111,7 +110,6 @@
 <body>
   <h1>PA Watches & Warnings</h1>
 
-  <!-- TOP NAV -->
   <div class="controls">
     <div class="nav-toggle">
       Want to see advisories as well?
@@ -206,22 +204,67 @@
       }
     }
 
-    // Ignore direction prefixes, plus "higher elevations"
-    function locationSortKey(name) {
-      return String(name || "")
-        .trim()
-        .replace(/^(north|south|east|west|upper|lower|higher elevations?|northeast|northwest|southeast|southwest)\s+/i, "")
-        .trim()
-        .toLowerCase();
+    // ---- SORT FIX (handles Northern/Southern/etc + Higher Elevations) ----
+    function parseLocation(name) {
+      const original = String(name || "").trim();
+
+      // Normalize prefix direction words/abbrevs
+      const m = original.match(/^(higher elevations of|higher elevations|upper|lower|n|s|e|w|ne|nw|se|sw|north|south|east|west|northern|southern|eastern|western|northeast|northwest|southeast|southwest)\b\.?\s*/i);
+
+      let prefix = "";
+      let rest = original;
+
+      if (m) {
+        prefix = m[0].trim().toLowerCase();
+        rest = original.slice(m[0].length).trim();
+      }
+
+      // Special case: "Higher Elevations of Indiana" -> base "Indiana"
+      rest = rest.replace(/^of\s+/i, "").trim();
+
+      const baseKey = rest.toLowerCase();
+
+      // Rank directionals inside the same baseKey so "Northern Erie" stays before "Southern Erie"
+      const rankMap = {
+        "upper": 1,
+        "lower": 2,
+        "n": 3, "north": 3, "northern": 3,
+        "ne": 4, "northeast": 4, "northeastern": 4,
+        "nw": 5, "northwest": 5, "northwestern": 5,
+        "e": 6, "east": 6, "eastern": 6,
+        "w": 7, "west": 7, "western": 7,
+        "se": 8, "southeast": 8, "southeastern": 8,
+        "sw": 9, "southwest": 9, "southwestern": 9,
+        "s": 10, "south": 10, "southern": 10,
+        "higher elevations": 11,
+        "higher elevations of": 11
+      };
+
+      // Some prefixes include multiple words; normalize common ones
+      let pKey = prefix;
+      if (pKey.startsWith("higher elevations")) pKey = "higher elevations";
+
+      const dirRank = rankMap[pKey] ?? 50; // 50 = no/unknown prefix
+
+      return { original, baseKey, dirRank };
     }
 
     function sortLocations(arr) {
       return arr.sort((a, b) => {
-        const ka = locationSortKey(a);
-        const kb = locationSortKey(b);
-        return ka === kb ? a.localeCompare(b) : ka.localeCompare(kb);
+        const A = parseLocation(a);
+        const B = parseLocation(b);
+
+        // Primary: baseKey (Erie before McKean)
+        if (A.baseKey !== B.baseKey) return A.baseKey.localeCompare(B.baseKey);
+
+        // Secondary: directional rank within the same base
+        if (A.dirRank !== B.dirRank) return A.dirRank - B.dirRank;
+
+        // Tertiary: stable fallback on original
+        return A.original.localeCompare(B.original);
       });
     }
+    // ---------------------------------------------------------------------
 
     function typeClass(e) {
       e = (e || "").toLowerCase();
