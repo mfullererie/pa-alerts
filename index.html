@@ -52,6 +52,19 @@
     }
     button.view-btn:hover { background: #f3f3f3; }
 
+    /* Responsive iframe container (Windy) */
+    .embed-wrap {
+      max-width: 1200px;
+      width: 100%;
+      border: 1px solid #ccc;
+    }
+    .embed-wrap iframe {
+      display: block;
+      width: 100%;
+      height: 520px;
+      border: 0;
+    }
+
     /* Modal */
     .modal-backdrop {
       position: fixed;
@@ -144,6 +157,22 @@
     </a>
   </p>
 
+  <!-- ✅ Windy Radar (Option A) -->
+  <h2 class="section-title">Radar (Windy)</h2>
+  <div class="embed-wrap">
+    <iframe
+      title="Windy Radar"
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"
+      src="https://embed.windy.com/embed2.html?lat=40.9&lon=-77.8&zoom=7&level=surface&overlay=radar&product=radar&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=40.9&detailLon=-77.8"
+      allowfullscreen
+    ></iframe>
+  </div>
+  <p class="muted">
+    Radar source:
+    <a href="https://www.windy.com" target="_blank" rel="noopener noreferrer">Windy.com</a>
+  </p>
+
   <!-- Modal -->
   <div id="modalBackdrop" class="modal-backdrop">
     <div class="modal">
@@ -219,7 +248,6 @@
       }
 
       rest = rest.replace(/^of\s+/i, "").trim();
-
       const baseKey = rest.toLowerCase();
 
       const rankMap = {
@@ -239,7 +267,6 @@
 
       let pKey = prefix;
       if (pKey.startsWith("higher elevations")) pKey = "higher elevations";
-
       const dirRank = rankMap[pKey] ?? 50;
 
       return { original, baseKey, dirRank };
@@ -284,7 +311,7 @@
       btn.disabled = true;
 
       try {
-        const r = await fetch(API_URL);
+        const r = await fetch(API_URL, { headers: { "Accept": "application/geo+json" } });
         const d = await r.json();
 
         const rows = [];
@@ -311,7 +338,7 @@
           }
         }
 
-        // ✅ Sort individual alerts by expiration (soonest first) for the Links table
+        // Sort individual alerts by expiration (soonest first) for the Links table
         rows.sort((a, b) => expMillis(a.expires) - expMillis(b.expires));
 
         status.textContent = `Last updated: ${new Date().toLocaleString()} | Alerts: ${rows.length}`;
@@ -325,7 +352,7 @@
           r.names.forEach(n => grouped[k].names.add(n));
         }
 
-        // ✅ Sort grouped summary rows by expiration (soonest first)
+        // Sort grouped summary rows by expiration (soonest first)
         const groupedList = Object.values(grouped).sort((a, b) => expMillis(a.expires) - expMillis(b.expires));
 
         document.getElementById("tableContainer").innerHTML = `
