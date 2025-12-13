@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+l<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -19,33 +19,24 @@
     }
 
     .nav-toggle { font-size: 0.95em; }
-    .nav-toggle button {
-      margin-left: 6px;
-      padding: 4px 10px;
-      border-radius: 6px;
-      border: 1px solid #777;
-      background: #f3f3f3;
+    .refresh-label { font-size: 0.95em; color: #444; }
+
+    /* Buttons (match advisories screenshot) */
+    .btn {
+      padding: 4px 12px;
+      border-radius: 10px;
+      border: 1px solid #666;
+      background: #e9e9e9;
       cursor: pointer;
       font: inherit;
+      font-size: 0.95em;
+      line-height: 1.2;
       color: #0645ad;
     }
-    .nav-toggle button:hover { background: #e6e6e6; }
+    .btn:hover { background: #dcdcdc; }
+    .btn:disabled { opacity: 0.6; cursor: not-allowed; }
 
-    .refresh-label { font-size: 0.9em; color: #444; }
-
-    /* SMALL GRAY REFRESH BUTTON (matches advisories) */
-    #refreshBtn {
-      padding: 4px 10px;
-      border-radius: 6px;
-      border: 1px solid #777;
-      background: #f3f3f3;
-      cursor: pointer;
-      font: inherit;
-      font-size: 0.9em;
-      color: #000;
-    }
-    #refreshBtn:hover { background: #e6e6e6; }
-    #refreshBtn:disabled { opacity: 0.6; cursor: not-allowed; }
+    .btn-refresh { color: #000; } /* refresh + view text look like gray buttons */
 
     .section-title { margin-top: 16px; margin-bottom: 6px; }
     .muted { color: #555; font-size: 0.95em; max-width: 1200px; }
@@ -53,17 +44,6 @@
     .type-cell { font-weight: 600; color: #111; }
     .type-watch   { background-color: rgba(255, 165, 0, 0.5); }
     .type-warning { background-color: rgba(220, 38, 38, 0.5); }
-
-    button.view-btn {
-      padding: 4px 10px;
-      border: 1px solid #777;
-      background: #f3f3f3;
-      cursor: pointer;
-      border-radius: 4px;
-      font: inherit;
-      font-size: 0.9em;
-    }
-    button.view-btn:hover { background: #e6e6e6; }
 
     /* Modal */
     .modal-backdrop {
@@ -88,7 +68,7 @@
       box-shadow: 0 20px 60px rgba(0,0,0,0.4);
     }
     .modal h3 { margin: 0 0 8px; }
-    .modal .meta { margin: 0 0 10px; color: #333; font-size: 0.9em; }
+    .modal .meta { margin: 0 0 10px; color: #333; font-size: 0.95em; }
     .modal .label { margin-top: 10px; font-weight: 700; }
     .modal pre {
       white-space: pre-wrap;
@@ -99,7 +79,7 @@
       border: 1px solid #ddd;
       border-radius: 6px;
       font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-      font-size: 0.9em;
+      font-size: 0.95em;
       line-height: 1.35;
     }
     .modal .actions {
@@ -107,33 +87,25 @@
       gap: 10px;
       margin-top: 12px;
       flex-wrap: wrap;
+      align-items: center;
     }
-    .modal .actions button {
-      padding: 4px 10px;
-      border-radius: 6px;
-      border: 1px solid #777;
-      background: #f3f3f3;
-      cursor: pointer;
-      font: inherit;
-      font-size: 0.9em;
-    }
-    .modal .actions button:hover { background: #e6e6e6; }
   </style>
 </head>
 
 <body>
   <h1>PA Watches & Warnings</h1>
 
+  <!-- TOP NAV -->
   <div class="controls">
     <div class="nav-toggle">
       Want to see advisories as well?
-      <button type="button" onclick="window.location.href='advisories.html'">Click here</button>
+      <button type="button" class="btn" onclick="window.location.href='advisories.html'">Click here</button>
     </div>
   </div>
 
   <div class="controls">
     <span class="refresh-label">Auto-refresh: every 5 minutes</span>
-    <button id="refreshBtn" type="button">Refresh Now</button>
+    <button id="refreshBtn" type="button" class="btn btn-refresh">Refresh Now</button>
   </div>
 
   <p id="status">Loading alerts…</p>
@@ -158,7 +130,305 @@
     </a>
   </p>
 
-  <!-- script remains unchanged -->
-  <!-- your existing JS block goes here exactly as-is -->
+  <!-- Modal -->
+  <div id="modalBackdrop" class="modal-backdrop" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="modal">
+      <h3 id="modalTitle"></h3>
+      <p id="modalMeta" class="meta"></p>
+
+      <div class="label">Description</div>
+      <pre id="modalDescription"></pre>
+
+      <div class="label">Instructions</div>
+      <pre id="modalInstruction"></pre>
+
+      <div class="actions">
+        <button id="copyBtn" type="button" class="btn btn-refresh">Copy Text</button>
+        <button id="closeBtn" type="button" class="btn btn-refresh">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const API_URL = "https://api.weather.gov/alerts/active?area=PA";
+    const MAP_URL = "https://www.weather.gov/images/crh/noc/wwa_pa.png";
+
+    const zoneCache = new Map();   // zoneUrl -> {name,state}
+    const alertStore = new Map();  // key -> alert object
+
+    function formatTime(v) {
+      if (!v) return "N/A";
+      const d = new Date(v);
+      return isNaN(d) ? String(v) : d.toLocaleString();
+    }
+
+    function isWantedAlert(p) {
+      const e = (p.event || "").toLowerCase();
+      return (
+        (e.includes("watch") || e.includes("warning") || e.includes("emergency")) &&
+        !e.includes("advisory") &&
+        !e.includes("statement") &&
+        !e.includes("outlook") &&
+        !e.includes("test")
+      );
+    }
+
+    function isMarineZoneUrl(url) {
+      return typeof url === "string" && url.includes("/zones/marine/");
+    }
+
+    // Ignore leading directional phrases for sorting only
+    function locationSortKey(name) {
+      return String(name || "")
+        .trim()
+        .replace(
+          /^(n|s|e|w|ne|nw|se|sw|north|south|east|west|upper|lower|higher elevations?|northern|southern|eastern|western|northeastern|northwestern|southeastern|southwestern)\b\.?\s+/i,
+          ""
+        )
+        .trim()
+        .toLowerCase();
+    }
+
+    function sortLocations(arr) {
+      return arr.sort((a, b) => {
+        const ka = locationSortKey(a);
+        const kb = locationSortKey(b);
+        return ka === kb ? String(a).localeCompare(String(b)) : ka.localeCompare(kb);
+      });
+    }
+
+    function typeClass(eventName) {
+      const e = (eventName || "").toLowerCase();
+      if (e.includes("watch")) return "type-watch";
+      return "type-warning"; // warnings + emergencies
+    }
+
+    function stripHtmlToText(input) {
+      if (!input) return "";
+      const doc = new DOMParser().parseFromString(String(input), "text/html");
+      return (doc.body && doc.body.textContent) ? doc.body.textContent : String(input);
+    }
+
+    function cleanAlertText(input) {
+      let t = stripHtmlToText(input);
+      t = t.replace(/\r\n/g, "\n").replace(/\r/g, "\n");
+      t = t.split("\n").map(line => line.replace(/[ \t]+$/g, "")).join("\n");
+      t = t.replace(/\n{3,}/g, "\n\n").trim();
+      return t || "N/A";
+    }
+
+    async function fetchWithTimeout(url, options = {}, timeoutMs = 8000) {
+      const controller = new AbortController();
+      const id = setTimeout(() => controller.abort(), timeoutMs);
+      try {
+        return await fetch(url, { ...options, signal: controller.signal });
+      } finally {
+        clearTimeout(id);
+      }
+    }
+
+    async function getZoneInfo(zoneUrl) {
+      if (zoneCache.has(zoneUrl)) return zoneCache.get(zoneUrl);
+      try {
+        const r = await fetchWithTimeout(zoneUrl, { headers: { Accept: "application/geo+json" } }, 6000);
+        if (!r.ok) throw new Error("Zone HTTP " + r.status);
+        const d = await r.json();
+        const info = { name: d?.properties?.name || zoneUrl, state: d?.properties?.state || null };
+        zoneCache.set(zoneUrl, info);
+        return info;
+      } catch {
+        return null;
+      }
+    }
+
+    function refreshMap() {
+      document.getElementById("wwaMap").src = MAP_URL + "?t=" + Date.now();
+    }
+
+    function renderSummary(alerts) {
+      const container = document.getElementById("tableContainer");
+      if (!alerts.length) {
+        container.innerHTML = "<p>No active watches or warnings for PA.</p>";
+        return;
+      }
+
+      // Group by event + expires
+      const groupMap = new Map();
+      for (const a of alerts) {
+        const key = `${a.event}||${a.expires || ""}`;
+        if (!groupMap.has(key)) groupMap.set(key, { event: a.event, expires: a.expires, names: new Set() });
+        a.names.forEach(n => groupMap.get(key).names.add(n));
+      }
+
+      // Sort groups by expiration (soonest first)
+      const groups = [...groupMap.values()].sort((a, b) => {
+        const ae = new Date(a.expires || 0).getTime();
+        const be = new Date(b.expires || 0).getTime();
+        return ae - be;
+      });
+
+      container.innerHTML = `
+        <table>
+          <thead>
+            <tr><th>Type</th><th>Locations</th><th>Expires</th></tr>
+          </thead>
+          <tbody>
+            ${groups.map(g => `
+              <tr>
+                <td class="type-cell ${typeClass(g.event)}">${g.event}</td>
+                <td>${sortLocations([...g.names]).join("; ") || "—"}</td>
+                <td>${formatTime(g.expires)}</td>
+              </tr>
+            `).join("")}
+          </tbody>
+        </table>
+      `;
+    }
+
+    function renderLinks(alerts) {
+      const container = document.getElementById("linksContainer");
+      alertStore.clear();
+
+      if (!alerts.length) {
+        container.innerHTML = "<p>No active watches or warnings for PA.</p>";
+        return;
+      }
+
+      // Sort for readability: event, expires, first location
+      const sorted = [...alerts].sort((a, b) => {
+        const te = (a.event || "").localeCompare(b.event || "");
+        if (te !== 0) return te;
+        const ae = new Date(a.expires || 0).getTime();
+        const be = new Date(b.expires || 0).getTime();
+        if (ae !== be) return ae - be;
+        const aFirst = (sortLocations([...a.names])[0] || "");
+        const bFirst = (sortLocations([...b.names])[0] || "");
+        return locationSortKey(aFirst).localeCompare(locationSortKey(bFirst));
+      });
+
+      container.innerHTML = `
+        <table>
+          <thead>
+            <tr><th>Type</th><th>Locations</th><th>Text</th></tr>
+          </thead>
+          <tbody>
+            ${sorted.map((a, idx) => {
+              const key = "k" + idx;
+              alertStore.set(key, a);
+              return `
+                <tr>
+                  <td class="type-cell ${typeClass(a.event)}">${a.event}</td>
+                  <td>${sortLocations([...a.names]).join("; ") || "—"}</td>
+                  <td><button class="btn btn-refresh view-btn" type="button" data-key="${key}">View Text</button></td>
+                </tr>
+              `;
+            }).join("")}
+          </tbody>
+        </table>
+        <p class="muted">“View Text” opens the full warning text.</p>
+      `;
+
+      container.querySelectorAll("button[data-key]").forEach(btn => {
+        btn.addEventListener("click", () => openModal(btn.getAttribute("data-key")));
+      });
+    }
+
+    function openModal(key) {
+      const a = alertStore.get(key);
+      if (!a) return;
+
+      document.getElementById("modalTitle").textContent = a.event || "Alert";
+      document.getElementById("modalMeta").textContent =
+        `Locations: ${sortLocations([...a.names]).join("; ") || "—"} | Expires: ${formatTime(a.expires)}`;
+
+      document.getElementById("modalDescription").textContent = cleanAlertText(a.description);
+      document.getElementById("modalInstruction").textContent = cleanAlertText(a.instruction);
+
+      document.getElementById("modalBackdrop").style.display = "flex";
+      document.getElementById("modalBackdrop").setAttribute("aria-hidden", "false");
+    }
+
+    function closeModal() {
+      document.getElementById("modalBackdrop").style.display = "none";
+      document.getElementById("modalBackdrop").setAttribute("aria-hidden", "true");
+    }
+
+    document.getElementById("closeBtn").addEventListener("click", closeModal);
+    document.getElementById("modalBackdrop").addEventListener("click", (e) => {
+      if (e.target.id === "modalBackdrop") closeModal();
+    });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
+
+    document.getElementById("copyBtn").addEventListener("click", async () => {
+      const txt =
+        document.getElementById("modalTitle").textContent + "\n" +
+        document.getElementById("modalMeta").textContent + "\n\n" +
+        "DESCRIPTION:\n" + document.getElementById("modalDescription").textContent + "\n\n" +
+        "INSTRUCTIONS:\n" + document.getElementById("modalInstruction").textContent;
+
+      try { await navigator.clipboard.writeText(txt); } catch (e) { console.error(e); }
+    });
+
+    async function fetchAlerts() {
+      const status = document.getElementById("status");
+      const btn = document.getElementById("refreshBtn");
+      btn.disabled = true;
+      status.textContent = "Loading alerts…";
+
+      try {
+        const r = await fetchWithTimeout(API_URL, { headers: { Accept: "application/geo+json" } }, 8000);
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        const d = await r.json();
+
+        const features = Array.isArray(d.features) ? d.features : [];
+        const wanted = features.filter(f => f?.properties && isWantedAlert(f.properties));
+
+        const settled = await Promise.allSettled(wanted.map(async f => {
+          const p = f.properties || {};
+          const zonesAll = Array.isArray(p.affectedZones) ? p.affectedZones : [];
+          const zones = zonesAll.filter(z => !isMarineZoneUrl(z));
+          if (!zones.length) return null;
+
+          const zoneInfos = await Promise.all(zones.map(getZoneInfo));
+          const paNames = zoneInfos
+            .filter(z => z && z.state === "PA")
+            .map(z => z.name);
+
+          const uniqueNames = [...new Set(paNames)];
+          if (!uniqueNames.length) return null;
+
+          return {
+            event: p.event || "Unknown",
+            expires: p.ends || p.expires || null,
+            names: uniqueNames,
+            description: p.description || "",
+            instruction: p.instruction || ""
+          };
+        }));
+
+        const alerts = settled
+          .filter(x => x.status === "fulfilled" && x.value)
+          .map(x => x.value);
+
+        renderSummary(alerts);
+        renderLinks(alerts);
+
+        status.textContent = `Last updated: ${new Date().toLocaleString()} | Alerts: ${alerts.length}`;
+        refreshMap();
+      } catch (e) {
+        console.error(e);
+        status.textContent = "Error loading alerts.";
+        document.getElementById("tableContainer").innerHTML = "<p>Error loading alerts.</p>";
+        document.getElementById("linksContainer").innerHTML = "<p>Error loading alerts.</p>";
+        refreshMap();
+      } finally {
+        btn.disabled = false;
+      }
+    }
+
+    document.getElementById("refreshBtn").addEventListener("click", fetchAlerts);
+    fetchAlerts();
+    setInterval(fetchAlerts, 5 * 60 * 1000);
+  </script>
 </body>
 </html>
