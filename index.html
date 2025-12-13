@@ -12,31 +12,38 @@
     .controls {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 12px;
       margin-bottom: 6px;
       flex-wrap: wrap;
       max-width: 1200px;
     }
 
     .nav-toggle { font-size: 0.95em; }
-    .refresh-label { font-size: 0.95em; color: #444; }
+    .refresh-label { font-size: 0.95em; color: #333; }
 
-    /* Buttons (match advisories screenshot) */
+    /* --- Button styles copied to match advisories look --- */
     .btn {
-      padding: 4px 12px;
-      border-radius: 10px;
-      border: 1px solid #666;
-      background: #e9e9e9;
+      padding: 3px 10px;
+      border-radius: 6px;
+      border: 1px solid #9aa0a6;
+      background: #fff;
       cursor: pointer;
       font: inherit;
-      font-size: 0.95em;
+      font-size: 0.9em;
       line-height: 1.2;
-      color: #0645ad;
     }
-    .btn:hover { background: #dcdcdc; }
+    .btn:hover { background: #f6f6f6; }
     .btn:disabled { opacity: 0.6; cursor: not-allowed; }
 
-    .btn-refresh { color: #000; } /* refresh + view text look like gray buttons */
+    /* White button w/ blue text (like “Click here” / “View Text”) */
+    .btn-link { color: #1a73e8; }
+
+    /* Light gray button w/ black text (like “Refresh Now”) */
+    .btn-gray {
+      background: #e6e6e6;
+      color: #000;
+    }
+    .btn-gray:hover { background: #dcdcdc; }
 
     .section-title { margin-top: 16px; margin-bottom: 6px; }
     .muted { color: #555; font-size: 0.95em; max-width: 1200px; }
@@ -99,13 +106,13 @@
   <div class="controls">
     <div class="nav-toggle">
       Want to see advisories as well?
-      <button type="button" class="btn" onclick="window.location.href='advisories.html'">Click here</button>
+      <button type="button" class="btn btn-link" onclick="window.location.href='advisories.html'">Click here</button>
     </div>
   </div>
 
   <div class="controls">
     <span class="refresh-label">Auto-refresh: every 5 minutes</span>
-    <button id="refreshBtn" type="button" class="btn btn-refresh">Refresh Now</button>
+    <button id="refreshBtn" type="button" class="btn btn-gray">Refresh Now</button>
   </div>
 
   <p id="status">Loading alerts…</p>
@@ -142,9 +149,9 @@
       <div class="label">Instructions</div>
       <pre id="modalInstruction"></pre>
 
-      <div class="actions">
-        <button id="copyBtn" type="button" class="btn btn-refresh">Copy Text</button>
-        <button id="closeBtn" type="button" class="btn btn-refresh">Close</button>
+      <div class="modal actions">
+        <button id="copyBtn" type="button" class="btn btn-gray">Copy Text</button>
+        <button id="closeBtn" type="button" class="btn btn-gray">Close</button>
       </div>
     </div>
   </div>
@@ -319,7 +326,7 @@
                 <tr>
                   <td class="type-cell ${typeClass(a.event)}">${a.event}</td>
                   <td>${sortLocations([...a.names]).join("; ") || "—"}</td>
-                  <td><button class="btn btn-refresh view-btn" type="button" data-key="${key}">View Text</button></td>
+                  <td><button class="btn btn-link" type="button" data-key="${key}">View Text</button></td>
                 </tr>
               `;
             }).join("")}
