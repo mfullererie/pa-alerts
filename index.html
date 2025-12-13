@@ -32,7 +32,7 @@
 
     .refresh-label { font-size: 0.95em; color: #333; }
 
-    /* IMPORTANT: Make Refresh Now look exactly like advisories (native/default button) */
+    /* IMPORTANT: Match advisories refresh sizing by using native/default button style */
     #refreshBtn { all: revert; }
 
     .section-title { margin-top: 16px; margin-bottom: 6px; }
@@ -208,7 +208,6 @@
     function parseLocation(name) {
       const original = String(name || "").trim();
 
-      // Normalize prefix direction words/abbrevs
       const m = original.match(/^(higher elevations of|higher elevations|upper|lower|n|s|e|w|ne|nw|se|sw|north|south|east|west|northern|southern|eastern|western|northeast|northwest|southeast|southwest)\b\.?\s*/i);
 
       let prefix = "";
@@ -219,12 +218,10 @@
         rest = original.slice(m[0].length).trim();
       }
 
-      // Special case: "Higher Elevations of Indiana" -> base "Indiana"
       rest = rest.replace(/^of\s+/i, "").trim();
 
       const baseKey = rest.toLowerCase();
 
-      // Rank directionals inside the same baseKey so "Northern Erie" stays before "Southern Erie"
       const rankMap = {
         "upper": 1,
         "lower": 2,
@@ -240,11 +237,10 @@
         "higher elevations of": 11
       };
 
-      // Some prefixes include multiple words; normalize common ones
       let pKey = prefix;
       if (pKey.startsWith("higher elevations")) pKey = "higher elevations";
 
-      const dirRank = rankMap[pKey] ?? 50; // 50 = no/unknown prefix
+      const dirRank = rankMap[pKey] ?? 50;
 
       return { original, baseKey, dirRank };
     }
@@ -254,13 +250,8 @@
         const A = parseLocation(a);
         const B = parseLocation(b);
 
-        // Primary: baseKey (Erie before McKean)
         if (A.baseKey !== B.baseKey) return A.baseKey.localeCompare(B.baseKey);
-
-        // Secondary: directional rank within the same base
         if (A.dirRank !== B.dirRank) return A.dirRank - B.dirRank;
-
-        // Tertiary: stable fallback on original
         return A.original.localeCompare(B.original);
       });
     }
@@ -278,6 +269,11 @@
 
     function refreshMap() {
       document.getElementById("wwaMap").src = MAP_URL + "?t=" + Date.now();
+    }
+
+    function expMillis(v) {
+      const t = new Date(v || 0).getTime();
+      return Number.isFinite(t) ? t : Number.POSITIVE_INFINITY;
     }
 
     async function fetchAlerts() {
@@ -315,6 +311,9 @@
           }
         }
 
+        // ✅ Sort individual alerts by expiration (soonest first) for the Links table
+        rows.sort((a, b) => expMillis(a.expires) - expMillis(b.expires));
+
         status.textContent = `Last updated: ${new Date().toLocaleString()} | Alerts: ${rows.length}`;
         refreshMap();
 
@@ -326,10 +325,13 @@
           r.names.forEach(n => grouped[k].names.add(n));
         }
 
+        // ✅ Sort grouped summary rows by expiration (soonest first)
+        const groupedList = Object.values(grouped).sort((a, b) => expMillis(a.expires) - expMillis(b.expires));
+
         document.getElementById("tableContainer").innerHTML = `
           <table>
             <tr><th>Type</th><th>Locations</th><th>Expires</th></tr>
-            ${Object.values(grouped).map(g => `
+            ${groupedList.map(g => `
               <tr>
                 <td class="type-cell ${typeClass(g.event)}">${g.event}</td>
                 <td>${sortLocations([...g.names]).join("; ")}</td>
