@@ -28,14 +28,17 @@
       cursor: pointer;
       font: inherit;
     }
-
     .nav-toggle button:hover { background: #f3f3f3; }
 
     .refresh-label { font-size: 0.95em; color: #333; }
 
+    /* IMPORTANT: Match index/advisories refresh sizing by using native/default button style */
+    #refreshBtn { all: revert; }
+
     .section-title { margin-top: 16px; margin-bottom: 6px; }
     .muted { color: #555; font-size: 0.95em; }
 
+    /* Type cell styling */
     .type-cell { font-weight: 600; color: #111; }
     .type-watch   { background-color: rgba(255, 165, 0, 0.5); }
     .type-warning { background-color: rgba(220, 38, 38, 0.5); }
@@ -50,6 +53,19 @@
       font: inherit;
     }
     button.view-btn:hover { background: #f3f3f3; }
+
+    /* Responsive iframe container (Windy) */
+    .embed-wrap {
+      max-width: 1200px;
+      width: 100%;
+      border: 1px solid #ccc;
+    }
+    .embed-wrap iframe {
+      display: block;
+      width: 100%;
+      height: 520px;
+      border: 0;
+    }
 
     /* Modal */
     .modal-backdrop {
@@ -109,6 +125,7 @@
 <body>
   <h1>PA Watches, Warnings & Advisories</h1>
 
+  <!-- TOP NAV (best placement) -->
   <div class="controls">
     <div class="nav-toggle">
       Want to see just watches and warnings?
@@ -118,7 +135,7 @@
 
   <div class="controls">
     <span class="refresh-label">Auto-refresh: every 5 minutes</span>
-    <button id="refreshBtn">Refresh Now</button>
+    <button id="refreshBtn" type="button">Refresh Now</button>
   </div>
 
   <p id="status">Loading alerts…</p>
@@ -143,6 +160,23 @@
     </a>
   </p>
 
+  <!-- ✅ Windy Radar (Option A) -->
+  <h2 class="section-title">Radar (Windy)</h2>
+  <div class="embed-wrap">
+    <iframe
+      title="Windy Radar"
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"
+      src="https://embed.windy.com/embed2.html?lat=40.9&lon=-77.8&zoom=7&level=surface&overlay=radar&product=radar&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&detailLat=40.9&detailLon=-77.8"
+      allowfullscreen
+    ></iframe>
+  </div>
+  <p class="muted">
+    Radar source:
+    <a href="https://www.windy.com" target="_blank" rel="noopener noreferrer">Windy.com</a>
+  </p>
+
+  <!-- Modal -->
   <div id="modalBackdrop" class="modal-backdrop">
     <div class="modal">
       <h3 id="modalTitle"></h3>
@@ -155,8 +189,8 @@
       <pre id="modalInstruction"></pre>
 
       <div class="actions">
-        <button id="copyBtn">Copy Text</button>
-        <button id="closeBtn">Close</button>
+        <button id="copyBtn" type="button">Copy Text</button>
+        <button id="closeBtn" type="button">Close</button>
       </div>
     </div>
   </div>
@@ -201,20 +235,59 @@
       }
     }
 
-    function locationSortKey(name) {
-      return name.replace(/^(north|south|east|west|upper|lower|higher elevations( of)?|northeast|northwest|southeast|southwest)\s+/i, "").toLowerCase();
+    // ---- SORT FIX (handles Northern/Southern/etc + Upper/Lower + Higher Elevations) ----
+    function parseLocation(name) {
+      const original = String(name || "").trim();
+
+      const m = original.match(/^(higher elevations of|higher elevations|upper|lower|n|s|e|w|ne|nw|se|sw|north|south|east|west|northern|southern|eastern|western|northeast|northwest|southeast|southwest)\b\.?\s*/i);
+
+      let prefix = "";
+      let rest = original;
+
+      if (m) {
+        prefix = m[0].trim().toLowerCase();
+        rest = original.slice(m[0].length).trim();
+      }
+
+      rest = rest.replace(/^of\s+/i, "").trim();
+      const baseKey = rest.toLowerCase();
+
+      const rankMap = {
+        "upper": 1,
+        "lower": 2,
+        "n": 3, "north": 3, "northern": 3,
+        "ne": 4, "northeast": 4, "northeastern": 4,
+        "nw": 5, "northwest": 5, "northwestern": 5,
+        "e": 6, "east": 6, "eastern": 6,
+        "w": 7, "west": 7, "western": 7,
+        "se": 8, "southeast": 8, "southeastern": 8,
+        "sw": 9, "southwest": 9, "southwestern": 9,
+        "s": 10, "south": 10, "southern": 10,
+        "higher elevations": 11,
+        "higher elevations of": 11
+      };
+
+      let pKey = prefix;
+      if (pKey.startsWith("higher elevations")) pKey = "higher elevations";
+      const dirRank = rankMap[pKey] ?? 50;
+
+      return { original, baseKey, dirRank };
     }
 
     function sortLocations(arr) {
       return arr.sort((a, b) => {
-        const ka = locationSortKey(a);
-        const kb = locationSortKey(b);
-        return ka === kb ? a.localeCompare(b) : ka.localeCompare(kb);
+        const A = parseLocation(a);
+        const B = parseLocation(b);
+
+        if (A.baseKey !== B.baseKey) return A.baseKey.localeCompare(B.baseKey);
+        if (A.dirRank !== B.dirRank) return A.dirRank - B.dirRank;
+        return A.original.localeCompare(B.original);
       });
     }
+    // ---------------------------------------------------------------------
 
     function typeClass(e) {
-      e = e.toLowerCase();
+      e = (e || "").toLowerCase();
       if (e.includes("watch")) return "type-watch";
       if (e.includes("warning") || e.includes("emergency")) return "type-warning";
       return "type-adv";
@@ -228,92 +301,109 @@
       document.getElementById("wwaMap").src = MAP_URL + "?t=" + Date.now();
     }
 
+    function expMillis(v) {
+      const t = new Date(v || 0).getTime();
+      return Number.isFinite(t) ? t : Number.POSITIVE_INFINITY;
+    }
+
     async function fetchAlerts() {
       const status = document.getElementById("status");
+      const btn = document.getElementById("refreshBtn");
+
       status.textContent = "Loading alerts…";
+      btn.disabled = true;
 
-      const r = await fetch(API_URL);
-      const d = await r.json();
+      try {
+        const r = await fetch(API_URL, { headers: { "Accept": "application/geo+json" } });
+        const d = await r.json();
 
-      const rows = [];
-      for (const f of d.features) {
-        const p = f.properties;
-        if (!isWantedAlert(p)) continue;
+        const rows = [];
+        for (const f of (d.features || [])) {
+          const p = f.properties;
+          if (!p || !isWantedAlert(p)) continue;
 
-        const zones = (p.affectedZones || []).filter(z => !isMarineZone(z));
-        const names = [];
+          const zones = (p.affectedZones || []).filter(z => !isMarineZone(z));
+          const names = [];
 
-        for (const z of zones) {
-          const info = await fetchZone(z);
-          if (info && info.state === "PA") names.push(info.name);
+          for (const z of zones) {
+            const info = await fetchZone(z);
+            if (info && info.state === "PA") names.push(info.name);
+          }
+
+          if (names.length) {
+            rows.push({
+              event: p.event,
+              expires: p.ends || p.expires,
+              names: [...new Set(names)],
+              description: p.description,
+              instruction: p.instruction
+            });
+          }
         }
 
-        if (names.length) {
-          rows.push({
-            event: p.event,
-            expires: p.ends || p.expires,
-            names: [...new Set(names)],
-            description: p.description,
-            instruction: p.instruction
-          });
+        // Sort individual alerts by expiration (soonest first) for the Links table
+        rows.sort((a, b) => expMillis(a.expires) - expMillis(b.expires));
+
+        status.textContent = `Last updated: ${new Date().toLocaleString()} | Alerts: ${rows.length}`;
+        refreshMap();
+
+        // Group summary by (event + expires)
+        const grouped = {};
+        for (const r of rows) {
+          const k = r.event + (r.expires || "");
+          grouped[k] = grouped[k] || { event: r.event, expires: r.expires, names: new Set() };
+          r.names.forEach(n => grouped[k].names.add(n));
         }
+
+        // Sort grouped summary rows by expiration (soonest first)
+        const groupedList = Object.values(grouped).sort((a, b) => expMillis(a.expires) - expMillis(b.expires));
+
+        document.getElementById("tableContainer").innerHTML = `
+          <table>
+            <tr><th>Type</th><th>Locations</th><th>Expires</th></tr>
+            ${groupedList.map(g => `
+              <tr>
+                <td class="type-cell ${typeClass(g.event)}">${g.event}</td>
+                <td>${sortLocations([...g.names]).join("; ")}</td>
+                <td>${formatTime(g.expires)}</td>
+              </tr>`).join("")}
+          </table>
+        `;
+
+        document.getElementById("linksContainer").innerHTML = `
+          <table>
+            <tr><th>Type</th><th>Locations</th><th>Text</th></tr>
+            ${rows.map((r,i) => `
+              <tr>
+                <td class="type-cell ${typeClass(r.event)}">${r.event}</td>
+                <td>${sortLocations([...r.names]).join("; ")}</td>
+                <td><button class="view-btn" type="button" onclick="openModal(${i})">View Text</button></td>
+              </tr>`).join("")}
+          </table>
+          <p class="muted">“View Text” opens the full warning text.</p>
+        `;
+
+        alertStore.clear();
+        rows.forEach((r,i) => alertStore.set(i, r));
+      } catch (err) {
+        status.textContent = "Error loading alerts.";
+        console.error(err);
+      } finally {
+        btn.disabled = false;
       }
-
-      // 🔽 SORT BY EXPIRATION (SOONEST FIRST)
-      rows.sort((a, b) => {
-        const ta = new Date(a.expires || 0).getTime();
-        const tb = new Date(b.expires || 0).getTime();
-        return ta - tb;
-      });
-
-      status.textContent = `Last updated: ${new Date().toLocaleString()} | Alerts: ${rows.length}`;
-      refreshMap();
-
-      const grouped = {};
-      for (const r of rows) {
-        const k = r.event + r.expires;
-        grouped[k] = grouped[k] || { event: r.event, expires: r.expires, names: new Set() };
-        r.names.forEach(n => grouped[k].names.add(n));
-      }
-
-      document.getElementById("tableContainer").innerHTML = `
-        <table>
-          <tr><th>Type</th><th>Locations</th><th>Expires</th></tr>
-          ${Object.values(grouped).sort((a,b)=>{
-            return new Date(a.expires||0)-new Date(b.expires||0);
-          }).map(g => `
-            <tr>
-              <td class="type-cell ${typeClass(g.event)}">${g.event}</td>
-              <td>${sortLocations([...g.names]).join("; ")}</td>
-              <td>${formatTime(g.expires)}</td>
-            </tr>`).join("")}
-        </table>
-      `;
-
-      document.getElementById("linksContainer").innerHTML = `
-        <table>
-          <tr><th>Type</th><th>Locations</th><th>Text</th></tr>
-          ${rows.map((r,i)=>`
-            <tr>
-              <td class="type-cell ${typeClass(r.event)}">${r.event}</td>
-              <td>${sortLocations(r.names).join("; ")}</td>
-              <td><button class="view-btn" onclick="openModal(${i})">View Text</button></td>
-            </tr>`).join("")}
-        </table>
-        <p class="muted">“View Text” opens the full warning text.</p>
-      `;
-
-      alertStore.clear();
-      rows.forEach((r,i)=>alertStore.set(i,r));
     }
 
     function openModal(i) {
       const a = alertStore.get(i);
-      document.getElementById("modalTitle").textContent = a.event;
+      if (!a) return;
+
+      document.getElementById("modalTitle").textContent = a.event || "";
       document.getElementById("modalMeta").textContent =
-        `Locations: ${sortLocations(a.names).join("; ")} | Expires: ${formatTime(a.expires)}`;
+        `Locations: ${sortLocations([...a.names]).join("; ")} | Expires: ${formatTime(a.expires)}`;
+
       document.getElementById("modalDescription").textContent = cleanText(a.description);
       document.getElementById("modalInstruction").textContent = cleanText(a.instruction);
+
       document.getElementById("modalBackdrop").style.display = "flex";
     }
 
@@ -321,9 +411,7 @@
       document.getElementById("modalBackdrop").style.display = "none";
 
     document.getElementById("copyBtn").onclick = () => {
-      navigator.clipboard.writeText(
-        document.getElementById("modalDescription").textContent
-      );
+      navigator.clipboard.writeText(document.getElementById("modalDescription").textContent);
     };
 
     document.getElementById("refreshBtn").onclick = fetchAlerts;
