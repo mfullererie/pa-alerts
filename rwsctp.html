@@ -42,6 +42,49 @@
     .muted { color: #555; font-size: 0.95em; max-width: 1200px; }
     .section-title { margin-top: 14px; margin-bottom: 6px; }
 
+    .title-row {
+      display: flex;
+      align-items: baseline;
+      gap: 12px;
+      flex-wrap: wrap;
+      max-width: 1200px;
+    }
+
+    /* Update indicator */
+    .update-indicator {
+      font-size: 0.92em;
+      color: #111;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .update-pill {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 999px;
+      border: 1px solid #333;
+      background: #fff;
+      color: #111;
+      line-height: 1.4;
+      white-space: nowrap;
+    }
+    .update-pill.is-new {
+      border-color: rgba(59,130,246,0.7);
+      background: rgba(59,130,246,0.12);
+      color: rgb(37,99,235);
+      font-weight: 600;
+    }
+    #ackBtn {
+      padding: 4px 10px;
+      border: 1px solid #555;
+      background: #fff;
+      cursor: pointer;
+      border-radius: 4px;
+      font: inherit;
+    }
+    #ackBtn:hover { background: #f3f3f3; }
+    #ackBtn:disabled { opacity: 0.6; cursor: not-allowed; }
+
     .panel {
       max-width: 1200px;
       border: 1px solid #ccc;
@@ -80,7 +123,7 @@
   <div class="controls">
     <div class="nav-toggle">
       Back to alerts?
-      <button type="button" onclick="window.location.href='index.html'">Index</button>
+      <button type="button" onclick="window.location.href='index.html'">Watches/Warnings</button>
       <button type="button" onclick="window.location.href='advisories.html'">Advisories</button>
     </div>
   </div>
@@ -92,9 +135,15 @@
 
   <p id="status" class="muted">Loading RWS…</p>
 
-  <h2 class="section-title">Latest Text</h2>
+  <div class="title-row">
+    <h2 class="section-title" style="margin:0;">Latest Text</h2>
+    <div class="update-indicator">
+      <span id="updatePill" class="update-pill">Last changed: —</span>
+      <button id="ackBtn" type="button" disabled>Acknowledge</button>
+    </div>
+  </div>
 
-  <div class="panel">
+  <div class="panel" style="margin-top:8px;">
     <h2 id="prodTitle">RWS (CTP)</h2>
     <p id="prodMeta" class="meta">—</p>
     <pre id="prodText">Loading…</pre>
@@ -109,22 +158,12 @@
 
   <script>
     // Correct endpoint order (type then location)
-    // per Weather.gov API: /products/types/{typeId}/locations/{locationId}
     const LIST_URL = "https://api.weather.gov/products/types/RWS/locations/CTP";
 
-    // Some products return JSON with @id, some with id; we handle both.
-    function pickLatestProduct(items) {
-      if (!Array.isArray(items) || items.length === 0) return null;
-
-      // Prefer issuanceTime; fallback to whatever looks date-ish; else keep original order.
-      const scored = items.map(p => {
-        const t = Date.parse(p.issuanceTime || p.issueTime || p.validTime || p.created || "");
-        return { p, t: isNaN(t) ? -1 : t };
-      });
-
-      scored.sort((a, b) => b.t - a.t);
-      return scored[0].p;
-    }
+    // Local storage keys (so the “new” indicator survives refresh/page reload)
+    const SEEN_KEY = "rwsctp_last_seen_id_v1";
+    const ACK_KEY  = "rwsctp_last_ack_id_v1";
+    const CHG_KEY  = "rwsctp_last_change_time_v1";
 
     function fmtTime(v) {
       if (!v) return "N/A";
@@ -142,13 +181,53 @@
       return await r.json();
     }
 
-    async function fetchText(url) {
-      // Product endpoint can return JSON with .productText; keep it JSON.
-      const r = await fetch(url, { headers: { "Accept": "application/geo+json" } });
-      if (!r.ok) throw new Error(`HTTP ${r.status}`);
-      const d = await r.json();
-      return d;
+    function pickLatestProduct(items) {
+      if (!Array.isArray(items) || items.length === 0) return null;
+
+      const scored = items.map(p => {
+        const t = Date.parse(p.issuanceTime || p.issueTime || p.validTime || p.created || "");
+        return { p, t: isNaN(t) ? -1 : t };
+      });
+
+      scored.sort((a, b) => b.t - a.t);
+      return scored[0].p;
     }
+
+    function getLatestUrl(latest) {
+      return (
+        latest?.["@id"] ||
+        latest?.id ||
+        latest?.url ||
+        (latest?.productId ? `https://api.weather.gov/products/${latest.productId}` : null)
+      );
+    }
+
+    function getProductId(latest, prod) {
+      // Prefer a stable id
+      return (
+        latest?.productId ||
+        prod?.id ||
+        prod?.["@id"] ||
+        latest?.["@id"] ||
+        latest?.id ||
+        null
+      );
+    }
+
+    function setPill(text, isNew) {
+      const pill = document.getElementById("updatePill");
+      pill.textContent = text;
+      pill.classList.toggle("is-new", !!isNew);
+    }
+
+    function setAckEnabled(enabled) {
+      document.getElementById("ackBtn").disabled = !enabled;
+    }
+
+    function saveLS(k, v) { try { localStorage.setItem(k, v); } catch {} }
+    function loadLS(k) { try { return localStorage.getItem(k); } catch { return null; } }
+
+    function nowISO() { return new Date().toISOString(); }
 
     async function refreshRWS() {
       const status = document.getElementById("status");
@@ -160,8 +239,6 @@
         document.getElementById("listLink").href = LIST_URL;
 
         const listing = await fetchJson(LIST_URL);
-
-        // Weather.gov product listing typically has an "products" array (OpenAPI shows this endpoint)
         const products = listing.products || listing["@graph"] || listing.items || [];
         const latest = pickLatestProduct(products);
 
@@ -170,42 +247,57 @@
           document.getElementById("prodText").textContent = "No RWS products returned for CTP.";
           document.getElementById("prodLink").href = "#";
           document.getElementById("prodMeta").textContent = "—";
+          setPill("Last changed: —", false);
+          setAckEnabled(false);
           return;
         }
 
-        const latestUrl =
-          latest["@id"] ||
-          latest.id ||
-          latest.url ||
-          (latest.productId ? `https://api.weather.gov/products/${latest.productId}` : null);
-
-        if (!latestUrl) {
-          status.textContent = `Last updated: ${new Date().toLocaleString()} | Found a product, but no URL to fetch.`;
-          document.getElementById("prodText").textContent = JSON.stringify(latest, null, 2);
-          document.getElementById("prodLink").href = "#";
-          return;
-        }
+        const latestUrl = getLatestUrl(latest);
+        if (!latestUrl) throw new Error("Found a product, but no URL to fetch.");
 
         document.getElementById("prodLink").href = latestUrl;
 
-        const prod = await fetchText(latestUrl);
+        const prod = await fetchJson(latestUrl);
 
         const wmo = prod.wmoCollectiveId || prod.wmoId || "";
         const awips = prod.awipsId || prod.productCode || "";
         const issued = prod.issuanceTime || prod.issueTime || latest.issuanceTime || "";
 
         const titleBits = [];
-        if (prod.productName) titleBits.push(prod.productName);
-        else titleBits.push("Regional Weather Summary");
+        titleBits.push(prod.productName || "Regional Weather Summary");
         titleBits.push("CTP");
-
         document.getElementById("prodTitle").textContent = titleBits.join(" — ");
+
         document.getElementById("prodMeta").textContent =
           `Issued: ${fmtTime(issued)}`
           + (wmo ? ` | WMO: ${wmo}` : "")
           + (awips ? ` | AWIPS: ${awips}` : "");
 
-        document.getElementById("prodText").textContent = cleanText(prod.productText || prod.text || "");
+        const text = cleanText(prod.productText || prod.text || "");
+        document.getElementById("prodText").textContent = text;
+
+        // ---- Change detection / acknowledge logic ----
+        const prodId = getProductId(latest, prod) || ("issued:" + issued);
+        const lastSeen = loadLS(SEEN_KEY);
+        const lastAck  = loadLS(ACK_KEY);
+        const lastChg  = loadLS(CHG_KEY);
+
+        // If product changed since lastSeen, record change time and mark as "new"
+        if (lastSeen && prodId !== lastSeen) {
+          saveLS(CHG_KEY, nowISO());
+        } else if (!lastSeen) {
+          // First ever load: treat as seen + acknowledged to avoid immediate blue
+          saveLS(CHG_KEY, nowISO());
+          saveLS(ACK_KEY, prodId);
+        }
+
+        saveLS(SEEN_KEY, prodId);
+
+        const changeTime = loadLS(CHG_KEY) || nowISO();
+        const isUnacked = (lastAck !== prodId);
+
+        setPill(`Last changed: ${fmtTime(changeTime)}`, isUnacked);
+        setAckEnabled(isUnacked);
 
         status.textContent = `Last updated: ${new Date().toLocaleString()}`;
 
@@ -213,12 +305,24 @@
         console.error(err);
         status.textContent = `Error loading RWS: ${err.message}`;
         document.getElementById("prodText").textContent = "Error loading RWS text.";
+        setPill("Last changed: —", false);
+        setAckEnabled(false);
       } finally {
         btn.disabled = false;
       }
     }
 
     document.getElementById("refreshBtn").addEventListener("click", refreshRWS);
+
+    document.getElementById("ackBtn").addEventListener("click", () => {
+      const lastSeen = loadLS(SEEN_KEY);
+      if (!lastSeen) return;
+      saveLS(ACK_KEY, lastSeen);
+
+      const changeTime = loadLS(CHG_KEY) || nowISO();
+      setPill(`Last changed: ${fmtTime(changeTime)}`, false);
+      setAckEnabled(false);
+    });
 
     refreshRWS();
     setInterval(refreshRWS, 5 * 60 * 1000);
