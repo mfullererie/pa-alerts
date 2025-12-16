@@ -122,7 +122,21 @@
     }
     .modal .actions button:hover { background: #f3f3f3; }
 
-    /* ===== ONLY CHANGE: lock page content width so tables line up ===== */
+    /* Radar embed */
+    .embed-wrap {
+      max-width: 1200px;
+      width: 100%;
+      border: 1px solid #ccc;
+      overflow: hidden;
+    }
+    .embed-wrap iframe {
+      width: 100%;
+      height: 520px;
+      border: 0;
+      display: block;
+    }
+
+    /* lock page content width so tables line up */
     .controls,
     #status,
     .section-title,
@@ -141,6 +155,13 @@
     <div class="nav-toggle">
       Want to see just watches and warnings?
       <button type="button" onclick="window.location.href='index.html'">Click here</button>
+    </div>
+  </div>
+
+  <div class="controls">
+    <div class="nav-toggle">
+      Need the Regional Weather Summary?
+      <button type="button" onclick="window.location.href='rwsctp.html'">Click here</button>
     </div>
   </div>
 
@@ -172,6 +193,17 @@
       NWS Current Watches, Warnings, and Advisories (PA)
     </a>
   </p>
+
+  <h2 style="margin-top: 18px;">Live Radar</h2>
+  <div class="embed-wrap">
+    <iframe
+      title="Windy Radar (embedded)"
+      src="https://embed.windy.com/embed2.html?lat=40.9&lon=-77.9&detailLat=40.9&detailLon=-77.9&width=1200&height=520&zoom=6&level=surface&overlay=radar&product=radar&menu=&message=&marker=&calendar=&pressure=&type=map&location=coordinates&detail=&metricWind=mph&metricTemp=%C2%B0F&radarRange=-1"
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"
+      allowfullscreen>
+    </iframe>
+  </div>
 
   <!-- Modal -->
   <div id="modalBackdrop" class="modal-backdrop">
@@ -377,6 +409,11 @@
 
         document.getElementById("tableContainer").innerHTML = `
           <table>
+            <colgroup>
+              <col style="width: 22%;">
+              <col style="width: 63%;">
+              <col style="width: 15%;">
+            </colgroup>
             <tr><th>Type</th><th>Locations</th><th>Expires</th></tr>
             ${
               groupedArr.map(g => {
@@ -412,6 +449,11 @@
 
         document.getElementById("linksContainer").innerHTML = `
           <table>
+            <colgroup>
+              <col style="width: 22%;">
+              <col style="width: 63%;">
+              <col style="width: 15%;">
+            </colgroup>
             <tr><th>Type</th><th>Locations</th><th>Text</th></tr>
             ${
               rows.map((row, i) => {
