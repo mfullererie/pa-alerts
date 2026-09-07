@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-07T15:28:04.619Z",
+  "fetched_at": "2026-09-07T15:33:32.927Z",
   "headers": [
     "",
     "Type",
@@ -100,35 +100,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 309</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on PA 309 southbound between KNAPP RD and STUMP RD.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 11:03 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 11:47 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 11:08 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374248\">View on map</a></td>",
       "text": "Incident - Major Route\tPA - 309\tPennsylvania\tMontgomery\tDisabled vehicle on PA 309 southbound between KNAPP RD and STUMP RD. All lanes now open.\t9/7/26, 11:03 AM\t9/7/26, 11:47 AM\t9/7/26, 11:08 AM\tView on map"
-    },
-    {
-      "eventId": "374240",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-76",
-        "Pennsylvania",
-        "Chester",
-        "Incident on I-76 West. The right shoulder is blocked, expect delays.",
-        "9/7/26, 10:34 AM",
-        "",
-        "9/7/26, 10:55 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374240"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Incident on I-76 West. The right shoulder is blocked, expect delays.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 10:34 AM</td><td><span class=\"colHeader\">Anticipated End Time</span></td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:55 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374240\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-76\tPennsylvania\tChester\tIncident on I-76 West. The right shoulder is blocked, expect delays.\t9/7/26, 10:34 AM\t\t9/7/26, 10:55 AM\tView on map"
     },
     {
       "eventId": "374241",
@@ -303,35 +274,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1019) LANDVALE ST / MAIN ST / WAGO RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>York</td><td><span class=\"colHeader\">Description</span>DOWNED TREE IN WIRES on (1019) LANDVALE ST / MAIN ST / WAGO RD BOTH DIRECTIONS between GRAVEL HILL RD and BOARD RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 6:50 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 6:51 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374207\">View on map</a></td>",
       "text": "Closure - Other Route\t(1019) LANDVALE ST / MAIN ST / WAGO RD\tPennsylvania\tYork\tDOWNED TREE IN WIRES on (1019) LANDVALE ST / MAIN ST / WAGO RD BOTH DIRECTIONS between GRAVEL HILL RD and BOARD RD. Closed.\t9/7/26, 6:50 AM\t9/8/26, 12:00 PM\t9/7/26, 6:51 AM\tView on map"
-    },
-    {
-      "eventId": "374182",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "PA-268",
-        "Pennsylvania",
-        "Venango",
-        "DOWNED TREE IN WIRES on PA-268 Northbound between SR 0038 SH and SR 0058 SH. Closed.",
-        "9/7/26, 2:56 AM",
-        "9/7/26, 12:00 PM",
-        "9/7/26, 6:16 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374182"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-268</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Venango</td><td><span class=\"colHeader\">Description</span>DOWNED TREE IN WIRES on PA-268 Northbound between SR 0038 SH and SR 0058 SH. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 2:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 6:16 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374182\">View on map</a></td>",
-      "text": "Closure - Other Route\tPA-268\tPennsylvania\tVenango\tDOWNED TREE IN WIRES on PA-268 Northbound between SR 0038 SH and SR 0058 SH. Closed.\t9/7/26, 2:56 AM\t9/7/26, 12:00 PM\t9/7/26, 6:16 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2913,6 +2855,64 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1043) SHESHEQUIN RD / RIVERSIDE DR</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bradford</td><td><span class=\"colHeader\">Description</span>BRIDGE OUTAGE on (1043) SHESHEQUIN RD / RIVERSIDE DR Northbound At LOCKHART ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>8/25/26, 10:06 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/25/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/25/26, 10:19 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-373844\">View on map</a></td>",
       "text": "Incident - Other Route\t(1043) SHESHEQUIN RD / RIVERSIDE DR\tPennsylvania\tBradford\tBRIDGE OUTAGE on (1043) SHESHEQUIN RD / RIVERSIDE DR Northbound At LOCKHART ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t8/25/26, 10:06 AM\t9/25/26, 5:00 PM\t8/25/26, 10:19 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA - 230",
+        "Pennsylvania",
+        "Dauphin",
+        "Roadwork on PA 230 eastbound between HANNA ST and SYCAMORE ST. There is a lane restriction.",
+        "5/11/26, 7:53 AM",
+        "9/15/26, 3:20 PM",
+        "8/25/26, 9:44 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-252434"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 230</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 230 eastbound between HANNA ST and SYCAMORE ST.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>5/11/26, 7:53 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/15/26, 3:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/25/26, 9:44 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-252434\">View on map</a></td>",
+      "text": "Active Roadwork\tPA - 230\tPennsylvania\tDauphin\tRoadwork on PA 230 eastbound between HANNA ST and SYCAMORE ST. There is a lane restriction.\t5/11/26, 7:53 AM\t9/15/26, 3:20 PM\t8/25/26, 9:44 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-50",
+        "Pennsylvania",
+        "Allegheny",
+        "Roadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD. There is a lane restriction.",
+        "8/3/26, 1:08 PM",
+        "9/8/26, 3:00 PM",
+        "8/24/26, 2:44 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-332174"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-50</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>8/3/26, 1:08 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 2:44 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-332174\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-50\tPennsylvania\tAllegheny\tRoadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD. There is a lane restriction.\t8/3/26, 1:08 PM\t9/8/26, 3:00 PM\t8/24/26, 2:44 PM\tView on map"
     }
   ]
 }
