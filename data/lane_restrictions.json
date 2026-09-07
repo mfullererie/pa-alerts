@@ -1,7 +1,23 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-07T10:33:36.026Z",
+  "fetched_at": "2026-09-07T10:38:37.229Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "id": "374204",
+      "eventId": "374204",
+      "type": "Incident - Major Route",
+      "roadway": "I-476",
+      "state": "Pennsylvania",
+      "county": "Luzerne",
+      "route": "I-476",
+      "direction": "NORTH",
+      "description": "Incident on I-476 North. The left lane is blocked, expect delays.",
+      "start_time": "9/7/26, 6:36 AM",
+      "anticipated_end_time": "",
+      "last_updated": "9/7/26, 6:35 AM",
+      "formatted": "I-476 (Luzerne County) | Incident on I-476 North. The left lane is blocked. Estimated Reopen: TBD"
+    }
+  ]
 }
