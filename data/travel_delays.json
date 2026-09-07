@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-07T16:28:35.699Z",
+  "fetched_at": "2026-09-07T16:33:49.373Z",
   "headers": [
     "",
     "Type",
@@ -158,35 +158,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-481</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Washington</td><td><span class=\"colHeader\">Description</span>DOWNED UTILITY on PA-481 BOTH DIRECTIONS between CALIFORNIA DR and DEER RUN LN. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/3/26, 10:23 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 12:02 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373843\">View on map</a></td>",
       "text": "Closure - Other Route\tPA-481\tPennsylvania\tWashington\tDOWNED UTILITY on PA-481 BOTH DIRECTIONS between CALIFORNIA DR and DEER RUN LN. Closed.\t9/3/26, 10:23 PM\t9/8/26, 12:00 PM\t9/7/26, 12:02 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Incident - Other Route",
-        "COXCOMB HILL RD / HULTON BRIDGE RD / HULTON RD",
-        "Pennsylvania",
-        "Allegheny",
-        "Downed tree in wires on COXCOMB HILL RD / HULTON BRIDGE RD / HULTON RD both directions between EIGHTH ST and ELEVENTH ST. All lanes now open.",
-        "9/4/26, 5:30 AM",
-        "9/7/26, 12:00 PM",
-        "9/7/26, 12:01 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteIncident-372786"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>COXCOMB HILL RD / HULTON BRIDGE RD / HULTON RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>Downed tree in wires on COXCOMB HILL RD / HULTON BRIDGE RD / HULTON RD both directions between EIGHTH ST and ELEVENTH ST.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/4/26, 5:30 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 12:01 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-372786\">View on map</a></td>",
-      "text": "Incident - Other Route\tCOXCOMB HILL RD / HULTON BRIDGE RD / HULTON RD\tPennsylvania\tAllegheny\tDowned tree in wires on COXCOMB HILL RD / HULTON BRIDGE RD / HULTON RD both directions between EIGHTH ST and ELEVENTH ST. All lanes now open.\t9/4/26, 5:30 AM\t9/7/26, 12:00 PM\t9/7/26, 12:01 PM\tView on map"
     },
     {
       "eventId": "374241",
@@ -2913,6 +2884,35 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>DERRY LN / LAUGHLIN FARM RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Westmoreland</td><td><span class=\"colHeader\">Description</span>Flooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>7/19/26, 2:20 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/28/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 2:38 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-316339\">View on map</a></td>",
       "text": "Closure - Other Route\tDERRY LN / LAUGHLIN FARM RD\tPennsylvania\tWestmoreland\tFlooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD. All lanes closed.\t7/19/26, 2:20 PM\t9/28/26, 4:00 PM\t8/24/26, 2:38 PM\tView on map"
+    },
+    {
+      "eventId": "373866",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "(1022) TOBACCO RD / DIAMOND STATION RD",
+        "Pennsylvania",
+        "Lancaster",
+        "DAMAGED ROADWAY on (1022) TOBACCO RD / DIAMOND STATION RD BOTH DIRECTIONS between EAGLE DR and DIAMOND ST. Closed.",
+        "8/20/26, 7:54 PM",
+        "9/25/26, 11:45 AM",
+        "8/24/26, 11:20 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-373866"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1022) TOBACCO RD / DIAMOND STATION RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>DAMAGED ROADWAY on (1022) TOBACCO RD / DIAMOND STATION RD BOTH DIRECTIONS between EAGLE DR and DIAMOND ST. Closed.</td><td><span class=\"colHeader\">Start Time</span>8/20/26, 7:54 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/25/26, 11:45 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 11:20 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373866\">View on map</a></td>",
+      "text": "Closure - Other Route\t(1022) TOBACCO RD / DIAMOND STATION RD\tPennsylvania\tLancaster\tDAMAGED ROADWAY on (1022) TOBACCO RD / DIAMOND STATION RD BOTH DIRECTIONS between EAGLE DR and DIAMOND ST. Closed.\t8/20/26, 7:54 PM\t9/25/26, 11:45 AM\t8/24/26, 11:20 AM\tView on map"
     }
   ]
 }
