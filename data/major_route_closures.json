@@ -1,30 +1,7 @@
 {
   "name": "major_route_closures",
-  "fetched_at": "2026-09-07T06:03:32.305Z",
+  "fetched_at": "2026-09-07T06:09:29.988Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 2,
-  "items": [
-    {
-      "id": "374169",
-      "eventId": "374169",
-      "route": "US-30",
-      "direction": "WEST",
-      "between": null,
-      "county": "Lancaster",
-      "anticipated_end_time": "9/7/26, 2:30 AM",
-      "description": "CRASH on US-30 Westbound between Exit PA 441 - COLUMBIA/MARIETTA and ARSENAL RD. Closed.",
-      "formatted": "US-30 (Lancaster County) | CRASH on US-30 Westbound between Exit PA 441 - COLUMBIA/MARIETTA and ARSENAL RD. Closed. Estimated Reopen: 9/7/26 - 02:30"
-    },
-    {
-      "id": "374171",
-      "eventId": "374171",
-      "route": "US-30",
-      "direction": "EAST",
-      "between": null,
-      "county": "York",
-      "anticipated_end_time": "9/7/26, 2:30 AM",
-      "description": "POLICE ACTIVITY on US-30 Eastbound between Exit PA 441 - COLUMBIA/MARIETTA and Exit PA 462 - WRIGHTSVILLE. Closed.",
-      "formatted": "US-30 (York County) | POLICE ACTIVITY on US-30 Eastbound between Exit PA 441 - COLUMBIA/MARIETTA and Exit PA 462 - WRIGHTSVILLE. Closed. Estimated Reopen: 9/7/26 - 02:30"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
