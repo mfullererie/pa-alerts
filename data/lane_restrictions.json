@@ -1,7 +1,38 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-07T21:13:29.764Z",
+  "fetched_at": "2026-09-07T21:19:04.916Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+    {
+      "id": "374381",
+      "eventId": "374381",
+      "type": "Incident - Major Route",
+      "roadway": "I-476",
+      "state": "Pennsylvania",
+      "county": "Lehigh",
+      "route": "I-476",
+      "direction": "SOUTH",
+      "description": "Incident on I-476 South. The left lane is blocked, expect delays.",
+      "start_time": "9/7/26, 5:18 PM",
+      "anticipated_end_time": "",
+      "last_updated": "9/7/26, 5:16 PM",
+      "formatted": "I-476 (Lehigh County) | Incident on I-476 South. The left lane is blocked. Estimated Reopen: TBD"
+    },
+    {
+      "id": "374380",
+      "eventId": "374380",
+      "type": "Incident - Major Route",
+      "roadway": "I-76",
+      "state": "Pennsylvania",
+      "county": "Philadelphia",
+      "route": "I-76",
+      "direction": "EAST",
+      "description": "Crash on I-76 eastbound .2 miles west of Exit 342: US 13/30 WEST - GIRARD AVE/PHILA ZOO. There is a lane restriction.",
+      "start_time": "9/7/26, 5:12 PM",
+      "anticipated_end_time": "9/7/26, 5:58 PM",
+      "last_updated": "9/7/26, 5:16 PM",
+      "formatted": "I-76 (Philadelphia County) | Crash on I-76 eastbound.2 miles west of Exit 342: US 13/30 WEST - GIRARD AVE/PHILA ZOO. Estimated Reopen: 9/7/26 - 17:58"
+    }
+  ]
 }
