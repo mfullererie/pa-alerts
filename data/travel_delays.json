@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-07T15:20:51.937Z",
+  "fetched_at": "2026-09-07T15:23:29.281Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,64 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": "374247",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "PA-255",
+        "Pennsylvania",
+        "Elk",
+        "SPECIAL EVENT on PA-255 BOTH DIRECTIONS between SR 0555 SH and PLUM ST. Closed.",
+        "9/5/26, 7:25 AM",
+        "9/9/26, 3:42 PM",
+        "9/7/26, 11:21 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-374247"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-255</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Elk</td><td><span class=\"colHeader\">Description</span>SPECIAL EVENT on PA-255 BOTH DIRECTIONS between SR 0555 SH and PLUM ST. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/5/26, 7:25 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 3:42 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 11:21 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374247\">View on map</a></td>",
+      "text": "Closure - Other Route\tPA-255\tPennsylvania\tElk\tSPECIAL EVENT on PA-255 BOTH DIRECTIONS between SR 0555 SH and PLUM ST. Closed.\t9/5/26, 7:25 AM\t9/9/26, 3:42 PM\t9/7/26, 11:21 AM\tView on map"
+    },
+    {
+      "eventId": "374244",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "PA-555",
+        "Pennsylvania",
+        "Elk",
+        "SPECIAL EVENT on PA-555 BOTH DIRECTIONS between CHERRY AV and APPLE ST. Closed.",
+        "9/5/26, 7:20 AM",
+        "9/9/26, 3:34 PM",
+        "9/7/26, 11:20 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-374244"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-555</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Elk</td><td><span class=\"colHeader\">Description</span>SPECIAL EVENT on PA-555 BOTH DIRECTIONS between CHERRY AV and APPLE ST. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/5/26, 7:20 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 3:34 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 11:20 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374244\">View on map</a></td>",
+      "text": "Closure - Other Route\tPA-555\tPennsylvania\tElk\tSPECIAL EVENT on PA-555 BOTH DIRECTIONS between CHERRY AV and APPLE ST. Closed.\t9/5/26, 7:20 AM\t9/9/26, 3:34 PM\t9/7/26, 11:20 AM\tView on map"
+    },
     {
       "eventId": "374248",
       "cells": [
@@ -44,35 +102,6 @@
       "text": "Incident - Major Route\tPA - 309\tPennsylvania\tMontgomery\tDisabled vehicle on PA 309 southbound between KNAPP RD and STUMP RD. All lanes now open.\t9/7/26, 11:03 AM\t9/7/26, 11:47 AM\t9/7/26, 11:08 AM\tView on map"
     },
     {
-      "eventId": "374247",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "PA-255",
-        "Pennsylvania",
-        "Elk",
-        "SPECIAL EVENT on PA-255 BOTH DIRECTIONS between SR 0555 SH and PLUM ST. Closed.",
-        "9/5/26, 7:25 AM",
-        "9/9/26, 3:42 PM",
-        "9/7/26, 11:02 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374247"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-255</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Elk</td><td><span class=\"colHeader\">Description</span>SPECIAL EVENT on PA-255 BOTH DIRECTIONS between SR 0555 SH and PLUM ST. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/5/26, 7:25 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 3:42 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 11:02 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374247\">View on map</a></td>",
-      "text": "Closure - Other Route\tPA-255\tPennsylvania\tElk\tSPECIAL EVENT on PA-255 BOTH DIRECTIONS between SR 0555 SH and PLUM ST. Closed.\t9/5/26, 7:25 AM\t9/9/26, 3:42 PM\t9/7/26, 11:02 AM\tView on map"
-    },
-    {
       "eventId": "374240",
       "cells": [
         "Row Details",
@@ -100,35 +129,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Incident on I-76 West. The right shoulder is blocked, expect delays.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 10:34 AM</td><td><span class=\"colHeader\">Anticipated End Time</span></td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:55 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374240\">View on map</a></td>",
       "text": "Incident - Major Route\tI-76\tPennsylvania\tChester\tIncident on I-76 West. The right shoulder is blocked, expect delays.\t9/7/26, 10:34 AM\t\t9/7/26, 10:55 AM\tView on map"
-    },
-    {
-      "eventId": "374244",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "PA-555",
-        "Pennsylvania",
-        "Elk",
-        "SPECIAL EVENT on PA-555 BOTH DIRECTIONS between CHERRY AV and APPLE ST. Closed.",
-        "9/5/26, 7:20 AM",
-        "9/9/26, 3:34 PM",
-        "9/7/26, 10:51 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374244"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-555</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Elk</td><td><span class=\"colHeader\">Description</span>SPECIAL EVENT on PA-555 BOTH DIRECTIONS between CHERRY AV and APPLE ST. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/5/26, 7:20 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 3:34 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:51 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374244\">View on map</a></td>",
-      "text": "Closure - Other Route\tPA-555\tPennsylvania\tElk\tSPECIAL EVENT on PA-555 BOTH DIRECTIONS between CHERRY AV and APPLE ST. Closed.\t9/5/26, 7:20 AM\t9/9/26, 3:34 PM\t9/7/26, 10:51 AM\tView on map"
     },
     {
       "eventId": "374241",
