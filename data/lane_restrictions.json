@@ -1,9 +1,24 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-07T14:38:41.611Z",
+  "fetched_at": "2026-09-07T14:43:37.938Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 3,
+  "count": 4,
   "items": [
+    {
+      "id": "374241",
+      "eventId": "374241",
+      "type": "Incident - Major Route",
+      "roadway": "PA-120",
+      "state": "Pennsylvania",
+      "county": "Clinton",
+      "route": "PA-120",
+      "direction": "",
+      "description": "CRASH on PA-120 BOTH DIRECTIONS At GRUGAN HOLLOW. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.",
+      "start_time": "9/7/26, 10:37 AM",
+      "anticipated_end_time": "9/7/26, 12:00 PM",
+      "last_updated": "9/7/26, 10:39 AM",
+      "formatted": "PA-120 (Clinton County) | CRASH on PA-120 BOTH DIRECTIONS At GRUGAN HOLLOW. Left Lane Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted. Estimated Reopen: 9/7/26 - 12:00"
+    },
     {
       "id": "374240",
       "eventId": "374240",
