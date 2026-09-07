@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-07T20:48:37.528Z",
+  "fetched_at": "2026-09-07T20:53:33.671Z",
   "headers": [
     "",
     "Type",
@@ -22,10 +22,10 @@
         "PA - 309",
         "Pennsylvania",
         "Montgomery",
-        "Vehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE. There is a lane restriction.",
+        "Vehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE. There is a shoulder closed.",
         "9/7/26, 4:23 PM",
         "9/7/26, 5:09 PM",
-        "9/7/26, 4:27 PM",
+        "9/7/26, 4:50 PM",
         "View on map"
       ],
       "links": [
@@ -40,8 +40,37 @@
         "",
         "https://www.511pa.com/map#MajorRouteIncident-374369"
       ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 309</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Vehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 4:23 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 5:09 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 4:27 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374369\">View on map</a></td>",
-      "text": "Incident - Major Route\tPA - 309\tPennsylvania\tMontgomery\tVehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE. There is a lane restriction.\t9/7/26, 4:23 PM\t9/7/26, 5:09 PM\t9/7/26, 4:27 PM\tView on map"
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 309</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Vehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE.  There is a shoulder closed.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 4:23 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 5:09 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 4:50 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374369\">View on map</a></td>",
+      "text": "Incident - Major Route\tPA - 309\tPennsylvania\tMontgomery\tVehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE. There is a shoulder closed.\t9/7/26, 4:23 PM\t9/7/26, 5:09 PM\t9/7/26, 4:50 PM\tView on map"
+    },
+    {
+      "eventId": "374360",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-76",
+        "Pennsylvania",
+        "Philadelphia",
+        "Disabled vehicle on I-76 westbound .4 miles west of Exit : (Beginning of I - 076) - Non Turnpike. All lanes now open.",
+        "9/7/26, 3:45 PM",
+        "9/7/26, 4:31 PM",
+        "9/7/26, 4:49 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374360"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-76 westbound .4 miles west of Exit : (Beginning of I - 076) - Non Turnpike.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 3:45 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 4:31 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 4:49 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374360\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-76\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-76 westbound .4 miles west of Exit : (Beginning of I - 076) - Non Turnpike. All lanes now open.\t9/7/26, 3:45 PM\t9/7/26, 4:31 PM\t9/7/26, 4:49 PM\tView on map"
     },
     {
       "eventId": null,
@@ -71,35 +100,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2013) CHERRY LN / CHANEYSVILLE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bedford</td><td><span class=\"colHeader\">Description</span>CRASH on (2013) CHERRY LN / CHANEYSVILLE RD BOTH DIRECTIONS At FRAME CHURCH RD. All Lanes Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 3:59 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 5:40 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 4:00 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-374362\">View on map</a></td>",
       "text": "Incident - Other Route\t(2013) CHERRY LN / CHANEYSVILLE RD\tPennsylvania\tBedford\tCRASH on (2013) CHERRY LN / CHANEYSVILLE RD BOTH DIRECTIONS At FRAME CHURCH RD. All Lanes Disrupted.\t9/7/26, 3:59 PM\t9/7/26, 5:40 PM\t9/7/26, 4:00 PM\tView on map"
-    },
-    {
-      "eventId": "374360",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-76",
-        "Pennsylvania",
-        "Philadelphia",
-        "Disabled vehicle on I-76 westbound .4 miles west of Exit : (Beginning of I - 076) - Non Turnpike. There is a lane restriction.",
-        "9/7/26, 3:45 PM",
-        "9/7/26, 4:31 PM",
-        "9/7/26, 3:49 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374360"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-76 westbound .4 miles west of Exit : (Beginning of I - 076) - Non Turnpike.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 3:45 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 4:31 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 3:49 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374360\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-76\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-76 westbound .4 miles west of Exit : (Beginning of I - 076) - Non Turnpike. There is a lane restriction.\t9/7/26, 3:45 PM\t9/7/26, 4:31 PM\t9/7/26, 3:49 PM\tView on map"
     },
     {
       "eventId": "374350",

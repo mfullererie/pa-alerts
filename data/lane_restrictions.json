@@ -1,38 +1,7 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-07T20:48:37.528Z",
+  "fetched_at": "2026-09-07T20:53:33.671Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 2,
-  "items": [
-    {
-      "id": "374369",
-      "eventId": "374369",
-      "type": "Incident - Major Route",
-      "roadway": "PA - 309",
-      "state": "Pennsylvania",
-      "county": "Montgomery",
-      "route": "PA-309",
-      "direction": "SOUTH",
-      "description": "Vehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE. There is a lane restriction.",
-      "start_time": "9/7/26, 4:23 PM",
-      "anticipated_end_time": "9/7/26, 5:09 PM",
-      "last_updated": "9/7/26, 4:27 PM",
-      "formatted": "PA-309 (Montgomery County) | Vehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE. Estimated Reopen: 9/7/26 - 17:09"
-    },
-    {
-      "id": "374360",
-      "eventId": "374360",
-      "type": "Incident - Major Route",
-      "roadway": "I-76",
-      "state": "Pennsylvania",
-      "county": "Philadelphia",
-      "route": "I-76",
-      "direction": "WEST",
-      "description": "Disabled vehicle on I-76 westbound .4 miles west of Exit : (Beginning of I - 076) - Non Turnpike. There is a lane restriction.",
-      "start_time": "9/7/26, 3:45 PM",
-      "anticipated_end_time": "9/7/26, 4:31 PM",
-      "last_updated": "9/7/26, 3:49 PM",
-      "formatted": "I-76 (Philadelphia County) | Disabled vehicle on I-76 westbound.4 miles west of Exit : (Beginning of I - 076) - Non Turnpike. Estimated Reopen: 9/7/26 - 16:31"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
