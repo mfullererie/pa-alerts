@@ -1,20 +1,9 @@
 {
   "name": "major_route_closures",
-  "fetched_at": "2026-09-07T20:53:33.671Z",
+  "fetched_at": "2026-09-07T20:58:55.795Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 3,
+  "count": 2,
   "items": [
-    {
-      "id": "374369",
-      "eventId": "374369",
-      "route": "PA-309",
-      "direction": "SOUTH",
-      "between": null,
-      "county": "Montgomery",
-      "anticipated_end_time": "9/7/26, 5:09 PM",
-      "description": "Vehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE. There is a shoulder closed.",
-      "formatted": "PA-309 (Montgomery County) | Vehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE. There is a shoulder closed. Estimated Reopen: 9/7/26 - 17:09"
-    },
     {
       "id": "374350",
       "eventId": "374350",
