@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-07T15:38:34.328Z",
+  "fetched_at": "2026-09-07T15:43:52.155Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,64 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": "374259",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "SECOND AV / RIDGE PK / MAIN ST / HIGH ST",
+        "Pennsylvania",
+        "Montgomery",
+        "Special event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST southbound between CHARLOTTE ST and WASHINGTON ST. All lanes closed.",
+        "9/7/26, 11:35 AM",
+        "9/8/26, 10:00 AM",
+        "9/7/26, 11:40 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-374259"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>SECOND AV / RIDGE PK / MAIN ST / HIGH ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Special event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST southbound between CHARLOTTE ST and WASHINGTON ST.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 11:35 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 10:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 11:40 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374259\">View on map</a></td>",
+      "text": "Closure - Other Route\tSECOND AV / RIDGE PK / MAIN ST / HIGH ST\tPennsylvania\tMontgomery\tSpecial event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST southbound between CHARLOTTE ST and WASHINGTON ST. All lanes closed.\t9/7/26, 11:35 AM\t9/8/26, 10:00 AM\t9/7/26, 11:40 AM\tView on map"
+    },
+    {
+      "eventId": "374258",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "SECOND AV / RIDGE PK / MAIN ST / HIGH ST",
+        "Pennsylvania",
+        "Montgomery",
+        "Special event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST northbound between WASHINGTON ST and HANOVER ST. All lanes closed.",
+        "9/7/26, 11:35 AM",
+        "9/8/26, 10:00 AM",
+        "9/7/26, 11:39 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-374258"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>SECOND AV / RIDGE PK / MAIN ST / HIGH ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Special event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST northbound between WASHINGTON ST and HANOVER ST.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 11:35 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 10:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 11:39 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374258\">View on map</a></td>",
+      "text": "Closure - Other Route\tSECOND AV / RIDGE PK / MAIN ST / HIGH ST\tPennsylvania\tMontgomery\tSpecial event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST northbound between WASHINGTON ST and HANOVER ST. All lanes closed.\t9/7/26, 11:35 AM\t9/8/26, 10:00 AM\t9/7/26, 11:39 AM\tView on map"
+    },
     {
       "eventId": "374238",
       "cells": [
@@ -100,35 +158,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-555</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Elk</td><td><span class=\"colHeader\">Description</span>SPECIAL EVENT on PA-555 BOTH DIRECTIONS between CHERRY AV and APPLE ST. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/5/26, 7:20 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 3:34 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 11:20 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374244\">View on map</a></td>",
       "text": "Closure - Other Route\tPA-555\tPennsylvania\tElk\tSPECIAL EVENT on PA-555 BOTH DIRECTIONS between CHERRY AV and APPLE ST. Closed.\t9/5/26, 7:20 AM\t9/9/26, 3:34 PM\t9/7/26, 11:20 AM\tView on map"
-    },
-    {
-      "eventId": "374248",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "PA - 309",
-        "Pennsylvania",
-        "Montgomery",
-        "Disabled vehicle on PA 309 southbound between KNAPP RD and STUMP RD. All lanes now open.",
-        "9/7/26, 11:03 AM",
-        "9/7/26, 11:47 AM",
-        "9/7/26, 11:08 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374248"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 309</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on PA 309 southbound between KNAPP RD and STUMP RD.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 11:03 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 11:47 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 11:08 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374248\">View on map</a></td>",
-      "text": "Incident - Major Route\tPA - 309\tPennsylvania\tMontgomery\tDisabled vehicle on PA 309 southbound between KNAPP RD and STUMP RD. All lanes now open.\t9/7/26, 11:03 AM\t9/7/26, 11:47 AM\t9/7/26, 11:08 AM\tView on map"
     },
     {
       "eventId": "374241",
@@ -2884,35 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 230</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 230 eastbound between HANNA ST and SYCAMORE ST.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>5/11/26, 7:53 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/15/26, 3:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/25/26, 9:44 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-252434\">View on map</a></td>",
       "text": "Active Roadwork\tPA - 230\tPennsylvania\tDauphin\tRoadwork on PA 230 eastbound between HANNA ST and SYCAMORE ST. There is a lane restriction.\t5/11/26, 7:53 AM\t9/15/26, 3:20 PM\t8/25/26, 9:44 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-50",
-        "Pennsylvania",
-        "Allegheny",
-        "Roadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD. There is a lane restriction.",
-        "8/3/26, 1:08 PM",
-        "9/8/26, 3:00 PM",
-        "8/24/26, 2:44 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-332174"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-50</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>8/3/26, 1:08 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 2:44 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-332174\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-50\tPennsylvania\tAllegheny\tRoadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD. There is a lane restriction.\t8/3/26, 1:08 PM\t9/8/26, 3:00 PM\t8/24/26, 2:44 PM\tView on map"
     }
   ]
 }
