@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-07T14:14:06.300Z",
+  "fetched_at": "2026-09-07T14:18:32.425Z",
   "headers": [
     "",
     "Type",
@@ -71,35 +71,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-76 westbound at Exit 344: I-676-US30 EAST - CENTRAL PHILA.  There is a ramp restriction.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 10:02 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 11:29 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:04 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374238\">View on map</a></td>",
       "text": "Incident - Major Route\tI-76\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-76 westbound at Exit 344: I-676-US30 EAST - CENTRAL PHILA. There is a ramp restriction.\t9/7/26, 10:02 AM\t9/7/26, 11:29 AM\t9/7/26, 10:04 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Incident - Other Route",
-        "PA-192",
-        "Pennsylvania",
-        "Union",
-        "CRASH on PA-192 BOTH DIRECTIONS At GAST RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.",
-        "9/7/26, 9:39 AM",
-        "9/7/26, 11:15 AM",
-        "9/7/26, 9:51 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteIncident-374235"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-192</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Union</td><td><span class=\"colHeader\">Description</span>CRASH on PA-192 BOTH DIRECTIONS At GAST RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 9:39 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 11:15 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 9:51 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-374235\">View on map</a></td>",
-      "text": "Incident - Other Route\tPA-192\tPennsylvania\tUnion\tCRASH on PA-192 BOTH DIRECTIONS At GAST RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/7/26, 9:39 AM\t9/7/26, 11:15 AM\t9/7/26, 9:51 AM\tView on map"
     },
     {
       "eventId": "374236",
@@ -2913,6 +2884,35 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-50</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>8/3/26, 1:08 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 2:44 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-332174\">View on map</a></td>",
       "text": "Active Roadwork\tPA-50\tPennsylvania\tAllegheny\tRoadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD. There is a lane restriction.\t8/3/26, 1:08 PM\t9/8/26, 3:00 PM\t8/24/26, 2:44 PM\tView on map"
+    },
+    {
+      "eventId": "316339",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "DERRY LN / LAUGHLIN FARM RD",
+        "Pennsylvania",
+        "Westmoreland",
+        "Flooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD. All lanes closed.",
+        "7/19/26, 2:20 PM",
+        "9/28/26, 4:00 PM",
+        "8/24/26, 2:38 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-316339"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>DERRY LN / LAUGHLIN FARM RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Westmoreland</td><td><span class=\"colHeader\">Description</span>Flooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>7/19/26, 2:20 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/28/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 2:38 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-316339\">View on map</a></td>",
+      "text": "Closure - Other Route\tDERRY LN / LAUGHLIN FARM RD\tPennsylvania\tWestmoreland\tFlooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD. All lanes closed.\t7/19/26, 2:20 PM\t9/28/26, 4:00 PM\t8/24/26, 2:38 PM\tView on map"
     }
   ]
 }
