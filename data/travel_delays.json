@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-07T21:28:30.396Z",
+  "fetched_at": "2026-09-07T21:33:29.846Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,35 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Incident - Other Route",
+        "(2012) COOPER ST / PENNS CAVE RD / PENNS CREEK RD / WATER ST",
+        "Pennsylvania",
+        "Centre",
+        "VEHICLE FIRE on (2012) COOPER ST / PENNS CAVE RD / PENNS CREEK RD / WATER ST BOTH DIRECTIONS At LOWER GEORGES VALLEY RD. Right Lane (of 2 Lanes) Blocked.",
+        "9/7/26, 5:29 PM",
+        "9/7/26, 7:00 PM",
+        "9/7/26, 5:30 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteIncident-374385"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2012) COOPER ST / PENNS CAVE RD / PENNS CREEK RD / WATER ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Centre</td><td><span class=\"colHeader\">Description</span>VEHICLE FIRE on (2012) COOPER ST / PENNS CAVE RD / PENNS CREEK RD / WATER ST BOTH DIRECTIONS At LOWER GEORGES VALLEY RD. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 5:29 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 7:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 5:30 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-374385\">View on map</a></td>",
+      "text": "Incident - Other Route\t(2012) COOPER ST / PENNS CAVE RD / PENNS CREEK RD / WATER ST\tPennsylvania\tCentre\tVEHICLE FIRE on (2012) COOPER ST / PENNS CAVE RD / PENNS CREEK RD / WATER ST BOTH DIRECTIONS At LOWER GEORGES VALLEY RD. Right Lane (of 2 Lanes) Blocked.\t9/7/26, 5:29 PM\t9/7/26, 7:00 PM\t9/7/26, 5:30 PM\tView on map"
+    },
     {
       "eventId": "374380",
       "cells": [
@@ -129,64 +158,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-11</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Perry</td><td><span class=\"colHeader\">Description</span>CRASH on US-11 Northbound between VALLEY ST and MAPLE AV. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 3:19 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 6:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 5:05 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteClosure-374351\">View on map</a></td>",
       "text": "Closure - Major Route\tUS-11\tPennsylvania\tPerry\tCRASH on US-11 Northbound between VALLEY ST and MAPLE AV. Closed.\t9/7/26, 3:19 PM\t9/7/26, 6:00 PM\t9/7/26, 5:05 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Incident - Other Route",
-        "US - 202",
-        "Pennsylvania",
-        "Montgomery",
-        "Multi vehicle crash on US 202 southbound between KNAPP RD and WELSH RD. All lanes now open.",
-        "9/7/26, 4:52 PM",
-        "9/7/26, 5:36 PM",
-        "9/7/26, 5:01 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteIncident-374373"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 202</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on US 202 southbound between KNAPP RD and WELSH RD.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 4:52 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 5:36 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 5:01 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-374373\">View on map</a></td>",
-      "text": "Incident - Other Route\tUS - 202\tPennsylvania\tMontgomery\tMulti vehicle crash on US 202 southbound between KNAPP RD and WELSH RD. All lanes now open.\t9/7/26, 4:52 PM\t9/7/26, 5:36 PM\t9/7/26, 5:01 PM\tView on map"
-    },
-    {
-      "eventId": "374369",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "PA - 309",
-        "Pennsylvania",
-        "Montgomery",
-        "Vehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE. All lanes now open.",
-        "9/7/26, 4:23 PM",
-        "9/7/26, 5:09 PM",
-        "9/7/26, 4:58 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374369"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 309</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Vehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 4:23 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 5:09 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 4:58 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374369\">View on map</a></td>",
-      "text": "Incident - Major Route\tPA - 309\tPennsylvania\tMontgomery\tVehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE. All lanes now open.\t9/7/26, 4:23 PM\t9/7/26, 5:09 PM\t9/7/26, 4:58 PM\tView on map"
     },
     {
       "eventId": null,
@@ -2913,6 +2884,35 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-50</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>8/3/26, 1:08 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 2:44 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-332174\">View on map</a></td>",
       "text": "Active Roadwork\tPA-50\tPennsylvania\tAllegheny\tRoadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD. There is a lane restriction.\t8/3/26, 1:08 PM\t9/8/26, 3:00 PM\t8/24/26, 2:44 PM\tView on map"
+    },
+    {
+      "eventId": "316339",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "DERRY LN / LAUGHLIN FARM RD",
+        "Pennsylvania",
+        "Westmoreland",
+        "Flooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD. All lanes closed.",
+        "7/19/26, 2:20 PM",
+        "9/28/26, 4:00 PM",
+        "8/24/26, 2:38 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-316339"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>DERRY LN / LAUGHLIN FARM RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Westmoreland</td><td><span class=\"colHeader\">Description</span>Flooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>7/19/26, 2:20 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/28/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 2:38 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-316339\">View on map</a></td>",
+      "text": "Closure - Other Route\tDERRY LN / LAUGHLIN FARM RD\tPennsylvania\tWestmoreland\tFlooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD. All lanes closed.\t7/19/26, 2:20 PM\t9/28/26, 4:00 PM\t8/24/26, 2:38 PM\tView on map"
     }
   ]
 }
