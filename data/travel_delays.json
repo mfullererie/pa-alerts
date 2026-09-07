@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-07T14:03:42.797Z",
+  "fetched_at": "2026-09-07T14:08:36.784Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,35 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": "374238",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-76",
+        "Pennsylvania",
+        "Philadelphia",
+        "Disabled vehicle on I-76 westbound at Exit 344: I-676-US30 EAST - CENTRAL PHILA. There is a ramp restriction.",
+        "9/7/26, 10:02 AM",
+        "9/7/26, 11:29 AM",
+        "9/7/26, 10:04 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374238"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-76 westbound at Exit 344: I-676-US30 EAST - CENTRAL PHILA.  There is a ramp restriction.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 10:02 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 11:29 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:04 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374238\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-76\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-76 westbound at Exit 344: I-676-US30 EAST - CENTRAL PHILA. There is a ramp restriction.\t9/7/26, 10:02 AM\t9/7/26, 11:29 AM\t9/7/26, 10:04 AM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -2884,35 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>DERRY LN / LAUGHLIN FARM RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Westmoreland</td><td><span class=\"colHeader\">Description</span>Flooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>7/19/26, 2:20 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/28/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 2:38 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-316339\">View on map</a></td>",
       "text": "Closure - Other Route\tDERRY LN / LAUGHLIN FARM RD\tPennsylvania\tWestmoreland\tFlooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD. All lanes closed.\t7/19/26, 2:20 PM\t9/28/26, 4:00 PM\t8/24/26, 2:38 PM\tView on map"
-    },
-    {
-      "eventId": "373866",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(1022) TOBACCO RD / DIAMOND STATION RD",
-        "Pennsylvania",
-        "Lancaster",
-        "DAMAGED ROADWAY on (1022) TOBACCO RD / DIAMOND STATION RD BOTH DIRECTIONS between EAGLE DR and DIAMOND ST. Closed.",
-        "8/20/26, 7:54 PM",
-        "9/25/26, 11:45 AM",
-        "8/24/26, 11:20 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-373866"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1022) TOBACCO RD / DIAMOND STATION RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>DAMAGED ROADWAY on (1022) TOBACCO RD / DIAMOND STATION RD BOTH DIRECTIONS between EAGLE DR and DIAMOND ST. Closed.</td><td><span class=\"colHeader\">Start Time</span>8/20/26, 7:54 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/25/26, 11:45 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 11:20 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373866\">View on map</a></td>",
-      "text": "Closure - Other Route\t(1022) TOBACCO RD / DIAMOND STATION RD\tPennsylvania\tLancaster\tDAMAGED ROADWAY on (1022) TOBACCO RD / DIAMOND STATION RD BOTH DIRECTIONS between EAGLE DR and DIAMOND ST. Closed.\t8/20/26, 7:54 PM\t9/25/26, 11:45 AM\t8/24/26, 11:20 AM\tView on map"
     }
   ]
 }
