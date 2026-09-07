@@ -1,9 +1,24 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-07T14:08:36.784Z",
+  "fetched_at": "2026-09-07T14:14:06.300Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 1,
+  "count": 2,
   "items": [
+    {
+      "id": "374239",
+      "eventId": "374239",
+      "type": "Incident - Major Route",
+      "roadway": "PA-28",
+      "state": "Pennsylvania",
+      "county": "Allegheny",
+      "route": "PA-28",
+      "direction": "NORTH",
+      "description": "DISABLED VEHICLE on PA-28 Northbound At RAMP FROM THIRTYFIRST ST BR. Right Lane (of 2 Lanes) Blocked.",
+      "start_time": "9/7/26, 10:07 AM",
+      "anticipated_end_time": "9/7/26, 11:30 AM",
+      "last_updated": "9/7/26, 10:08 AM",
+      "formatted": "PA-28 (Allegheny County) | DISABLED VEHICLE on PA-28 Northbound At RAMP FROM THIRTYFIRST ST BR. Right Lane Blocked. Estimated Reopen: 9/7/26 - 11:30"
+    },
     {
       "id": "374236",
       "eventId": "374236",
