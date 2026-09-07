@@ -1,8 +1,8 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-07T14:53:33.073Z",
+  "fetched_at": "2026-09-07T14:58:22.377Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 4,
+  "count": 2,
   "items": [
     {
       "id": "374241",
@@ -20,21 +20,6 @@
       "formatted": "PA-120 (Clinton County) | CRASH on PA-120 BOTH DIRECTIONS At GRUGAN HOLLOW. Left Lane Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted. Estimated Reopen: 9/7/26 - 12:00"
     },
     {
-      "id": "374240",
-      "eventId": "374240",
-      "type": "Incident - Major Route",
-      "roadway": "I-76",
-      "state": "Pennsylvania",
-      "county": "Chester",
-      "route": "I-76",
-      "direction": "WEST",
-      "description": "Incident on I-76 West. The right lane is blocked, expect delays.",
-      "start_time": "9/7/26, 10:34 AM",
-      "anticipated_end_time": "",
-      "last_updated": "9/7/26, 10:35 AM",
-      "formatted": "I-76 (Chester County) | Incident on I-76 West. The right lane is blocked. Estimated Reopen: TBD"
-    },
-    {
       "id": "374239",
       "eventId": "374239",
       "type": "Incident - Major Route",
@@ -48,21 +33,6 @@
       "anticipated_end_time": "9/7/26, 11:30 AM",
       "last_updated": "9/7/26, 10:08 AM",
       "formatted": "PA-28 (Allegheny County) | DISABLED VEHICLE on PA-28 Northbound At RAMP FROM THIRTYFIRST ST BR. Right Lane Blocked. Estimated Reopen: 9/7/26 - 11:30"
-    },
-    {
-      "id": "374236",
-      "eventId": "374236",
-      "type": "Incident - Major Route",
-      "roadway": "US-30",
-      "state": "Pennsylvania",
-      "county": "Somerset",
-      "route": "US-30",
-      "direction": "",
-      "description": "CRASH on US-30 BOTH DIRECTIONS At KEIM RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.",
-      "start_time": "9/7/26, 9:39 AM",
-      "anticipated_end_time": "9/7/26, 11:15 AM",
-      "last_updated": "9/7/26, 9:40 AM",
-      "formatted": "US-30 (Somerset County) | CRASH on US-30 BOTH DIRECTIONS At KEIM RD. Right Lane Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted. Estimated Reopen: 9/7/26 - 11:15"
     }
   ]
 }

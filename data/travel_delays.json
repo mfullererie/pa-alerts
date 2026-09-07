@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-07T14:53:33.073Z",
+  "fetched_at": "2026-09-07T14:58:22.377Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,35 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": "374240",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-76",
+        "Pennsylvania",
+        "Chester",
+        "Incident on I-76 West. The right shoulder is blocked, expect delays.",
+        "9/7/26, 10:34 AM",
+        "",
+        "9/7/26, 10:55 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374240"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Incident on I-76 West. The right shoulder is blocked, expect delays.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 10:34 AM</td><td><span class=\"colHeader\">Anticipated End Time</span></td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:55 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374240\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-76\tPennsylvania\tChester\tIncident on I-76 West. The right shoulder is blocked, expect delays.\t9/7/26, 10:34 AM\t\t9/7/26, 10:55 AM\tView on map"
+    },
     {
       "eventId": "374244",
       "cells": [
@@ -73,35 +102,6 @@
       "text": "Incident - Major Route\tPA-120\tPennsylvania\tClinton\tCRASH on PA-120 BOTH DIRECTIONS At GRUGAN HOLLOW. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/7/26, 10:37 AM\t9/7/26, 12:00 PM\t9/7/26, 10:39 AM\tView on map"
     },
     {
-      "eventId": "374240",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-76",
-        "Pennsylvania",
-        "Chester",
-        "Incident on I-76 West. The right lane is blocked, expect delays.",
-        "9/7/26, 10:34 AM",
-        "",
-        "9/7/26, 10:35 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374240"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Incident on I-76 West. The right lane is blocked, expect delays.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 10:34 AM</td><td><span class=\"colHeader\">Anticipated End Time</span></td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:35 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374240\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-76\tPennsylvania\tChester\tIncident on I-76 West. The right lane is blocked, expect delays.\t9/7/26, 10:34 AM\t\t9/7/26, 10:35 AM\tView on map"
-    },
-    {
       "eventId": "374239",
       "cells": [
         "Row Details",
@@ -158,35 +158,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-76 westbound at Exit 344: I-676-US30 EAST - CENTRAL PHILA.  There is a ramp restriction.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 10:02 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 11:29 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:04 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374238\">View on map</a></td>",
       "text": "Incident - Major Route\tI-76\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-76 westbound at Exit 344: I-676-US30 EAST - CENTRAL PHILA. There is a ramp restriction.\t9/7/26, 10:02 AM\t9/7/26, 11:29 AM\t9/7/26, 10:04 AM\tView on map"
-    },
-    {
-      "eventId": "374236",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "US-30",
-        "Pennsylvania",
-        "Somerset",
-        "CRASH on US-30 BOTH DIRECTIONS At KEIM RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.",
-        "9/7/26, 9:39 AM",
-        "9/7/26, 11:15 AM",
-        "9/7/26, 9:40 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374236"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-30</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Somerset</td><td><span class=\"colHeader\">Description</span>CRASH on US-30 BOTH DIRECTIONS At KEIM RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 9:39 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 11:15 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 9:40 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374236\">View on map</a></td>",
-      "text": "Incident - Major Route\tUS-30\tPennsylvania\tSomerset\tCRASH on US-30 BOTH DIRECTIONS At KEIM RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/7/26, 9:39 AM\t9/7/26, 11:15 AM\t9/7/26, 9:40 AM\tView on map"
     },
     {
       "eventId": "374228",
@@ -2913,6 +2884,35 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1043) SHESHEQUIN RD / RIVERSIDE DR</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bradford</td><td><span class=\"colHeader\">Description</span>BRIDGE OUTAGE on (1043) SHESHEQUIN RD / RIVERSIDE DR Northbound At LOCKHART ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>8/25/26, 10:06 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/25/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/25/26, 10:19 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-373844\">View on map</a></td>",
       "text": "Incident - Other Route\t(1043) SHESHEQUIN RD / RIVERSIDE DR\tPennsylvania\tBradford\tBRIDGE OUTAGE on (1043) SHESHEQUIN RD / RIVERSIDE DR Northbound At LOCKHART ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t8/25/26, 10:06 AM\t9/25/26, 5:00 PM\t8/25/26, 10:19 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA - 230",
+        "Pennsylvania",
+        "Dauphin",
+        "Roadwork on PA 230 eastbound between HANNA ST and SYCAMORE ST. There is a lane restriction.",
+        "5/11/26, 7:53 AM",
+        "9/15/26, 3:20 PM",
+        "8/25/26, 9:44 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-252434"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 230</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 230 eastbound between HANNA ST and SYCAMORE ST.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>5/11/26, 7:53 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/15/26, 3:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/25/26, 9:44 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-252434\">View on map</a></td>",
+      "text": "Active Roadwork\tPA - 230\tPennsylvania\tDauphin\tRoadwork on PA 230 eastbound between HANNA ST and SYCAMORE ST. There is a lane restriction.\t5/11/26, 7:53 AM\t9/15/26, 3:20 PM\t8/25/26, 9:44 AM\tView on map"
     }
   ]
 }
