@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-07T15:03:35.034Z",
+  "fetched_at": "2026-09-07T15:09:03.378Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,35 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": "374248",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "PA - 309",
+        "Pennsylvania",
+        "Montgomery",
+        "Disabled vehicle on PA 309 southbound between KNAPP RD and STUMP RD. There is a lane restriction.",
+        "9/7/26, 11:03 AM",
+        "9/7/26, 11:47 AM",
+        "9/7/26, 11:03 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374248"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 309</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on PA 309 southbound between KNAPP RD and STUMP RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 11:03 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 11:47 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 11:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374248\">View on map</a></td>",
+      "text": "Incident - Major Route\tPA - 309\tPennsylvania\tMontgomery\tDisabled vehicle on PA 309 southbound between KNAPP RD and STUMP RD. There is a lane restriction.\t9/7/26, 11:03 AM\t9/7/26, 11:47 AM\t9/7/26, 11:03 AM\tView on map"
+    },
     {
       "eventId": "374247",
       "cells": [
@@ -129,35 +158,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-120</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clinton</td><td><span class=\"colHeader\">Description</span>CRASH on PA-120 BOTH DIRECTIONS At GRUGAN HOLLOW. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 10:37 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:39 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374241\">View on map</a></td>",
       "text": "Incident - Major Route\tPA-120\tPennsylvania\tClinton\tCRASH on PA-120 BOTH DIRECTIONS At GRUGAN HOLLOW. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/7/26, 10:37 AM\t9/7/26, 12:00 PM\t9/7/26, 10:39 AM\tView on map"
-    },
-    {
-      "eventId": "374239",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "PA-28",
-        "Pennsylvania",
-        "Allegheny",
-        "DISABLED VEHICLE on PA-28 Northbound At RAMP FROM THIRTYFIRST ST BR. Right Lane (of 2 Lanes) Blocked.",
-        "9/7/26, 10:07 AM",
-        "9/7/26, 11:30 AM",
-        "9/7/26, 10:08 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374239"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-28</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>DISABLED VEHICLE on PA-28 Northbound At RAMP FROM THIRTYFIRST ST BR. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 10:07 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 11:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:08 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374239\">View on map</a></td>",
-      "text": "Incident - Major Route\tPA-28\tPennsylvania\tAllegheny\tDISABLED VEHICLE on PA-28 Northbound At RAMP FROM THIRTYFIRST ST BR. Right Lane (of 2 Lanes) Blocked.\t9/7/26, 10:07 AM\t9/7/26, 11:30 AM\t9/7/26, 10:08 AM\tView on map"
     },
     {
       "eventId": "374238",
