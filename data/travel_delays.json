@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-07T21:38:31.709Z",
+  "fetched_at": "2026-09-07T21:43:34.993Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,35 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": "374391",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "PA-49",
+        "Pennsylvania",
+        "Potter",
+        "DOWNED UTILITY on PA-49 Eastbound between BROOKLYN RD and NEWFIELD JUNCTION RD. Closed.",
+        "9/7/26, 5:41 PM",
+        "9/7/26, 8:00 PM",
+        "9/7/26, 5:42 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-374391"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-49</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Potter</td><td><span class=\"colHeader\">Description</span>DOWNED UTILITY on PA-49 Eastbound between BROOKLYN RD and NEWFIELD JUNCTION RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 5:41 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 8:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 5:42 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374391\">View on map</a></td>",
+      "text": "Closure - Other Route\tPA-49\tPennsylvania\tPotter\tDOWNED UTILITY on PA-49 Eastbound between BROOKLYN RD and NEWFIELD JUNCTION RD. Closed.\t9/7/26, 5:41 PM\t9/7/26, 8:00 PM\t9/7/26, 5:42 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -71,35 +100,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Crash on I-76 westbound between 1 miles EAST of Exit 342: US 13/US 30 WEST - GIRARD AVE/PHILA ZOO and Exit 341: MONTGOMERY DR/WEST RIVER DRIVE.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 5:12 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 5:58 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 5:19 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374380\">View on map</a></td>",
       "text": "Incident - Major Route\tI-76\tPennsylvania\tPhiladelphia\tCrash on I-76 westbound between 1 miles EAST of Exit 342: US 13/US 30 WEST - GIRARD AVE/PHILA ZOO and Exit 341: MONTGOMERY DR/WEST RIVER DRIVE. There is a lane restriction.\t9/7/26, 5:12 PM\t9/7/26, 5:58 PM\t9/7/26, 5:19 PM\tView on map"
-    },
-    {
-      "eventId": "374381",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-476",
-        "Pennsylvania",
-        "Lehigh",
-        "Incident on I-476 South. The left lane is blocked, expect delays.",
-        "9/7/26, 5:18 PM",
-        "",
-        "9/7/26, 5:16 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374381"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lehigh</td><td><span class=\"colHeader\">Description</span>Incident on I-476 South. The left lane is blocked, expect delays.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 5:18 PM</td><td><span class=\"colHeader\">Anticipated End Time</span></td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 5:16 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374381\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-476\tPennsylvania\tLehigh\tIncident on I-476 South. The left lane is blocked, expect delays.\t9/7/26, 5:18 PM\t\t9/7/26, 5:16 PM\tView on map"
     },
     {
       "eventId": "374350",
