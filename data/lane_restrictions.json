@@ -1,6 +1,6 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-07T12:28:38.602Z",
+  "fetched_at": "2026-09-07T12:33:35.418Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
   "count": 2,
   "items": [
@@ -16,7 +16,7 @@
       "description": "Crash on PA 309 northbound between BETHLEHEM PK and Exit: PA 113 - SOUDERTON. There is a lane restriction.",
       "start_time": "9/7/26, 8:21 AM",
       "anticipated_end_time": "9/7/26, 10:00 AM",
-      "last_updated": "9/7/26, 8:25 AM",
+      "last_updated": "9/7/26, 8:27 AM",
       "formatted": "PA-309 (Bucks County) | Crash on PA 309 northbound between BETHLEHEM PK and Exit: PA 113 - SOUDERTON. Estimated Reopen: 9/7/26 - 10:00"
     },
     {
