@@ -1,23 +1,7 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-07T08:24:45.701Z",
+  "fetched_at": "2026-09-07T08:29:01.515Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 1,
-  "items": [
-    {
-      "id": "374185",
-      "eventId": "374185",
-      "type": "Incident - Major Route",
-      "roadway": "PA-28",
-      "state": "Pennsylvania",
-      "county": "Clarion",
-      "route": "PA-28",
-      "direction": "",
-      "description": "CRASH on PA-28 BOTH DIRECTIONS between PIONEER RD and SETTLERS RD. Right Lane (of 2 Lanes) Blocked.",
-      "start_time": "9/7/26, 3:43 AM",
-      "anticipated_end_time": "9/7/26, 5:15 AM",
-      "last_updated": "9/7/26, 3:43 AM",
-      "formatted": "PA-28 (Clarion County) | CRASH on PA-28 BOTH DIRECTIONS between PIONEER RD and SETTLERS RD. Right Lane Blocked. Estimated Reopen: 9/7/26 - 05:15"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
