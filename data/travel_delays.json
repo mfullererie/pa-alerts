@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-07T20:58:55.795Z",
+  "fetched_at": "2026-09-07T21:03:39.966Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,35 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Incident - Other Route",
+        "US - 202",
+        "Pennsylvania",
+        "Montgomery",
+        "Multi vehicle crash on US 202 southbound between KNAPP RD and WELSH RD. All lanes now open.",
+        "9/7/26, 4:52 PM",
+        "9/7/26, 5:36 PM",
+        "9/7/26, 5:01 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteIncident-374373"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 202</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on US 202 southbound between KNAPP RD and WELSH RD.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 4:52 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 5:36 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 5:01 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-374373\">View on map</a></td>",
+      "text": "Incident - Other Route\tUS - 202\tPennsylvania\tMontgomery\tMulti vehicle crash on US 202 southbound between KNAPP RD and WELSH RD. All lanes now open.\t9/7/26, 4:52 PM\t9/7/26, 5:36 PM\t9/7/26, 5:01 PM\tView on map"
+    },
     {
       "eventId": "374369",
       "cells": [
@@ -42,35 +71,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 309</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Vehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 4:23 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 5:09 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 4:58 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374369\">View on map</a></td>",
       "text": "Incident - Major Route\tPA - 309\tPennsylvania\tMontgomery\tVehicle fire on PA 309 southbound between Exit: PAPER MILL RD/SPRINGFIELD and Exit: PA 152 - EASTON RD/GLENSIDE. All lanes now open.\t9/7/26, 4:23 PM\t9/7/26, 5:09 PM\t9/7/26, 4:58 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Incident - Other Route",
-        "US - 202",
-        "Pennsylvania",
-        "Montgomery",
-        "Multi vehicle crash on US 202 southbound between KNAPP RD and WELSH RD. There is a lane restriction.",
-        "9/7/26, 4:52 PM",
-        "9/7/26, 5:36 PM",
-        "9/7/26, 4:53 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteIncident-374373"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 202</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on US 202 southbound between KNAPP RD and WELSH RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 4:52 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 5:36 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 4:53 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-374373\">View on map</a></td>",
-      "text": "Incident - Other Route\tUS - 202\tPennsylvania\tMontgomery\tMulti vehicle crash on US 202 southbound between KNAPP RD and WELSH RD. There is a lane restriction.\t9/7/26, 4:52 PM\t9/7/26, 5:36 PM\t9/7/26, 4:53 PM\tView on map"
     },
     {
       "eventId": "374360",
