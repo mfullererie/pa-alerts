@@ -1,24 +1,9 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T12:08:30.467Z",
+  "fetched_at": "2026-09-08T12:13:35.061Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 2,
+  "count": 1,
   "items": [
-    {
-      "id": "374606",
-      "eventId": "374606",
-      "type": "Incident - Major Route",
-      "roadway": "US - 422",
-      "state": "Pennsylvania",
-      "county": "Montgomery",
-      "route": "US-422",
-      "direction": "EAST",
-      "description": "Fire department activity on US 422 eastbound between Exit: TRAPPE/ROYERSFORD and Exit: PA 29 NORTH COLLEGEVILLE. There is a lane restriction.",
-      "start_time": "9/8/26, 7:42 AM",
-      "anticipated_end_time": "9/8/26, 8:56 AM",
-      "last_updated": "9/8/26, 8:05 AM",
-      "formatted": "US-422 (Montgomery County) | Fire department activity on US 422 eastbound between Exit: TRAPPE/ROYERSFORD and Exit: PA 29 NORTH COLLEGEVILLE. Estimated Reopen: 9/8/26 - 08:56"
-    },
     {
       "id": "374615",
       "eventId": "374615",
