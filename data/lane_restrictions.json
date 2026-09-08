@@ -1,9 +1,39 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T20:58:32.067Z",
+  "fetched_at": "2026-09-08T21:03:37.210Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 2,
+  "count": 4,
   "items": [
+    {
+      "id": "375131",
+      "eventId": "375131",
+      "type": "Incident - Major Route",
+      "roadway": "I-78",
+      "state": "Pennsylvania",
+      "county": "Lehigh",
+      "route": "I-78",
+      "direction": "EAST",
+      "description": "VEHICLE FIRE on I-78 Eastbound At MM 58. 2 Right Lanes (of 3 Lanes) Blocked, Right Shoulder Blocked.",
+      "start_time": "9/8/26, 5:02 PM",
+      "anticipated_end_time": "9/8/26, 7:30 PM",
+      "last_updated": "9/8/26, 5:02 PM",
+      "formatted": "I-78 (Lehigh County) | VEHICLE FIRE on I-78 Eastbound At MM 58. 2 Right Lanes Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 19:30"
+    },
+    {
+      "id": "375130",
+      "eventId": "375130",
+      "type": "Incident - Major Route",
+      "roadway": "I-81",
+      "state": "Pennsylvania",
+      "county": "Cumberland",
+      "route": "I-81",
+      "direction": "SOUTH",
+      "description": "VEHICLE FIRE on I-81 Southbound At MM 53. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+      "start_time": "9/8/26, 5:01 PM",
+      "anticipated_end_time": "9/8/26, 5:46 PM",
+      "last_updated": "9/8/26, 5:02 PM",
+      "formatted": "I-81 (Cumberland County) | VEHICLE FIRE on I-81 Southbound At MM 53. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 17:46"
+    },
     {
       "id": "375127",
       "eventId": "375127",
