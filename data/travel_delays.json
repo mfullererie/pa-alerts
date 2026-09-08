@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T16:58:44.824Z",
+  "fetched_at": "2026-09-08T17:03:32.415Z",
   "headers": [
     "",
     "Type",
@@ -15,6 +15,122 @@
   ],
   "rows": [
     {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-81",
+        "Pennsylvania",
+        "Lackawanna",
+        "ROADWORK on I-81 Southbound between MM 199.5 and MM 197.5. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 8:41 AM",
+        "9/8/26, 6:30 PM",
+        "9/8/26, 1:02 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374708"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lackawanna</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 199.5 and MM 197.5. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:41 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 6:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:02 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374708\">View on map</a></td>",
+      "text": "Active Roadwork\tI-81\tPennsylvania\tLackawanna\tROADWORK on I-81 Southbound between MM 199.5 and MM 197.5. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 8:41 AM\t9/8/26, 6:30 PM\t9/8/26, 1:02 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "US-222",
+        "Pennsylvania",
+        "Lancaster",
+        "MOVING ROADWORK on US-222 Southbound At RAMP FROM US 322 AT EPHRATA EXIT. Right Lane (of 2 Lanes) Disrupted, Right Shoulder Disrupted.",
+        "9/8/26, 10:19 AM",
+        "9/8/26, 3:40 PM",
+        "9/8/26, 1:02 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374892"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-222</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on US-222 Southbound At RAMP FROM US 322 AT EPHRATA EXIT. Right Lane (of 2 Lanes) Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:19 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:40 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:02 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374892\">View on map</a></td>",
+      "text": "Active Roadwork\tUS-222\tPennsylvania\tLancaster\tMOVING ROADWORK on US-222 Southbound At RAMP FROM US 322 AT EPHRATA EXIT. Right Lane (of 2 Lanes) Disrupted, Right Shoulder Disrupted.\t9/8/26, 10:19 AM\t9/8/26, 3:40 PM\t9/8/26, 1:02 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-80",
+        "Pennsylvania",
+        "Clearfield",
+        "ROADWORK on I-80 Westbound between MM 99 and MM 95. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.",
+        "9/8/26, 1:00 PM",
+        "9/8/26, 5:15 PM",
+        "9/8/26, 1:01 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374979"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Westbound between MM 99 and MM 95. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 1:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:01 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374979\">View on map</a></td>",
+      "text": "Active Roadwork\tI-80\tPennsylvania\tClearfield\tROADWORK on I-80 Westbound between MM 99 and MM 95. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.\t9/8/26, 1:00 PM\t9/8/26, 5:15 PM\t9/8/26, 1:01 PM\tView on map"
+    },
+    {
+      "eventId": "374965",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "US - 202",
+        "Pennsylvania",
+        "Delaware",
+        "Crash on US 202 northbound between JOHNSON FARM RD and NAAMANS CREEK RD. All lanes now open.",
+        "9/8/26, 12:30 PM",
+        "9/8/26, 1:16 PM",
+        "9/8/26, 12:58 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374965"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 202</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Crash on US 202 northbound between JOHNSON FARM RD and NAAMANS CREEK RD.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 12:30 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 1:16 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:58 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374965\">View on map</a></td>",
+      "text": "Incident - Major Route\tUS - 202\tPennsylvania\tDelaware\tCrash on US 202 northbound between JOHNSON FARM RD and NAAMANS CREEK RD. All lanes now open.\t9/8/26, 12:30 PM\t9/8/26, 1:16 PM\t9/8/26, 12:58 PM\tView on map"
+    },
+    {
       "eventId": "374973",
       "cells": [
         "Row Details",
@@ -24,8 +140,8 @@
         "York",
         "CRASH on US-30 Westbound between EMERGENCY CROSSOVER and Exit PA 24 - MT ZION RD. Left Shoulder Blocked.",
         "9/8/26, 12:45 PM",
-        "9/8/26, 1:29 PM",
-        "9/8/26, 12:57 PM",
+        "9/8/26, 2:00 PM",
+        "9/8/26, 12:58 PM",
         "View on map"
       ],
       "links": [
@@ -40,8 +156,8 @@
         "",
         "https://www.511pa.com/map#MajorRouteIncident-374973"
       ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-30</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>York</td><td><span class=\"colHeader\">Description</span>CRASH on US-30 Westbound between EMERGENCY CROSSOVER and Exit PA 24 - MT ZION RD. Left Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 12:45 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 1:29 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:57 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374973\">View on map</a></td>",
-      "text": "Incident - Major Route\tUS-30\tPennsylvania\tYork\tCRASH on US-30 Westbound between EMERGENCY CROSSOVER and Exit PA 24 - MT ZION RD. Left Shoulder Blocked.\t9/8/26, 12:45 PM\t9/8/26, 1:29 PM\t9/8/26, 12:57 PM\tView on map"
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-30</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>York</td><td><span class=\"colHeader\">Description</span>CRASH on US-30 Westbound between EMERGENCY CROSSOVER and Exit PA 24 - MT ZION RD. Left Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 12:45 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:58 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374973\">View on map</a></td>",
+      "text": "Incident - Major Route\tUS-30\tPennsylvania\tYork\tCRASH on US-30 Westbound between EMERGENCY CROSSOVER and Exit PA 24 - MT ZION RD. Left Shoulder Blocked.\t9/8/26, 12:45 PM\t9/8/26, 2:00 PM\t9/8/26, 12:58 PM\tView on map"
     },
     {
       "eventId": null,
@@ -102,64 +218,6 @@
       "text": "Active Roadwork\tI-76\tPennsylvania\tBedford\tRoad work on I-76 East. The right lane is closed.\t9/8/26, 8:00 AM\t9/8/26, 1:00 PM\t9/8/26, 12:50 PM\tView on map"
     },
     {
-      "eventId": "374971",
-      "cells": [
-        "Row Details",
-        "Closure - Major Route",
-        "I-76",
-        "Pennsylvania",
-        "Franklin",
-        "Traffic is temporarily stopped on I-76 West at Blue Mountain Tunnel, due to an incident within the tunnel. Be alert for stopped traffic and expect delays through the area.",
-        "9/8/26, 12:46 PM",
-        "",
-        "9/8/26, 12:44 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteClosure-374971"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Franklin</td><td><span class=\"colHeader\">Description</span>Traffic is temporarily stopped on I-76 West at Blue Mountain Tunnel, due to an incident within the tunnel. Be alert for stopped traffic and expect delays through the area.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 12:46 PM</td><td><span class=\"colHeader\">Anticipated End Time</span></td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:44 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteClosure-374971\">View on map</a></td>",
-      "text": "Closure - Major Route\tI-76\tPennsylvania\tFranklin\tTraffic is temporarily stopped on I-76 West at Blue Mountain Tunnel, due to an incident within the tunnel. Be alert for stopped traffic and expect delays through the area.\t9/8/26, 12:46 PM\t\t9/8/26, 12:44 PM\tView on map"
-    },
-    {
-      "eventId": "374972",
-      "cells": [
-        "Row Details",
-        "Closure - Major Route",
-        "I-76",
-        "Pennsylvania",
-        "Franklin",
-        "Traffic is temporarily stopped on I-76 East at Kittatinny Mountain Tunnel, due to an incident within the tunnel. Be alert for stopped traffic and expect delays through the area.",
-        "9/8/26, 12:46 PM",
-        "",
-        "9/8/26, 12:44 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteClosure-374972"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Franklin</td><td><span class=\"colHeader\">Description</span>Traffic is temporarily stopped on I-76 East at Kittatinny Mountain Tunnel, due to an incident within the tunnel. Be alert for stopped traffic and expect delays through the area.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 12:46 PM</td><td><span class=\"colHeader\">Anticipated End Time</span></td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:44 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteClosure-374972\">View on map</a></td>",
-      "text": "Closure - Major Route\tI-76\tPennsylvania\tFranklin\tTraffic is temporarily stopped on I-76 East at Kittatinny Mountain Tunnel, due to an incident within the tunnel. Be alert for stopped traffic and expect delays through the area.\t9/8/26, 12:46 PM\t\t9/8/26, 12:44 PM\tView on map"
-    },
-    {
       "eventId": null,
       "cells": [
         "Row Details",
@@ -187,35 +245,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>ROBINSON BL / VERONA RD / LEECHBURG RD / MILLTOWN RD / MONTIER ST / SALTSBURG RD / SWISSVALE AV / HULTON RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>Roadwork on ROBINSON BL / VERONA RD / LEECHBURG RD / MILLTOWN RD / MONTIER ST / SALTSBURG RD / SWISSVALE AV / HULTON RD both directions between LINCOLN RD and TO 0130/0082 SH.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:45 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:36 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374715\">View on map</a></td>",
       "text": "Active Roadwork\tROBINSON BL / VERONA RD / LEECHBURG RD / MILLTOWN RD / MONTIER ST / SALTSBURG RD / SWISSVALE AV / HULTON RD\tPennsylvania\tAllegheny\tRoadwork on ROBINSON BL / VERONA RD / LEECHBURG RD / MILLTOWN RD / MONTIER ST / SALTSBURG RD / SWISSVALE AV / HULTON RD both directions between LINCOLN RD and TO 0130/0082 SH. All lanes now open.\t9/8/26, 8:45 AM\t9/8/26, 4:00 PM\t9/8/26, 12:36 PM\tView on map"
-    },
-    {
-      "eventId": "374965",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "US - 202",
-        "Pennsylvania",
-        "Delaware",
-        "Crash on US 202 northbound between JOHNSON FARM RD and NAAMANS CREEK RD. There is a lane restriction.",
-        "9/8/26, 12:30 PM",
-        "9/8/26, 1:16 PM",
-        "9/8/26, 12:33 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374965"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 202</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Crash on US 202 northbound between JOHNSON FARM RD and NAAMANS CREEK RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 12:30 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 1:16 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:33 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374965\">View on map</a></td>",
-      "text": "Incident - Major Route\tUS - 202\tPennsylvania\tDelaware\tCrash on US 202 northbound between JOHNSON FARM RD and NAAMANS CREEK RD. There is a lane restriction.\t9/8/26, 12:30 PM\t9/8/26, 1:16 PM\t9/8/26, 12:33 PM\tView on map"
     },
     {
       "eventId": null,
@@ -860,35 +889,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "US-222",
-        "Pennsylvania",
-        "Lancaster",
-        "MOVING ROADWORK on US-222 Southbound At RAMP FROM US 322 AT EPHRATA EXIT. Right Lane (of 2 Lanes) Disrupted, Right Shoulder Disrupted.",
-        "9/8/26, 10:19 AM",
-        "9/8/26, 2:02 PM",
-        "9/8/26, 11:47 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374892"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-222</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on US-222 Southbound At RAMP FROM US 322 AT EPHRATA EXIT. Right Lane (of 2 Lanes) Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:19 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:02 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 11:47 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374892\">View on map</a></td>",
-      "text": "Active Roadwork\tUS-222\tPennsylvania\tLancaster\tMOVING ROADWORK on US-222 Southbound At RAMP FROM US 322 AT EPHRATA EXIT. Right Lane (of 2 Lanes) Disrupted, Right Shoulder Disrupted.\t9/8/26, 10:19 AM\t9/8/26, 2:02 PM\t9/8/26, 11:47 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "POWELLS VALLEY RD / MARKET ST",
         "Pennsylvania",
         "Dauphin",
@@ -1202,35 +1202,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4001) SARTWELL CREEK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Potter</td><td><span class=\"colHeader\">Description</span>ROADWORK on (4001) SARTWELL CREEK RD BOTH DIRECTIONS between  HANSON HOLLOW RD and  HANSON HOLLOW RD. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:57 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374919\">View on map</a></td>",
       "text": "Active Roadwork\t(4001) SARTWELL CREEK RD\tPennsylvania\tPotter\tROADWORK on (4001) SARTWELL CREEK RD BOTH DIRECTIONS between HANSON HOLLOW RD and HANSON HOLLOW RD. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 10:56 AM\t9/8/26, 3:20 PM\t9/8/26, 10:57 AM\tView on map"
-    },
-    {
-      "eventId": "374664",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-81",
-        "Pennsylvania",
-        "Lackawanna",
-        "CRASH on I-81 Southbound At MM 200. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 8:22 AM",
-        "9/8/26, 5:30 PM",
-        "9/8/26, 10:53 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374664"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lackawanna</td><td><span class=\"colHeader\">Description</span>CRASH on I-81 Southbound At MM 200. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:22 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:53 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374664\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-81\tPennsylvania\tLackawanna\tCRASH on I-81 Southbound At MM 200. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 8:22 AM\t9/8/26, 5:30 PM\t9/8/26, 10:53 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2913,6 +2884,35 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>BYBERRY RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Roadwork on BYBERRY RD both directions between PIONEER RD and MASONS MILL RD.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:06 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:10 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374788\">View on map</a></td>",
       "text": "Active Roadwork\tBYBERRY RD\tPennsylvania\tMontgomery\tRoadwork on BYBERRY RD both directions between PIONEER RD and MASONS MILL RD. There is a traffic disruption.\t9/8/26, 9:06 AM\t9/8/26, 4:00 PM\t9/8/26, 9:10 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-743",
+        "Pennsylvania",
+        "Lancaster",
+        "ROADWORK on PA-743 BOTH DIRECTIONS between VETERANS DR and CHRISTY CT. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 9:04 AM",
+        "9/8/26, 3:45 PM",
+        "9/8/26, 9:09 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374773"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-743</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-743 BOTH DIRECTIONS between VETERANS DR and CHRISTY CT. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:04 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:45 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:09 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374773\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-743\tPennsylvania\tLancaster\tROADWORK on PA-743 BOTH DIRECTIONS between VETERANS DR and CHRISTY CT. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 9:04 AM\t9/8/26, 3:45 PM\t9/8/26, 9:09 AM\tView on map"
     }
   ]
 }
