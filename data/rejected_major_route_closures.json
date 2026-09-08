@@ -1,6 +1,6 @@
 {
   "name": "rejected_major_route_closures",
-  "fetched_at": "2026-09-08T02:13:38.041Z",
+  "fetched_at": "2026-09-08T02:18:37.480Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
   "count": 1,
   "items": [
@@ -11,7 +11,7 @@
       "route": "US-11",
       "county": "Lackawanna",
       "reason": "US-11 is Core only in configured county/segment areas; Lackawanna County is not included",
-      "anticipated_end_time": "9/7/26, 10:19 PM",
+      "anticipated_end_time": "9/7/26, 11:00 PM",
       "description": "POLICE ACTIVITY on US-11 Southbound between Exit US 6 BUSINESS E/TO I-81/TO US 6 - DICKSON CIT and RAMP FROM PA 307 TO US 11 S. Closed."
     }
   ]
