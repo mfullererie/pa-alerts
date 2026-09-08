@@ -1,8 +1,8 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T19:43:42.858Z",
+  "fetched_at": "2026-09-08T19:49:58.251Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "id": "375057",
@@ -18,21 +18,6 @@
       "anticipated_end_time": "9/8/26, 4:13 PM",
       "last_updated": "9/8/26, 3:39 PM",
       "formatted": "US-01 (Philadelphia County) | Multi vehicle crash on US 1 northbound 0 miles NORTH of Exit: I-76 WEST. Estimated Reopen: 9/8/26 - 16:13"
-    },
-    {
-      "id": "375058",
-      "eventId": "375058",
-      "type": "Incident - Major Route",
-      "roadway": "US-422",
-      "state": "Pennsylvania",
-      "county": "Berks",
-      "route": "US-422",
-      "direction": "EAST",
-      "description": "CRASH (Multi-Vehicle) on US-422 Eastbound between RAMP FROM SR 3422 (PENN AV) AT WEST READING EXIT ( and Exit US 222 BUSINESS - LANCASTER AVE. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.",
-      "start_time": "9/8/26, 3:18 PM",
-      "anticipated_end_time": "9/8/26, 4:15 PM",
-      "last_updated": "9/8/26, 3:29 PM",
-      "formatted": "US-422 (Berks County) | CRASH (Multi-Vehicle) on US-422 Eastbound between RAMP FROM SR 3422 (PENN AV) AT WEST READING EXIT ( and Exit US 222 BUSINESS - LANCASTER AVE. Left Lane Blocked, Left Shoulder Blocked. Estimated Reopen: 9/8/26 - 16:15"
     },
     {
       "id": "375015",
