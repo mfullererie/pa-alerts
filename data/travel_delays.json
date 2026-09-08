@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T22:48:19.772Z",
+  "fetched_at": "2026-09-08T22:53:53.963Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,180 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-51",
+        "Pennsylvania",
+        "Westmoreland",
+        "ROADWORK on PA-51 Northbound between A AND L CONSTRUCTION CO and A AND L CONSTRUCTION CO. Right Lane (of 2 Lanes) Blocked.",
+        "9/8/26, 6:21 PM",
+        "9/8/26, 7:05 PM",
+        "9/8/26, 6:52 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375188"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-51</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Westmoreland</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-51 Northbound between A AND L CONSTRUCTION CO and A AND L CONSTRUCTION CO. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:21 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:05 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:52 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375188\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-51\tPennsylvania\tWestmoreland\tROADWORK on PA-51 Northbound between A AND L CONSTRUCTION CO and A AND L CONSTRUCTION CO. Right Lane (of 2 Lanes) Blocked.\t9/8/26, 6:21 PM\t9/8/26, 7:05 PM\t9/8/26, 6:52 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA - 452",
+        "Pennsylvania",
+        "Delaware",
+        "Roadwork on PA 452 northbound at LENNI RD. There is a lane restriction.",
+        "9/8/26, 6:48 PM",
+        "9/9/26, 5:00 AM",
+        "9/8/26, 6:51 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375204"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 452</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 452 northbound at LENNI RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:48 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 5:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:51 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375204\">View on map</a></td>",
+      "text": "Active Roadwork\tPA - 452\tPennsylvania\tDelaware\tRoadwork on PA 452 northbound at LENNI RD. There is a lane restriction.\t9/8/26, 6:48 PM\t9/9/26, 5:00 AM\t9/8/26, 6:51 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-76",
+        "Pennsylvania",
+        "Allegheny",
+        "Road work on I-76 West. The left lane is closed.",
+        "9/8/26, 7:00 PM",
+        "9/9/26, 6:00 AM",
+        "9/8/26, 6:50 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375205"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>Road work on I-76 West. The left lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:50 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375205\">View on map</a></td>",
+      "text": "Active Roadwork\tI-76\tPennsylvania\tAllegheny\tRoad work on I-76 West. The left lane is closed.\t9/8/26, 7:00 PM\t9/9/26, 6:00 AM\t9/8/26, 6:50 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-76",
+        "Pennsylvania",
+        "Allegheny",
+        "Road work on I-76 East. The left lane is closed.",
+        "9/8/26, 7:00 PM",
+        "9/9/26, 7:00 AM",
+        "9/8/26, 6:50 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375206"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The left lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 7:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:50 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375206\">View on map</a></td>",
+      "text": "Active Roadwork\tI-76\tPennsylvania\tAllegheny\tRoad work on I-76 East. The left lane is closed.\t9/8/26, 7:00 PM\t9/9/26, 7:00 AM\t9/8/26, 6:50 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-99",
+        "Pennsylvania",
+        "Centre",
+        "ROADWORK on I-99 Northbound At Exit I-80 EAST/US 220 NORTH - WILLIAMSPORT. Entry Ramp Closed.",
+        "9/8/26, 6:08 PM",
+        "9/9/26, 6:10 AM",
+        "9/8/26, 6:49 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375183"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-99</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Centre</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-99 Northbound At Exit I-80 EAST/US 220 NORTH - WILLIAMSPORT. Entry Ramp Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:08 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:10 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:49 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375183\">View on map</a></td>",
+      "text": "Active Roadwork\tI-99\tPennsylvania\tCentre\tROADWORK on I-99 Northbound At Exit I-80 EAST/US 220 NORTH - WILLIAMSPORT. Entry Ramp Closed.\t9/8/26, 6:08 PM\t9/9/26, 6:10 AM\t9/8/26, 6:49 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA - 452",
+        "Pennsylvania",
+        "Delaware",
+        "Roadwork on PA 452 northbound at BALTIMORE PK. There is a traffic disruption.",
+        "9/8/26, 6:45 PM",
+        "9/9/26, 5:00 AM",
+        "9/8/26, 6:47 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375202"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 452</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 452 northbound at BALTIMORE PK.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:45 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 5:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:47 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375202\">View on map</a></td>",
+      "text": "Active Roadwork\tPA - 452\tPennsylvania\tDelaware\tRoadwork on PA 452 northbound at BALTIMORE PK. There is a traffic disruption.\t9/8/26, 6:45 PM\t9/9/26, 5:00 AM\t9/8/26, 6:47 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -222,35 +396,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "PA-51",
-        "Pennsylvania",
-        "Westmoreland",
-        "ROADWORK on PA-51 Northbound between A AND L CONSTRUCTION CO and A AND L CONSTRUCTION CO. Right Lane (of 2 Lanes) Blocked.",
-        "9/8/26, 6:21 PM",
-        "9/8/26, 7:05 PM",
-        "9/8/26, 6:22 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375188"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-51</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Westmoreland</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-51 Northbound between A AND L CONSTRUCTION CO and A AND L CONSTRUCTION CO. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:21 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:05 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:22 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375188\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-51\tPennsylvania\tWestmoreland\tROADWORK on PA-51 Northbound between A AND L CONSTRUCTION CO and A AND L CONSTRUCTION CO. Right Lane (of 2 Lanes) Blocked.\t9/8/26, 6:21 PM\t9/8/26, 7:05 PM\t9/8/26, 6:22 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "US-15",
         "Pennsylvania",
         "Lycoming",
@@ -390,35 +535,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-40</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Washington</td><td><span class=\"colHeader\">Description</span>ROADWORK on US-40 BOTH DIRECTIONS between NOBLE RD and MARKET ST. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:22 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 9:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:12 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374663\">View on map</a></td>",
       "text": "Active Roadwork\tUS-40\tPennsylvania\tWashington\tROADWORK on US-40 BOTH DIRECTIONS between NOBLE RD and MARKET ST. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.\t9/8/26, 8:22 AM\t9/9/26, 9:00 AM\t9/8/26, 6:12 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-99",
-        "Pennsylvania",
-        "Centre",
-        "ROADWORK on I-99 Northbound At Exit I-80 EAST/US 220 NORTH - WILLIAMSPORT. Entry Ramp Closed.",
-        "9/8/26, 6:08 PM",
-        "9/9/26, 6:10 AM",
-        "9/8/26, 6:12 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375183"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-99</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Centre</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-99 Northbound At Exit I-80 EAST/US 220 NORTH - WILLIAMSPORT. Entry Ramp Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:08 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:10 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:12 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375183\">View on map</a></td>",
-      "text": "Active Roadwork\tI-99\tPennsylvania\tCentre\tROADWORK on I-99 Northbound At Exit I-80 EAST/US 220 NORTH - WILLIAMSPORT. Entry Ramp Closed.\t9/8/26, 6:08 PM\t9/9/26, 6:10 AM\t9/8/26, 6:12 PM\tView on map"
     },
     {
       "eventId": null,
@@ -1115,35 +1231,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2005) CHESTNUT ST / STATE AV / LEHIGH ST / MAIN ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lehigh</td><td><span class=\"colHeader\">Description</span>OTHER on (2005) CHESTNUT ST / STATE AV / LEHIGH ST / MAIN ST Northbound At Exit I-78 EAST/PA 309 SOUTH - BETHLEHEM/QUAKERTOWN. Entry Ramp Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 5:23 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:31 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:24 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-375146\">View on map</a></td>",
       "text": "Incident - Other Route\t(2005) CHESTNUT ST / STATE AV / LEHIGH ST / MAIN ST\tPennsylvania\tLehigh\tOTHER on (2005) CHESTNUT ST / STATE AV / LEHIGH ST / MAIN ST Northbound At Exit I-78 EAST/PA 309 SOUTH - BETHLEHEM/QUAKERTOWN. Entry Ramp Blocked.\t9/8/26, 5:23 PM\t9/8/26, 7:31 PM\t9/8/26, 5:24 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-247",
-        "Pennsylvania",
-        "Susquehanna",
-        "ROADWORK on PA-247 Northbound between PRIVATE DR and SR 2023 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 6:34 AM",
-        "9/8/26, 8:00 PM",
-        "9/8/26, 4:29 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374513"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-247</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Susquehanna</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-247 Northbound between PRIVATE DR and SR 2023 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:34 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:29 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374513\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-247\tPennsylvania\tSusquehanna\tROADWORK on PA-247 Northbound between PRIVATE DR and SR 2023 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 6:34 AM\t9/8/26, 8:00 PM\t9/8/26, 4:29 PM\tView on map"
     },
     {
       "eventId": null,
@@ -2826,93 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1013) PARK AV / SCANDIA RD / COBHAM PARK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Warren</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1013) PARK AV / SCANDIA RD / COBHAM PARK RD BOTH DIRECTIONS between NORMAN RD and WEBBS FERRY REC. AREA RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/1/26, 2:28 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/6/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/1/26, 2:29 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373883\">View on map</a></td>",
       "text": "Closure - Other Route\t(1013) PARK AV / SCANDIA RD / COBHAM PARK RD\tPennsylvania\tWarren\tROADWORK on (1013) PARK AV / SCANDIA RD / COBHAM PARK RD BOTH DIRECTIONS between NORMAN RD and WEBBS FERRY REC. AREA RD. Closed.\t9/1/26, 2:28 PM\t10/6/26, 3:00 PM\t9/1/26, 2:29 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA - 309",
-        "Pennsylvania",
-        "Lehigh",
-        "Roadwork on PA 309 southbound at Exit: TILGHMAN ST EAST. There is a ramp closure.",
-        "8/20/25, 1:56 PM",
-        "12/1/26, 2:30 PM",
-        "9/1/26, 2:02 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-252136"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 309</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lehigh</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 309 southbound at Exit: TILGHMAN ST EAST.  There is a ramp closure.</td><td><span class=\"colHeader\">Start Time</span>8/20/25, 1:56 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>12/1/26, 2:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/1/26, 2:02 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-252136\">View on map</a></td>",
-      "text": "Active Roadwork\tPA - 309\tPennsylvania\tLehigh\tRoadwork on PA 309 southbound at Exit: TILGHMAN ST EAST. There is a ramp closure.\t8/20/25, 1:56 PM\t12/1/26, 2:30 PM\t9/1/26, 2:02 PM\tView on map"
-    },
-    {
-      "eventId": "373924",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(1007) DANIELS RD / HARTMAN RD / FOX HILL RD / BUTTERNUT FLATS RD",
-        "Pennsylvania",
-        "Wayne",
-        "ROADWORK on (1007) DANIELS RD / HARTMAN RD / FOX HILL RD / BUTTERNUT FLATS RD BOTH DIRECTIONS between TORREY RD and BUTTERNUT FLATS. Closed.",
-        "8/10/26, 11:14 AM",
-        "9/15/26, 4:30 PM",
-        "9/1/26, 1:16 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-373924"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1007) DANIELS RD / HARTMAN RD / FOX HILL RD / BUTTERNUT FLATS RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Wayne</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1007) DANIELS RD / HARTMAN RD / FOX HILL RD / BUTTERNUT FLATS RD BOTH DIRECTIONS between TORREY RD and BUTTERNUT FLATS. Closed.</td><td><span class=\"colHeader\">Start Time</span>8/10/26, 11:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/15/26, 4:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/1/26, 1:16 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373924\">View on map</a></td>",
-      "text": "Closure - Other Route\t(1007) DANIELS RD / HARTMAN RD / FOX HILL RD / BUTTERNUT FLATS RD\tPennsylvania\tWayne\tROADWORK on (1007) DANIELS RD / HARTMAN RD / FOX HILL RD / BUTTERNUT FLATS RD BOTH DIRECTIONS between TORREY RD and BUTTERNUT FLATS. Closed.\t8/10/26, 11:14 AM\t9/15/26, 4:30 PM\t9/1/26, 1:16 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-80",
-        "Pennsylvania",
-        "Centre",
-        "Roadwork on I-80 westbound 1.5 miles west of Exit 163: PA 26 NORTH - JACKSONVILLE HOWARD. There is a shoulder closed.",
-        "7/8/26, 7:46 AM",
-        "10/1/26, 3:00 PM",
-        "9/1/26, 1:11 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-304494"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Centre</td><td><span class=\"colHeader\">Description</span>Roadwork on I-80 westbound 1.5 miles west of Exit 163: PA 26 NORTH - JACKSONVILLE HOWARD.  There is a shoulder closed.</td><td><span class=\"colHeader\">Start Time</span>7/8/26, 7:46 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/1/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/1/26, 1:11 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-304494\">View on map</a></td>",
-      "text": "Active Roadwork\tI-80\tPennsylvania\tCentre\tRoadwork on I-80 westbound 1.5 miles west of Exit 163: PA 26 NORTH - JACKSONVILLE HOWARD. There is a shoulder closed.\t7/8/26, 7:46 AM\t10/1/26, 3:00 PM\t9/1/26, 1:11 PM\tView on map"
     }
   ]
 }
