@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T02:58:16.328Z",
+  "fetched_at": "2026-09-08T03:03:40.306Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,35 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": "374461",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-95",
+        "Pennsylvania",
+        "Philadelphia",
+        "Crash on I-95 southbound between Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT and 2 miles SOUTH of Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT. All lanes now open.",
+        "9/7/26, 10:41 PM",
+        "9/7/26, 11:59 PM",
+        "9/7/26, 11:00 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374461"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Crash on I-95 southbound between Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT and 2 miles SOUTH of Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 10:41 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 11:59 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 11:00 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374461\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tCrash on I-95 southbound between Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT and 2 miles SOUTH of Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT. All lanes now open.\t9/7/26, 10:41 PM\t9/7/26, 11:59 PM\t9/7/26, 11:00 PM\tView on map"
+    },
     {
       "eventId": "374460",
       "cells": [
@@ -42,35 +71,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Fire department activity on I-95 northbound between Exit 23: GIRARD AV/LEHIGH AV and Exit 25: ALLEGHENY AVE/CASTOR AVE.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 10:41 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 11:27 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:54 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374460\">View on map</a></td>",
       "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tFire department activity on I-95 northbound between Exit 23: GIRARD AV/LEHIGH AV and Exit 25: ALLEGHENY AVE/CASTOR AVE. All lanes now open.\t9/7/26, 10:41 PM\t9/7/26, 11:27 PM\t9/7/26, 10:54 PM\tView on map"
-    },
-    {
-      "eventId": "374461",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-95",
-        "Pennsylvania",
-        "Philadelphia",
-        "Crash on I-95 southbound between Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT and 2 miles SOUTH of Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT. There is a lane restriction.",
-        "9/7/26, 10:41 PM",
-        "9/7/26, 11:59 PM",
-        "9/7/26, 10:50 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374461"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Crash on I-95 southbound between Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT and 2 miles SOUTH of Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 10:41 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 11:59 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:50 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374461\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tCrash on I-95 southbound between Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT and 2 miles SOUTH of Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT. There is a lane restriction.\t9/7/26, 10:41 PM\t9/7/26, 11:59 PM\t9/7/26, 10:50 PM\tView on map"
     },
     {
       "eventId": null,
@@ -129,35 +129,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 202</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Fire department activity on US 202 northbound between CROOKED LN, FORD ST and EIGHTH ST.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 9:49 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 11:55 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:39 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-374450\">View on map</a></td>",
       "text": "Incident - Other Route\tUS - 202\tPennsylvania\tMontgomery\tFire department activity on US 202 northbound between CROOKED LN, FORD ST and EIGHTH ST. All lanes now open.\t9/7/26, 9:49 PM\t9/7/26, 11:55 PM\t9/7/26, 10:39 PM\tView on map"
-    },
-    {
-      "eventId": "374445",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I - 676",
-        "Pennsylvania",
-        "Philadelphia",
-        "Multi vehicle crash on I-676 westbound at (End of I - 676). All lanes now open.",
-        "9/7/26, 9:25 PM",
-        "9/7/26, 10:50 PM",
-        "9/7/26, 10:28 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374445"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I - 676</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on I-676 westbound at (End of I - 676).  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 9:25 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 10:50 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:28 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374445\">View on map</a></td>",
-      "text": "Incident - Major Route\tI - 676\tPennsylvania\tPhiladelphia\tMulti vehicle crash on I-676 westbound at (End of I - 676). All lanes now open.\t9/7/26, 9:25 PM\t9/7/26, 10:50 PM\t9/7/26, 10:28 PM\tView on map"
     },
     {
       "eventId": "374446",
@@ -2913,6 +2884,35 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 220</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clinton</td><td><span class=\"colHeader\">Description</span>Roadwork on US 220 southbound between Exit 111: PA 120 WEST - LOCK HAVEN and 1 miles SOUTH of Exit 111: PA 120 WEST - LOCK HAVEN.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>6/16/26, 10:36 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/1/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/25/26, 6:20 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-285468\">View on map</a></td>",
       "text": "Active Roadwork\tUS - 220\tPennsylvania\tClinton\tRoadwork on US 220 southbound between Exit 111: PA 120 WEST - LOCK HAVEN and 1 miles SOUTH of Exit 111: PA 120 WEST - LOCK HAVEN. There is a lane restriction.\t6/16/26, 10:36 AM\t10/1/26, 3:00 PM\t8/25/26, 6:20 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-374",
+        "Pennsylvania",
+        "Susquehanna",
+        "ROADWORK on PA-374 Westbound between SR 0106 SH and SR 0106 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "8/25/26, 1:38 PM",
+        "11/5/26, 3:00 PM",
+        "8/25/26, 1:39 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-373854"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-374</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Susquehanna</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-374 Westbound between SR 0106 SH and SR 0106 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>8/25/26, 1:38 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>11/5/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/25/26, 1:39 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-373854\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-374\tPennsylvania\tSusquehanna\tROADWORK on PA-374 Westbound between SR 0106 SH and SR 0106 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t8/25/26, 1:38 PM\t11/5/26, 3:00 PM\t8/25/26, 1:39 PM\tView on map"
     }
   ]
 }
