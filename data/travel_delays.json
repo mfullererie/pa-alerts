@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T19:09:44.386Z",
+  "fetched_at": "2026-09-08T19:13:51.220Z",
   "headers": [
     "",
     "Type",
@@ -18,6 +18,93 @@
       "eventId": null,
       "cells": [
         "Row Details",
+        "Incident - Other Route",
+        "BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY",
+        "Pennsylvania",
+        "Chester",
+        "Police activity on BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY westbound between MUNICIPAL DR and N BAILEY RD. All lanes now open.",
+        "9/8/26, 2:49 PM",
+        "9/8/26, 3:35 PM",
+        "9/8/26, 3:10 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteIncident-375036"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Police activity on BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY westbound between MUNICIPAL DR and N BAILEY RD.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:49 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:35 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 3:10 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-375036\">View on map</a></td>",
+      "text": "Incident - Other Route\tBUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY\tPennsylvania\tChester\tPolice activity on BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY westbound between MUNICIPAL DR and N BAILEY RD. All lanes now open.\t9/8/26, 2:49 PM\t9/8/26, 3:35 PM\t9/8/26, 3:10 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST",
+        "Pennsylvania",
+        "Philadelphia",
+        "Utility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST southbound between CONSHOHOCKEN AV and MONUMENT RD. All lanes now open.",
+        "9/8/26, 9:09 AM",
+        "9/8/26, 3:23 PM",
+        "9/8/26, 3:10 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374798"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Utility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST southbound between CONSHOHOCKEN AV and MONUMENT RD.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:09 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:23 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 3:10 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374798\">View on map</a></td>",
+      "text": "Active Roadwork\tTHIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST\tPennsylvania\tPhiladelphia\tUtility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST southbound between CONSHOHOCKEN AV and MONUMENT RD. All lanes now open.\t9/8/26, 9:09 AM\t9/8/26, 3:23 PM\t9/8/26, 3:10 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST",
+        "Pennsylvania",
+        "Philadelphia",
+        "Utility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST northbound between MONUMENT RD and CONSHOHOCKEN AV. All lanes now open.",
+        "9/8/26, 9:09 AM",
+        "9/8/26, 3:23 PM",
+        "9/8/26, 3:10 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374797"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Utility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST northbound between MONUMENT RD and CONSHOHOCKEN AV.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:09 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:23 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 3:10 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374797\">View on map</a></td>",
+      "text": "Active Roadwork\tTHIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST\tPennsylvania\tPhiladelphia\tUtility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST northbound between MONUMENT RD and CONSHOHOCKEN AV. All lanes now open.\t9/8/26, 9:09 AM\t9/8/26, 3:23 PM\t9/8/26, 3:10 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
         "Active Roadwork",
         "I-81",
         "Pennsylvania",
@@ -25,7 +112,7 @@
         "ROADWORK on I-81 Southbound between MM 217 and MM 216. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
         "9/8/26, 3:07 PM",
         "9/11/26, 3:30 PM",
-        "9/8/26, 3:07 PM",
+        "9/8/26, 3:09 PM",
         "View on map"
       ],
       "links": [
@@ -40,8 +127,8 @@
         "",
         "https://www.511pa.com/map#ActiveRoadwork-375046"
       ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Susquehanna</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 217 and MM 216. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 3:07 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/11/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 3:07 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375046\">View on map</a></td>",
-      "text": "Active Roadwork\tI-81\tPennsylvania\tSusquehanna\tROADWORK on I-81 Southbound between MM 217 and MM 216. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 3:07 PM\t9/11/26, 3:30 PM\t9/8/26, 3:07 PM\tView on map"
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Susquehanna</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 217 and MM 216. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 3:07 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/11/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 3:09 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375046\">View on map</a></td>",
+      "text": "Active Roadwork\tI-81\tPennsylvania\tSusquehanna\tROADWORK on I-81 Southbound between MM 217 and MM 216. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 3:07 PM\t9/11/26, 3:30 PM\t9/8/26, 3:09 PM\tView on map"
     },
     {
       "eventId": null,
@@ -477,35 +564,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 401</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Utility work on PA 401 both directions between LEXINGTON BL and PINEHURST DR.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:53 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:53 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374925\">View on map</a></td>",
       "text": "Active Roadwork\tPA - 401\tPennsylvania\tChester\tUtility work on PA 401 both directions between LEXINGTON BL and PINEHURST DR. There is a traffic disruption.\t9/8/26, 2:53 PM\t9/8/26, 3:20 PM\t9/8/26, 2:53 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Incident - Other Route",
-        "BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY",
-        "Pennsylvania",
-        "Chester",
-        "Police activity on BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY westbound between MUNICIPAL DR and N BAILEY RD. There is a lane restriction.",
-        "9/8/26, 2:49 PM",
-        "9/8/26, 3:35 PM",
-        "9/8/26, 2:53 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteIncident-375036"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Police activity on BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY westbound between MUNICIPAL DR and N BAILEY RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:49 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:35 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:53 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-375036\">View on map</a></td>",
-      "text": "Incident - Other Route\tBUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY\tPennsylvania\tChester\tPolice activity on BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY westbound between MUNICIPAL DR and N BAILEY RD. There is a lane restriction.\t9/8/26, 2:49 PM\t9/8/26, 3:35 PM\t9/8/26, 2:53 PM\tView on map"
     },
     {
       "eventId": null,
@@ -1091,64 +1149,6 @@
       "eventId": null,
       "cells": [
         "Row Details",
-        "Active Roadwork",
-        "TACONY ST / STATE RD",
-        "Pennsylvania",
-        "Philadelphia",
-        "Roadwork on TACONY ST / STATE RD southbound between VAN KIRK ST and BRIDGE ST. All lanes now open.",
-        "9/8/26, 9:15 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 2:41 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374810"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>TACONY ST / STATE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on TACONY ST / STATE RD southbound between VAN KIRK ST and BRIDGE ST.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:15 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:41 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374810\">View on map</a></td>",
-      "text": "Active Roadwork\tTACONY ST / STATE RD\tPennsylvania\tPhiladelphia\tRoadwork on TACONY ST / STATE RD southbound between VAN KIRK ST and BRIDGE ST. All lanes now open.\t9/8/26, 9:15 AM\t9/8/26, 3:00 PM\t9/8/26, 2:41 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA - 291",
-        "Pennsylvania",
-        "Philadelphia",
-        "Roadwork on PA 291 eastbound between Exit: I-95 SOUTH - CHESTER/WILMINGTON and LC FROM PENROSE AV. All lanes now open.",
-        "9/8/26, 9:44 AM",
-        "9/8/26, 3:30 PM",
-        "9/8/26, 2:41 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375029"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 291</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 291 eastbound between Exit: I-95 SOUTH - CHESTER/WILMINGTON and LC FROM PENROSE AV.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:44 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:41 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375029\">View on map</a></td>",
-      "text": "Active Roadwork\tPA - 291\tPennsylvania\tPhiladelphia\tRoadwork on PA 291 eastbound between Exit: I-95 SOUTH - CHESTER/WILMINGTON and LC FROM PENROSE AV. All lanes now open.\t9/8/26, 9:44 AM\t9/8/26, 3:30 PM\t9/8/26, 2:41 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
         "Incident - Other Route",
         "PA-764",
         "Pennsylvania",
@@ -1231,35 +1231,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4020) MAPLE DR</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on (4020) MAPLE DR Eastbound between EVERGREEN RD and EVERGREEN RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:51 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 4:40 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:23 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374869\">View on map</a></td>",
       "text": "Closure - Other Route\t(4020) MAPLE DR\tPennsylvania\tNorthampton\tROADWORK on (4020) MAPLE DR Eastbound between EVERGREEN RD and EVERGREEN RD. Closed.\t9/8/26, 9:51 AM\t9/9/26, 4:40 PM\t9/8/26, 2:23 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-81",
-        "Pennsylvania",
-        "Schuylkill",
-        "ROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.",
-        "9/8/26, 8:31 AM",
-        "9/8/26, 5:00 PM",
-        "9/8/26, 2:12 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374683"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Schuylkill</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:31 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:12 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374683\">View on map</a></td>",
-      "text": "Active Roadwork\tI-81\tPennsylvania\tSchuylkill\tROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.\t9/8/26, 8:31 AM\t9/8/26, 5:00 PM\t9/8/26, 2:12 PM\tView on map"
     },
     {
       "eventId": null,
@@ -2716,64 +2687,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST",
-        "Pennsylvania",
-        "Philadelphia",
-        "Utility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST southbound between CONSHOHOCKEN AV and MONUMENT RD. There is a traffic disruption.",
-        "9/8/26, 9:09 AM",
-        "9/8/26, 3:23 PM",
-        "9/8/26, 9:13 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374798"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Utility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST southbound between CONSHOHOCKEN AV and MONUMENT RD.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:09 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:23 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:13 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374798\">View on map</a></td>",
-      "text": "Active Roadwork\tTHIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST\tPennsylvania\tPhiladelphia\tUtility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST southbound between CONSHOHOCKEN AV and MONUMENT RD. There is a traffic disruption.\t9/8/26, 9:09 AM\t9/8/26, 3:23 PM\t9/8/26, 9:13 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST",
-        "Pennsylvania",
-        "Philadelphia",
-        "Utility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST northbound between MONUMENT RD and CONSHOHOCKEN AV. There is a traffic disruption.",
-        "9/8/26, 9:09 AM",
-        "9/8/26, 3:23 PM",
-        "9/8/26, 9:12 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374797"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Utility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST northbound between MONUMENT RD and CONSHOHOCKEN AV.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:09 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:23 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:12 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374797\">View on map</a></td>",
-      "text": "Active Roadwork\tTHIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST\tPennsylvania\tPhiladelphia\tUtility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST northbound between MONUMENT RD and CONSHOHOCKEN AV. There is a traffic disruption.\t9/8/26, 9:09 AM\t9/8/26, 3:23 PM\t9/8/26, 9:12 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "PA - 232",
         "Pennsylvania",
         "Bucks",
@@ -2913,6 +2826,93 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-35</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Juniata</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-35 BOTH DIRECTIONS between COCOLAMUS RD and HEISTER VALLEY RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:57 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:10 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:57 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374738\">View on map</a></td>",
       "text": "Active Roadwork\tPA-35\tPennsylvania\tJuniata\tROADWORK on PA-35 BOTH DIRECTIONS between COCOLAMUS RD and HEISTER VALLEY RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 8:57 AM\t9/8/26, 7:10 PM\t9/8/26, 8:57 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "SOUTH AV / PROVIDENCE RD",
+        "Pennsylvania",
+        "Delaware",
+        "Roadwork on SOUTH AV / PROVIDENCE RD both directions at HILLDALE RD. There is a traffic disruption.",
+        "9/8/26, 8:48 AM",
+        "9/8/26, 4:00 PM",
+        "9/8/26, 8:55 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374736"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>SOUTH AV / PROVIDENCE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Roadwork on SOUTH AV / PROVIDENCE RD both directions at HILLDALE RD.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:48 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:55 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374736\">View on map</a></td>",
+      "text": "Active Roadwork\tSOUTH AV / PROVIDENCE RD\tPennsylvania\tDelaware\tRoadwork on SOUTH AV / PROVIDENCE RD both directions at HILLDALE RD. There is a traffic disruption.\t9/8/26, 8:48 AM\t9/8/26, 4:00 PM\t9/8/26, 8:55 AM\tView on map"
+    },
+    {
+      "eventId": "374653",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "(2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD",
+        "Pennsylvania",
+        "Dauphin",
+        "ROADWORK on (2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD BOTH DIRECTIONS At SCHOOLHOUSE RD. Closed.",
+        "9/8/26, 8:15 AM",
+        "10/15/26, 3:00 PM",
+        "9/8/26, 8:54 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-374653"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>ROADWORK on (2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD BOTH DIRECTIONS At SCHOOLHOUSE RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:15 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/15/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:54 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374653\">View on map</a></td>",
+      "text": "Closure - Other Route\t(2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD\tPennsylvania\tDauphin\tROADWORK on (2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD BOTH DIRECTIONS At SCHOOLHOUSE RD. Closed.\t9/8/26, 8:15 AM\t10/15/26, 3:00 PM\t9/8/26, 8:54 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-371",
+        "Pennsylvania",
+        "Wayne",
+        "ROADWORK on PA-371 Eastbound between (CO 57) GREAT BEND PK and NILES POND RD. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 8:50 AM",
+        "9/8/26, 5:00 PM",
+        "9/8/26, 8:50 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374722"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-371</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Wayne</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-371 Eastbound between (CO 57) GREAT BEND PK and NILES POND RD. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:50 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:50 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374722\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-371\tPennsylvania\tWayne\tROADWORK on PA-371 Eastbound between (CO 57) GREAT BEND PK and NILES POND RD. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 8:50 AM\t9/8/26, 5:00 PM\t9/8/26, 8:50 AM\tView on map"
     }
   ]
 }
