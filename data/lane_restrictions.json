@@ -1,9 +1,24 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T11:53:42.400Z",
+  "fetched_at": "2026-09-08T11:58:35.904Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
   "count": 2,
   "items": [
+    {
+      "id": "374615",
+      "eventId": "374615",
+      "type": "Incident - Major Route",
+      "roadway": "US-11",
+      "state": "Pennsylvania",
+      "county": "Cumberland",
+      "route": "US-11",
+      "direction": "NORTH",
+      "description": "CRASH (Multi-Vehicle) on US-11 Northbound At Exit PA 581 WEST TO I-81. Left Lane (of 3 Lanes) Blocked.",
+      "start_time": "9/8/26, 7:54 AM",
+      "anticipated_end_time": "9/8/26, 8:37 AM",
+      "last_updated": "9/8/26, 7:55 AM",
+      "formatted": "US-11 (Cumberland County) | CRASH (Multi-Vehicle) on US-11 Northbound At Exit PA 581 WEST TO I-81. Left Lane Blocked. Estimated Reopen: 9/8/26 - 08:37"
+    },
     {
       "id": "374606",
       "eventId": "374606",
@@ -18,21 +33,6 @@
       "anticipated_end_time": "9/8/26, 8:56 AM",
       "last_updated": "9/8/26, 7:51 AM",
       "formatted": "US-422 (Montgomery County) | Police activity on US 422 eastbound between Exit: TRAPPE/ROYERSFORD and Exit: PA 29 NORTH COLLEGEVILLE. Estimated Reopen: 9/8/26 - 08:56"
-    },
-    {
-      "id": "374585",
-      "eventId": "374585",
-      "type": "Incident - Major Route",
-      "roadway": "I-76",
-      "state": "Pennsylvania",
-      "county": "Chester",
-      "route": "I-76",
-      "direction": "EAST",
-      "description": "Incident on I-76 East. The left lane is blocked, expect delays.",
-      "start_time": "9/8/26, 7:32 AM",
-      "anticipated_end_time": "",
-      "last_updated": "9/8/26, 7:43 AM",
-      "formatted": "I-76 (Chester County) | Incident on I-76 East. The left lane is blocked. Estimated Reopen: TBD"
     }
   ]
 }
