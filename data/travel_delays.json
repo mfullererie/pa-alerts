@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T11:28:33.275Z",
+  "fetched_at": "2026-09-08T11:33:35.251Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,93 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Incident - Other Route",
+        "PA-487",
+        "Pennsylvania",
+        "Columbia",
+        "CRASH on PA-487 BOTH DIRECTIONS At NUMIDIA DR. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.",
+        "9/8/26, 7:30 AM",
+        "9/8/26, 9:00 AM",
+        "9/8/26, 7:32 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteIncident-374584"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-487</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Columbia</td><td><span class=\"colHeader\">Description</span>CRASH on PA-487 BOTH DIRECTIONS At NUMIDIA DR. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:30 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:32 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-374584\">View on map</a></td>",
+      "text": "Incident - Other Route\tPA-487\tPennsylvania\tColumbia\tCRASH on PA-487 BOTH DIRECTIONS At NUMIDIA DR. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 7:30 AM\t9/8/26, 9:00 AM\t9/8/26, 7:32 AM\tView on map"
+    },
+    {
+      "eventId": "374585",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-76",
+        "Pennsylvania",
+        "Chester",
+        "Incident on I-76 East. The left lane is blocked, expect delays.",
+        "9/8/26, 7:32 AM",
+        "",
+        "9/8/26, 7:31 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374585"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Incident on I-76 East. The left lane is blocked, expect delays.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:32 AM</td><td><span class=\"colHeader\">Anticipated End Time</span></td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:31 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374585\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-76\tPennsylvania\tChester\tIncident on I-76 East. The left lane is blocked, expect delays.\t9/8/26, 7:32 AM\t\t9/8/26, 7:31 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "US-322",
+        "Pennsylvania",
+        "Clarion",
+        "ROADWORK on US-322 BOTH DIRECTIONS between KNIGHTOWN RD and KNIGHTOWN RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.",
+        "9/8/26, 7:29 AM",
+        "9/8/26, 5:05 PM",
+        "9/8/26, 7:30 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374583"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-322</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clarion</td><td><span class=\"colHeader\">Description</span>ROADWORK on US-322 BOTH DIRECTIONS between KNIGHTOWN RD and KNIGHTOWN RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:29 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:05 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:30 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374583\">View on map</a></td>",
+      "text": "Active Roadwork\tUS-322\tPennsylvania\tClarion\tROADWORK on US-322 BOTH DIRECTIONS between KNIGHTOWN RD and KNIGHTOWN RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.\t9/8/26, 7:29 AM\t9/8/26, 5:05 PM\t9/8/26, 7:30 AM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -651,35 +738,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-106</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Susquehanna</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-106 BOTH DIRECTIONS between Exit I-81 SOUTH - SCRANTON and RAMP FROM I-81 N. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:02 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374534\">View on map</a></td>",
       "text": "Active Roadwork\tPA-106\tPennsylvania\tSusquehanna\tROADWORK on PA-106 BOTH DIRECTIONS between Exit I-81 SOUTH - SCRANTON and RAMP FROM I-81 N. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 7:02 AM\t9/8/26, 4:30 PM\t9/8/26, 7:03 AM\tView on map"
-    },
-    {
-      "eventId": "374512",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-95",
-        "Pennsylvania",
-        "Philadelphia",
-        "Disabled vehicle on I-95 northbound 0 miles south of Exit 27: I95 NORTH - TRENTON. All lanes now open.",
-        "9/8/26, 6:29 AM",
-        "9/8/26, 8:00 AM",
-        "9/8/26, 7:01 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374512"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-95 northbound 0 miles south of Exit 27: I95 NORTH - TRENTON.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:29 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:01 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374512\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-95 northbound 0 miles south of Exit 27: I95 NORTH - TRENTON. All lanes now open.\t9/8/26, 6:29 AM\t9/8/26, 8:00 AM\t9/8/26, 7:01 AM\tView on map"
     },
     {
       "eventId": "374523",
@@ -2855,64 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lackawanna</td><td><span class=\"colHeader\">Description</span>Road work on I-476 North. The right shoulder is closed.</td><td><span class=\"colHeader\">Start Time</span>11/3/25, 7:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/30/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/31/26, 7:28 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-122369\">View on map</a></td>",
       "text": "Active Roadwork\tI-476\tPennsylvania\tLackawanna\tRoad work on I-476 North. The right shoulder is closed.\t11/3/25, 7:00 AM\t9/30/26, 3:00 PM\t8/31/26, 7:28 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "FRANCIS MINE RD",
-        "Pennsylvania",
-        "Washington",
-        "Damaged roadway on FRANCIS MINE RD both directions between TOWNSHIP 0352 RT and DINSMORE DAM RD. There is a lane restriction.",
-        "2/18/22, 5:32 PM",
-        "8/31/27, 3:00 PM",
-        "8/31/26, 2:24 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-252051"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>FRANCIS MINE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Washington</td><td><span class=\"colHeader\">Description</span>Damaged roadway on FRANCIS MINE RD both directions between TOWNSHIP 0352 RT and DINSMORE DAM RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>2/18/22, 5:32 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>8/31/27, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/31/26, 2:24 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-252051\">View on map</a></td>",
-      "text": "Active Roadwork\tFRANCIS MINE RD\tPennsylvania\tWashington\tDamaged roadway on FRANCIS MINE RD both directions between TOWNSHIP 0352 RT and DINSMORE DAM RD. There is a lane restriction.\t2/18/22, 5:32 PM\t8/31/27, 3:00 PM\t8/31/26, 2:24 PM\tView on map"
-    },
-    {
-      "eventId": "340937",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "PA - 281",
-        "Pennsylvania",
-        "Fayette",
-        "Roadwork on PA 281 both directions between SUGAR LOAF RD and FLANIGAN RD. All lanes closed.",
-        "8/31/26, 1:26 PM",
-        "10/16/26, 2:00 PM",
-        "8/31/26, 1:28 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-340937"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 281</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Fayette</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 281 both directions between SUGAR LOAF RD and FLANIGAN RD.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>8/31/26, 1:26 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/16/26, 2:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/31/26, 1:28 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-340937\">View on map</a></td>",
-      "text": "Closure - Other Route\tPA - 281\tPennsylvania\tFayette\tRoadwork on PA 281 both directions between SUGAR LOAF RD and FLANIGAN RD. All lanes closed.\t8/31/26, 1:26 PM\t10/16/26, 2:00 PM\t8/31/26, 1:28 PM\tView on map"
     }
   ]
 }
