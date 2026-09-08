@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T21:44:45.681Z",
+  "fetched_at": "2026-09-08T21:48:30.413Z",
   "headers": [
     "",
     "Type",
@@ -22,10 +22,10 @@
         "I-81",
         "Pennsylvania",
         "Dauphin",
-        "CRASH on I-81 Southbound between Exit PA 39 - MANADA HILL/HERSHEY and RAMP FROM SR 3019 (MOUNTAIN RD) AT EXIT 72 - LINGL. Closed.",
+        "CRASH on I-81 Southbound At Exit PA 39 - MANADA HILL/HERSHEY. Closed.",
         "9/8/26, 4:35 PM",
         "9/8/26, 8:00 PM",
-        "9/8/26, 5:42 PM",
+        "9/8/26, 5:48 PM",
         "View on map"
       ],
       "links": [
@@ -40,8 +40,211 @@
         "",
         "https://www.511pa.com/map#MajorRouteClosure-375113"
       ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>CRASH on I-81 Southbound between Exit PA 39 - MANADA HILL/HERSHEY and RAMP FROM SR 3019 (MOUNTAIN RD) AT EXIT 72 - LINGL. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:35 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:42 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteClosure-375113\">View on map</a></td>",
-      "text": "Closure - Major Route\tI-81\tPennsylvania\tDauphin\tCRASH on I-81 Southbound between Exit PA 39 - MANADA HILL/HERSHEY and RAMP FROM SR 3019 (MOUNTAIN RD) AT EXIT 72 - LINGL. Closed.\t9/8/26, 4:35 PM\t9/8/26, 8:00 PM\t9/8/26, 5:42 PM\tView on map"
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>CRASH on I-81 Southbound At Exit PA 39 - MANADA HILL/HERSHEY. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:35 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:48 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteClosure-375113\">View on map</a></td>",
+      "text": "Closure - Major Route\tI-81\tPennsylvania\tDauphin\tCRASH on I-81 Southbound At Exit PA 39 - MANADA HILL/HERSHEY. Closed.\t9/8/26, 4:35 PM\t9/8/26, 8:00 PM\t9/8/26, 5:48 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-61",
+        "Pennsylvania",
+        "Berks",
+        "ROADWORK on PA-61 Southbound between LOWLAND RD and JETSON DR. Left Lane (of 2 Lanes) Blocked, All Left Turn Lanes Closed.",
+        "9/8/26, 5:47 PM",
+        "9/9/26, 8:00 AM",
+        "9/8/26, 5:47 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375162"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-61</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Berks</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-61 Southbound between LOWLAND RD and JETSON DR. Left Lane (of 2 Lanes) Blocked, All Left Turn Lanes Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 5:47 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 8:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:47 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375162\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-61\tPennsylvania\tBerks\tROADWORK on PA-61 Southbound between LOWLAND RD and JETSON DR. Left Lane (of 2 Lanes) Blocked, All Left Turn Lanes Closed.\t9/8/26, 5:47 PM\t9/9/26, 8:00 AM\t9/8/26, 5:47 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-476",
+        "Pennsylvania",
+        "Bucks",
+        "Road work on I-476 South. The right lane is closed.",
+        "9/8/26, 8:00 AM",
+        "9/8/26, 5:19 PM",
+        "9/8/26, 5:45 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374650"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bucks</td><td><span class=\"colHeader\">Description</span>Road work on I-476 South. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:19 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:45 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374650\">View on map</a></td>",
+      "text": "Active Roadwork\tI-476\tPennsylvania\tBucks\tRoad work on I-476 South. The right lane is closed.\t9/8/26, 8:00 AM\t9/8/26, 5:19 PM\t9/8/26, 5:45 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-76",
+        "Pennsylvania",
+        "Somerset",
+        "Mobile closure on I-76 East. Be alert for a moving lane closure in this area.",
+        "9/8/26, 9:24 AM",
+        "9/8/26, 5:00 PM",
+        "9/8/26, 5:45 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374824"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Somerset</td><td><span class=\"colHeader\">Description</span>Mobile closure on I-76 East. Be alert for a moving lane closure in this area.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:24 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:45 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374824\">View on map</a></td>",
+      "text": "Active Roadwork\tI-76\tPennsylvania\tSomerset\tMobile closure on I-76 East. Be alert for a moving lane closure in this area.\t9/8/26, 9:24 AM\t9/8/26, 5:00 PM\t9/8/26, 5:45 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-76",
+        "Pennsylvania",
+        "Somerset",
+        "Mobile closure on I-76 West. Be alert for a moving lane closure in this area.",
+        "9/8/26, 9:25 AM",
+        "9/8/26, 5:00 PM",
+        "9/8/26, 5:45 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374827"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Somerset</td><td><span class=\"colHeader\">Description</span>Mobile closure on I-76 West. Be alert for a moving lane closure in this area.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:25 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:45 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374827\">View on map</a></td>",
+      "text": "Active Roadwork\tI-76\tPennsylvania\tSomerset\tMobile closure on I-76 West. Be alert for a moving lane closure in this area.\t9/8/26, 9:25 AM\t9/8/26, 5:00 PM\t9/8/26, 5:45 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-476",
+        "Pennsylvania",
+        "Carbon",
+        "Road work on I-476 South. The right lane is closed.",
+        "9/8/26, 4:00 PM",
+        "9/9/26, 12:00 PM",
+        "9/8/26, 5:44 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375083"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Carbon</td><td><span class=\"colHeader\">Description</span>Road work on I-476 South. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:44 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375083\">View on map</a></td>",
+      "text": "Active Roadwork\tI-476\tPennsylvania\tCarbon\tRoad work on I-476 South. The right lane is closed.\t9/8/26, 4:00 PM\t9/9/26, 12:00 PM\t9/8/26, 5:44 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-476",
+        "Pennsylvania",
+        "Carbon",
+        "Road work on I-476 South. The left lane is closed.",
+        "9/8/26, 6:00 AM",
+        "9/10/26, 10:00 AM",
+        "9/8/26, 5:44 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374501"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Carbon</td><td><span class=\"colHeader\">Description</span>Road work on I-476 South. The left lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/10/26, 10:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:44 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374501\">View on map</a></td>",
+      "text": "Active Roadwork\tI-476\tPennsylvania\tCarbon\tRoad work on I-476 South. The left lane is closed.\t9/8/26, 6:00 AM\t9/10/26, 10:00 AM\t9/8/26, 5:44 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-376",
+        "Pennsylvania",
+        "Beaver",
+        "Road work on I-376 West. The right lane is closed.",
+        "9/8/26, 4:36 AM",
+        "9/22/26, 4:36 AM",
+        "9/8/26, 5:44 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374580"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-376 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Beaver</td><td><span class=\"colHeader\">Description</span>Road work on I-376 West. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:36 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/22/26, 4:36 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:44 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374580\">View on map</a></td>",
+      "text": "Active Roadwork\tI-376\tPennsylvania\tBeaver\tRoad work on I-376 West. The right lane is closed.\t9/8/26, 4:36 AM\t9/22/26, 4:36 AM\t9/8/26, 5:44 PM\tView on map"
     },
     {
       "eventId": "374842",
@@ -421,64 +624,6 @@
       "text": "Incident - Major Route\tI-95\tPennsylvania\tBucks\tDisabled vehicle on I-95 northbound at Exit 39: PA 413 - BRISTOL. There is a shoulder closed.\t9/8/26, 5:15 PM\t9/8/26, 6:30 PM\t9/8/26, 5:16 PM\tView on map"
     },
     {
-      "eventId": "375104",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-95",
-        "Pennsylvania",
-        "Bucks",
-        "Multi vehicle crash on I-95 northbound between .4 miles south of Exit 35: PA 63 WEST - WOODHAVEN ROAD and .3 miles north of Exit 35: PA 63 WEST - WOODHAVEN ROAD. All lanes now open.",
-        "9/8/26, 4:13 PM",
-        "9/8/26, 4:59 PM",
-        "9/8/26, 5:14 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-375104"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bucks</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on I-95 northbound between .4 miles south of Exit 35: PA 63 WEST - WOODHAVEN ROAD and .3 miles north of Exit 35: PA 63 WEST - WOODHAVEN ROAD.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:13 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:59 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:14 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375104\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-95\tPennsylvania\tBucks\tMulti vehicle crash on I-95 northbound between .4 miles south of Exit 35: PA 63 WEST - WOODHAVEN ROAD and .3 miles north of Exit 35: PA 63 WEST - WOODHAVEN ROAD. All lanes now open.\t9/8/26, 4:13 PM\t9/8/26, 4:59 PM\t9/8/26, 5:14 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-476",
-        "Pennsylvania",
-        "Bucks",
-        "Road work on I-476 South. The right lane is closed.",
-        "9/8/26, 8:00 AM",
-        "9/8/26, 5:19 PM",
-        "9/8/26, 5:09 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374650"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bucks</td><td><span class=\"colHeader\">Description</span>Road work on I-476 South. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:19 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:09 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374650\">View on map</a></td>",
-      "text": "Active Roadwork\tI-476\tPennsylvania\tBucks\tRoad work on I-476 South. The right lane is closed.\t9/8/26, 8:00 AM\t9/8/26, 5:19 PM\t9/8/26, 5:09 PM\tView on map"
-    },
-    {
       "eventId": null,
       "cells": [
         "Row Details",
@@ -537,64 +682,6 @@
       "text": "Active Roadwork\tPA-18\tPennsylvania\tGreene\tROADWORK on PA-18 Northbound At ROY E FURMAN HW. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 10:42 AM\t9/8/26, 6:00 PM\t9/8/26, 5:03 PM\tView on map"
     },
     {
-      "eventId": "375129",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "PA-130",
-        "Pennsylvania",
-        "Westmoreland",
-        "CRASH on PA-130 Eastbound between BURRELL HILL RD and FOURTEENTH ST. Closed.",
-        "9/8/26, 4:59 PM",
-        "9/8/26, 11:45 PM",
-        "9/8/26, 5:00 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-375129"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-130</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Westmoreland</td><td><span class=\"colHeader\">Description</span>CRASH on PA-130 Eastbound between BURRELL HILL RD and FOURTEENTH ST. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:59 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 11:45 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:00 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-375129\">View on map</a></td>",
-      "text": "Closure - Other Route\tPA-130\tPennsylvania\tWestmoreland\tCRASH on PA-130 Eastbound between BURRELL HILL RD and FOURTEENTH ST. Closed.\t9/8/26, 4:59 PM\t9/8/26, 11:45 PM\t9/8/26, 5:00 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-476",
-        "Pennsylvania",
-        "Carbon",
-        "Road work on I-476 South. The right lane is closed.",
-        "9/8/26, 4:00 PM",
-        "9/9/26, 12:00 PM",
-        "9/8/26, 4:57 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375083"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Carbon</td><td><span class=\"colHeader\">Description</span>Road work on I-476 South. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:57 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375083\">View on map</a></td>",
-      "text": "Active Roadwork\tI-476\tPennsylvania\tCarbon\tRoad work on I-476 South. The right lane is closed.\t9/8/26, 4:00 PM\t9/9/26, 12:00 PM\t9/8/26, 4:57 PM\tView on map"
-    },
-    {
       "eventId": "375126",
       "cells": [
         "Row Details",
@@ -651,64 +738,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Luzerne</td><td><span class=\"colHeader\">Description</span>Road work on I-476 South. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 6:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:53 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374813\">View on map</a></td>",
       "text": "Active Roadwork\tI-476\tPennsylvania\tLuzerne\tRoad work on I-476 South. The right lane is closed.\t9/8/26, 6:00 AM\t9/8/26, 6:00 PM\t9/8/26, 4:53 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-76",
-        "Pennsylvania",
-        "Somerset",
-        "Mobile closure on I-76 East. Be alert for a moving lane closure in this area.",
-        "9/8/26, 9:24 AM",
-        "9/8/26, 5:00 PM",
-        "9/8/26, 4:50 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374824"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Somerset</td><td><span class=\"colHeader\">Description</span>Mobile closure on I-76 East. Be alert for a moving lane closure in this area.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:24 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:50 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374824\">View on map</a></td>",
-      "text": "Active Roadwork\tI-76\tPennsylvania\tSomerset\tMobile closure on I-76 East. Be alert for a moving lane closure in this area.\t9/8/26, 9:24 AM\t9/8/26, 5:00 PM\t9/8/26, 4:50 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-76",
-        "Pennsylvania",
-        "Somerset",
-        "Mobile closure on I-76 West. Be alert for a moving lane closure in this area.",
-        "9/8/26, 9:25 AM",
-        "9/8/26, 5:00 PM",
-        "9/8/26, 4:50 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374827"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Somerset</td><td><span class=\"colHeader\">Description</span>Mobile closure on I-76 West. Be alert for a moving lane closure in this area.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:25 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:50 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374827\">View on map</a></td>",
-      "text": "Active Roadwork\tI-76\tPennsylvania\tSomerset\tMobile closure on I-76 West. Be alert for a moving lane closure in this area.\t9/8/26, 9:25 AM\t9/8/26, 5:00 PM\t9/8/26, 4:50 PM\tView on map"
     },
     {
       "eventId": "375086",
@@ -796,35 +825,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-247</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Susquehanna</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-247 Northbound between PRIVATE DR and SR 2023 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:34 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:29 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374513\">View on map</a></td>",
       "text": "Active Roadwork\tPA-247\tPennsylvania\tSusquehanna\tROADWORK on PA-247 Northbound between PRIVATE DR and SR 2023 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 6:34 AM\t9/8/26, 8:00 PM\t9/8/26, 4:29 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-80",
-        "Pennsylvania",
-        "Clearfield",
-        "ROADWORK on I-80 Westbound between MM 99 and MM 95. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.",
-        "9/8/26, 1:00 PM",
-        "9/8/26, 6:15 PM",
-        "9/8/26, 4:14 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374979"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Westbound between MM 99 and MM 95. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 1:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 6:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:14 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374979\">View on map</a></td>",
-      "text": "Active Roadwork\tI-80\tPennsylvania\tClearfield\tROADWORK on I-80 Westbound between MM 99 and MM 95. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.\t9/8/26, 1:00 PM\t9/8/26, 6:15 PM\t9/8/26, 4:14 PM\tView on map"
     },
     {
       "eventId": null,
@@ -1581,35 +1581,6 @@
       "text": "Active Roadwork\tI-476\tPennsylvania\tCarbon\tRoad work on I-476 North. The left lane is closed.\t9/8/26, 7:00 AM\t9/10/26, 12:00 PM\t9/8/26, 10:17 AM\tView on map"
     },
     {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-476",
-        "Pennsylvania",
-        "Carbon",
-        "Road work on I-476 South. The left lane is closed.",
-        "9/8/26, 6:00 AM",
-        "9/10/26, 10:00 AM",
-        "9/8/26, 10:17 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374501"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Carbon</td><td><span class=\"colHeader\">Description</span>Road work on I-476 South. The left lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/10/26, 10:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:17 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374501\">View on map</a></td>",
-      "text": "Active Roadwork\tI-476\tPennsylvania\tCarbon\tRoad work on I-476 South. The left lane is closed.\t9/8/26, 6:00 AM\t9/10/26, 10:00 AM\t9/8/26, 10:17 AM\tView on map"
-    },
-    {
       "eventId": "374857",
       "cells": [
         "Row Details",
@@ -1869,35 +1840,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(3014) BLACK ELK RD / FIVE POINT RD / HARMONY RD / NORTH CAMP RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>BRIDGE OUTAGE on (3014) BLACK ELK RD / FIVE POINT RD / HARMONY RD / NORTH CAMP RD BOTH DIRECTIONS between MAIN ST and PUNKIN RIDGE RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:39 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/30/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:41 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374598\">View on map</a></td>",
       "text": "Closure - Other Route\t(3014) BLACK ELK RD / FIVE POINT RD / HARMONY RD / NORTH CAMP RD\tPennsylvania\tClearfield\tBRIDGE OUTAGE on (3014) BLACK ELK RD / FIVE POINT RD / HARMONY RD / NORTH CAMP RD BOTH DIRECTIONS between MAIN ST and PUNKIN RIDGE RD. Closed.\t9/8/26, 7:39 AM\t10/30/26, 5:00 PM\t9/8/26, 7:41 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-376",
-        "Pennsylvania",
-        "Beaver",
-        "Road work on I-376 West. The right lane is closed.",
-        "9/8/26, 4:36 AM",
-        "9/22/26, 4:36 AM",
-        "9/8/26, 7:26 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374580"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-376 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Beaver</td><td><span class=\"colHeader\">Description</span>Road work on I-376 West. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:36 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/22/26, 4:36 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:26 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374580\">View on map</a></td>",
-      "text": "Active Roadwork\tI-376\tPennsylvania\tBeaver\tRoad work on I-376 West. The right lane is closed.\t9/8/26, 4:36 AM\t9/22/26, 4:36 AM\t9/8/26, 7:26 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2913,6 +2855,64 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1007) DANIELS RD / HARTMAN RD / FOX HILL RD / BUTTERNUT FLATS RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Wayne</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1007) DANIELS RD / HARTMAN RD / FOX HILL RD / BUTTERNUT FLATS RD BOTH DIRECTIONS between TORREY RD and BUTTERNUT FLATS. Closed.</td><td><span class=\"colHeader\">Start Time</span>8/10/26, 11:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/15/26, 4:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/1/26, 1:16 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373924\">View on map</a></td>",
       "text": "Closure - Other Route\t(1007) DANIELS RD / HARTMAN RD / FOX HILL RD / BUTTERNUT FLATS RD\tPennsylvania\tWayne\tROADWORK on (1007) DANIELS RD / HARTMAN RD / FOX HILL RD / BUTTERNUT FLATS RD BOTH DIRECTIONS between TORREY RD and BUTTERNUT FLATS. Closed.\t8/10/26, 11:14 AM\t9/15/26, 4:30 PM\t9/1/26, 1:16 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-80",
+        "Pennsylvania",
+        "Centre",
+        "Roadwork on I-80 westbound 1.5 miles west of Exit 163: PA 26 NORTH - JACKSONVILLE HOWARD. There is a shoulder closed.",
+        "7/8/26, 7:46 AM",
+        "10/1/26, 3:00 PM",
+        "9/1/26, 1:11 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-304494"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Centre</td><td><span class=\"colHeader\">Description</span>Roadwork on I-80 westbound 1.5 miles west of Exit 163: PA 26 NORTH - JACKSONVILLE HOWARD.  There is a shoulder closed.</td><td><span class=\"colHeader\">Start Time</span>7/8/26, 7:46 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/1/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/1/26, 1:11 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-304494\">View on map</a></td>",
+      "text": "Active Roadwork\tI-80\tPennsylvania\tCentre\tRoadwork on I-80 westbound 1.5 miles west of Exit 163: PA 26 NORTH - JACKSONVILLE HOWARD. There is a shoulder closed.\t7/8/26, 7:46 AM\t10/1/26, 3:00 PM\t9/1/26, 1:11 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-307",
+        "Pennsylvania",
+        "Lackawanna",
+        "ROADWORK on PA-307 Northbound between RAMP FROM I-380 N and RAMP FROM I-380 S. All Lanes Blocked, Right Shoulder Open.",
+        "7/29/26, 12:30 PM",
+        "9/28/26, 2:30 PM",
+        "9/1/26, 11:24 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-373819"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-307</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lackawanna</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-307 Northbound between RAMP FROM I-380 N and RAMP FROM I-380 S. All Lanes Blocked, Right Shoulder Open.</td><td><span class=\"colHeader\">Start Time</span>7/29/26, 12:30 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/28/26, 2:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/1/26, 11:24 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-373819\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-307\tPennsylvania\tLackawanna\tROADWORK on PA-307 Northbound between RAMP FROM I-380 N and RAMP FROM I-380 S. All Lanes Blocked, Right Shoulder Open.\t7/29/26, 12:30 PM\t9/28/26, 2:30 PM\t9/1/26, 11:24 AM\tView on map"
     }
   ]
 }
