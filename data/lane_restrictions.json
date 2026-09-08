@@ -1,7 +1,38 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T02:43:30.727Z",
+  "fetched_at": "2026-09-08T02:48:43.094Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 0,
-  "items": []
+  "count": 2,
+  "items": [
+    {
+      "id": "374461",
+      "eventId": "374461",
+      "type": "Incident - Major Route",
+      "roadway": "I-95",
+      "state": "Pennsylvania",
+      "county": "Philadelphia",
+      "route": "I-95",
+      "direction": "SOUTH",
+      "description": "Police activity on I-95 southbound between Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT and 2 miles SOUTH of Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT. There is a lane restriction.",
+      "start_time": "9/7/26, 10:41 PM",
+      "anticipated_end_time": "9/7/26, 11:59 PM",
+      "last_updated": "9/7/26, 10:44 PM",
+      "formatted": "I-95 (Philadelphia County) | Police activity on I-95 southbound between Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT and 2 miles SOUTH of Exit 12A/12B: PA 291 CARGO CITY / PHILADELPHIA INT'L AIRPORT. Estimated Reopen: 9/7/26 - 23:59"
+    },
+    {
+      "id": "374460",
+      "eventId": "374460",
+      "type": "Incident - Major Route",
+      "roadway": "I-95",
+      "state": "Pennsylvania",
+      "county": "Philadelphia",
+      "route": "I-95",
+      "direction": "NORTH",
+      "description": "Fire department activity on I-95 northbound between Exit 23: GIRARD AV/LEHIGH AV and Exit 25: ALLEGHENY AVE/CASTOR AVE. There is a lane restriction.",
+      "start_time": "9/7/26, 10:41 PM",
+      "anticipated_end_time": "9/7/26, 11:27 PM",
+      "last_updated": "9/7/26, 10:43 PM",
+      "formatted": "I-95 (Philadelphia County) | Fire department activity on I-95 northbound between Exit 23: GIRARD AV/LEHIGH AV and Exit 25: ALLEGHENY AVE/CASTOR AVE. Estimated Reopen: 9/7/26 - 23:27"
+    }
+  ]
 }
