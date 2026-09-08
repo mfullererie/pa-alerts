@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T18:38:42.072Z",
+  "fetched_at": "2026-09-08T18:43:37.796Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,180 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "TACONY ST / STATE RD",
+        "Pennsylvania",
+        "Philadelphia",
+        "Roadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST. All lanes now open.",
+        "9/8/26, 8:53 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 2:42 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374755"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>TACONY ST / STATE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:53 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:42 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374755\">View on map</a></td>",
+      "text": "Active Roadwork\tTACONY ST / STATE RD\tPennsylvania\tPhiladelphia\tRoadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST. All lanes now open.\t9/8/26, 8:53 AM\t9/8/26, 3:00 PM\t9/8/26, 2:42 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "TACONY ST / STATE RD",
+        "Pennsylvania",
+        "Philadelphia",
+        "Roadwork on TACONY ST / STATE RD southbound between BRIDGE ST and ARAMINGO AV. All lanes now open.",
+        "9/8/26, 9:08 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 2:42 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374808"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>TACONY ST / STATE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on TACONY ST / STATE RD southbound between BRIDGE ST and ARAMINGO AV.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:08 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:42 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374808\">View on map</a></td>",
+      "text": "Active Roadwork\tTACONY ST / STATE RD\tPennsylvania\tPhiladelphia\tRoadwork on TACONY ST / STATE RD southbound between BRIDGE ST and ARAMINGO AV. All lanes now open.\t9/8/26, 9:08 AM\t9/8/26, 3:00 PM\t9/8/26, 2:42 PM\tView on map"
+    },
+    {
+      "eventId": "374902",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "(1013) SAWMILL RD",
+        "Pennsylvania",
+        "Clarion",
+        "ROADWORK on (1013) SAWMILL RD BOTH DIRECTIONS between SAWMILL RD and SR 0066 SH. Closed.",
+        "9/8/26, 10:36 AM",
+        "9/8/26, 5:00 PM",
+        "9/8/26, 2:42 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-374902"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1013) SAWMILL RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clarion</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1013) SAWMILL RD BOTH DIRECTIONS between SAWMILL RD and SR 0066 SH. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:36 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:42 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374902\">View on map</a></td>",
+      "text": "Closure - Other Route\t(1013) SAWMILL RD\tPennsylvania\tClarion\tROADWORK on (1013) SAWMILL RD BOTH DIRECTIONS between SAWMILL RD and SR 0066 SH. Closed.\t9/8/26, 10:36 AM\t9/8/26, 5:00 PM\t9/8/26, 2:42 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "TACONY ST / STATE RD",
+        "Pennsylvania",
+        "Philadelphia",
+        "Roadwork on TACONY ST / STATE RD southbound between VAN KIRK ST and BRIDGE ST. All lanes now open.",
+        "9/8/26, 9:15 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 2:41 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374810"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>TACONY ST / STATE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on TACONY ST / STATE RD southbound between VAN KIRK ST and BRIDGE ST.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:15 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:41 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374810\">View on map</a></td>",
+      "text": "Active Roadwork\tTACONY ST / STATE RD\tPennsylvania\tPhiladelphia\tRoadwork on TACONY ST / STATE RD southbound between VAN KIRK ST and BRIDGE ST. All lanes now open.\t9/8/26, 9:15 AM\t9/8/26, 3:00 PM\t9/8/26, 2:41 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA - 291",
+        "Pennsylvania",
+        "Philadelphia",
+        "Roadwork on PA 291 eastbound between Exit: I-95 SOUTH - CHESTER/WILMINGTON and LC FROM PENROSE AV. All lanes now open.",
+        "9/8/26, 9:44 AM",
+        "9/8/26, 3:30 PM",
+        "9/8/26, 2:41 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375029"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 291</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 291 eastbound between Exit: I-95 SOUTH - CHESTER/WILMINGTON and LC FROM PENROSE AV.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:44 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:41 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375029\">View on map</a></td>",
+      "text": "Active Roadwork\tPA - 291\tPennsylvania\tPhiladelphia\tRoadwork on PA 291 eastbound between Exit: I-95 SOUTH - CHESTER/WILMINGTON and LC FROM PENROSE AV. All lanes now open.\t9/8/26, 9:44 AM\t9/8/26, 3:30 PM\t9/8/26, 2:41 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Incident - Other Route",
+        "PA-764",
+        "Pennsylvania",
+        "Blair",
+        "CRASH (Multi-Vehicle) on PA-764 Southbound between BURGOON RD and LC TO CARSON VALLEY RD. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.",
+        "9/8/26, 2:38 PM",
+        "9/8/26, 3:35 PM",
+        "9/8/26, 2:39 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteIncident-375026"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-764</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Blair</td><td><span class=\"colHeader\">Description</span>CRASH (Multi-Vehicle) on PA-764 Southbound between BURGOON RD and LC TO CARSON VALLEY RD. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:38 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:35 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:39 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-375026\">View on map</a></td>",
+      "text": "Incident - Other Route\tPA-764\tPennsylvania\tBlair\tCRASH (Multi-Vehicle) on PA-764 Southbound between BURGOON RD and LC TO CARSON VALLEY RD. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.\t9/8/26, 2:38 PM\t9/8/26, 3:35 PM\t9/8/26, 2:39 PM\tView on map"
+    },
     {
       "eventId": "375025",
       "cells": [
@@ -744,35 +918,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "PA-255",
-        "Pennsylvania",
-        "Clearfield",
-        "ROADWORK on PA-255 Southbound At SHAFFER RD. Right Lane (of 2 Lanes) Blocked.",
-        "9/8/26, 1:17 PM",
-        "9/8/26, 3:15 PM",
-        "9/8/26, 1:18 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374989"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-255</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-255 Southbound At SHAFFER RD. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 1:17 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:18 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374989\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-255\tPennsylvania\tClearfield\tROADWORK on PA-255 Southbound At SHAFFER RD. Right Lane (of 2 Lanes) Blocked.\t9/8/26, 1:17 PM\t9/8/26, 3:15 PM\t9/8/26, 1:18 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "PA-230",
         "Pennsylvania",
         "Dauphin",
@@ -1057,35 +1202,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Eastbound between MM 105 and MM 109. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:13 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374533\">View on map</a></td>",
       "text": "Active Roadwork\tI-80\tPennsylvania\tClearfield\tROADWORK on I-80 Eastbound between MM 105 and MM 109. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.\t9/8/26, 7:00 AM\t9/8/26, 3:00 PM\t9/8/26, 12:13 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-93",
-        "Pennsylvania",
-        "Carbon",
-        "ROADWORK on PA-93 BOTH DIRECTIONS At PENNDOT STOCKPILE #02. Right Lane (of 2 Lanes) Blocked.",
-        "9/8/26, 7:54 AM",
-        "9/8/26, 3:30 PM",
-        "9/8/26, 12:11 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374955"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-93</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Carbon</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-93 BOTH DIRECTIONS At PENNDOT STOCKPILE #02. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:54 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:11 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374955\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-93\tPennsylvania\tCarbon\tROADWORK on PA-93 BOTH DIRECTIONS At PENNDOT STOCKPILE #02. Right Lane (of 2 Lanes) Blocked.\t9/8/26, 7:54 AM\t9/8/26, 3:30 PM\t9/8/26, 12:11 PM\tView on map"
     },
     {
       "eventId": "373926",
@@ -1521,35 +1637,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-18</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Greene</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-18 Northbound At ROY E FURMAN HW. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:42 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:43 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374907\">View on map</a></td>",
       "text": "Active Roadwork\tPA-18\tPennsylvania\tGreene\tROADWORK on PA-18 Northbound At ROY E FURMAN HW. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 10:42 AM\t9/8/26, 4:00 PM\t9/8/26, 10:43 AM\tView on map"
-    },
-    {
-      "eventId": "374902",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(1013) SAWMILL RD",
-        "Pennsylvania",
-        "Clarion",
-        "ROADWORK on (1013) SAWMILL RD BOTH DIRECTIONS between SAWMILL RD and SR 0066 SH. Closed.",
-        "9/8/26, 10:36 AM",
-        "9/8/26, 2:45 PM",
-        "9/8/26, 10:37 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374902"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1013) SAWMILL RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clarion</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1013) SAWMILL RD BOTH DIRECTIONS between SAWMILL RD and SR 0066 SH. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:36 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:45 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:37 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374902\">View on map</a></td>",
-      "text": "Closure - Other Route\t(1013) SAWMILL RD\tPennsylvania\tClarion\tROADWORK on (1013) SAWMILL RD BOTH DIRECTIONS between SAWMILL RD and SR 0066 SH. Closed.\t9/8/26, 10:36 AM\t9/8/26, 2:45 PM\t9/8/26, 10:37 AM\tView on map"
     },
     {
       "eventId": "373932",
@@ -2368,35 +2455,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "TACONY ST / STATE RD",
-        "Pennsylvania",
-        "Philadelphia",
-        "Roadwork on TACONY ST / STATE RD southbound between VAN KIRK ST and BRIDGE ST. There is a traffic disruption.",
-        "9/8/26, 9:15 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 9:19 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374810"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>TACONY ST / STATE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on TACONY ST / STATE RD southbound between VAN KIRK ST and BRIDGE ST.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:15 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:19 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374810\">View on map</a></td>",
-      "text": "Active Roadwork\tTACONY ST / STATE RD\tPennsylvania\tPhiladelphia\tRoadwork on TACONY ST / STATE RD southbound between VAN KIRK ST and BRIDGE ST. There is a traffic disruption.\t9/8/26, 9:15 AM\t9/8/26, 3:00 PM\t9/8/26, 9:19 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "PA-164",
         "Pennsylvania",
         "Cambria",
@@ -2420,35 +2478,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-164</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Cambria</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-164 BOTH DIRECTIONS between GREEN AV and PORTAGE ST. Right Lane (of 2 Lanes) Blocked, All Left Turn Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:17 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:19 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374809\">View on map</a></td>",
       "text": "Active Roadwork\tPA-164\tPennsylvania\tCambria\tROADWORK on PA-164 BOTH DIRECTIONS between GREEN AV and PORTAGE ST. Right Lane (of 2 Lanes) Blocked, All Left Turn Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 9:17 AM\t9/8/26, 5:15 PM\t9/8/26, 9:19 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "TACONY ST / STATE RD",
-        "Pennsylvania",
-        "Philadelphia",
-        "Roadwork on TACONY ST / STATE RD southbound between BRIDGE ST and ARAMINGO AV. There is a traffic disruption.",
-        "9/8/26, 9:08 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 9:15 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374808"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>TACONY ST / STATE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on TACONY ST / STATE RD southbound between BRIDGE ST and ARAMINGO AV.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:08 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:15 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374808\">View on map</a></td>",
-      "text": "Active Roadwork\tTACONY ST / STATE RD\tPennsylvania\tPhiladelphia\tRoadwork on TACONY ST / STATE RD southbound between BRIDGE ST and ARAMINGO AV. There is a traffic disruption.\t9/8/26, 9:08 AM\t9/8/26, 3:00 PM\t9/8/26, 9:15 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2768,35 +2797,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 724</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Utility work on PA 724 both directions between HANOVER ST and KEIM ST.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374756\">View on map</a></td>",
       "text": "Closure - Other Route\tPA - 724\tPennsylvania\tChester\tUtility work on PA 724 both directions between HANOVER ST and KEIM ST. All lanes closed.\t9/8/26, 8:56 AM\t9/8/26, 4:00 PM\t9/8/26, 9:03 AM\tView on map"
-    },
-    {
-      "eventId": "374755",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "TACONY ST / STATE RD",
-        "Pennsylvania",
-        "Philadelphia",
-        "Roadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST. All lanes closed.",
-        "9/8/26, 8:53 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 9:03 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374755"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>TACONY ST / STATE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:53 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374755\">View on map</a></td>",
-      "text": "Closure - Other Route\tTACONY ST / STATE RD\tPennsylvania\tPhiladelphia\tRoadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST. All lanes closed.\t9/8/26, 8:53 AM\t9/8/26, 3:00 PM\t9/8/26, 9:03 AM\tView on map"
     },
     {
       "eventId": null,
