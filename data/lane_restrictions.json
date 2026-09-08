@@ -1,9 +1,24 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T21:53:12.477Z",
+  "fetched_at": "2026-09-08T21:58:29.134Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 5,
+  "count": 6,
   "items": [
+    {
+      "id": "375130",
+      "eventId": "375130",
+      "type": "Incident - Major Route",
+      "roadway": "I-81",
+      "state": "Pennsylvania",
+      "county": "Cumberland",
+      "route": "I-81",
+      "direction": "SOUTH",
+      "description": "VEHICLE FIRE on I-81 Southbound At MM 53. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+      "start_time": "9/8/26, 5:01 PM",
+      "anticipated_end_time": "9/8/26, 7:00 PM",
+      "last_updated": "9/8/26, 5:56 PM",
+      "formatted": "I-81 (Cumberland County) | VEHICLE FIRE on I-81 Southbound At MM 53. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 19:00"
+    },
     {
       "id": "375113",
       "eventId": "375113",
@@ -16,8 +31,23 @@
       "description": "CRASH on I-81 Southbound At Exit 80 PA 743 - GRANTVILLE/HERSHEY. No Lanes Blocked.",
       "start_time": "9/8/26, 4:35 PM",
       "anticipated_end_time": "9/8/26, 8:00 PM",
-      "last_updated": "9/8/26, 5:51 PM",
+      "last_updated": "9/8/26, 5:55 PM",
       "formatted": "I-81 (Dauphin County) | CRASH on I-81 Southbound At Exit 80 PA 743 - GRANTVILLE/HERSHEY. No Lanes Blocked. Estimated Reopen: 9/8/26 - 20:00"
+    },
+    {
+      "id": "375127",
+      "eventId": "375127",
+      "type": "Incident - Major Route",
+      "roadway": "I-95",
+      "state": "Pennsylvania",
+      "county": "Philadelphia",
+      "route": "I-95",
+      "direction": "SOUTH",
+      "description": "Multi vehicle crash on I-95 southbound between .6 miles north of Exit 15: ENTERPRISE AVE/ISLAND AVE and .2 miles south of Exit 15: ENTERPRISE AVE/ISLAND AVE. There is a lane restriction.",
+      "start_time": "9/8/26, 5:53 PM",
+      "anticipated_end_time": "9/8/26, 6:15 PM",
+      "last_updated": "9/8/26, 5:53 PM",
+      "formatted": "I-95 (Philadelphia County) | Multi vehicle crash on I-95 southbound between.6 miles north of Exit 15: ENTERPRISE AVE/ISLAND AVE and.2 miles south of Exit 15: ENTERPRISE AVE/ISLAND AVE. Estimated Reopen: 9/8/26 - 18:15"
     },
     {
       "id": "375148",
@@ -63,21 +93,6 @@
       "anticipated_end_time": "9/8/26, 6:30 PM",
       "last_updated": "9/8/26, 5:23 PM",
       "formatted": "I-80 (Clinton County) | CRASH (Multi-Vehicle) on I-80 Westbound At MM 173. Left Lane Blocked, Left Shoulder Blocked. Estimated Reopen: 9/8/26 - 18:30"
-    },
-    {
-      "id": "375130",
-      "eventId": "375130",
-      "type": "Incident - Major Route",
-      "roadway": "I-81",
-      "state": "Pennsylvania",
-      "county": "Cumberland",
-      "route": "I-81",
-      "direction": "SOUTH",
-      "description": "VEHICLE FIRE on I-81 Southbound At MM 53. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-      "start_time": "9/8/26, 5:01 PM",
-      "anticipated_end_time": "9/8/26, 7:00 PM",
-      "last_updated": "9/8/26, 5:17 PM",
-      "formatted": "I-81 (Cumberland County) | VEHICLE FIRE on I-81 Southbound At MM 53. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 19:00"
     }
   ]
 }
