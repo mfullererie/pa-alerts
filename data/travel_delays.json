@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T08:09:01.143Z",
+  "fetched_at": "2026-09-08T08:14:02.715Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,93 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Special Events",
+        "SECOND AV / RIDGE PK / MAIN ST / HIGH ST",
+        "Pennsylvania",
+        "Montgomery",
+        "Special event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST southbound between CHARLOTTE ST and WASHINGTON ST. All lanes now open.",
+        "9/7/26, 11:35 AM",
+        "9/8/26, 10:00 AM",
+        "9/8/26, 4:10 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#SpecialEvents-374259"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Special Events</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>SECOND AV / RIDGE PK / MAIN ST / HIGH ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Special event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST southbound between CHARLOTTE ST and WASHINGTON ST.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 11:35 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 10:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:10 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#SpecialEvents-374259\">View on map</a></td>",
+      "text": "Special Events\tSECOND AV / RIDGE PK / MAIN ST / HIGH ST\tPennsylvania\tMontgomery\tSpecial event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST southbound between CHARLOTTE ST and WASHINGTON ST. All lanes now open.\t9/7/26, 11:35 AM\t9/8/26, 10:00 AM\t9/8/26, 4:10 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Special Events",
+        "SECOND AV / RIDGE PK / MAIN ST / HIGH ST",
+        "Pennsylvania",
+        "Montgomery",
+        "Special event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST northbound between WASHINGTON ST and HANOVER ST. All lanes now open.",
+        "9/7/26, 11:35 AM",
+        "9/8/26, 10:00 AM",
+        "9/8/26, 4:10 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#SpecialEvents-374258"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Special Events</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>SECOND AV / RIDGE PK / MAIN ST / HIGH ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Special event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST northbound between WASHINGTON ST and HANOVER ST.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 11:35 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 10:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:10 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#SpecialEvents-374258\">View on map</a></td>",
+      "text": "Special Events\tSECOND AV / RIDGE PK / MAIN ST / HIGH ST\tPennsylvania\tMontgomery\tSpecial event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST northbound between WASHINGTON ST and HANOVER ST. All lanes now open.\t9/7/26, 11:35 AM\t9/8/26, 10:00 AM\t9/8/26, 4:10 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA - 291",
+        "Pennsylvania",
+        "Philadelphia",
+        "Moving roadwork on PA 291 eastbound between INDUSTRIAL HW, ISLAND AV and LC TO TWENTYSIXTH ST. All lanes now open.",
+        "9/8/26, 1:19 AM",
+        "9/8/26, 5:00 AM",
+        "9/8/26, 4:09 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374476"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 291</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Moving roadwork on PA 291 eastbound between INDUSTRIAL HW, ISLAND AV and LC TO TWENTYSIXTH ST.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 1:19 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:09 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374476\">View on map</a></td>",
+      "text": "Active Roadwork\tPA - 291\tPennsylvania\tPhiladelphia\tMoving roadwork on PA 291 eastbound between INDUSTRIAL HW, ISLAND AV and LC TO TWENTYSIXTH ST. All lanes now open.\t9/8/26, 1:19 AM\t9/8/26, 5:00 AM\t9/8/26, 4:09 AM\tView on map"
+    },
     {
       "eventId": "374482",
       "cells": [
@@ -44,64 +131,6 @@
       "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-95 southbound at Exit 32: ACADEMY ROAD/LINDEN AVE. There is a lane restriction.\t9/8/26, 3:29 AM\t9/8/26, 4:45 AM\t9/8/26, 3:57 AM\tView on map"
     },
     {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA - 291",
-        "Pennsylvania",
-        "Philadelphia",
-        "Moving roadwork on PA 291 eastbound between INDUSTRIAL HW, ISLAND AV and LC TO TWENTYSIXTH ST. There is a traffic disruption.",
-        "9/8/26, 1:19 AM",
-        "9/8/26, 5:00 AM",
-        "9/8/26, 1:22 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374476"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 291</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Moving roadwork on PA 291 eastbound between INDUSTRIAL HW, ISLAND AV and LC TO TWENTYSIXTH ST.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 1:19 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:22 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374476\">View on map</a></td>",
-      "text": "Active Roadwork\tPA - 291\tPennsylvania\tPhiladelphia\tMoving roadwork on PA 291 eastbound between INDUSTRIAL HW, ISLAND AV and LC TO TWENTYSIXTH ST. There is a traffic disruption.\t9/8/26, 1:19 AM\t9/8/26, 5:00 AM\t9/8/26, 1:22 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-33",
-        "Pennsylvania",
-        "Northampton",
-        "ROADWORK on PA-33 Northbound between Exit TATAMY and Exit PA 191 - STOCKERTOWN/BANGER. Left Lane (of 2 Lanes) Blocked.",
-        "9/7/26, 7:23 PM",
-        "9/8/26, 6:30 AM",
-        "9/8/26, 12:03 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374421"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-33</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-33 Northbound between Exit TATAMY and Exit PA 191 - STOCKERTOWN/BANGER. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 7:23 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 6:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374421\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-33\tPennsylvania\tNorthampton\tROADWORK on PA-33 Northbound between Exit TATAMY and Exit PA 191 - STOCKERTOWN/BANGER. Left Lane (of 2 Lanes) Blocked.\t9/7/26, 7:23 PM\t9/8/26, 6:30 AM\t9/8/26, 12:03 AM\tView on map"
-    },
-    {
       "eventId": "373888",
       "cells": [
         "Row Details",
@@ -129,35 +158,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-115</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Luzerne</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-115 Northbound between Exit I-81 NORTH - SCRANTON and Exit I-81 NORTH - SCRANTON. Closed.</td><td><span class=\"colHeader\">Start Time</span>7/31/26, 11:31 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>12/31/26, 4:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 10:14 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373888\">View on map</a></td>",
       "text": "Closure - Other Route\tPA-115\tPennsylvania\tLuzerne\tROADWORK on PA-115 Northbound between Exit I-81 NORTH - SCRANTON and Exit I-81 NORTH - SCRANTON. Closed.\t7/31/26, 11:31 AM\t12/31/26, 4:30 PM\t9/7/26, 10:14 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-33",
-        "Pennsylvania",
-        "Northampton",
-        "ROADWORK on PA-33 Southbound between Exit PA 191 - STOCKERTOWN/NAZARETH and Exit TATAMY. Left Lane (of 2 Lanes) Blocked.",
-        "9/7/26, 7:24 PM",
-        "9/8/26, 6:30 AM",
-        "9/7/26, 8:58 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374422"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-33</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-33 Southbound between Exit PA 191 - STOCKERTOWN/NAZARETH and Exit TATAMY. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 7:24 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 6:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 8:58 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374422\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-33\tPennsylvania\tNorthampton\tROADWORK on PA-33 Southbound between Exit PA 191 - STOCKERTOWN/NAZARETH and Exit TATAMY. Left Lane (of 2 Lanes) Blocked.\t9/7/26, 7:24 PM\t9/8/26, 6:30 AM\t9/7/26, 8:58 PM\tView on map"
     },
     {
       "eventId": null,
@@ -216,64 +216,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-481</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Washington</td><td><span class=\"colHeader\">Description</span>DOWNED UTILITY on PA-481 BOTH DIRECTIONS between CALIFORNIA DR and DEER RUN LN. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/3/26, 10:23 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 12:02 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373843\">View on map</a></td>",
       "text": "Closure - Other Route\tPA-481\tPennsylvania\tWashington\tDOWNED UTILITY on PA-481 BOTH DIRECTIONS between CALIFORNIA DR and DEER RUN LN. Closed.\t9/3/26, 10:23 PM\t9/8/26, 12:00 PM\t9/7/26, 12:02 PM\tView on map"
-    },
-    {
-      "eventId": "374259",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "SECOND AV / RIDGE PK / MAIN ST / HIGH ST",
-        "Pennsylvania",
-        "Montgomery",
-        "Special event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST southbound between CHARLOTTE ST and WASHINGTON ST. All lanes closed.",
-        "9/7/26, 11:35 AM",
-        "9/8/26, 10:00 AM",
-        "9/7/26, 11:40 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374259"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>SECOND AV / RIDGE PK / MAIN ST / HIGH ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Special event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST southbound between CHARLOTTE ST and WASHINGTON ST.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 11:35 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 10:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 11:40 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374259\">View on map</a></td>",
-      "text": "Closure - Other Route\tSECOND AV / RIDGE PK / MAIN ST / HIGH ST\tPennsylvania\tMontgomery\tSpecial event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST southbound between CHARLOTTE ST and WASHINGTON ST. All lanes closed.\t9/7/26, 11:35 AM\t9/8/26, 10:00 AM\t9/7/26, 11:40 AM\tView on map"
-    },
-    {
-      "eventId": "374258",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "SECOND AV / RIDGE PK / MAIN ST / HIGH ST",
-        "Pennsylvania",
-        "Montgomery",
-        "Special event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST northbound between WASHINGTON ST and HANOVER ST. All lanes closed.",
-        "9/7/26, 11:35 AM",
-        "9/8/26, 10:00 AM",
-        "9/7/26, 11:39 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374258"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>SECOND AV / RIDGE PK / MAIN ST / HIGH ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Special event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST northbound between WASHINGTON ST and HANOVER ST.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 11:35 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 10:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 11:39 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374258\">View on map</a></td>",
-      "text": "Closure - Other Route\tSECOND AV / RIDGE PK / MAIN ST / HIGH ST\tPennsylvania\tMontgomery\tSpecial event on SECOND AV / RIDGE PK / MAIN ST / HIGH ST northbound between WASHINGTON ST and HANOVER ST. All lanes closed.\t9/7/26, 11:35 AM\t9/8/26, 10:00 AM\t9/7/26, 11:39 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2913,6 +2855,64 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>DERRY LN / LAUGHLIN FARM RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Westmoreland</td><td><span class=\"colHeader\">Description</span>Flooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>7/19/26, 2:20 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/28/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 2:38 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-316339\">View on map</a></td>",
       "text": "Closure - Other Route\tDERRY LN / LAUGHLIN FARM RD\tPennsylvania\tWestmoreland\tFlooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD. All lanes closed.\t7/19/26, 2:20 PM\t9/28/26, 4:00 PM\t8/24/26, 2:38 PM\tView on map"
+    },
+    {
+      "eventId": "373866",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "(1022) TOBACCO RD / DIAMOND STATION RD",
+        "Pennsylvania",
+        "Lancaster",
+        "DAMAGED ROADWAY on (1022) TOBACCO RD / DIAMOND STATION RD BOTH DIRECTIONS between EAGLE DR and DIAMOND ST. Closed.",
+        "8/20/26, 7:54 PM",
+        "9/25/26, 11:45 AM",
+        "8/24/26, 11:20 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-373866"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1022) TOBACCO RD / DIAMOND STATION RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>DAMAGED ROADWAY on (1022) TOBACCO RD / DIAMOND STATION RD BOTH DIRECTIONS between EAGLE DR and DIAMOND ST. Closed.</td><td><span class=\"colHeader\">Start Time</span>8/20/26, 7:54 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/25/26, 11:45 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 11:20 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373866\">View on map</a></td>",
+      "text": "Closure - Other Route\t(1022) TOBACCO RD / DIAMOND STATION RD\tPennsylvania\tLancaster\tDAMAGED ROADWAY on (1022) TOBACCO RD / DIAMOND STATION RD BOTH DIRECTIONS between EAGLE DR and DIAMOND ST. Closed.\t8/20/26, 7:54 PM\t9/25/26, 11:45 AM\t8/24/26, 11:20 AM\tView on map"
+    },
+    {
+      "eventId": "373917",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "(1012) SR 1012 SH",
+        "Pennsylvania",
+        "Bradford",
+        "BRIDGE OUTAGE on (1012) SR 1012 SH BOTH DIRECTIONS between SR 0706 SH and HERRICKVILLE RD. Closed.",
+        "8/24/26, 11:09 AM",
+        "10/30/26, 3:00 PM",
+        "8/24/26, 11:11 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-373917"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1012) SR 1012 SH</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bradford</td><td><span class=\"colHeader\">Description</span>BRIDGE OUTAGE on (1012) SR 1012 SH BOTH DIRECTIONS between SR 0706 SH and HERRICKVILLE RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>8/24/26, 11:09 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/30/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 11:11 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373917\">View on map</a></td>",
+      "text": "Closure - Other Route\t(1012) SR 1012 SH\tPennsylvania\tBradford\tBRIDGE OUTAGE on (1012) SR 1012 SH BOTH DIRECTIONS between SR 0706 SH and HERRICKVILLE RD. Closed.\t8/24/26, 11:09 AM\t10/30/26, 3:00 PM\t8/24/26, 11:11 AM\tView on map"
     }
   ]
 }
