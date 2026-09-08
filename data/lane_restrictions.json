@@ -1,9 +1,24 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T21:33:33.170Z",
+  "fetched_at": "2026-09-08T21:38:42.858Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
   "count": 5,
   "items": [
+    {
+      "id": "375140",
+      "eventId": "375140",
+      "type": "Incident - Major Route",
+      "roadway": "I-376",
+      "state": "Pennsylvania",
+      "county": "Allegheny",
+      "route": "I-376",
+      "direction": "WEST",
+      "description": "CRASH (Multi-Vehicle) on I-376 Westbound At MM 72.5. Right Lane (of 3 Lanes) Blocked, Right Shoulder Blocked.",
+      "start_time": "9/8/26, 5:14 PM",
+      "anticipated_end_time": "9/8/26, 7:00 PM",
+      "last_updated": "9/8/26, 5:38 PM",
+      "formatted": "I-376 (Allegheny County) | CRASH (Multi-Vehicle) on I-376 Westbound At MM 72.5. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 19:00"
+    },
     {
       "id": "375148",
       "eventId": "375148",
@@ -33,21 +48,6 @@
       "anticipated_end_time": "9/8/26, 7:30 PM",
       "last_updated": "9/8/26, 5:29 PM",
       "formatted": "I-78 (Lehigh County) | VEHICLE FIRE on I-78 Eastbound At MM 58. 2 Right Lanes Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 19:30"
-    },
-    {
-      "id": "375140",
-      "eventId": "375140",
-      "type": "Incident - Major Route",
-      "roadway": "I-376",
-      "state": "Pennsylvania",
-      "county": "Allegheny",
-      "route": "I-376",
-      "direction": "WEST",
-      "description": "CRASH (Multi-Vehicle) on I-376 Westbound At MM 72.5. Right Lane (of 3 Lanes) Blocked, Right Shoulder Blocked.",
-      "start_time": "9/8/26, 5:14 PM",
-      "anticipated_end_time": "9/8/26, 7:00 PM",
-      "last_updated": "9/8/26, 5:26 PM",
-      "formatted": "I-376 (Allegheny County) | CRASH (Multi-Vehicle) on I-376 Westbound At MM 72.5. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 19:00"
     },
     {
       "id": "375145",
