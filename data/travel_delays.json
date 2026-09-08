@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T14:53:36.981Z",
+  "fetched_at": "2026-09-08T14:58:37.879Z",
   "headers": [
     "",
     "Type",
@@ -19,13 +19,13 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "I-81",
+        "(4001) SARTWELL CREEK RD",
         "Pennsylvania",
-        "Schuylkill",
-        "ROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.",
-        "9/8/26, 8:31 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 10:53 AM",
+        "Potter",
+        "ROADWORK on (4001) SARTWELL CREEK RD BOTH DIRECTIONS between HANSON HOLLOW RD and HANSON HOLLOW RD. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.",
+        "9/8/26, 10:56 AM",
+        "9/8/26, 3:20 PM",
+        "9/8/26, 10:57 AM",
         "View on map"
       ],
       "links": [
@@ -38,10 +38,39 @@
         "",
         "",
         "",
-        "https://www.511pa.com/map#ActiveRoadwork-374683"
+        "https://www.511pa.com/map#ActiveRoadwork-374919"
       ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Schuylkill</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:31 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:53 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374683\">View on map</a></td>",
-      "text": "Active Roadwork\tI-81\tPennsylvania\tSchuylkill\tROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.\t9/8/26, 8:31 AM\t9/8/26, 3:00 PM\t9/8/26, 10:53 AM\tView on map"
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4001) SARTWELL CREEK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Potter</td><td><span class=\"colHeader\">Description</span>ROADWORK on (4001) SARTWELL CREEK RD BOTH DIRECTIONS between  HANSON HOLLOW RD and  HANSON HOLLOW RD. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:57 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374919\">View on map</a></td>",
+      "text": "Active Roadwork\t(4001) SARTWELL CREEK RD\tPennsylvania\tPotter\tROADWORK on (4001) SARTWELL CREEK RD BOTH DIRECTIONS between HANSON HOLLOW RD and HANSON HOLLOW RD. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 10:56 AM\t9/8/26, 3:20 PM\t9/8/26, 10:57 AM\tView on map"
+    },
+    {
+      "eventId": "374878",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "US - 422",
+        "Pennsylvania",
+        "Montgomery",
+        "Debris on roadway on US 422 eastbound at Exit: STOWE. There is a traffic disruption.",
+        "9/8/26, 9:58 AM",
+        "9/8/26, 11:46 AM",
+        "9/8/26, 10:56 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374878"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 422</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Debris on roadway on US 422 eastbound at Exit: STOWE.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:58 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 11:46 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:56 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374878\">View on map</a></td>",
+      "text": "Incident - Major Route\tUS - 422\tPennsylvania\tMontgomery\tDebris on roadway on US 422 eastbound at Exit: STOWE. There is a traffic disruption.\t9/8/26, 9:58 AM\t9/8/26, 11:46 AM\t9/8/26, 10:56 AM\tView on map"
     },
     {
       "eventId": null,
@@ -54,7 +83,7 @@
         "ROADWORK on I-80 Westbound between MM 19 and MM 15. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
         "9/8/26, 10:47 AM",
         "9/8/26, 2:15 PM",
-        "9/8/26, 10:52 AM",
+        "9/8/26, 10:56 AM",
         "View on map"
       ],
       "links": [
@@ -69,8 +98,66 @@
         "",
         "https://www.511pa.com/map#ActiveRoadwork-374912"
       ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Mercer</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Westbound between MM 19 and MM 15. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:47 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:52 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374912\">View on map</a></td>",
-      "text": "Active Roadwork\tI-80\tPennsylvania\tMercer\tROADWORK on I-80 Westbound between MM 19 and MM 15. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 10:47 AM\t9/8/26, 2:15 PM\t9/8/26, 10:52 AM\tView on map"
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Mercer</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Westbound between MM 19 and MM 15. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:47 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:56 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374912\">View on map</a></td>",
+      "text": "Active Roadwork\tI-80\tPennsylvania\tMercer\tROADWORK on I-80 Westbound between MM 19 and MM 15. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 10:47 AM\t9/8/26, 2:15 PM\t9/8/26, 10:56 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-81",
+        "Pennsylvania",
+        "Schuylkill",
+        "ROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.",
+        "9/8/26, 8:31 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 10:55 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374683"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Schuylkill</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:31 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:55 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374683\">View on map</a></td>",
+      "text": "Active Roadwork\tI-81\tPennsylvania\tSchuylkill\tROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.\t9/8/26, 8:31 AM\t9/8/26, 3:00 PM\t9/8/26, 10:55 AM\tView on map"
+    },
+    {
+      "eventId": "374664",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-81",
+        "Pennsylvania",
+        "Lackawanna",
+        "CRASH on I-81 Southbound At MM 200. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 8:22 AM",
+        "9/8/26, 5:30 PM",
+        "9/8/26, 10:53 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374664"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lackawanna</td><td><span class=\"colHeader\">Description</span>CRASH on I-81 Southbound At MM 200. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:22 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:53 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374664\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-81\tPennsylvania\tLackawanna\tCRASH on I-81 Southbound At MM 200. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 8:22 AM\t9/8/26, 5:30 PM\t9/8/26, 10:53 AM\tView on map"
     },
     {
       "eventId": null,
@@ -943,35 +1030,6 @@
       "text": "Active Roadwork\tI-79\tPennsylvania\tAllegheny\tMOVING ROADWORK on I-79 Northbound At SR 0079 SH. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 10:00 AM\t9/8/26, 4:00 PM\t9/8/26, 10:01 AM\tView on map"
     },
     {
-      "eventId": "374878",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "US - 422",
-        "Pennsylvania",
-        "Montgomery",
-        "Debris on roadway on US 422 eastbound at Exit: STOWE. There is a traffic disruption.",
-        "9/8/26, 9:58 AM",
-        "9/8/26, 11:12 AM",
-        "9/8/26, 10:00 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374878"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 422</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Debris on roadway on US 422 eastbound at Exit: STOWE.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:58 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 11:12 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:00 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374878\">View on map</a></td>",
-      "text": "Incident - Major Route\tUS - 422\tPennsylvania\tMontgomery\tDebris on roadway on US 422 eastbound at Exit: STOWE. There is a traffic disruption.\t9/8/26, 9:58 AM\t9/8/26, 11:12 AM\t9/8/26, 10:00 AM\tView on map"
-    },
-    {
       "eventId": "374869",
       "cells": [
         "Row Details",
@@ -1028,35 +1086,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1002) BEACH ST / YARNELL RD / THOMAS RD / MAIN ST / MARSH CREEK RD / SAYERS DAM RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Centre</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1002) BEACH ST / YARNELL RD / THOMAS RD / MAIN ST / MARSH CREEK RD / SAYERS DAM RD BOTH DIRECTIONS between RIDGE CREST DR and RIDGE CREST DR. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:47 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:05 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:48 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374864\">View on map</a></td>",
       "text": "Active Roadwork\t(1002) BEACH ST / YARNELL RD / THOMAS RD / MAIN ST / MARSH CREEK RD / SAYERS DAM RD\tPennsylvania\tCentre\tROADWORK on (1002) BEACH ST / YARNELL RD / THOMAS RD / MAIN ST / MARSH CREEK RD / SAYERS DAM RD BOTH DIRECTIONS between RIDGE CREST DR and RIDGE CREST DR. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 9:47 AM\t9/8/26, 3:05 PM\t9/8/26, 9:48 AM\tView on map"
-    },
-    {
-      "eventId": "374664",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-81",
-        "Pennsylvania",
-        "Lackawanna",
-        "CRASH on I-81 Southbound At MM 200. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 8:22 AM",
-        "9/8/26, 5:30 PM",
-        "9/8/26, 9:46 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374664"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lackawanna</td><td><span class=\"colHeader\">Description</span>CRASH on I-81 Southbound At MM 200. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:22 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:46 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374664\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-81\tPennsylvania\tLackawanna\tCRASH on I-81 Southbound At MM 200. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 8:22 AM\t9/8/26, 5:30 PM\t9/8/26, 9:46 AM\tView on map"
     },
     {
       "eventId": "374857",
@@ -2884,35 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Franklin</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The left lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:30 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 1:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:56 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374669\">View on map</a></td>",
       "text": "Active Roadwork\tI-76\tPennsylvania\tFranklin\tRoad work on I-76 East. The left lane is closed.\t9/8/26, 8:30 AM\t9/8/26, 1:30 PM\t9/8/26, 8:56 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA - 291",
-        "Pennsylvania",
-        "Delaware",
-        "Roadwork on PA 291 eastbound between HARRAHS BL and PENN TERMINAL, SAVILLE AV. There is a traffic disruption.",
-        "9/8/26, 8:49 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 8:55 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374737"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 291</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 291 eastbound between HARRAHS BL and PENN TERMINAL, SAVILLE AV.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:49 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:55 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374737\">View on map</a></td>",
-      "text": "Active Roadwork\tPA - 291\tPennsylvania\tDelaware\tRoadwork on PA 291 eastbound between HARRAHS BL and PENN TERMINAL, SAVILLE AV. There is a traffic disruption.\t9/8/26, 8:49 AM\t9/8/26, 3:00 PM\t9/8/26, 8:55 AM\tView on map"
     }
   ]
 }
