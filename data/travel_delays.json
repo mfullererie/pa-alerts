@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T10:03:33.538Z",
+  "fetched_at": "2026-09-08T10:13:59.787Z",
   "headers": [
     "",
     "Type",
@@ -22,10 +22,10 @@
         "US - 422",
         "Pennsylvania",
         "Montgomery",
-        "Debris on roadway on US 422 eastbound at Exit: STOWE. There is a lane restriction.",
+        "Debris on roadway on US 422 eastbound at Exit: STOWE. All lanes now open.",
         "9/8/26, 4:29 AM",
         "9/8/26, 7:35 AM",
-        "9/8/26, 5:59 AM",
+        "9/8/26, 6:11 AM",
         "View on map"
       ],
       "links": [
@@ -40,8 +40,37 @@
         "",
         "https://www.511pa.com/map#MajorRouteIncident-374486"
       ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 422</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Debris on roadway on US 422 eastbound at Exit: STOWE.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:29 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:35 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:59 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374486\">View on map</a></td>",
-      "text": "Incident - Major Route\tUS - 422\tPennsylvania\tMontgomery\tDebris on roadway on US 422 eastbound at Exit: STOWE. There is a lane restriction.\t9/8/26, 4:29 AM\t9/8/26, 7:35 AM\t9/8/26, 5:59 AM\tView on map"
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 422</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Debris on roadway on US 422 eastbound at Exit: STOWE.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:29 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:35 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:11 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374486\">View on map</a></td>",
+      "text": "Incident - Major Route\tUS - 422\tPennsylvania\tMontgomery\tDebris on roadway on US 422 eastbound at Exit: STOWE. All lanes now open.\t9/8/26, 4:29 AM\t9/8/26, 7:35 AM\t9/8/26, 6:11 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Incident - Other Route",
+        "WHITFORD RD / GROVE RD",
+        "Pennsylvania",
+        "Chester",
+        "Police activity on WHITFORD RD / GROVE RD both directions between WATERLOO BL and SPRUCE DR. There is a traffic disruption.",
+        "9/8/26, 5:59 AM",
+        "9/8/26, 7:47 AM",
+        "9/8/26, 6:04 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteIncident-374503"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>WHITFORD RD / GROVE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Police activity on WHITFORD RD / GROVE RD both directions between WATERLOO BL and SPRUCE DR.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 5:59 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:47 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:04 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-374503\">View on map</a></td>",
+      "text": "Incident - Other Route\tWHITFORD RD / GROVE RD\tPennsylvania\tChester\tPolice activity on WHITFORD RD / GROVE RD both directions between WATERLOO BL and SPRUCE DR. There is a traffic disruption.\t9/8/26, 5:59 AM\t9/8/26, 7:47 AM\t9/8/26, 6:04 AM\tView on map"
     },
     {
       "eventId": null,
@@ -71,35 +100,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Carbon</td><td><span class=\"colHeader\">Description</span>Road work on I-476 South. The left lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/10/26, 10:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:55 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374501\">View on map</a></td>",
       "text": "Active Roadwork\tI-476\tPennsylvania\tCarbon\tRoad work on I-476 South. The left lane is closed.\t9/8/26, 6:00 AM\t9/10/26, 10:00 AM\t9/8/26, 5:55 AM\tView on map"
-    },
-    {
-      "eventId": "374500",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "US-30",
-        "Pennsylvania",
-        "York",
-        "CRASH on US-30 Westbound At EMERGENCY CROSSOVER. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.",
-        "9/8/26, 5:49 AM",
-        "9/8/26, 7:07 AM",
-        "9/8/26, 5:54 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374500"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-30</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>York</td><td><span class=\"colHeader\">Description</span>CRASH on US-30 Westbound At EMERGENCY CROSSOVER. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 5:49 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:07 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:54 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374500\">View on map</a></td>",
-      "text": "Incident - Major Route\tUS-30\tPennsylvania\tYork\tCRASH on US-30 Westbound At EMERGENCY CROSSOVER. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 5:49 AM\t9/8/26, 7:07 AM\t9/8/26, 5:54 AM\tView on map"
     },
     {
       "eventId": "373888",
