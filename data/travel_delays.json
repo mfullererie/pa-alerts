@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T23:13:11.959Z",
+  "fetched_at": "2026-09-08T23:19:39.137Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,122 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "US-22",
+        "Pennsylvania",
+        "Northampton",
+        "ROADWORK on US-22 Eastbound between RAMP FROM SR 3015 (NAZARETH PK) AT PA 191 EXIT and Exit PA 33 SOUTH/TO I-78. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 7:17 PM",
+        "9/9/26, 8:00 AM",
+        "9/8/26, 7:18 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375224"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-22</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on US-22 Eastbound between RAMP FROM SR 3015 (NAZARETH PK) AT PA 191 EXIT and Exit PA 33 SOUTH/TO I-78. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:17 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 8:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:18 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375224\">View on map</a></td>",
+      "text": "Active Roadwork\tUS-22\tPennsylvania\tNorthampton\tROADWORK on US-22 Eastbound between RAMP FROM SR 3015 (NAZARETH PK) AT PA 191 EXIT and Exit PA 33 SOUTH/TO I-78. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 7:17 PM\t9/9/26, 8:00 AM\t9/8/26, 7:18 PM\tView on map"
+    },
+    {
+      "eventId": "375184",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-76",
+        "Pennsylvania",
+        "Dauphin",
+        "Incident on I-76 West. The right lane is blocked, expect delays.",
+        "9/8/26, 6:15 PM",
+        "",
+        "9/8/26, 7:14 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-375184"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>Incident on I-76 West. The right lane is blocked, expect delays.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:15 PM</td><td><span class=\"colHeader\">Anticipated End Time</span></td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:14 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375184\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-76\tPennsylvania\tDauphin\tIncident on I-76 West. The right lane is blocked, expect delays.\t9/8/26, 6:15 PM\t\t9/8/26, 7:14 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-88",
+        "Pennsylvania",
+        "Allegheny",
+        "ROADWORK on PA-88 Southbound At GROVE RD. All Lanes Disrupted.",
+        "9/8/26, 7:04 PM",
+        "9/9/26, 6:00 AM",
+        "9/8/26, 7:13 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375218"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-88</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-88 Southbound At GROVE RD. All Lanes Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:04 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:13 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375218\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-88\tPennsylvania\tAllegheny\tROADWORK on PA-88 Southbound At GROVE RD. All Lanes Disrupted.\t9/8/26, 7:04 PM\t9/9/26, 6:00 AM\t9/8/26, 7:13 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-276",
+        "Pennsylvania",
+        "Bucks",
+        "Road work on I-276 East. The right lane is closed.",
+        "9/8/26, 7:00 PM",
+        "9/9/26, 6:00 AM",
+        "9/8/26, 7:13 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375223"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-276 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bucks</td><td><span class=\"colHeader\">Description</span>Road work on I-276 East. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:13 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375223\">View on map</a></td>",
+      "text": "Active Roadwork\tI-276\tPennsylvania\tBucks\tRoad work on I-276 East. The right lane is closed.\t9/8/26, 7:00 PM\t9/9/26, 6:00 AM\t9/8/26, 7:13 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -129,35 +245,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>Road work on I-76 West. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:06 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375220\">View on map</a></td>",
       "text": "Active Roadwork\tI-76\tPennsylvania\tLancaster\tRoad work on I-76 West. The right lane is closed.\t9/8/26, 7:00 PM\t9/9/26, 6:00 AM\t9/8/26, 7:06 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-88",
-        "Pennsylvania",
-        "Allegheny",
-        "ROADWORK on PA-88 Southbound At GROVE RD. All Lanes Disrupted.",
-        "9/8/26, 7:04 PM",
-        "9/8/26, 7:46 PM",
-        "9/8/26, 7:05 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375218"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-88</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-88 Southbound At GROVE RD. All Lanes Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:04 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:46 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:05 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375218\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-88\tPennsylvania\tAllegheny\tROADWORK on PA-88 Southbound At GROVE RD. All Lanes Disrupted.\t9/8/26, 7:04 PM\t9/8/26, 7:46 PM\t9/8/26, 7:05 PM\tView on map"
     },
     {
       "eventId": null,
@@ -390,35 +477,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>RICHARD RD / WEXFORD RUN RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>Utility work on RICHARD RD / WEXFORD RUN RD both directions between WEXFORD BAYNE RD, WEXFORD RUN RD (TBK) and COUNTRY OAK DR, SUMMIT DR.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:51 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 5:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:59 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375211\">View on map</a></td>",
       "text": "Active Roadwork\tRICHARD RD / WEXFORD RUN RD\tPennsylvania\tAllegheny\tUtility work on RICHARD RD / WEXFORD RUN RD both directions between WEXFORD BAYNE RD, WEXFORD RUN RD (TBK) and COUNTRY OAK DR, SUMMIT DR. There is a lane restriction.\t9/8/26, 6:51 PM\t9/9/26, 5:00 AM\t9/8/26, 6:59 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-85",
-        "Pennsylvania",
-        "Indiana",
-        "ROADWORK on PA-85 BOTH DIRECTIONS between BAKER TRAIL RD and ROSSMOYNE RD. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 6:41 AM",
-        "9/8/26, 7:15 PM",
-        "9/8/26, 6:57 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374517"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-85</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Indiana</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-85 BOTH DIRECTIONS between BAKER TRAIL RD and ROSSMOYNE RD. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:41 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:57 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374517\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-85\tPennsylvania\tIndiana\tROADWORK on PA-85 BOTH DIRECTIONS between BAKER TRAIL RD and ROSSMOYNE RD. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 6:41 AM\t9/8/26, 7:15 PM\t9/8/26, 6:57 PM\tView on map"
     },
     {
       "eventId": null,
@@ -885,35 +943,6 @@
       "text": "Active Roadwork\tPA-61\tPennsylvania\tBerks\tROADWORK on PA-61 Northbound At RAMP FROM I-78 WEST (at 0374/0686). Left Lane (of 2 Lanes) Blocked, 1 Left Turn Lane Blocked.\t9/8/26, 6:06 PM\t9/9/26, 8:00 AM\t9/8/26, 6:13 PM\tView on map"
     },
     {
-      "eventId": "375184",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-76",
-        "Pennsylvania",
-        "Dauphin",
-        "Incident on I-76 West. All lanes are blocked, expect delays.",
-        "9/8/26, 6:15 PM",
-        "",
-        "9/8/26, 6:13 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-375184"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>Incident on I-76 West. All lanes are blocked, expect delays.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:15 PM</td><td><span class=\"colHeader\">Anticipated End Time</span></td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:13 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375184\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-76\tPennsylvania\tDauphin\tIncident on I-76 West. All lanes are blocked, expect delays.\t9/8/26, 6:15 PM\t\t9/8/26, 6:13 PM\tView on map"
-    },
-    {
       "eventId": null,
       "cells": [
         "Row Details",
@@ -1202,35 +1231,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Carbon</td><td><span class=\"colHeader\">Description</span>Road work on I-476 North. The left lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/10/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:51 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374530\">View on map</a></td>",
       "text": "Active Roadwork\tI-476\tPennsylvania\tCarbon\tRoad work on I-476 North. The left lane is closed.\t9/8/26, 7:00 AM\t9/10/26, 12:00 PM\t9/8/26, 5:51 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-954",
-        "Pennsylvania",
-        "Indiana",
-        "ROADWORK on PA-954 BOTH DIRECTIONS between INDIANA ST and CROOKS RD. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 6:43 AM",
-        "9/8/26, 7:50 PM",
-        "9/8/26, 5:51 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374519"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-954</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Indiana</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-954 BOTH DIRECTIONS between INDIANA ST and CROOKS RD. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:43 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:50 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:51 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374519\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-954\tPennsylvania\tIndiana\tROADWORK on PA-954 BOTH DIRECTIONS between INDIANA ST and CROOKS RD. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 6:43 AM\t9/8/26, 7:50 PM\t9/8/26, 5:51 PM\tView on map"
     },
     {
       "eventId": null,
