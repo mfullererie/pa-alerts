@@ -1,7 +1,23 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T18:13:39.173Z",
+  "fetched_at": "2026-09-08T18:18:36.934Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "id": "375015",
+      "eventId": "375015",
+      "type": "Incident - Major Route",
+      "roadway": "I-76",
+      "state": "Pennsylvania",
+      "county": "Philadelphia",
+      "route": "I-76",
+      "direction": "WEST",
+      "description": "Disabled vehicle on I-76 westbound between .2 miles east of Exit 340A: LINCOLN DR/KELLY DR and .1 miles east of Exit 339: US 1 SOUTH - CITY AVE. There is a lane restriction.",
+      "start_time": "9/8/26, 2:13 PM",
+      "anticipated_end_time": "9/8/26, 2:59 PM",
+      "last_updated": "9/8/26, 2:16 PM",
+      "formatted": "I-76 (Philadelphia County) | Disabled vehicle on I-76 westbound between.2 miles east of Exit 340A: LINCOLN DR/KELLY DR and.1 miles east of Exit 339: US 1 SOUTH - CITY AVE. Estimated Reopen: 9/8/26 - 14:59"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T18:13:39.173Z",
+  "fetched_at": "2026-09-08T18:18:36.934Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,64 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": "375015",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-76",
+        "Pennsylvania",
+        "Philadelphia",
+        "Disabled vehicle on I-76 westbound between .2 miles east of Exit 340A: LINCOLN DR/KELLY DR and .1 miles east of Exit 339: US 1 SOUTH - CITY AVE. There is a lane restriction.",
+        "9/8/26, 2:13 PM",
+        "9/8/26, 2:59 PM",
+        "9/8/26, 2:16 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-375015"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-76 westbound between .2 miles east of Exit 340A: LINCOLN DR/KELLY DR and .1 miles east of Exit 339: US 1 SOUTH - CITY AVE.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:13 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:59 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:16 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375015\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-76\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-76 westbound between .2 miles east of Exit 340A: LINCOLN DR/KELLY DR and .1 miles east of Exit 339: US 1 SOUTH - CITY AVE. There is a lane restriction.\t9/8/26, 2:13 PM\t9/8/26, 2:59 PM\t9/8/26, 2:16 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-76",
+        "Pennsylvania",
+        "Westmoreland",
+        "Mobile closure on I-76 East. Be alert for a moving lane closure in this area.",
+        "9/8/26, 11:21 AM",
+        "9/8/26, 2:24 PM",
+        "9/8/26, 2:14 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374959"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Westmoreland</td><td><span class=\"colHeader\">Description</span>Mobile closure on I-76 East. Be alert for a moving lane closure in this area.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 11:21 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:24 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:14 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374959\">View on map</a></td>",
+      "text": "Active Roadwork\tI-76\tPennsylvania\tWestmoreland\tMobile closure on I-76 East. Be alert for a moving lane closure in this area.\t9/8/26, 11:21 AM\t9/8/26, 2:24 PM\t9/8/26, 2:14 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -274,64 +332,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 611</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 611 southbound at MARYLAND RD, WILLOW GROVE INDUST COMPL.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 1:43 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:45 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375003\">View on map</a></td>",
       "text": "Active Roadwork\tPA - 611\tPennsylvania\tMontgomery\tRoadwork on PA 611 southbound at MARYLAND RD, WILLOW GROVE INDUST COMPL. There is a lane restriction.\t9/8/26, 1:43 PM\t9/8/26, 3:30 PM\t9/8/26, 1:45 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Incident - Other Route",
-        "FIFTEENTH ST",
-        "Pennsylvania",
-        "Philadelphia",
-        "Police activity on FIFTEENTH ST southbound between FIFTEENTH ST, VINE ST and . All lanes now open.",
-        "9/8/26, 1:30 PM",
-        "9/8/26, 2:16 PM",
-        "9/8/26, 1:43 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteIncident-374993"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>FIFTEENTH ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Police activity on FIFTEENTH ST southbound between FIFTEENTH ST, VINE ST and .  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 1:30 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:16 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:43 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-374993\">View on map</a></td>",
-      "text": "Incident - Other Route\tFIFTEENTH ST\tPennsylvania\tPhiladelphia\tPolice activity on FIFTEENTH ST southbound between FIFTEENTH ST, VINE ST and . All lanes now open.\t9/8/26, 1:30 PM\t9/8/26, 2:16 PM\t9/8/26, 1:43 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "US-13",
-        "Pennsylvania",
-        "Bucks",
-        "Utility work on US 13 both directions between CLOVER AV and CEDAR AV, WALNUT AV. All lanes now open.",
-        "9/8/26, 9:29 AM",
-        "9/8/26, 4:00 PM",
-        "9/8/26, 1:42 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374855"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-13</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bucks</td><td><span class=\"colHeader\">Description</span>Utility work on US 13 both directions between CLOVER AV and CEDAR AV, WALNUT AV.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:29 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:42 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374855\">View on map</a></td>",
-      "text": "Active Roadwork\tUS-13\tPennsylvania\tBucks\tUtility work on US 13 both directions between CLOVER AV and CEDAR AV, WALNUT AV. All lanes now open.\t9/8/26, 9:29 AM\t9/8/26, 4:00 PM\t9/8/26, 1:42 PM\tView on map"
     },
     {
       "eventId": null,
@@ -680,35 +680,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-872</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Cameron</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-872 BOTH DIRECTIONS between BUCKTAIL TRAIL HW and BUCKTAIL TRAIL HW. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 12:31 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:32 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374963\">View on map</a></td>",
       "text": "Active Roadwork\tPA-872\tPennsylvania\tCameron\tROADWORK on PA-872 BOTH DIRECTIONS between BUCKTAIL TRAIL HW and BUCKTAIL TRAIL HW. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 12:31 PM\t9/8/26, 3:15 PM\t9/8/26, 12:32 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-76",
-        "Pennsylvania",
-        "Westmoreland",
-        "Mobile closure on I-76 East. Be alert for a moving lane closure in this area.",
-        "9/8/26, 11:21 AM",
-        "9/8/26, 2:24 PM",
-        "9/8/26, 12:24 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374959"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Westmoreland</td><td><span class=\"colHeader\">Description</span>Mobile closure on I-76 East. Be alert for a moving lane closure in this area.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 11:21 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:24 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:24 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374959\">View on map</a></td>",
-      "text": "Active Roadwork\tI-76\tPennsylvania\tWestmoreland\tMobile closure on I-76 East. Be alert for a moving lane closure in this area.\t9/8/26, 11:21 AM\t9/8/26, 2:24 PM\t9/8/26, 12:24 PM\tView on map"
     },
     {
       "eventId": "373871",
@@ -1318,35 +1289,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4001) SARTWELL CREEK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Potter</td><td><span class=\"colHeader\">Description</span>ROADWORK on (4001) SARTWELL CREEK RD BOTH DIRECTIONS between  HANSON HOLLOW RD and  HANSON HOLLOW RD. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:57 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374919\">View on map</a></td>",
       "text": "Active Roadwork\t(4001) SARTWELL CREEK RD\tPennsylvania\tPotter\tROADWORK on (4001) SARTWELL CREEK RD BOTH DIRECTIONS between HANSON HOLLOW RD and HANSON HOLLOW RD. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 10:56 AM\t9/8/26, 3:20 PM\t9/8/26, 10:57 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-23",
-        "Pennsylvania",
-        "Lancaster",
-        "ROADWORK on PA-23 BOTH DIRECTIONS between EARLAND DR and 28TH DIVISION HW. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 10:50 AM",
-        "9/8/26, 6:18 PM",
-        "9/8/26, 10:51 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374918"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-23</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-23 BOTH DIRECTIONS between EARLAND DR and 28TH DIVISION HW. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:50 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 6:18 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:51 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374918\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-23\tPennsylvania\tLancaster\tROADWORK on PA-23 BOTH DIRECTIONS between EARLAND DR and 28TH DIVISION HW. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 10:50 AM\t9/8/26, 6:18 PM\t9/8/26, 10:51 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2913,6 +2855,64 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 724</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Utility work on PA 724 both directions between HANOVER ST and KEIM ST.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374756\">View on map</a></td>",
       "text": "Closure - Other Route\tPA - 724\tPennsylvania\tChester\tUtility work on PA 724 both directions between HANOVER ST and KEIM ST. All lanes closed.\t9/8/26, 8:56 AM\t9/8/26, 4:00 PM\t9/8/26, 9:03 AM\tView on map"
+    },
+    {
+      "eventId": "374755",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "TACONY ST / STATE RD",
+        "Pennsylvania",
+        "Philadelphia",
+        "Roadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST. All lanes closed.",
+        "9/8/26, 8:53 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 9:03 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-374755"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>TACONY ST / STATE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:53 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374755\">View on map</a></td>",
+      "text": "Closure - Other Route\tTACONY ST / STATE RD\tPennsylvania\tPhiladelphia\tRoadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST. All lanes closed.\t9/8/26, 8:53 AM\t9/8/26, 3:00 PM\t9/8/26, 9:03 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "(1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD",
+        "Pennsylvania",
+        "Lehigh",
+        "ROADWORK on (1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD BOTH DIRECTIONS At PRESIDENTIAL DR. All Lanes Disrupted.",
+        "9/8/26, 9:02 AM",
+        "9/8/26, 3:30 PM",
+        "9/8/26, 9:02 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374753"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lehigh</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD BOTH DIRECTIONS At PRESIDENTIAL DR. All Lanes Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374753\">View on map</a></td>",
+      "text": "Active Roadwork\t(1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD\tPennsylvania\tLehigh\tROADWORK on (1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD BOTH DIRECTIONS At PRESIDENTIAL DR. All Lanes Disrupted.\t9/8/26, 9:02 AM\t9/8/26, 3:30 PM\t9/8/26, 9:02 AM\tView on map"
     }
   ]
 }
