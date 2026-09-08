@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T20:23:32.205Z",
+  "fetched_at": "2026-09-08T20:28:39.245Z",
   "headers": [
     "",
     "Type",
@@ -972,35 +972,6 @@
       "text": "Active Roadwork\tI-76\tPennsylvania\tAllegheny\tRoad work on I-76 East. The right shoulder is closed.\t9/8/26, 3:00 PM\t9/8/26, 6:00 PM\t9/8/26, 2:44 PM\tView on map"
     },
     {
-      "eventId": "374902",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(1013) SAWMILL RD",
-        "Pennsylvania",
-        "Clarion",
-        "ROADWORK on (1013) SAWMILL RD BOTH DIRECTIONS between SAWMILL RD and SR 0066 SH. Closed.",
-        "9/8/26, 10:36 AM",
-        "9/8/26, 5:00 PM",
-        "9/8/26, 2:42 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374902"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1013) SAWMILL RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clarion</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1013) SAWMILL RD BOTH DIRECTIONS between SAWMILL RD and SR 0066 SH. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:36 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:42 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374902\">View on map</a></td>",
-      "text": "Closure - Other Route\t(1013) SAWMILL RD\tPennsylvania\tClarion\tROADWORK on (1013) SAWMILL RD BOTH DIRECTIONS between SAWMILL RD and SR 0066 SH. Closed.\t9/8/26, 10:36 AM\t9/8/26, 5:00 PM\t9/8/26, 2:42 PM\tView on map"
-    },
-    {
       "eventId": "374869",
       "cells": [
         "Row Details",
@@ -1726,35 +1697,6 @@
       "text": "Closure - Other Route\t(3007) HUMBERT RD\tPennsylvania\tSomerset\tBRIDGE OUTAGE on (3007) HUMBERT RD BOTH DIRECTIONS At WINE-O RD. Closed.\t9/8/26, 9:39 AM\t10/16/26, 5:00 PM\t9/8/26, 9:45 AM\tView on map"
     },
     {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "(1036) CARVERTON RD",
-        "Pennsylvania",
-        "Luzerne",
-        "UTILITY WORK on (1036) CARVERTON RD BOTH DIRECTIONS At DUG RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.",
-        "9/8/26, 9:37 AM",
-        "9/8/26, 5:30 PM",
-        "9/8/26, 9:38 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374848"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1036) CARVERTON RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Luzerne</td><td><span class=\"colHeader\">Description</span>UTILITY WORK on (1036) CARVERTON RD BOTH DIRECTIONS At DUG RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:37 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:38 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374848\">View on map</a></td>",
-      "text": "Active Roadwork\t(1036) CARVERTON RD\tPennsylvania\tLuzerne\tUTILITY WORK on (1036) CARVERTON RD BOTH DIRECTIONS At DUG RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 9:37 AM\t9/8/26, 5:30 PM\t9/8/26, 9:38 AM\tView on map"
-    },
-    {
       "eventId": "374842",
       "cells": [
         "Row Details",
@@ -2078,35 +2020,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "PA-866",
-        "Pennsylvania",
-        "Blair",
-        "ROADWORK on PA-866 BOTH DIRECTIONS At ARNOLD ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.",
-        "9/8/26, 8:10 AM",
-        "9/8/26, 6:00 PM",
-        "9/8/26, 8:17 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374656"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-866</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Blair</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-866 BOTH DIRECTIONS At ARNOLD ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:10 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 6:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:17 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374656\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-866\tPennsylvania\tBlair\tROADWORK on PA-866 BOTH DIRECTIONS At ARNOLD ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 8:10 AM\t9/8/26, 6:00 PM\t9/8/26, 8:17 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "I-476",
         "Pennsylvania",
         "Bucks",
@@ -2391,35 +2304,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-49</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Tioga</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-49 BOTH DIRECTIONS between ERICKSON RD and WATER TOWER RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:25 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:10 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:25 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374576\">View on map</a></td>",
       "text": "Active Roadwork\tPA-49\tPennsylvania\tTioga\tROADWORK on PA-49 BOTH DIRECTIONS between ERICKSON RD and WATER TOWER RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 7:25 AM\t9/8/26, 5:10 PM\t9/8/26, 7:25 AM\tView on map"
-    },
-    {
-      "eventId": "374547",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD",
-        "Pennsylvania",
-        "Carbon",
-        "ROADWORK on (2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD BOTH DIRECTIONS between HAHNS DAIRY RD and INTERCHANGE RD. Closed.",
-        "9/8/26, 7:08 AM",
-        "9/8/26, 5:00 PM",
-        "9/8/26, 7:09 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374547"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Carbon</td><td><span class=\"colHeader\">Description</span>ROADWORK on (2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD BOTH DIRECTIONS between HAHNS DAIRY RD and INTERCHANGE RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:08 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:09 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374547\">View on map</a></td>",
-      "text": "Closure - Other Route\t(2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD\tPennsylvania\tCarbon\tROADWORK on (2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD BOTH DIRECTIONS between HAHNS DAIRY RD and INTERCHANGE RD. Closed.\t9/8/26, 7:08 AM\t9/8/26, 5:00 PM\t9/8/26, 7:09 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2913,6 +2797,122 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 309</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Schuylkill</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 309 southbound between LOFTY RD, MACADOO POWER PLANT, PLANT DR and BEN TITUS RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>4/20/26, 7:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/30/26, 6:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/4/26, 10:13 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-252273\">View on map</a></td>",
       "text": "Active Roadwork\tPA - 309\tPennsylvania\tSchuylkill\tRoadwork on PA 309 southbound between LOFTY RD, MACADOO POWER PLANT, PLANT DR and BEN TITUS RD. There is a lane restriction.\t4/20/26, 7:00 AM\t10/30/26, 6:15 PM\t9/4/26, 10:13 AM\tView on map"
+    },
+    {
+      "eventId": "373857",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "PA-271",
+        "Pennsylvania",
+        "Cambria",
+        "DOWNED TREE IN WIRES on PA-271 BOTH DIRECTIONS between MENOHER HW and LUZERNE ST. Closed.",
+        "9/4/26, 10:03 AM",
+        "9/15/26, 12:00 PM",
+        "9/4/26, 10:03 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-373857"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-271</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Cambria</td><td><span class=\"colHeader\">Description</span>DOWNED TREE IN WIRES on PA-271 BOTH DIRECTIONS between MENOHER HW and LUZERNE ST. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/4/26, 10:03 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/15/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/4/26, 10:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373857\">View on map</a></td>",
+      "text": "Closure - Other Route\tPA-271\tPennsylvania\tCambria\tDOWNED TREE IN WIRES on PA-271 BOTH DIRECTIONS between MENOHER HW and LUZERNE ST. Closed.\t9/4/26, 10:03 AM\t9/15/26, 12:00 PM\t9/4/26, 10:03 AM\tView on map"
+    },
+    {
+      "eventId": "252311",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "CARPENTER LN / ARDARA DR / LEGER RD",
+        "Pennsylvania",
+        "Westmoreland",
+        "Roadwork on CARPENTER LN / ARDARA DR / LEGER RD both directions between MACK RD and ARDARA DR. All lanes closed.",
+        "5/4/26, 7:27 AM",
+        "9/11/26, 10:00 AM",
+        "9/4/26, 9:27 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-252311"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>CARPENTER LN / ARDARA DR / LEGER RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Westmoreland</td><td><span class=\"colHeader\">Description</span>Roadwork on CARPENTER LN / ARDARA DR / LEGER RD both directions between MACK RD and ARDARA DR.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>5/4/26, 7:27 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/11/26, 10:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/4/26, 9:27 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-252311\">View on map</a></td>",
+      "text": "Closure - Other Route\tCARPENTER LN / ARDARA DR / LEGER RD\tPennsylvania\tWestmoreland\tRoadwork on CARPENTER LN / ARDARA DR / LEGER RD both directions between MACK RD and ARDARA DR. All lanes closed.\t5/4/26, 7:27 AM\t9/11/26, 10:00 AM\t9/4/26, 9:27 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I - 376",
+        "Pennsylvania",
+        "Beaver",
+        "Roadwork on I-376 westbound between Exit 39: PA 18 - MONACA/SHIPPINGPORT and Exit 38A: PA 68 WEST - MIDLAND. There is a lane restriction.",
+        "4/30/26, 9:18 AM",
+        "10/9/26, 12:00 PM",
+        "9/4/26, 9:22 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-252304"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I - 376</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Beaver</td><td><span class=\"colHeader\">Description</span>Roadwork on I-376 westbound between Exit 39: PA 18 - MONACA/SHIPPINGPORT and Exit 38A: PA 68 WEST - MIDLAND.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>4/30/26, 9:18 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/9/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/4/26, 9:22 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-252304\">View on map</a></td>",
+      "text": "Active Roadwork\tI - 376\tPennsylvania\tBeaver\tRoadwork on I-376 westbound between Exit 39: PA 18 - MONACA/SHIPPINGPORT and Exit 38A: PA 68 WEST - MIDLAND. There is a lane restriction.\t4/30/26, 9:18 AM\t10/9/26, 12:00 PM\t9/4/26, 9:22 AM\tView on map"
+    },
+    {
+      "eventId": "373845",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "(3032) MAPLE AV",
+        "Pennsylvania",
+        "Wayne",
+        "ROADWORK on (3032) MAPLE AV BOTH DIRECTIONS At SMITH LN. Closed.",
+        "8/4/26, 8:45 AM",
+        "9/9/26, 9:00 AM",
+        "9/4/26, 8:50 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-373845"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(3032) MAPLE AV</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Wayne</td><td><span class=\"colHeader\">Description</span>ROADWORK on (3032) MAPLE AV BOTH DIRECTIONS At SMITH LN. Closed.</td><td><span class=\"colHeader\">Start Time</span>8/4/26, 8:45 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 9:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/4/26, 8:50 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373845\">View on map</a></td>",
+      "text": "Closure - Other Route\t(3032) MAPLE AV\tPennsylvania\tWayne\tROADWORK on (3032) MAPLE AV BOTH DIRECTIONS At SMITH LN. Closed.\t8/4/26, 8:45 AM\t9/9/26, 9:00 AM\t9/4/26, 8:50 AM\tView on map"
     }
   ]
 }
