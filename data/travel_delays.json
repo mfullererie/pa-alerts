@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T14:48:36.647Z",
+  "fetched_at": "2026-09-08T14:53:36.981Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,180 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-81",
+        "Pennsylvania",
+        "Schuylkill",
+        "ROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.",
+        "9/8/26, 8:31 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 10:53 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374683"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Schuylkill</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:31 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:53 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374683\">View on map</a></td>",
+      "text": "Active Roadwork\tI-81\tPennsylvania\tSchuylkill\tROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.\t9/8/26, 8:31 AM\t9/8/26, 3:00 PM\t9/8/26, 10:53 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-80",
+        "Pennsylvania",
+        "Mercer",
+        "ROADWORK on I-80 Westbound between MM 19 and MM 15. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 10:47 AM",
+        "9/8/26, 2:15 PM",
+        "9/8/26, 10:52 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374912"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Mercer</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Westbound between MM 19 and MM 15. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:47 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:52 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374912\">View on map</a></td>",
+      "text": "Active Roadwork\tI-80\tPennsylvania\tMercer\tROADWORK on I-80 Westbound between MM 19 and MM 15. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 10:47 AM\t9/8/26, 2:15 PM\t9/8/26, 10:52 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-23",
+        "Pennsylvania",
+        "Lancaster",
+        "ROADWORK on PA-23 BOTH DIRECTIONS between EARLAND DR and 28TH DIVISION HW. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 10:50 AM",
+        "9/8/26, 6:18 PM",
+        "9/8/26, 10:51 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374918"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-23</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-23 BOTH DIRECTIONS between EARLAND DR and 28TH DIVISION HW. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:50 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 6:18 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:51 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374918\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-23\tPennsylvania\tLancaster\tROADWORK on PA-23 BOTH DIRECTIONS between EARLAND DR and 28TH DIVISION HW. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 10:50 AM\t9/8/26, 6:18 PM\t9/8/26, 10:51 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "(4013) HICKERNELL RD",
+        "Pennsylvania",
+        "Crawford",
+        "MOVING ROADWORK on (4013) HICKERNELL RD BOTH DIRECTIONS At SPRINGBORO RD. Right Lane (of 2 Lanes) Disrupted.",
+        "9/8/26, 10:48 AM",
+        "9/8/26, 2:15 PM",
+        "9/8/26, 10:49 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374911"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4013) HICKERNELL RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Crawford</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on (4013) HICKERNELL RD BOTH DIRECTIONS At SPRINGBORO RD. Right Lane (of 2 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:48 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:49 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374911\">View on map</a></td>",
+      "text": "Active Roadwork\t(4013) HICKERNELL RD\tPennsylvania\tCrawford\tMOVING ROADWORK on (4013) HICKERNELL RD BOTH DIRECTIONS At SPRINGBORO RD. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 10:48 AM\t9/8/26, 2:15 PM\t9/8/26, 10:49 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-76",
+        "Pennsylvania",
+        "Allegheny",
+        "Mobile closure on I-76 West. Be alert for a moving lane closure in this area.",
+        "9/8/26, 8:22 AM",
+        "9/8/26, 10:59 AM",
+        "9/8/26, 10:49 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374706"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>Mobile closure on I-76 West. Be alert for a moving lane closure in this area.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:22 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 10:59 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:49 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374706\">View on map</a></td>",
+      "text": "Active Roadwork\tI-76\tPennsylvania\tAllegheny\tMobile closure on I-76 West. Be alert for a moving lane closure in this area.\t9/8/26, 8:22 AM\t9/8/26, 10:59 AM\t9/8/26, 10:49 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA - 896",
+        "Pennsylvania",
+        "Chester",
+        "Utility work on PA 896 both directions between LIMESTONE RD and SAW MILL RD. There is a traffic disruption.",
+        "9/8/26, 10:45 AM",
+        "9/8/26, 4:00 PM",
+        "9/8/26, 10:48 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374910"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 896</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Utility work on PA 896 both directions between LIMESTONE RD and SAW MILL RD.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:45 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:48 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374910\">View on map</a></td>",
+      "text": "Active Roadwork\tPA - 896\tPennsylvania\tChester\tUtility work on PA 896 both directions between LIMESTONE RD and SAW MILL RD. There is a traffic disruption.\t9/8/26, 10:45 AM\t9/8/26, 4:00 PM\t9/8/26, 10:48 AM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -912,35 +1086,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(3007) HUMBERT RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Somerset</td><td><span class=\"colHeader\">Description</span>BRIDGE OUTAGE on (3007) HUMBERT RD BOTH DIRECTIONS At WINE-O RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:39 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/16/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:45 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374857\">View on map</a></td>",
       "text": "Closure - Other Route\t(3007) HUMBERT RD\tPennsylvania\tSomerset\tBRIDGE OUTAGE on (3007) HUMBERT RD BOTH DIRECTIONS At WINE-O RD. Closed.\t9/8/26, 9:39 AM\t10/16/26, 5:00 PM\t9/8/26, 9:45 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-81",
-        "Pennsylvania",
-        "Schuylkill",
-        "ROADWORK on I-81 Southbound between MM 128 and MM 126. Right Lane (of 2 Lanes) Blocked.",
-        "9/8/26, 8:31 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 9:42 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374683"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Schuylkill</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 128 and MM 126. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:31 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:42 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374683\">View on map</a></td>",
-      "text": "Active Roadwork\tI-81\tPennsylvania\tSchuylkill\tROADWORK on I-81 Southbound between MM 128 and MM 126. Right Lane (of 2 Lanes) Blocked.\t9/8/26, 8:31 AM\t9/8/26, 3:00 PM\t9/8/26, 9:42 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2768,151 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 291</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 291 eastbound between HARRAHS BL and PENN TERMINAL, SAVILLE AV.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:49 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:55 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374737\">View on map</a></td>",
       "text": "Active Roadwork\tPA - 291\tPennsylvania\tDelaware\tRoadwork on PA 291 eastbound between HARRAHS BL and PENN TERMINAL, SAVILLE AV. There is a traffic disruption.\t9/8/26, 8:49 AM\t9/8/26, 3:00 PM\t9/8/26, 8:55 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-51",
-        "Pennsylvania",
-        "Allegheny",
-        "UTILITY WORK on PA-51 BOTH DIRECTIONS At CARINA LN. All Lanes Disrupted.",
-        "9/8/26, 8:54 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 8:55 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374733"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-51</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>UTILITY WORK on PA-51 BOTH DIRECTIONS At CARINA LN. All Lanes Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:54 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:55 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374733\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-51\tPennsylvania\tAllegheny\tUTILITY WORK on PA-51 BOTH DIRECTIONS At CARINA LN. All Lanes Disrupted.\t9/8/26, 8:54 AM\t9/8/26, 3:00 PM\t9/8/26, 8:55 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "SOUTH AV / PROVIDENCE RD",
-        "Pennsylvania",
-        "Delaware",
-        "Roadwork on SOUTH AV / PROVIDENCE RD both directions at HILLDALE RD. There is a traffic disruption.",
-        "9/8/26, 8:48 AM",
-        "9/8/26, 4:00 PM",
-        "9/8/26, 8:55 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374736"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>SOUTH AV / PROVIDENCE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Roadwork on SOUTH AV / PROVIDENCE RD both directions at HILLDALE RD.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:48 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:55 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374736\">View on map</a></td>",
-      "text": "Active Roadwork\tSOUTH AV / PROVIDENCE RD\tPennsylvania\tDelaware\tRoadwork on SOUTH AV / PROVIDENCE RD both directions at HILLDALE RD. There is a traffic disruption.\t9/8/26, 8:48 AM\t9/8/26, 4:00 PM\t9/8/26, 8:55 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA - 291",
-        "Pennsylvania",
-        "Delaware",
-        "Roadwork on PA 291 westbound between PENN TERMINAL, SAVILLE AV and HARRAHS BL. There is a traffic disruption.",
-        "9/8/26, 8:49 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 8:54 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374735"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 291</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 291 westbound between PENN TERMINAL, SAVILLE AV and HARRAHS BL.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:49 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:54 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374735\">View on map</a></td>",
-      "text": "Active Roadwork\tPA - 291\tPennsylvania\tDelaware\tRoadwork on PA 291 westbound between PENN TERMINAL, SAVILLE AV and HARRAHS BL. There is a traffic disruption.\t9/8/26, 8:49 AM\t9/8/26, 3:00 PM\t9/8/26, 8:54 AM\tView on map"
-    },
-    {
-      "eventId": "374734",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(2128) TENTH ST BY-PASS",
-        "Pennsylvania",
-        "Allegheny",
-        "ROADWORK on (2128) TENTH ST BY-PASS Southbound between FT DUQUESNE BL and Exit I-279 SOUTH - FT PITT BRIDGE/AIRPORT. Closed.",
-        "9/8/26, 8:53 AM",
-        "9/8/26, 12:00 PM",
-        "9/8/26, 8:54 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374734"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2128) TENTH ST BY-PASS</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on (2128) TENTH ST BY-PASS Southbound between FT DUQUESNE BL and Exit I-279 SOUTH - FT PITT BRIDGE/AIRPORT. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:53 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:54 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374734\">View on map</a></td>",
-      "text": "Closure - Other Route\t(2128) TENTH ST BY-PASS\tPennsylvania\tAllegheny\tROADWORK on (2128) TENTH ST BY-PASS Southbound between FT DUQUESNE BL and Exit I-279 SOUTH - FT PITT BRIDGE/AIRPORT. Closed.\t9/8/26, 8:53 AM\t9/8/26, 12:00 PM\t9/8/26, 8:54 AM\tView on map"
-    },
-    {
-      "eventId": "374653",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD",
-        "Pennsylvania",
-        "Dauphin",
-        "ROADWORK on (2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD BOTH DIRECTIONS At SCHOOLHOUSE RD. Closed.",
-        "9/8/26, 8:15 AM",
-        "10/15/26, 3:00 PM",
-        "9/8/26, 8:54 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374653"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>ROADWORK on (2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD BOTH DIRECTIONS At SCHOOLHOUSE RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:15 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/15/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:54 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374653\">View on map</a></td>",
-      "text": "Closure - Other Route\t(2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD\tPennsylvania\tDauphin\tROADWORK on (2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD BOTH DIRECTIONS At SCHOOLHOUSE RD. Closed.\t9/8/26, 8:15 AM\t10/15/26, 3:00 PM\t9/8/26, 8:54 AM\tView on map"
     }
   ]
 }
