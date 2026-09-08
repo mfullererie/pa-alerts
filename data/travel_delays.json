@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T06:18:11.676Z",
+  "fetched_at": "2026-09-08T06:23:51.526Z",
   "headers": [
     "",
     "Type",
@@ -15,17 +15,46 @@
   ],
   "rows": [
     {
-      "eventId": "374478",
+      "eventId": "374479",
       "cells": [
         "Row Details",
-        "Closure - Major Route",
+        "Incident - Major Route",
         "I-95",
         "Pennsylvania",
         "Delaware",
-        "Vehicle fire on I-95 southbound between Exit: PA 3010 - CONCORD RD and Exit 3: HIGHLAND AVENUE. All lanes closed.",
+        "Fire department activity on I-95 southbound at Exit 3: HIGHLAND AVENUE. There is a ramp closure.",
+        "9/8/26, 2:16 AM",
+        "9/8/26, 3:20 AM",
+        "9/8/26, 2:18 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374479"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Fire department activity on I-95 southbound at Exit 3: HIGHLAND AVENUE.  There is a ramp closure.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:16 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:20 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:18 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374479\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-95\tPennsylvania\tDelaware\tFire department activity on I-95 southbound at Exit 3: HIGHLAND AVENUE. There is a ramp closure.\t9/8/26, 2:16 AM\t9/8/26, 3:20 AM\t9/8/26, 2:18 AM\tView on map"
+    },
+    {
+      "eventId": "374478",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-95",
+        "Pennsylvania",
+        "Delaware",
+        "Vehicle fire on I-95 southbound between Exit: PA 3010 - CONCORD RD and Exit 3: HIGHLAND AVENUE. There is a lane restriction.",
         "9/8/26, 2:08 AM",
         "9/8/26, 3:10 AM",
-        "9/8/26, 2:13 AM",
+        "9/8/26, 2:17 AM",
         "View on map"
       ],
       "links": [
@@ -38,68 +67,10 @@
         "",
         "",
         "",
-        "https://www.511pa.com/map#MajorRouteClosure-374478"
+        "https://www.511pa.com/map#MajorRouteIncident-374478"
       ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Vehicle fire on I-95 southbound between Exit: PA 3010 - CONCORD RD and Exit 3: HIGHLAND AVENUE.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:08 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:10 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:13 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteClosure-374478\">View on map</a></td>",
-      "text": "Closure - Major Route\tI-95\tPennsylvania\tDelaware\tVehicle fire on I-95 southbound between Exit: PA 3010 - CONCORD RD and Exit 3: HIGHLAND AVENUE. All lanes closed.\t9/8/26, 2:08 AM\t9/8/26, 3:10 AM\t9/8/26, 2:13 AM\tView on map"
-    },
-    {
-      "eventId": "374446",
-      "cells": [
-        "Row Details",
-        "Closure - Major Route",
-        "US-11",
-        "Pennsylvania",
-        "Lackawanna",
-        "POLICE ACTIVITY on US-11 Southbound between Exit US 6 BUSINESS E/TO I-81/TO US 6 - DICKSON CIT and RAMP FROM PA 307 TO US 11 S. Closed.",
-        "9/7/26, 9:37 PM",
-        "9/8/26, 2:30 AM",
-        "9/8/26, 1:49 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteClosure-374446"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-11</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lackawanna</td><td><span class=\"colHeader\">Description</span>POLICE ACTIVITY on US-11 Southbound between Exit US 6 BUSINESS E/TO I-81/TO US 6 - DICKSON CIT and RAMP FROM PA 307 TO US 11 S. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 9:37 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:49 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteClosure-374446\">View on map</a></td>",
-      "text": "Closure - Major Route\tUS-11\tPennsylvania\tLackawanna\tPOLICE ACTIVITY on US-11 Southbound between Exit US 6 BUSINESS E/TO I-81/TO US 6 - DICKSON CIT and RAMP FROM PA 307 TO US 11 S. Closed.\t9/7/26, 9:37 PM\t9/8/26, 2:30 AM\t9/8/26, 1:49 AM\tView on map"
-    },
-    {
-      "eventId": "374469",
-      "cells": [
-        "Row Details",
-        "Closure - Major Route",
-        "US-11",
-        "Pennsylvania",
-        "Lackawanna",
-        "POLICE ACTIVITY on US-11 Northbound between Exit PA 307 NORTH - KEYSER AVE and RAMP FROM US 6 BUS W TO US 11 N. Closed.",
-        "9/7/26, 10:52 PM",
-        "9/8/26, 2:30 AM",
-        "9/8/26, 1:49 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteClosure-374469"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-11</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lackawanna</td><td><span class=\"colHeader\">Description</span>POLICE ACTIVITY on US-11 Northbound between Exit PA 307 NORTH - KEYSER AVE and RAMP FROM US 6 BUS W TO US 11 N. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 10:52 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:49 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteClosure-374469\">View on map</a></td>",
-      "text": "Closure - Major Route\tUS-11\tPennsylvania\tLackawanna\tPOLICE ACTIVITY on US-11 Northbound between Exit PA 307 NORTH - KEYSER AVE and RAMP FROM US 6 BUS W TO US 11 N. Closed.\t9/7/26, 10:52 PM\t9/8/26, 2:30 AM\t9/8/26, 1:49 AM\tView on map"
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Vehicle fire on I-95 southbound between Exit: PA 3010 - CONCORD RD and Exit 3: HIGHLAND AVENUE.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:08 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:10 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:17 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374478\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-95\tPennsylvania\tDelaware\tVehicle fire on I-95 southbound between Exit: PA 3010 - CONCORD RD and Exit 3: HIGHLAND AVENUE. There is a lane restriction.\t9/8/26, 2:08 AM\t9/8/26, 3:10 AM\t9/8/26, 2:17 AM\tView on map"
     },
     {
       "eventId": null,
@@ -158,35 +129,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-33</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-33 Northbound between Exit TATAMY and Exit PA 191 - STOCKERTOWN/BANGER. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 7:23 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 6:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374421\">View on map</a></td>",
       "text": "Active Roadwork\tPA-33\tPennsylvania\tNorthampton\tROADWORK on PA-33 Northbound between Exit TATAMY and Exit PA 191 - STOCKERTOWN/BANGER. Left Lane (of 2 Lanes) Blocked.\t9/7/26, 7:23 PM\t9/8/26, 6:30 AM\t9/8/26, 12:03 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-376",
-        "Pennsylvania",
-        "Allegheny",
-        "ROADWORK on I-376 Eastbound between Exit 79B PA 130 - CHURCHILL and TURNPIKE RAMP RD. Right Lane (of 3 Lanes) Blocked.",
-        "9/7/26, 11:30 PM",
-        "9/8/26, 5:15 AM",
-        "9/7/26, 11:33 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374467"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-376</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-376 Eastbound between Exit 79B PA 130 - CHURCHILL and TURNPIKE RAMP RD. Right Lane (of 3 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 11:30 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:15 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 11:33 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374467\">View on map</a></td>",
-      "text": "Active Roadwork\tI-376\tPennsylvania\tAllegheny\tROADWORK on I-376 Eastbound between Exit 79B PA 130 - CHURCHILL and TURNPIKE RAMP RD. Right Lane (of 3 Lanes) Blocked.\t9/7/26, 11:30 PM\t9/8/26, 5:15 AM\t9/7/26, 11:33 PM\tView on map"
     },
     {
       "eventId": "373888",
@@ -2913,6 +2855,64 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1043) SHESHEQUIN RD / RIVERSIDE DR</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bradford</td><td><span class=\"colHeader\">Description</span>BRIDGE OUTAGE on (1043) SHESHEQUIN RD / RIVERSIDE DR Northbound At LOCKHART ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>8/25/26, 10:06 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/25/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/25/26, 10:19 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-373844\">View on map</a></td>",
       "text": "Incident - Other Route\t(1043) SHESHEQUIN RD / RIVERSIDE DR\tPennsylvania\tBradford\tBRIDGE OUTAGE on (1043) SHESHEQUIN RD / RIVERSIDE DR Northbound At LOCKHART ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t8/25/26, 10:06 AM\t9/25/26, 5:00 PM\t8/25/26, 10:19 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA - 230",
+        "Pennsylvania",
+        "Dauphin",
+        "Roadwork on PA 230 eastbound between HANNA ST and SYCAMORE ST. There is a lane restriction.",
+        "5/11/26, 7:53 AM",
+        "9/15/26, 3:20 PM",
+        "8/25/26, 9:44 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-252434"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 230</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 230 eastbound between HANNA ST and SYCAMORE ST.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>5/11/26, 7:53 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/15/26, 3:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/25/26, 9:44 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-252434\">View on map</a></td>",
+      "text": "Active Roadwork\tPA - 230\tPennsylvania\tDauphin\tRoadwork on PA 230 eastbound between HANNA ST and SYCAMORE ST. There is a lane restriction.\t5/11/26, 7:53 AM\t9/15/26, 3:20 PM\t8/25/26, 9:44 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-50",
+        "Pennsylvania",
+        "Allegheny",
+        "Roadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD. There is a lane restriction.",
+        "8/3/26, 1:08 PM",
+        "9/8/26, 3:00 PM",
+        "8/24/26, 2:44 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-332174"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-50</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>8/3/26, 1:08 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 2:44 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-332174\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-50\tPennsylvania\tAllegheny\tRoadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD. There is a lane restriction.\t8/3/26, 1:08 PM\t9/8/26, 3:00 PM\t8/24/26, 2:44 PM\tView on map"
     }
   ]
 }
