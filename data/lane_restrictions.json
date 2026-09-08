@@ -1,8 +1,8 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T19:18:47.798Z",
+  "fetched_at": "2026-09-08T19:23:41.257Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 3,
+  "count": 2,
   "items": [
     {
       "id": "375019",
@@ -33,21 +33,6 @@
       "anticipated_end_time": "9/8/26, 4:00 PM",
       "last_updated": "9/8/26, 2:54 PM",
       "formatted": "I-76 (Philadelphia County) | Disabled vehicle on I-76 westbound between.2 miles east of Exit 340A: LINCOLN DR/KELLY DR and.1 miles east of Exit 339: US 1 SOUTH - CITY AVE. Estimated Reopen: 9/8/26 - 16:00"
-    },
-    {
-      "id": "375025",
-      "eventId": "375025",
-      "type": "Incident - Major Route",
-      "roadway": "I - 476",
-      "state": "Pennsylvania",
-      "county": "Delaware",
-      "route": "I-476",
-      "direction": "SOUTH",
-      "description": "Multi vehicle crash on I-476 southbound .8 miles north of Exit 3: SWARTHMORE/MEDIA. There is a lane restriction.",
-      "start_time": "9/8/26, 2:34 PM",
-      "anticipated_end_time": "9/8/26, 3:20 PM",
-      "last_updated": "9/8/26, 2:36 PM",
-      "formatted": "I-476 (Delaware County) | Multi vehicle crash on I-476 southbound.8 miles north of Exit 3: SWARTHMORE/MEDIA. Estimated Reopen: 9/8/26 - 15:20"
     }
   ]
 }
