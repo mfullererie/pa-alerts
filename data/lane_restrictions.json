@@ -1,8 +1,8 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T22:53:53.963Z",
+  "fetched_at": "2026-09-08T22:58:42.284Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 2,
+  "count": 1,
   "items": [
     {
       "id": "375113",
@@ -16,23 +16,8 @@
       "description": "CRASH on I-81 Southbound At Exit 80 PA 743 - GRANTVILLE/HERSHEY. No Lanes Blocked.",
       "start_time": "9/8/26, 4:35 PM",
       "anticipated_end_time": "9/8/26, 8:00 PM",
-      "last_updated": "9/8/26, 6:36 PM",
+      "last_updated": "9/8/26, 6:56 PM",
       "formatted": "I-81 (Dauphin County) | CRASH on I-81 Southbound At Exit 80 PA 743 - GRANTVILLE/HERSHEY. No Lanes Blocked. Estimated Reopen: 9/8/26 - 20:00"
-    },
-    {
-      "id": "375131",
-      "eventId": "375131",
-      "type": "Incident - Major Route",
-      "roadway": "I-78",
-      "state": "Pennsylvania",
-      "county": "Lehigh",
-      "route": "I-78",
-      "direction": "EAST",
-      "description": "VEHICLE FIRE on I-78 Eastbound At MM 58. 2 Right Lanes (of 3 Lanes) Blocked, Right Shoulder Blocked.",
-      "start_time": "9/8/26, 5:02 PM",
-      "anticipated_end_time": "9/8/26, 7:30 PM",
-      "last_updated": "9/8/26, 5:29 PM",
-      "formatted": "I-78 (Lehigh County) | VEHICLE FIRE on I-78 Eastbound At MM 58. 2 Right Lanes Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 19:30"
     }
   ]
 }
