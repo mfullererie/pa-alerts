@@ -1,9 +1,20 @@
 {
   "name": "major_route_closures",
-  "fetched_at": "2026-09-08T20:33:34.203Z",
+  "fetched_at": "2026-09-08T20:38:30.216Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 1,
+  "count": 2,
   "items": [
+    {
+      "id": "375113",
+      "eventId": "375113",
+      "route": "I-81",
+      "direction": "SOUTH",
+      "between": null,
+      "county": "Dauphin",
+      "anticipated_end_time": "9/8/26, 6:30 PM",
+      "description": "CRASH on I-81 Southbound between Exit PA 39 - MANADA HILL/HERSHEY and RAMP FROM SR 3019 (MOUNTAIN RD) AT EXIT 72 - LINGL. Closed.",
+      "formatted": "I-81 (Dauphin County) | CRASH on I-81 Southbound between Exit PA 39 - MANADA HILL/HERSHEY and RAMP FROM SR 3019 (MOUNTAIN RD) AT EXIT 72 - LINGL. Closed. Estimated Reopen: 9/8/26 - 18:30"
+    },
     {
       "id": "375104",
       "eventId": "375104",
