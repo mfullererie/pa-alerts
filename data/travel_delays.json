@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T18:23:46.427Z",
+  "fetched_at": "2026-09-08T18:28:56.634Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,122 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA - 252",
+        "Pennsylvania",
+        "Chester",
+        "Utility work on PA 252 northbound between CENTRAL AV, FRIENDSHIP DR and HILL TOP RD. All lanes now open.",
+        "9/8/26, 10:09 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 2:26 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374888"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 252</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Utility work on PA 252 northbound between CENTRAL AV, FRIENDSHIP DR and HILL TOP RD.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:09 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:26 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374888\">View on map</a></td>",
+      "text": "Active Roadwork\tPA - 252\tPennsylvania\tChester\tUtility work on PA 252 northbound between CENTRAL AV, FRIENDSHIP DR and HILL TOP RD. All lanes now open.\t9/8/26, 10:09 AM\t9/8/26, 3:00 PM\t9/8/26, 2:26 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA - 463",
+        "Pennsylvania",
+        "Montgomery",
+        "Utility work on PA 463 both directions between BROAD ST and LINE ST. All lanes now open.",
+        "9/8/26, 9:27 AM",
+        "9/8/26, 4:00 PM",
+        "9/8/26, 2:25 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374840"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 463</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Utility work on PA 463 both directions between BROAD ST and LINE ST.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:27 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:25 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374840\">View on map</a></td>",
+      "text": "Active Roadwork\tPA - 463\tPennsylvania\tMontgomery\tUtility work on PA 463 both directions between BROAD ST and LINE ST. All lanes now open.\t9/8/26, 9:27 AM\t9/8/26, 4:00 PM\t9/8/26, 2:25 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA - 841",
+        "Pennsylvania",
+        "Chester",
+        "Utility work on PA 841 both directions at EVERGREEN ST, PYLES AL. All lanes now open.",
+        "9/8/26, 9:11 AM",
+        "9/8/26, 3:30 PM",
+        "9/8/26, 2:24 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374814"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 841</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Utility work on PA 841 both directions at EVERGREEN ST, PYLES AL.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:11 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:24 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374814\">View on map</a></td>",
+      "text": "Active Roadwork\tPA - 841\tPennsylvania\tChester\tUtility work on PA 841 both directions at EVERGREEN ST, PYLES AL. All lanes now open.\t9/8/26, 9:11 AM\t9/8/26, 3:30 PM\t9/8/26, 2:24 PM\tView on map"
+    },
+    {
+      "eventId": "374869",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "(4020) MAPLE DR",
+        "Pennsylvania",
+        "Northampton",
+        "ROADWORK on (4020) MAPLE DR Eastbound between EVERGREEN RD and EVERGREEN RD. Closed.",
+        "9/8/26, 9:51 AM",
+        "9/9/26, 4:40 PM",
+        "9/8/26, 2:23 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-374869"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4020) MAPLE DR</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on (4020) MAPLE DR Eastbound between EVERGREEN RD and EVERGREEN RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:51 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 4:40 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:23 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374869\">View on map</a></td>",
+      "text": "Closure - Other Route\t(4020) MAPLE DR\tPennsylvania\tNorthampton\tROADWORK on (4020) MAPLE DR Eastbound between EVERGREEN RD and EVERGREEN RD. Closed.\t9/8/26, 9:51 AM\t9/9/26, 4:40 PM\t9/8/26, 2:23 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -947,35 +1063,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "US-22",
-        "Pennsylvania",
-        "Lehigh",
-        "MOVING ROADWORK on US-22 Eastbound At WILLIAM PENN HW. Right Lane (of 2 Lanes) Disrupted.",
-        "9/8/26, 9:14 AM",
-        "9/8/26, 3:30 PM",
-        "9/8/26, 11:58 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374807"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-22</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lehigh</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on US-22 Eastbound At WILLIAM PENN HW. Right Lane (of 2 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 11:58 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374807\">View on map</a></td>",
-      "text": "Active Roadwork\tUS-22\tPennsylvania\tLehigh\tMOVING ROADWORK on US-22 Eastbound At WILLIAM PENN HW. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 9:14 AM\t9/8/26, 3:30 PM\t9/8/26, 11:58 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "(3042) MT. LEBANON BL",
         "Pennsylvania",
         "Allegheny",
@@ -1672,35 +1759,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "PA - 252",
-        "Pennsylvania",
-        "Chester",
-        "Utility work on PA 252 northbound between CENTRAL AV, FRIENDSHIP DR and HILL TOP RD. There is a traffic disruption.",
-        "9/8/26, 10:09 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 10:14 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374888"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 252</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Utility work on PA 252 northbound between CENTRAL AV, FRIENDSHIP DR and HILL TOP RD.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:09 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:14 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374888\">View on map</a></td>",
-      "text": "Active Roadwork\tPA - 252\tPennsylvania\tChester\tUtility work on PA 252 northbound between CENTRAL AV, FRIENDSHIP DR and HILL TOP RD. There is a traffic disruption.\t9/8/26, 10:09 AM\t9/8/26, 3:00 PM\t9/8/26, 10:14 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "PA-88",
         "Pennsylvania",
         "Greene",
@@ -1753,35 +1811,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 420</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Utility work on PA 420 both directions at FRANKLIN AV.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:51 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:01 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374879\">View on map</a></td>",
       "text": "Active Roadwork\tPA - 420\tPennsylvania\tDelaware\tUtility work on PA 420 both directions at FRANKLIN AV. There is a traffic disruption.\t9/8/26, 9:51 AM\t9/8/26, 4:00 PM\t9/8/26, 10:01 AM\tView on map"
-    },
-    {
-      "eventId": "374869",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(4020) MAPLE DR",
-        "Pennsylvania",
-        "Northampton",
-        "ROADWORK on (4020) MAPLE DR Eastbound between EVERGREEN RD and EVERGREEN RD. Closed.",
-        "9/8/26, 9:51 AM",
-        "9/8/26, 4:31 PM",
-        "9/8/26, 9:55 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374869"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4020) MAPLE DR</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on (4020) MAPLE DR Eastbound between EVERGREEN RD and EVERGREEN RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:51 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:31 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:55 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374869\">View on map</a></td>",
-      "text": "Closure - Other Route\t(4020) MAPLE DR\tPennsylvania\tNorthampton\tROADWORK on (4020) MAPLE DR Eastbound between EVERGREEN RD and EVERGREEN RD. Closed.\t9/8/26, 9:51 AM\t9/8/26, 4:31 PM\t9/8/26, 9:55 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2049,35 +2078,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "PA - 463",
-        "Pennsylvania",
-        "Montgomery",
-        "Utility work on PA 463 both directions between BROAD ST and LINE ST. There is a traffic disruption.",
-        "9/8/26, 9:27 AM",
-        "9/8/26, 4:00 PM",
-        "9/8/26, 9:32 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374840"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 463</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Utility work on PA 463 both directions between BROAD ST and LINE ST.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:27 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:32 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374840\">View on map</a></td>",
-      "text": "Active Roadwork\tPA - 463\tPennsylvania\tMontgomery\tUtility work on PA 463 both directions between BROAD ST and LINE ST. There is a traffic disruption.\t9/8/26, 9:27 AM\t9/8/26, 4:00 PM\t9/8/26, 9:32 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "(2025) SULLIVAN TR / COLLEGE AV / KNOX AV / CATTELL ST / MAIN ST",
         "Pennsylvania",
         "Northampton",
@@ -2101,35 +2101,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2025) SULLIVAN TR / COLLEGE AV / KNOX AV / CATTELL ST / MAIN ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on (2025) SULLIVAN TR / COLLEGE AV / KNOX AV / CATTELL ST / MAIN ST BOTH DIRECTIONS At UHLER RD. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:31 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:31 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374837\">View on map</a></td>",
       "text": "Active Roadwork\t(2025) SULLIVAN TR / COLLEGE AV / KNOX AV / CATTELL ST / MAIN ST\tPennsylvania\tNorthampton\tROADWORK on (2025) SULLIVAN TR / COLLEGE AV / KNOX AV / CATTELL ST / MAIN ST BOTH DIRECTIONS At UHLER RD. Left Lane (of 2 Lanes) Blocked.\t9/8/26, 9:31 AM\t9/8/26, 4:30 PM\t9/8/26, 9:31 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "(4021) HONEOYE RD",
-        "Pennsylvania",
-        "Potter",
-        "MOVING ROADWORK on (4021) HONEOYE RD BOTH DIRECTIONS At EAST ACADEMY ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.",
-        "9/8/26, 9:30 AM",
-        "9/8/26, 2:40 PM",
-        "9/8/26, 9:31 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374839"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4021) HONEOYE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Potter</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on (4021) HONEOYE RD BOTH DIRECTIONS At EAST ACADEMY ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:30 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:40 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:31 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374839\">View on map</a></td>",
-      "text": "Active Roadwork\t(4021) HONEOYE RD\tPennsylvania\tPotter\tMOVING ROADWORK on (4021) HONEOYE RD BOTH DIRECTIONS At EAST ACADEMY ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 9:30 AM\t9/8/26, 2:40 PM\t9/8/26, 9:31 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2420,35 +2391,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-501</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-501 BOTH DIRECTIONS At WYNFIELD DR. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:19 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:20 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374815\">View on map</a></td>",
       "text": "Active Roadwork\tPA-501\tPennsylvania\tLancaster\tROADWORK on PA-501 BOTH DIRECTIONS At WYNFIELD DR. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 9:19 AM\t9/8/26, 3:20 PM\t9/8/26, 9:20 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA - 841",
-        "Pennsylvania",
-        "Chester",
-        "Utility work on PA 841 both directions at EVERGREEN ST, PYLES AL. There is a traffic disruption.",
-        "9/8/26, 9:11 AM",
-        "9/8/26, 3:30 PM",
-        "9/8/26, 9:20 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374814"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 841</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Utility work on PA 841 both directions at EVERGREEN ST, PYLES AL.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:11 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:20 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374814\">View on map</a></td>",
-      "text": "Active Roadwork\tPA - 841\tPennsylvania\tChester\tUtility work on PA 841 both directions at EVERGREEN ST, PYLES AL. There is a traffic disruption.\t9/8/26, 9:11 AM\t9/8/26, 3:30 PM\t9/8/26, 9:20 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2913,6 +2855,64 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lehigh</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD BOTH DIRECTIONS At PRESIDENTIAL DR. All Lanes Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374753\">View on map</a></td>",
       "text": "Active Roadwork\t(1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD\tPennsylvania\tLehigh\tROADWORK on (1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD BOTH DIRECTIONS At PRESIDENTIAL DR. All Lanes Disrupted.\t9/8/26, 9:02 AM\t9/8/26, 3:30 PM\t9/8/26, 9:02 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "(1005) HIGHLAND PK BR",
+        "Pennsylvania",
+        "Allegheny",
+        "ROADWORK on (1005) HIGHLAND PK BR Southbound between RAMP FROM SR 1001 S (FREEPORT) AT HIGHLAND PARK BR and ALLEGHENY RIVER BL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 9:02 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 9:02 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374754"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1005) HIGHLAND PK BR</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1005) HIGHLAND PK BR Southbound between RAMP FROM SR 1001 S (FREEPORT) AT HIGHLAND PARK BR and ALLEGHENY RIVER BL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374754\">View on map</a></td>",
+      "text": "Active Roadwork\t(1005) HIGHLAND PK BR\tPennsylvania\tAllegheny\tROADWORK on (1005) HIGHLAND PK BR Southbound between RAMP FROM SR 1001 S (FREEPORT) AT HIGHLAND PARK BR and ALLEGHENY RIVER BL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 9:02 AM\t9/8/26, 3:00 PM\t9/8/26, 9:02 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "(1005) HIGHLAND PK BR",
+        "Pennsylvania",
+        "Allegheny",
+        "ROADWORK on (1005) HIGHLAND PK BR Northbound between RAMP FROM PA 8 and Exit ASPINWALL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 9:00 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 9:00 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374751"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1005) HIGHLAND PK BR</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1005) HIGHLAND PK BR Northbound between RAMP FROM PA 8 and Exit ASPINWALL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:00 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374751\">View on map</a></td>",
+      "text": "Active Roadwork\t(1005) HIGHLAND PK BR\tPennsylvania\tAllegheny\tROADWORK on (1005) HIGHLAND PK BR Northbound between RAMP FROM PA 8 and Exit ASPINWALL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 9:00 AM\t9/8/26, 3:00 PM\t9/8/26, 9:00 AM\tView on map"
     }
   ]
 }
