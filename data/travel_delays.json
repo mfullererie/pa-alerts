@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T18:33:43.095Z",
+  "fetched_at": "2026-09-08T18:38:42.072Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,122 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": "375025",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I - 476",
+        "Pennsylvania",
+        "Delaware",
+        "Multi vehicle crash on I-476 southbound .8 miles north of Exit 3: SWARTHMORE/MEDIA. There is a lane restriction.",
+        "9/8/26, 2:34 PM",
+        "9/8/26, 3:20 PM",
+        "9/8/26, 2:36 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-375025"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I - 476</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on I-476 southbound .8 miles north of Exit 3: SWARTHMORE/MEDIA.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:34 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:36 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375025\">View on map</a></td>",
+      "text": "Incident - Major Route\tI - 476\tPennsylvania\tDelaware\tMulti vehicle crash on I-476 southbound .8 miles north of Exit 3: SWARTHMORE/MEDIA. There is a lane restriction.\t9/8/26, 2:34 PM\t9/8/26, 3:20 PM\t9/8/26, 2:36 PM\tView on map"
+    },
+    {
+      "eventId": "375024",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-76",
+        "Pennsylvania",
+        "Montgomery",
+        "Debris on roadway on I-76 eastbound between .1 miles west of Exit 330: PA 320 - GULPH MILLS and .5 miles east of Exit 330: PA 320 - GULPH MILLS. There is a traffic disruption.",
+        "9/8/26, 2:33 PM",
+        "9/8/26, 3:19 PM",
+        "9/8/26, 2:36 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-375024"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Debris on roadway on I-76 eastbound between .1 miles west of Exit 330: PA 320 - GULPH MILLS and .5 miles east of Exit 330: PA 320 - GULPH MILLS.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:33 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:19 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:36 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375024\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-76\tPennsylvania\tMontgomery\tDebris on roadway on I-76 eastbound between .1 miles west of Exit 330: PA 320 - GULPH MILLS and .5 miles east of Exit 330: PA 320 - GULPH MILLS. There is a traffic disruption.\t9/8/26, 2:33 PM\t9/8/26, 3:19 PM\t9/8/26, 2:36 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "HENRY AV",
+        "Pennsylvania",
+        "Philadelphia",
+        "Utility work on HENRY AV southbound between BOWMAN ST and ROBERTS AV. All lanes now open.",
+        "9/8/26, 8:56 AM",
+        "9/8/26, 3:23 PM",
+        "9/8/26, 2:35 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374752"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>HENRY AV</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Utility work on HENRY AV southbound between BOWMAN ST and ROBERTS AV.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:23 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:35 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374752\">View on map</a></td>",
+      "text": "Active Roadwork\tHENRY AV\tPennsylvania\tPhiladelphia\tUtility work on HENRY AV southbound between BOWMAN ST and ROBERTS AV. All lanes now open.\t9/8/26, 8:56 AM\t9/8/26, 3:23 PM\t9/8/26, 2:35 PM\tView on map"
+    },
+    {
+      "eventId": "375019",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-76",
+        "Pennsylvania",
+        "Philadelphia",
+        "Disabled vehicle on I-76 eastbound between .8 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE and .2 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE. There is a lane restriction.",
+        "9/8/26, 2:29 PM",
+        "9/8/26, 3:15 PM",
+        "9/8/26, 2:33 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-375019"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-76 eastbound between .8 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE and .2 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:29 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:33 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375019\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-76\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-76 eastbound between .8 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE and .2 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE. There is a lane restriction.\t9/8/26, 2:29 PM\t9/8/26, 3:15 PM\t9/8/26, 2:33 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -1324,35 +1440,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "(4001) SARTWELL CREEK RD",
-        "Pennsylvania",
-        "Potter",
-        "ROADWORK on (4001) SARTWELL CREEK RD BOTH DIRECTIONS between HANSON HOLLOW RD and HANSON HOLLOW RD. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.",
-        "9/8/26, 10:56 AM",
-        "9/8/26, 3:20 PM",
-        "9/8/26, 10:57 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374919"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4001) SARTWELL CREEK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Potter</td><td><span class=\"colHeader\">Description</span>ROADWORK on (4001) SARTWELL CREEK RD BOTH DIRECTIONS between  HANSON HOLLOW RD and  HANSON HOLLOW RD. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:57 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374919\">View on map</a></td>",
-      "text": "Active Roadwork\t(4001) SARTWELL CREEK RD\tPennsylvania\tPotter\tROADWORK on (4001) SARTWELL CREEK RD BOTH DIRECTIONS between HANSON HOLLOW RD and HANSON HOLLOW RD. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 10:56 AM\t9/8/26, 3:20 PM\t9/8/26, 10:57 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "PA - 896",
         "Pennsylvania",
         "Chester",
@@ -1811,35 +1898,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(3007) HUMBERT RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Somerset</td><td><span class=\"colHeader\">Description</span>BRIDGE OUTAGE on (3007) HUMBERT RD BOTH DIRECTIONS At WINE-O RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:39 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/16/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:45 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374857\">View on map</a></td>",
       "text": "Closure - Other Route\t(3007) HUMBERT RD\tPennsylvania\tSomerset\tBRIDGE OUTAGE on (3007) HUMBERT RD BOTH DIRECTIONS At WINE-O RD. Closed.\t9/8/26, 9:39 AM\t10/16/26, 5:00 PM\t9/8/26, 9:45 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "HENRY AV",
-        "Pennsylvania",
-        "Philadelphia",
-        "Utility work on HENRY AV southbound between BOWMAN ST and ROBERTS AV. There is a traffic disruption.",
-        "9/8/26, 8:56 AM",
-        "9/8/26, 3:23 PM",
-        "9/8/26, 9:41 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374752"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>HENRY AV</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Utility work on HENRY AV southbound between BOWMAN ST and ROBERTS AV.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:23 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:41 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374752\">View on map</a></td>",
-      "text": "Active Roadwork\tHENRY AV\tPennsylvania\tPhiladelphia\tUtility work on HENRY AV southbound between BOWMAN ST and ROBERTS AV. There is a traffic disruption.\t9/8/26, 8:56 AM\t9/8/26, 3:23 PM\t9/8/26, 9:41 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2855,64 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2019) LAUREL RUN RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clinton</td><td><span class=\"colHeader\">Description</span>ROADWORK on (2019) LAUREL RUN RD BOTH DIRECTIONS At MAIN ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:58 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:05 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:00 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374749\">View on map</a></td>",
       "text": "Active Roadwork\t(2019) LAUREL RUN RD\tPennsylvania\tClinton\tROADWORK on (2019) LAUREL RUN RD BOTH DIRECTIONS At MAIN ST. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 8:58 AM\t9/8/26, 3:05 PM\t9/8/26, 9:00 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "(1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD",
-        "Pennsylvania",
-        "Lehigh",
-        "ROADWORK on (1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD BOTH DIRECTIONS At GIRARD AV. All Lanes Disrupted.",
-        "9/8/26, 8:58 AM",
-        "9/8/26, 3:30 PM",
-        "9/8/26, 8:59 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374747"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lehigh</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD BOTH DIRECTIONS At GIRARD AV. All Lanes Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:58 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:59 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374747\">View on map</a></td>",
-      "text": "Active Roadwork\t(1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD\tPennsylvania\tLehigh\tROADWORK on (1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD BOTH DIRECTIONS At GIRARD AV. All Lanes Disrupted.\t9/8/26, 8:58 AM\t9/8/26, 3:30 PM\t9/8/26, 8:59 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-286",
-        "Pennsylvania",
-        "Allegheny",
-        "ROADWORK on PA-286 Eastbound At PINE VALLEY DR. Left Lane (of 2 Lanes) Blocked.",
-        "9/8/26, 8:57 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 8:57 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374739"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-286</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-286 Eastbound At PINE VALLEY DR. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:57 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:57 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374739\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-286\tPennsylvania\tAllegheny\tROADWORK on PA-286 Eastbound At PINE VALLEY DR. Left Lane (of 2 Lanes) Blocked.\t9/8/26, 8:57 AM\t9/8/26, 3:00 PM\t9/8/26, 8:57 AM\tView on map"
     }
   ]
 }
