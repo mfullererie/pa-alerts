@@ -1,7 +1,23 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T11:23:33.953Z",
+  "fetched_at": "2026-09-08T11:28:33.275Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "id": "374577",
+      "eventId": "374577",
+      "type": "Incident - Major Route",
+      "roadway": "I-83",
+      "state": "Pennsylvania",
+      "county": "York",
+      "route": "I-83",
+      "direction": "NORTH",
+      "description": "CRASH (Multi-Vehicle) on I-83 Northbound At RAMP FROM PA 297 AT EXIT 28 - ZIONS VIEW/STRINESTO. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+      "start_time": "9/8/26, 7:14 AM",
+      "anticipated_end_time": "9/8/26, 8:20 AM",
+      "last_updated": "9/8/26, 7:26 AM",
+      "formatted": "I-83 (York County) | CRASH (Multi-Vehicle) on I-83 Northbound At RAMP FROM PA 297 AT EXIT 28 - ZIONS VIEW/STRINESTO. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 08:20"
+    }
+  ]
 }
