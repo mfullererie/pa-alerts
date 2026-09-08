@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T15:58:20.350Z",
+  "fetched_at": "2026-09-08T16:04:14.887Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,180 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "(1011) SR 1011 SH",
+        "Pennsylvania",
+        "Wayne",
+        "ROADWORK on (1011) SR 1011 SH BOTH DIRECTIONS At PERKINS POND RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.",
+        "9/8/26, 12:01 PM",
+        "9/8/26, 3:30 PM",
+        "9/8/26, 12:02 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374951"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1011) SR 1011 SH</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Wayne</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1011) SR 1011 SH BOTH DIRECTIONS At PERKINS POND RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 12:01 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:02 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374951\">View on map</a></td>",
+      "text": "Active Roadwork\t(1011) SR 1011 SH\tPennsylvania\tWayne\tROADWORK on (1011) SR 1011 SH BOTH DIRECTIONS At PERKINS POND RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 12:01 PM\t9/8/26, 3:30 PM\t9/8/26, 12:02 PM\tView on map"
+    },
+    {
+      "eventId": "374943",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "US - 202",
+        "Pennsylvania",
+        "Chester",
+        "Multi vehicle crash on US 202 northbound between Exit: US 322 WEST - DOWNINGTOWN and Exit: PA 100 NORTH TO US 30 WEST - EXTON. All lanes now open.",
+        "9/8/26, 11:37 AM",
+        "9/8/26, 12:55 PM",
+        "9/8/26, 12:01 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374943"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 202</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on US 202 northbound between Exit: US 322 WEST - DOWNINGTOWN and Exit: PA 100 NORTH TO US 30 WEST - EXTON.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 11:37 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 12:55 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:01 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374943\">View on map</a></td>",
+      "text": "Incident - Major Route\tUS - 202\tPennsylvania\tChester\tMulti vehicle crash on US 202 northbound between Exit: US 322 WEST - DOWNINGTOWN and Exit: PA 100 NORTH TO US 30 WEST - EXTON. All lanes now open.\t9/8/26, 11:37 AM\t9/8/26, 12:55 PM\t9/8/26, 12:01 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-56",
+        "Pennsylvania",
+        "Somerset",
+        "MOVING ROADWORK on PA-56 Eastbound between SCALP AV and SUMMIT DR. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Blocked.",
+        "9/8/26, 9:18 AM",
+        "9/8/26, 5:00 PM",
+        "9/8/26, 12:00 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374816"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-56</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Somerset</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on PA-56 Eastbound between SCALP AV and SUMMIT DR. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:18 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:00 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374816\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-56\tPennsylvania\tSomerset\tMOVING ROADWORK on PA-56 Eastbound between SCALP AV and SUMMIT DR. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Blocked.\t9/8/26, 9:18 AM\t9/8/26, 5:00 PM\t9/8/26, 12:00 PM\tView on map"
+    },
+    {
+      "eventId": "373926",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "(3029) TRUMAN BL / BRIDGE ST / FULMER RD / FRANKLIN ST",
+        "Pennsylvania",
+        "Cambria",
+        "DOWNED TREE IN WIRES on (3029) TRUMAN BL / BRIDGE ST / FULMER RD / FRANKLIN ST BOTH DIRECTIONS between SOLOMON RUN RD and FRANKSTOWN RD. Closed.",
+        "9/4/26, 10:45 AM",
+        "9/11/26, 12:00 PM",
+        "9/8/26, 11:59 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-373926"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(3029) TRUMAN BL / BRIDGE ST / FULMER RD / FRANKLIN ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Cambria</td><td><span class=\"colHeader\">Description</span>DOWNED TREE IN WIRES on (3029) TRUMAN BL / BRIDGE ST / FULMER RD / FRANKLIN ST BOTH DIRECTIONS between SOLOMON RUN RD and FRANKSTOWN RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/4/26, 10:45 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/11/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 11:59 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373926\">View on map</a></td>",
+      "text": "Closure - Other Route\t(3029) TRUMAN BL / BRIDGE ST / FULMER RD / FRANKLIN ST\tPennsylvania\tCambria\tDOWNED TREE IN WIRES on (3029) TRUMAN BL / BRIDGE ST / FULMER RD / FRANKLIN ST BOTH DIRECTIONS between SOLOMON RUN RD and FRANKSTOWN RD. Closed.\t9/4/26, 10:45 AM\t9/11/26, 12:00 PM\t9/8/26, 11:59 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "US-22",
+        "Pennsylvania",
+        "Lehigh",
+        "MOVING ROADWORK on US-22 Eastbound At WILLIAM PENN HW. Right Lane (of 2 Lanes) Disrupted.",
+        "9/8/26, 9:14 AM",
+        "9/8/26, 3:30 PM",
+        "9/8/26, 11:58 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374807"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-22</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lehigh</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on US-22 Eastbound At WILLIAM PENN HW. Right Lane (of 2 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 11:58 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374807\">View on map</a></td>",
+      "text": "Active Roadwork\tUS-22\tPennsylvania\tLehigh\tMOVING ROADWORK on US-22 Eastbound At WILLIAM PENN HW. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 9:14 AM\t9/8/26, 3:30 PM\t9/8/26, 11:58 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "(3042) MT. LEBANON BL",
+        "Pennsylvania",
+        "Allegheny",
+        "UTILITY WORK on (3042) MT. LEBANON BL Eastbound At ROYCROFT AV. Right Lane (of 2 Lanes) Disrupted.",
+        "9/8/26, 11:57 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 11:58 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374949"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(3042) MT. LEBANON BL</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>UTILITY WORK on (3042) MT. LEBANON BL Eastbound At ROYCROFT AV. Right Lane (of 2 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 11:57 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 11:58 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374949\">View on map</a></td>",
+      "text": "Active Roadwork\t(3042) MT. LEBANON BL\tPennsylvania\tAllegheny\tUTILITY WORK on (3042) MT. LEBANON BL Eastbound At ROYCROFT AV. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 11:57 AM\t9/8/26, 3:00 PM\t9/8/26, 11:58 AM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -42,64 +216,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-28</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-28 Southbound At RAMP FROM RIDC DR AT EXIT 10 - RIDC DR. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:10 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 11:55 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374790\">View on map</a></td>",
       "text": "Active Roadwork\tPA-28\tPennsylvania\tAllegheny\tROADWORK on PA-28 Southbound At RAMP FROM RIDC DR AT EXIT 10 - RIDC DR. Left Lane (of 2 Lanes) Blocked.\t9/8/26, 9:10 AM\t9/8/26, 2:00 PM\t9/8/26, 11:55 AM\tView on map"
-    },
-    {
-      "eventId": "374943",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "US - 202",
-        "Pennsylvania",
-        "Chester",
-        "Multi vehicle crash on US 202 northbound between Exit: US 322 WEST - DOWNINGTOWN and Exit: PA 100 NORTH TO US 30 WEST - EXTON. There is a lane restriction.",
-        "9/8/26, 11:37 AM",
-        "9/8/26, 12:55 PM",
-        "9/8/26, 11:54 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374943"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 202</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on US 202 northbound between Exit: US 322 WEST - DOWNINGTOWN and Exit: PA 100 NORTH TO US 30 WEST - EXTON.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 11:37 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 12:55 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 11:54 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374943\">View on map</a></td>",
-      "text": "Incident - Major Route\tUS - 202\tPennsylvania\tChester\tMulti vehicle crash on US 202 northbound between Exit: US 322 WEST - DOWNINGTOWN and Exit: PA 100 NORTH TO US 30 WEST - EXTON. There is a lane restriction.\t9/8/26, 11:37 AM\t9/8/26, 12:55 PM\t9/8/26, 11:54 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "US-22",
-        "Pennsylvania",
-        "Lehigh",
-        "MOVING ROADWORK on US-22 Eastbound At WILLIAM PENN HW. No Lanes Blocked.",
-        "9/8/26, 9:14 AM",
-        "9/8/26, 3:30 PM",
-        "9/8/26, 11:53 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374807"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-22</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lehigh</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on US-22 Eastbound At WILLIAM PENN HW. No Lanes Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 11:53 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374807\">View on map</a></td>",
-      "text": "Active Roadwork\tUS-22\tPennsylvania\tLehigh\tMOVING ROADWORK on US-22 Eastbound At WILLIAM PENN HW. No Lanes Blocked.\t9/8/26, 9:14 AM\t9/8/26, 3:30 PM\t9/8/26, 11:53 AM\tView on map"
     },
     {
       "eventId": null,
@@ -305,35 +421,6 @@
       "text": "Active Roadwork\tI-76\tPennsylvania\tFranklin\tRoad work on I-76 East. The right lane is closed.\t9/8/26, 6:30 AM\t9/8/26, 12:00 PM\t9/8/26, 11:50 AM\tView on map"
     },
     {
-      "eventId": "373929",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(4002) CANAL ST / CANAL RD",
-        "Pennsylvania",
-        "York",
-        "DOWNED UTILITY on (4002) CANAL ST / CANAL RD BOTH DIRECTIONS between PARADISE SCHOOL DR and HOME RD. Closed.",
-        "9/4/26, 7:35 PM",
-        "9/8/26, 3:30 PM",
-        "9/8/26, 11:49 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-373929"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4002) CANAL ST / CANAL RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>York</td><td><span class=\"colHeader\">Description</span>DOWNED UTILITY on (4002) CANAL ST / CANAL RD BOTH DIRECTIONS between PARADISE SCHOOL DR and HOME RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/4/26, 7:35 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 11:49 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373929\">View on map</a></td>",
-      "text": "Closure - Other Route\t(4002) CANAL ST / CANAL RD\tPennsylvania\tYork\tDOWNED UTILITY on (4002) CANAL ST / CANAL RD BOTH DIRECTIONS between PARADISE SCHOOL DR and HOME RD. Closed.\t9/4/26, 7:35 PM\t9/8/26, 3:30 PM\t9/8/26, 11:49 AM\tView on map"
-    },
-    {
       "eventId": null,
       "cells": [
         "Row Details",
@@ -477,35 +564,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on I-80 Westbound At MM 100.5. Right Lane (of 2 Lanes) Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 11:23 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:10 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 11:32 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374939\">View on map</a></td>",
       "text": "Active Roadwork\tI-80\tPennsylvania\tClearfield\tMOVING ROADWORK on I-80 Westbound At MM 100.5. Right Lane (of 2 Lanes) Disrupted, Right Shoulder Disrupted.\t9/8/26, 11:23 AM\t9/8/26, 2:10 PM\t9/8/26, 11:32 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-56",
-        "Pennsylvania",
-        "Somerset",
-        "MOVING ROADWORK on PA-56 Westbound At QUAKER VALLEY RD. Right Lane (of 2 Lanes) Disrupted, Right Shoulder Disrupted.",
-        "9/8/26, 9:18 AM",
-        "9/8/26, 5:00 PM",
-        "9/8/26, 11:31 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374816"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-56</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Somerset</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on PA-56 Westbound At QUAKER VALLEY RD. Right Lane (of 2 Lanes) Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:18 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 11:31 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374816\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-56\tPennsylvania\tSomerset\tMOVING ROADWORK on PA-56 Westbound At QUAKER VALLEY RD. Right Lane (of 2 Lanes) Disrupted, Right Shoulder Disrupted.\t9/8/26, 9:18 AM\t9/8/26, 5:00 PM\t9/8/26, 11:31 AM\tView on map"
     },
     {
       "eventId": "374207",
@@ -2855,64 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lehigh</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD BOTH DIRECTIONS At PRESIDENTIAL DR. All Lanes Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374753\">View on map</a></td>",
       "text": "Active Roadwork\t(1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD\tPennsylvania\tLehigh\tROADWORK on (1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD BOTH DIRECTIONS At PRESIDENTIAL DR. All Lanes Disrupted.\t9/8/26, 9:02 AM\t9/8/26, 3:30 PM\t9/8/26, 9:02 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "(1005) HIGHLAND PK BR",
-        "Pennsylvania",
-        "Allegheny",
-        "ROADWORK on (1005) HIGHLAND PK BR Southbound between RAMP FROM SR 1001 S (FREEPORT) AT HIGHLAND PARK BR and ALLEGHENY RIVER BL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 9:02 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 9:02 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374754"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1005) HIGHLAND PK BR</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1005) HIGHLAND PK BR Southbound between RAMP FROM SR 1001 S (FREEPORT) AT HIGHLAND PARK BR and ALLEGHENY RIVER BL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374754\">View on map</a></td>",
-      "text": "Active Roadwork\t(1005) HIGHLAND PK BR\tPennsylvania\tAllegheny\tROADWORK on (1005) HIGHLAND PK BR Southbound between RAMP FROM SR 1001 S (FREEPORT) AT HIGHLAND PARK BR and ALLEGHENY RIVER BL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 9:02 AM\t9/8/26, 3:00 PM\t9/8/26, 9:02 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "(1005) HIGHLAND PK BR",
-        "Pennsylvania",
-        "Allegheny",
-        "ROADWORK on (1005) HIGHLAND PK BR Northbound between RAMP FROM PA 8 and Exit ASPINWALL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 9:00 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 9:00 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374751"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1005) HIGHLAND PK BR</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1005) HIGHLAND PK BR Northbound between RAMP FROM PA 8 and Exit ASPINWALL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:00 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374751\">View on map</a></td>",
-      "text": "Active Roadwork\t(1005) HIGHLAND PK BR\tPennsylvania\tAllegheny\tROADWORK on (1005) HIGHLAND PK BR Northbound between RAMP FROM PA 8 and Exit ASPINWALL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 9:00 AM\t9/8/26, 3:00 PM\t9/8/26, 9:00 AM\tView on map"
     }
   ]
 }
