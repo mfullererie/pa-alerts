@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T20:38:30.216Z",
+  "fetched_at": "2026-09-08T20:43:38.520Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,35 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "(1034) BULL CREEK RD",
+        "Pennsylvania",
+        "Allegheny",
+        "UTILITY WORK on (1034) BULL CREEK RD BOTH DIRECTIONS At ORRIS RD. Right Lane (of 2 Lanes) Disrupted.",
+        "9/8/26, 7:58 AM",
+        "9/8/26, 5:00 PM",
+        "9/8/26, 4:40 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374619"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1034) BULL CREEK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>UTILITY WORK on (1034) BULL CREEK RD BOTH DIRECTIONS At ORRIS RD. Right Lane (of 2 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:58 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:40 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374619\">View on map</a></td>",
+      "text": "Active Roadwork\t(1034) BULL CREEK RD\tPennsylvania\tAllegheny\tUTILITY WORK on (1034) BULL CREEK RD BOTH DIRECTIONS At ORRIS RD. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 7:58 AM\t9/8/26, 5:00 PM\t9/8/26, 4:40 PM\tView on map"
+    },
     {
       "eventId": "375113",
       "cells": [
@@ -274,35 +303,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bucks</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on I-95 northbound between .4 miles south of Exit 35: PA 63 WEST - WOODHAVEN ROAD and .3 miles north of Exit 35: PA 63 WEST - WOODHAVEN ROAD.  There is a shoulder closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:13 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:59 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:18 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375104\">View on map</a></td>",
       "text": "Incident - Major Route\tI-95\tPennsylvania\tBucks\tMulti vehicle crash on I-95 northbound between .4 miles south of Exit 35: PA 63 WEST - WOODHAVEN ROAD and .3 miles north of Exit 35: PA 63 WEST - WOODHAVEN ROAD. There is a shoulder closed.\t9/8/26, 4:13 PM\t9/8/26, 4:59 PM\t9/8/26, 4:18 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "(1034) BULL CREEK RD",
-        "Pennsylvania",
-        "Allegheny",
-        "UTILITY WORK on (1034) BULL CREEK RD BOTH DIRECTIONS At ORRIS RD. Right Lane (of 2 Lanes) Disrupted.",
-        "9/8/26, 7:58 AM",
-        "9/8/26, 5:00 PM",
-        "9/8/26, 4:17 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374619"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1034) BULL CREEK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>UTILITY WORK on (1034) BULL CREEK RD BOTH DIRECTIONS At ORRIS RD. Right Lane (of 2 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:58 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:17 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374619\">View on map</a></td>",
-      "text": "Active Roadwork\t(1034) BULL CREEK RD\tPennsylvania\tAllegheny\tUTILITY WORK on (1034) BULL CREEK RD BOTH DIRECTIONS At ORRIS RD. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 7:58 AM\t9/8/26, 5:00 PM\t9/8/26, 4:17 PM\tView on map"
     },
     {
       "eventId": null,
