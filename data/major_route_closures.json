@@ -1,9 +1,20 @@
 {
   "name": "major_route_closures",
-  "fetched_at": "2026-09-08T21:13:32.070Z",
+  "fetched_at": "2026-09-08T21:18:43.711Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 4,
+  "count": 3,
   "items": [
+    {
+      "id": "375137",
+      "eventId": "375137",
+      "route": "I-95",
+      "direction": "NORTH",
+      "between": null,
+      "county": "Bucks",
+      "anticipated_end_time": "9/8/26, 6:30 PM",
+      "description": "Disabled vehicle on I-95 northbound at Exit 39: PA 413 - BRISTOL. There is a shoulder closed.",
+      "formatted": "I-95 (Bucks County) | Disabled vehicle on I-95 northbound at Exit 39: PA 413 - BRISTOL. There is a shoulder closed. Estimated Reopen: 9/8/26 - 18:30"
+    },
     {
       "id": "375127",
       "eventId": "375127",
@@ -16,17 +27,6 @@
       "formatted": "I-95 (Philadelphia County) | Multi-vehicle crash on I-95 southbound between.6 miles north of Exit 15: ENTERPRISE AVE/ISLAND AVE and.2 miles south of Exit 15: ENTERPRISE AVE/ISLAND AVE. There is a shoulder closed. Estimated Reopen: 9/8/26 - 17:40"
     },
     {
-      "id": "375137",
-      "eventId": "375137",
-      "route": "I-95",
-      "direction": "NORTH",
-      "between": null,
-      "county": "Bucks",
-      "anticipated_end_time": "9/8/26, 5:53 PM",
-      "description": "Disabled vehicle on I-95 northbound at Exit 39: PA 413 - BRISTOL. There is a shoulder closed.",
-      "formatted": "I-95 (Bucks County) | Disabled vehicle on I-95 northbound at Exit 39: PA 413 - BRISTOL. There is a shoulder closed. Estimated Reopen: 9/8/26 - 17:53"
-    },
-    {
       "id": "375113",
       "eventId": "375113",
       "route": "I-81",
@@ -36,17 +36,6 @@
       "anticipated_end_time": "9/8/26, 6:30 PM",
       "description": "CRASH on I-81 Southbound between Exit PA 39 - MANADA HILL/HERSHEY and RAMP FROM SR 3019 (MOUNTAIN RD) AT EXIT 72 - LINGL. Closed.",
       "formatted": "I-81 (Dauphin County) | CRASH on I-81 Southbound between Exit PA 39 - MANADA HILL/HERSHEY and RAMP FROM SR 3019 (MOUNTAIN RD) AT EXIT 72 - LINGL. Closed. Estimated Reopen: 9/8/26 - 18:30"
-    },
-    {
-      "id": "375104",
-      "eventId": "375104",
-      "route": "I-95",
-      "direction": "NORTH",
-      "between": null,
-      "county": "Bucks",
-      "anticipated_end_time": "9/8/26, 4:59 PM",
-      "description": "Multi vehicle crash on I-95 northbound between .4 miles south of Exit 35: PA 63 WEST - WOODHAVEN ROAD and .3 miles north of Exit 35: PA 63 WEST - WOODHAVEN ROAD. There is a shoulder closed.",
-      "formatted": "I-95 (Bucks County) | Multi-vehicle crash on I-95 northbound between.4 miles south of Exit 35: PA 63 WEST - WOODHAVEN ROAD and.3 miles north of Exit 35: PA 63 WEST - WOODHAVEN ROAD. There is a shoulder closed. Estimated Reopen: 9/8/26 - 16:59"
     }
   ]
 }

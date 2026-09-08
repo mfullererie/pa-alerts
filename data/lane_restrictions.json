@@ -1,9 +1,54 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T21:13:32.070Z",
+  "fetched_at": "2026-09-08T21:18:43.711Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 3,
+  "count": 4,
   "items": [
+    {
+      "id": "375130",
+      "eventId": "375130",
+      "type": "Incident - Major Route",
+      "roadway": "I-81",
+      "state": "Pennsylvania",
+      "county": "Cumberland",
+      "route": "I-81",
+      "direction": "SOUTH",
+      "description": "VEHICLE FIRE on I-81 Southbound At MM 53. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+      "start_time": "9/8/26, 5:01 PM",
+      "anticipated_end_time": "9/8/26, 7:00 PM",
+      "last_updated": "9/8/26, 5:17 PM",
+      "formatted": "I-81 (Cumberland County) | VEHICLE FIRE on I-81 Southbound At MM 53. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 19:00"
+    },
+    {
+      "id": "375131",
+      "eventId": "375131",
+      "type": "Incident - Major Route",
+      "roadway": "I-78",
+      "state": "Pennsylvania",
+      "county": "Lehigh",
+      "route": "I-78",
+      "direction": "EAST",
+      "description": "VEHICLE FIRE on I-78 Eastbound At MM 58. 2 Right Lanes (of 3 Lanes) Blocked, Right Shoulder Blocked.",
+      "start_time": "9/8/26, 5:02 PM",
+      "anticipated_end_time": "9/8/26, 7:30 PM",
+      "last_updated": "9/8/26, 5:17 PM",
+      "formatted": "I-78 (Lehigh County) | VEHICLE FIRE on I-78 Eastbound At MM 58. 2 Right Lanes Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 19:30"
+    },
+    {
+      "id": "375140",
+      "eventId": "375140",
+      "type": "Incident - Major Route",
+      "roadway": "I-376",
+      "state": "Pennsylvania",
+      "county": "Allegheny",
+      "route": "I-376",
+      "direction": "WEST",
+      "description": "CRASH (Multi-Vehicle) on I-376 Westbound At MM 72.5. Right Lane (of 3 Lanes) Blocked, Right Shoulder Blocked.",
+      "start_time": "9/8/26, 5:14 PM",
+      "anticipated_end_time": "9/8/26, 7:00 PM",
+      "last_updated": "9/8/26, 5:15 PM",
+      "formatted": "I-376 (Allegheny County) | CRASH (Multi-Vehicle) on I-376 Westbound At MM 72.5. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 19:00"
+    },
     {
       "id": "375082",
       "eventId": "375082",
@@ -18,36 +63,6 @@
       "anticipated_end_time": "9/8/26, 6:15 PM",
       "last_updated": "9/8/26, 5:08 PM",
       "formatted": "US-22 (Northampton County) | FIRE DEPARTMENT ACTIVITY on US-22 Eastbound between RAMP FROM SR 3011 (CENTER ST) AT PA 512/CENTER ST and Exit PA 191 - NAZARETH PIKE. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 18:15"
-    },
-    {
-      "id": "375131",
-      "eventId": "375131",
-      "type": "Incident - Major Route",
-      "roadway": "I-78",
-      "state": "Pennsylvania",
-      "county": "Lehigh",
-      "route": "I-78",
-      "direction": "EAST",
-      "description": "VEHICLE FIRE on I-78 Eastbound At MM 58. 2 Right Lanes (of 3 Lanes) Blocked, Right Shoulder Blocked.",
-      "start_time": "9/8/26, 5:02 PM",
-      "anticipated_end_time": "9/8/26, 7:30 PM",
-      "last_updated": "9/8/26, 5:06 PM",
-      "formatted": "I-78 (Lehigh County) | VEHICLE FIRE on I-78 Eastbound At MM 58. 2 Right Lanes Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 19:30"
-    },
-    {
-      "id": "375130",
-      "eventId": "375130",
-      "type": "Incident - Major Route",
-      "roadway": "I-81",
-      "state": "Pennsylvania",
-      "county": "Cumberland",
-      "route": "I-81",
-      "direction": "SOUTH",
-      "description": "VEHICLE FIRE on I-81 Southbound At MM 53. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-      "start_time": "9/8/26, 5:01 PM",
-      "anticipated_end_time": "9/8/26, 5:46 PM",
-      "last_updated": "9/8/26, 5:02 PM",
-      "formatted": "I-81 (Cumberland County) | VEHICLE FIRE on I-81 Southbound At MM 53. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 17:46"
     }
   ]
 }
