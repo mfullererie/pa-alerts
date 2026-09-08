@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T16:49:21.654Z",
+  "fetched_at": "2026-09-08T16:53:42.016Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,35 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-76",
+        "Pennsylvania",
+        "Bedford",
+        "Road work on I-76 East. The right lane is closed.",
+        "9/8/26, 8:00 AM",
+        "9/8/26, 1:00 PM",
+        "9/8/26, 12:50 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374593"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bedford</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 1:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:50 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374593\">View on map</a></td>",
+      "text": "Active Roadwork\tI-76\tPennsylvania\tBedford\tRoad work on I-76 East. The right lane is closed.\t9/8/26, 8:00 AM\t9/8/26, 1:00 PM\t9/8/26, 12:50 PM\tView on map"
+    },
     {
       "eventId": "374973",
       "cells": [
@@ -158,35 +187,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 202</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Crash on US 202 northbound between JOHNSON FARM RD and NAAMANS CREEK RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 12:30 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 1:16 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:33 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374965\">View on map</a></td>",
       "text": "Incident - Major Route\tUS - 202\tPennsylvania\tDelaware\tCrash on US 202 northbound between JOHNSON FARM RD and NAAMANS CREEK RD. There is a lane restriction.\t9/8/26, 12:30 PM\t9/8/26, 1:16 PM\t9/8/26, 12:33 PM\tView on map"
-    },
-    {
-      "eventId": "374964",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "Ramp from I-76 to PA 601",
-        "Pennsylvania",
-        "Somerset",
-        "Incident on Ramp from I-76 to PA 601. Expect delays.",
-        "9/8/26, 12:34 PM",
-        "",
-        "9/8/26, 12:33 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374964"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>Ramp from I-76 to PA 601</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Somerset</td><td><span class=\"colHeader\">Description</span>Incident on Ramp from I-76 to PA 601. Expect delays.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 12:34 PM</td><td><span class=\"colHeader\">Anticipated End Time</span></td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:33 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374964\">View on map</a></td>",
-      "text": "Incident - Major Route\tRamp from I-76 to PA 601\tPennsylvania\tSomerset\tIncident on Ramp from I-76 to PA 601. Expect delays.\t9/8/26, 12:34 PM\t\t9/8/26, 12:33 PM\tView on map"
     },
     {
       "eventId": null,
