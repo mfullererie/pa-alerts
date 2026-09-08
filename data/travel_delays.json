@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T16:28:40.319Z",
+  "fetched_at": "2026-09-08T16:33:13.792Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,35 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-872",
+        "Pennsylvania",
+        "Cameron",
+        "ROADWORK on PA-872 BOTH DIRECTIONS between BUCKTAIL TRAIL HW and BUCKTAIL TRAIL HW. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.",
+        "9/8/26, 12:31 PM",
+        "9/8/26, 3:15 PM",
+        "9/8/26, 12:32 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374963"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-872</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Cameron</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-872 BOTH DIRECTIONS between BUCKTAIL TRAIL HW and BUCKTAIL TRAIL HW. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 12:31 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:32 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374963\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-872\tPennsylvania\tCameron\tROADWORK on PA-872 BOTH DIRECTIONS between BUCKTAIL TRAIL HW and BUCKTAIL TRAIL HW. Left Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 12:31 PM\t9/8/26, 3:15 PM\t9/8/26, 12:32 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -392,64 +421,6 @@
       "text": "Active Roadwork\t(1011) SR 1011 SH\tPennsylvania\tWayne\tROADWORK on (1011) SR 1011 SH BOTH DIRECTIONS At PERKINS POND RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 12:01 PM\t9/8/26, 3:30 PM\t9/8/26, 12:02 PM\tView on map"
     },
     {
-      "eventId": "374943",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "US - 202",
-        "Pennsylvania",
-        "Chester",
-        "Multi vehicle crash on US 202 northbound between Exit: US 322 WEST - DOWNINGTOWN and Exit: PA 100 NORTH TO US 30 WEST - EXTON. All lanes now open.",
-        "9/8/26, 11:37 AM",
-        "9/8/26, 12:55 PM",
-        "9/8/26, 12:01 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374943"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 202</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on US 202 northbound between Exit: US 322 WEST - DOWNINGTOWN and Exit: PA 100 NORTH TO US 30 WEST - EXTON.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 11:37 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 12:55 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:01 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374943\">View on map</a></td>",
-      "text": "Incident - Major Route\tUS - 202\tPennsylvania\tChester\tMulti vehicle crash on US 202 northbound between Exit: US 322 WEST - DOWNINGTOWN and Exit: PA 100 NORTH TO US 30 WEST - EXTON. All lanes now open.\t9/8/26, 11:37 AM\t9/8/26, 12:55 PM\t9/8/26, 12:01 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-56",
-        "Pennsylvania",
-        "Somerset",
-        "MOVING ROADWORK on PA-56 Eastbound between SCALP AV and SUMMIT DR. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Blocked.",
-        "9/8/26, 9:18 AM",
-        "9/8/26, 5:00 PM",
-        "9/8/26, 12:00 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374816"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-56</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Somerset</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on PA-56 Eastbound between SCALP AV and SUMMIT DR. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:18 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:00 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374816\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-56\tPennsylvania\tSomerset\tMOVING ROADWORK on PA-56 Eastbound between SCALP AV and SUMMIT DR. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Blocked.\t9/8/26, 9:18 AM\t9/8/26, 5:00 PM\t9/8/26, 12:00 PM\tView on map"
-    },
-    {
       "eventId": "373926",
       "cells": [
         "Row Details",
@@ -593,35 +564,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>CLINTON RD / FLAUGHERTY RUN RD / WASHINGTON RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>Roadwork on CLINTON RD / FLAUGHERTY RUN RD / WASHINGTON RD northbound between SWEENEY DR, UNKNOWN RD and FLAUGHERTY RUN RD, MASCARO CONSTRUCTION.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>7/27/26, 9:45 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/27/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 11:53 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-324671\">View on map</a></td>",
       "text": "Active Roadwork\tCLINTON RD / FLAUGHERTY RUN RD / WASHINGTON RD\tPennsylvania\tAllegheny\tRoadwork on CLINTON RD / FLAUGHERTY RUN RD / WASHINGTON RD northbound between SWEENEY DR, UNKNOWN RD and FLAUGHERTY RUN RD, MASCARO CONSTRUCTION. There is a lane restriction.\t7/27/26, 9:45 AM\t10/27/26, 12:00 PM\t9/8/26, 11:53 AM\tView on map"
-    },
-    {
-      "eventId": "374734",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(2128) TENTH ST BY-PASS",
-        "Pennsylvania",
-        "Allegheny",
-        "ROADWORK on (2128) TENTH ST BY-PASS Southbound between FT DUQUESNE BL and Exit I-279 SOUTH - FT PITT BRIDGE/AIRPORT. Closed.",
-        "9/8/26, 8:53 AM",
-        "9/8/26, 1:00 PM",
-        "9/8/26, 11:52 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374734"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2128) TENTH ST BY-PASS</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on (2128) TENTH ST BY-PASS Southbound between FT DUQUESNE BL and Exit I-279 SOUTH - FT PITT BRIDGE/AIRPORT. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:53 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 1:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 11:52 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374734\">View on map</a></td>",
-      "text": "Closure - Other Route\t(2128) TENTH ST BY-PASS\tPennsylvania\tAllegheny\tROADWORK on (2128) TENTH ST BY-PASS Southbound between FT DUQUESNE BL and Exit I-279 SOUTH - FT PITT BRIDGE/AIRPORT. Closed.\t9/8/26, 8:53 AM\t9/8/26, 1:00 PM\t9/8/26, 11:52 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2913,6 +2855,64 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 724</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Utility work on PA 724 both directions between HANOVER ST and KEIM ST.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374756\">View on map</a></td>",
       "text": "Closure - Other Route\tPA - 724\tPennsylvania\tChester\tUtility work on PA 724 both directions between HANOVER ST and KEIM ST. All lanes closed.\t9/8/26, 8:56 AM\t9/8/26, 4:00 PM\t9/8/26, 9:03 AM\tView on map"
+    },
+    {
+      "eventId": "374755",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "TACONY ST / STATE RD",
+        "Pennsylvania",
+        "Philadelphia",
+        "Roadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST. All lanes closed.",
+        "9/8/26, 8:53 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 9:03 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-374755"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>TACONY ST / STATE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:53 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374755\">View on map</a></td>",
+      "text": "Closure - Other Route\tTACONY ST / STATE RD\tPennsylvania\tPhiladelphia\tRoadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST. All lanes closed.\t9/8/26, 8:53 AM\t9/8/26, 3:00 PM\t9/8/26, 9:03 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "(1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD",
+        "Pennsylvania",
+        "Lehigh",
+        "ROADWORK on (1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD BOTH DIRECTIONS At PRESIDENTIAL DR. All Lanes Disrupted.",
+        "9/8/26, 9:02 AM",
+        "9/8/26, 3:30 PM",
+        "9/8/26, 9:02 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374753"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lehigh</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD BOTH DIRECTIONS At PRESIDENTIAL DR. All Lanes Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374753\">View on map</a></td>",
+      "text": "Active Roadwork\t(1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD\tPennsylvania\tLehigh\tROADWORK on (1017) NINETEENTH ST / MAIN ST / EIGHTEENTH ST / MAUCH CHUNK RD BOTH DIRECTIONS At PRESIDENTIAL DR. All Lanes Disrupted.\t9/8/26, 9:02 AM\t9/8/26, 3:30 PM\t9/8/26, 9:02 AM\tView on map"
     }
   ]
 }
