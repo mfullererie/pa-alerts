@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T23:24:10.493Z",
+  "fetched_at": "2026-09-08T23:28:36.068Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,93 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-90",
+        "Pennsylvania",
+        "Erie",
+        "ROADWORK on I-90 Eastbound between MM 18 and MM 23. Right Lane (of 2 Lanes) Blocked.",
+        "9/8/26, 7:23 PM",
+        "9/9/26, 6:30 AM",
+        "9/8/26, 7:25 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375233"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-90</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Erie</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-90 Eastbound between MM 18 and MM 23. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:23 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:25 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375233\">View on map</a></td>",
+      "text": "Active Roadwork\tI-90\tPennsylvania\tErie\tROADWORK on I-90 Eastbound between MM 18 and MM 23. Right Lane (of 2 Lanes) Blocked.\t9/8/26, 7:23 PM\t9/9/26, 6:30 AM\t9/8/26, 7:25 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-153",
+        "Pennsylvania",
+        "Clearfield",
+        "ROADWORK on PA-153 Northbound At Exit I-80 EAST - BELLEFONTE. Left Shoulder Disrupted, Right Shoulder Disrupted.",
+        "9/8/26, 7:06 AM",
+        "9/8/26, 8:20 PM",
+        "9/8/26, 7:23 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374541"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-153</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-153 Northbound At Exit I-80 EAST - BELLEFONTE. Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:06 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:23 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374541\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-153\tPennsylvania\tClearfield\tROADWORK on PA-153 Northbound At Exit I-80 EAST - BELLEFONTE. Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 7:06 AM\t9/8/26, 8:20 PM\t9/8/26, 7:23 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-153",
+        "Pennsylvania",
+        "Clearfield",
+        "ROADWORK on PA-153 BOTH DIRECTIONS At FIREBREAK RD. Left Shoulder Disrupted, Right Shoulder Disrupted.",
+        "9/8/26, 7:07 AM",
+        "9/8/26, 8:20 PM",
+        "9/8/26, 7:23 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374542"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-153</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-153 BOTH DIRECTIONS At FIREBREAK RD. Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:07 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:23 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374542\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-153\tPennsylvania\tClearfield\tROADWORK on PA-153 BOTH DIRECTIONS At FIREBREAK RD. Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 7:07 AM\t9/8/26, 8:20 PM\t9/8/26, 7:23 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -1610,35 +1697,6 @@
       "text": "Special Events\tPA-128\tPennsylvania\tArmstrong\tSPECIAL EVENT on PA-128 BOTH DIRECTIONS between HIGH ST and MARKET ST. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.\t9/8/26, 3:49 PM\t9/8/26, 8:45 PM\t9/8/26, 3:49 PM\tView on map"
     },
     {
-      "eventId": "375060",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "PA-851",
-        "Pennsylvania",
-        "York",
-        "UTILITY WORK on PA-851 BOTH DIRECTIONS between MILLER RD and DINSMORE RD. Closed.",
-        "9/8/26, 3:32 PM",
-        "9/8/26, 8:45 PM",
-        "9/8/26, 3:33 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-375060"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-851</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>York</td><td><span class=\"colHeader\">Description</span>UTILITY WORK on PA-851 BOTH DIRECTIONS between MILLER RD and DINSMORE RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 3:32 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:45 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 3:33 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-375060\">View on map</a></td>",
-      "text": "Closure - Other Route\tPA-851\tPennsylvania\tYork\tUTILITY WORK on PA-851 BOTH DIRECTIONS between MILLER RD and DINSMORE RD. Closed.\t9/8/26, 3:32 PM\t9/8/26, 8:45 PM\t9/8/26, 3:33 PM\tView on map"
-    },
-    {
       "eventId": "374207",
       "cells": [
         "Row Details",
@@ -2304,64 +2362,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(3014) BLACK ELK RD / FIVE POINT RD / HARMONY RD / NORTH CAMP RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>BRIDGE OUTAGE on (3014) BLACK ELK RD / FIVE POINT RD / HARMONY RD / NORTH CAMP RD BOTH DIRECTIONS between MAIN ST and PUNKIN RIDGE RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:39 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/30/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:41 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374598\">View on map</a></td>",
       "text": "Closure - Other Route\t(3014) BLACK ELK RD / FIVE POINT RD / HARMONY RD / NORTH CAMP RD\tPennsylvania\tClearfield\tBRIDGE OUTAGE on (3014) BLACK ELK RD / FIVE POINT RD / HARMONY RD / NORTH CAMP RD BOTH DIRECTIONS between MAIN ST and PUNKIN RIDGE RD. Closed.\t9/8/26, 7:39 AM\t10/30/26, 5:00 PM\t9/8/26, 7:41 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-153",
-        "Pennsylvania",
-        "Clearfield",
-        "ROADWORK on PA-153 BOTH DIRECTIONS At FIREBREAK RD. Left Shoulder Disrupted, Right Shoulder Disrupted.",
-        "9/8/26, 7:07 AM",
-        "9/8/26, 7:20 PM",
-        "9/8/26, 7:08 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374542"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-153</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-153 BOTH DIRECTIONS At FIREBREAK RD. Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:07 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:08 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374542\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-153\tPennsylvania\tClearfield\tROADWORK on PA-153 BOTH DIRECTIONS At FIREBREAK RD. Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 7:07 AM\t9/8/26, 7:20 PM\t9/8/26, 7:08 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-153",
-        "Pennsylvania",
-        "Clearfield",
-        "ROADWORK on PA-153 Northbound At Exit I-80 EAST - BELLEFONTE. Left Shoulder Disrupted, Right Shoulder Disrupted.",
-        "9/8/26, 7:06 AM",
-        "9/8/26, 7:20 PM",
-        "9/8/26, 7:07 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374541"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-153</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-153 Northbound At Exit I-80 EAST - BELLEFONTE. Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:06 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:07 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374541\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-153\tPennsylvania\tClearfield\tROADWORK on PA-153 Northbound At Exit I-80 EAST - BELLEFONTE. Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 7:06 AM\t9/8/26, 7:20 PM\t9/8/26, 7:07 AM\tView on map"
     },
     {
       "eventId": null,
