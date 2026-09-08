@@ -1,23 +1,7 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T22:58:42.284Z",
+  "fetched_at": "2026-09-08T23:08:32.432Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 1,
-  "items": [
-    {
-      "id": "375113",
-      "eventId": "375113",
-      "type": "Incident - Major Route",
-      "roadway": "I-81",
-      "state": "Pennsylvania",
-      "county": "Dauphin",
-      "route": "I-81",
-      "direction": "SOUTH",
-      "description": "CRASH on I-81 Southbound At Exit 80 PA 743 - GRANTVILLE/HERSHEY. No Lanes Blocked.",
-      "start_time": "9/8/26, 4:35 PM",
-      "anticipated_end_time": "9/8/26, 8:00 PM",
-      "last_updated": "9/8/26, 6:56 PM",
-      "formatted": "I-81 (Dauphin County) | CRASH on I-81 Southbound At Exit 80 PA 743 - GRANTVILLE/HERSHEY. No Lanes Blocked. Estimated Reopen: 9/8/26 - 20:00"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
