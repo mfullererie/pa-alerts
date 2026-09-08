@@ -1,8 +1,8 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T19:33:31.397Z",
+  "fetched_at": "2026-09-08T19:39:33.644Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "id": "375058",
@@ -33,21 +33,6 @@
       "anticipated_end_time": "9/8/26, 4:13 PM",
       "last_updated": "9/8/26, 3:29 PM",
       "formatted": "US-01 (Philadelphia County) | Multi vehicle crash on US 1 northbound 0 miles NORTH of Exit: I-76 WEST. Estimated Reopen: 9/8/26 - 16:13"
-    },
-    {
-      "id": "375019",
-      "eventId": "375019",
-      "type": "Incident - Major Route",
-      "roadway": "I-76",
-      "state": "Pennsylvania",
-      "county": "Philadelphia",
-      "route": "I-76",
-      "direction": "EAST",
-      "description": "Disabled vehicle on I-76 eastbound between .8 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE and .2 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE. There is a lane restriction.",
-      "start_time": "9/8/26, 2:29 PM",
-      "anticipated_end_time": "9/8/26, 4:00 PM",
-      "last_updated": "9/8/26, 3:24 PM",
-      "formatted": "I-76 (Philadelphia County) | Disabled vehicle on I-76 eastbound between.8 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE and.2 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE. Estimated Reopen: 9/8/26 - 16:00"
     },
     {
       "id": "375015",
