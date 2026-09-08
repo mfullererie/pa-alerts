@@ -1,38 +1,7 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T17:35:10.535Z",
+  "fetched_at": "2026-09-08T17:38:35.460Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 2,
-  "items": [
-    {
-      "id": "374984",
-      "eventId": "374984",
-      "type": "Incident - Major Route",
-      "roadway": "PA - 309",
-      "state": "Pennsylvania",
-      "county": "Bucks",
-      "route": "PA-309",
-      "direction": "NORTH",
-      "description": "Fire department activity on PA 309 northbound between CHURCH RD and TO 4085/0010 SH. There is a lane restriction.",
-      "start_time": "9/8/26, 1:33 PM",
-      "anticipated_end_time": "9/8/26, 2:15 PM",
-      "last_updated": "9/8/26, 1:33 PM",
-      "formatted": "PA-309 (Bucks County) | Fire department activity on PA 309 northbound between CHURCH RD and TO 4085/0010 SH. Estimated Reopen: 9/8/26 - 14:15"
-    },
-    {
-      "id": "374982",
-      "eventId": "374982",
-      "type": "Incident - Major Route",
-      "roadway": "PA - 309",
-      "state": "Pennsylvania",
-      "county": "Bucks",
-      "route": "PA-309",
-      "direction": "SOUTH",
-      "description": "Vehicle fire on PA 309 southbound between BERGEY RD and CHURCH RD. There is a lane restriction.",
-      "start_time": "9/8/26, 1:32 PM",
-      "anticipated_end_time": "9/8/26, 2:15 PM",
-      "last_updated": "9/8/26, 1:32 PM",
-      "formatted": "PA-309 (Bucks County) | Vehicle fire on PA 309 southbound between BERGEY RD and CHURCH RD. Estimated Reopen: 9/8/26 - 14:15"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
