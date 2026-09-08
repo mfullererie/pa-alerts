@@ -1,7 +1,19 @@
 {
   "name": "major_route_closures",
-  "fetched_at": "2026-09-08T10:58:26.456Z",
+  "fetched_at": "2026-09-08T11:03:35.756Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 0,
-  "items": []
+  "count": 1,
+  "items": [
+    {
+      "id": "374523",
+      "eventId": "374523",
+      "route": "I-95",
+      "direction": "NORTH",
+      "between": null,
+      "county": "Philadelphia",
+      "anticipated_end_time": "9/8/26, 8:00 AM",
+      "description": "Crash on I-95 northbound at Exit 17: PA 611 NORTH BROAD ST/PATTISON AVE. There is a shoulder closed.",
+      "formatted": "I-95 (Philadelphia County) | Crash on I-95 northbound at Exit 17: PA 611 NORTH BROAD ST/PATTISON AVE. There is a shoulder closed. Estimated Reopen: 9/8/26 - 08:00"
+    }
+  ]
 }
