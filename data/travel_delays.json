@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T13:53:42.625Z",
+  "fetched_at": "2026-09-08T13:59:33.243Z",
   "headers": [
     "",
     "Type",
@@ -15,17 +15,17 @@
   ],
   "rows": [
     {
-      "eventId": null,
+      "eventId": "374869",
       "cells": [
         "Row Details",
-        "Active Roadwork",
+        "Closure - Other Route",
         "(4020) MAPLE DR",
         "Pennsylvania",
         "Northampton",
-        "ROADWORK on (4020) MAPLE DR Eastbound At EVERGREEN RD. No lanes blocked.",
+        "ROADWORK on (4020) MAPLE DR Eastbound between EVERGREEN RD and EVERGREEN RD. Closed.",
         "9/8/26, 9:51 AM",
         "9/8/26, 4:31 PM",
-        "9/8/26, 9:52 AM",
+        "9/8/26, 9:55 AM",
         "View on map"
       ],
       "links": [
@@ -38,10 +38,10 @@
         "",
         "",
         "",
-        "https://www.511pa.com/map#ActiveRoadwork-374869"
+        "https://www.511pa.com/map#OtherRouteClosure-374869"
       ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4020) MAPLE DR</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on (4020) MAPLE DR Eastbound At EVERGREEN RD. No lanes blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:51 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:31 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:52 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374869\">View on map</a></td>",
-      "text": "Active Roadwork\t(4020) MAPLE DR\tPennsylvania\tNorthampton\tROADWORK on (4020) MAPLE DR Eastbound At EVERGREEN RD. No lanes blocked.\t9/8/26, 9:51 AM\t9/8/26, 4:31 PM\t9/8/26, 9:52 AM\tView on map"
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4020) MAPLE DR</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on (4020) MAPLE DR Eastbound between EVERGREEN RD and EVERGREEN RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:51 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:31 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:55 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374869\">View on map</a></td>",
+      "text": "Closure - Other Route\t(4020) MAPLE DR\tPennsylvania\tNorthampton\tROADWORK on (4020) MAPLE DR Eastbound between EVERGREEN RD and EVERGREEN RD. Closed.\t9/8/26, 9:51 AM\t9/8/26, 4:31 PM\t9/8/26, 9:55 AM\tView on map"
     },
     {
       "eventId": null,
@@ -71,35 +71,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 291</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 291 westbound between LC FROM LANIER AV, PHILADELPHIA ENERGY and Exit: I-95 SOUTH - INTERNATIONAL AIRPORT.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:44 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:48 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374868\">View on map</a></td>",
       "text": "Active Roadwork\tPA - 291\tPennsylvania\tPhiladelphia\tRoadwork on PA 291 westbound between LC FROM LANIER AV, PHILADELPHIA ENERGY and Exit: I-95 SOUTH - INTERNATIONAL AIRPORT. There is a lane restriction.\t9/8/26, 9:44 AM\t9/8/26, 3:30 PM\t9/8/26, 9:48 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-83",
-        "Pennsylvania",
-        "York",
-        "MOVING ROADWORK on I-83 Northbound At MM 0. Left Lane (of 2 Lanes) Disrupted, Left Shoulder Disrupted.",
-        "9/8/26, 9:33 AM",
-        "9/8/26, 12:15 PM",
-        "9/8/26, 9:48 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374865"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-83</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>York</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on I-83 Northbound At MM 0. Left Lane (of 2 Lanes) Disrupted, Left Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:33 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 12:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:48 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374865\">View on map</a></td>",
-      "text": "Active Roadwork\tI-83\tPennsylvania\tYork\tMOVING ROADWORK on I-83 Northbound At MM 0. Left Lane (of 2 Lanes) Disrupted, Left Shoulder Disrupted.\t9/8/26, 9:33 AM\t9/8/26, 12:15 PM\t9/8/26, 9:48 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2913,6 +2884,35 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4002) QUAKER LAKE ROAD / LAUREL LAKE ROAD / FRANKLIN HILL ROAD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Susquehanna</td><td><span class=\"colHeader\">Description</span>ROADWORK on (4002) QUAKER LAKE ROAD / LAUREL LAKE ROAD / FRANKLIN HILL ROAD BOTH DIRECTIONS between OWEGO ST and BRACKNEY HILL RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:30 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:30 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374680\">View on map</a></td>",
       "text": "Closure - Other Route\t(4002) QUAKER LAKE ROAD / LAUREL LAKE ROAD / FRANKLIN HILL ROAD\tPennsylvania\tSusquehanna\tROADWORK on (4002) QUAKER LAKE ROAD / LAUREL LAKE ROAD / FRANKLIN HILL ROAD BOTH DIRECTIONS between OWEGO ST and BRACKNEY HILL RD. Closed.\t9/8/26, 8:30 AM\t9/8/26, 3:30 PM\t9/8/26, 8:30 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-654",
+        "Pennsylvania",
+        "Lycoming",
+        "ROADWORK on PA-654 BOTH DIRECTIONS At EDGEWOOD AV. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.",
+        "9/8/26, 8:21 AM",
+        "9/8/26, 9:00 PM",
+        "9/8/26, 8:26 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374670"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-654</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lycoming</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-654 BOTH DIRECTIONS At EDGEWOOD AV. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:21 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:26 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374670\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-654\tPennsylvania\tLycoming\tROADWORK on PA-654 BOTH DIRECTIONS At EDGEWOOD AV. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 8:21 AM\t9/8/26, 9:00 PM\t9/8/26, 8:26 AM\tView on map"
     }
   ]
 }
