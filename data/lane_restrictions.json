@@ -1,9 +1,24 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T21:03:37.210Z",
+  "fetched_at": "2026-09-08T21:08:49.699Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
   "count": 4,
   "items": [
+    {
+      "id": "375082",
+      "eventId": "375082",
+      "type": "Incident - Major Route",
+      "roadway": "US-22",
+      "state": "Pennsylvania",
+      "county": "Northampton",
+      "route": "US-22",
+      "direction": "EAST",
+      "description": "FIRE DEPARTMENT ACTIVITY on US-22 Eastbound between RAMP FROM SR 3011 (CENTER ST) AT PA 512/CENTER ST and Exit PA 191 - NAZARETH PIKE. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+      "start_time": "9/8/26, 4:00 PM",
+      "anticipated_end_time": "9/8/26, 6:15 PM",
+      "last_updated": "9/8/26, 5:08 PM",
+      "formatted": "US-22 (Northampton County) | FIRE DEPARTMENT ACTIVITY on US-22 Eastbound between RAMP FROM SR 3011 (CENTER ST) AT PA 512/CENTER ST and Exit PA 191 - NAZARETH PIKE. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 18:15"
+    },
     {
       "id": "375131",
       "eventId": "375131",
@@ -16,7 +31,7 @@
       "description": "VEHICLE FIRE on I-78 Eastbound At MM 58. 2 Right Lanes (of 3 Lanes) Blocked, Right Shoulder Blocked.",
       "start_time": "9/8/26, 5:02 PM",
       "anticipated_end_time": "9/8/26, 7:30 PM",
-      "last_updated": "9/8/26, 5:02 PM",
+      "last_updated": "9/8/26, 5:06 PM",
       "formatted": "I-78 (Lehigh County) | VEHICLE FIRE on I-78 Eastbound At MM 58. 2 Right Lanes Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 19:30"
     },
     {
@@ -48,21 +63,6 @@
       "anticipated_end_time": "9/8/26, 5:40 PM",
       "last_updated": "9/8/26, 4:55 PM",
       "formatted": "I-95 (Philadelphia County) | Multi vehicle crash on I-95 southbound between.6 miles north of Exit 15: ENTERPRISE AVE/ISLAND AVE and.2 miles south of Exit 15: ENTERPRISE AVE/ISLAND AVE. Estimated Reopen: 9/8/26 - 17:40"
-    },
-    {
-      "id": "375082",
-      "eventId": "375082",
-      "type": "Incident - Major Route",
-      "roadway": "US-22",
-      "state": "Pennsylvania",
-      "county": "Northampton",
-      "route": "US-22",
-      "direction": "EAST",
-      "description": "FIRE DEPARTMENT ACTIVITY on US-22 Eastbound between RAMP FROM SR 3011 (CENTER ST) AT PA 512/CENTER ST and Exit PA 191 - NAZARETH PIKE. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-      "start_time": "9/8/26, 4:00 PM",
-      "anticipated_end_time": "9/8/26, 5:30 PM",
-      "last_updated": "9/8/26, 4:12 PM",
-      "formatted": "US-22 (Northampton County) | FIRE DEPARTMENT ACTIVITY on US-22 Eastbound between RAMP FROM SR 3011 (CENTER ST) AT PA 512/CENTER ST and Exit PA 191 - NAZARETH PIKE. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 17:30"
     }
   ]
 }
