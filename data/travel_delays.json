@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T18:09:12.201Z",
+  "fetched_at": "2026-09-08T18:13:39.173Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,93 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-81",
+        "Pennsylvania",
+        "Schuylkill",
+        "ROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.",
+        "9/8/26, 8:31 AM",
+        "9/8/26, 5:00 PM",
+        "9/8/26, 2:12 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374683"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Schuylkill</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:31 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:12 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374683\">View on map</a></td>",
+      "text": "Active Roadwork\tI-81\tPennsylvania\tSchuylkill\tROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.\t9/8/26, 8:31 AM\t9/8/26, 5:00 PM\t9/8/26, 2:12 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "US-01",
+        "Pennsylvania",
+        "Philadelphia",
+        "Roadwork on US 1 southbound 1 miles NORTH of Exit: RIDGE AVE/KELLY DRIVE. There is a shoulder closed.",
+        "9/8/26, 2:12 PM",
+        "9/8/26, 3:45 PM",
+        "9/8/26, 2:12 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375013"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-01</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on US 1 southbound 1 miles NORTH of Exit: RIDGE AVE/KELLY DRIVE.  There is a shoulder closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:12 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:45 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:12 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375013\">View on map</a></td>",
+      "text": "Active Roadwork\tUS-01\tPennsylvania\tPhiladelphia\tRoadwork on US 1 southbound 1 miles NORTH of Exit: RIDGE AVE/KELLY DRIVE. There is a shoulder closed.\t9/8/26, 2:12 PM\t9/8/26, 3:45 PM\t9/8/26, 2:12 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-90",
+        "Pennsylvania",
+        "Erie",
+        "ROADWORK on I-90 Eastbound At MM 16. Right Shoulder Blocked.",
+        "9/8/26, 2:09 PM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 2:10 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375012"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-90</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Erie</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-90 Eastbound At MM 16. Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:09 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 2:10 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375012\">View on map</a></td>",
+      "text": "Active Roadwork\tI-90\tPennsylvania\tErie\tROADWORK on I-90 Eastbound At MM 16. Right Shoulder Blocked.\t9/8/26, 2:09 PM\t9/8/26, 3:00 PM\t9/8/26, 2:10 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -303,35 +390,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Susquehanna</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 212.5 and MM 211. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 1:36 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/11/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:38 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374995\">View on map</a></td>",
       "text": "Active Roadwork\tI-81\tPennsylvania\tSusquehanna\tROADWORK on I-81 Southbound between MM 212.5 and MM 211. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 1:36 PM\t9/11/26, 3:30 PM\t9/8/26, 1:38 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-76",
-        "Pennsylvania",
-        "Franklin",
-        "Road work on I-76 East. The left lane is closed.",
-        "9/8/26, 8:30 AM",
-        "9/8/26, 1:30 PM",
-        "9/8/26, 1:37 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374669"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Franklin</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The left lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:30 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 1:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:37 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374669\">View on map</a></td>",
-      "text": "Active Roadwork\tI-76\tPennsylvania\tFranklin\tRoad work on I-76 East. The left lane is closed.\t9/8/26, 8:30 AM\t9/8/26, 1:30 PM\t9/8/26, 1:37 PM\tView on map"
     },
     {
       "eventId": null,
@@ -651,35 +709,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Westmoreland</td><td><span class=\"colHeader\">Description</span>Mobile closure on I-76 East. Be alert for a moving lane closure in this area.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 11:21 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:24 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:24 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374959\">View on map</a></td>",
       "text": "Active Roadwork\tI-76\tPennsylvania\tWestmoreland\tMobile closure on I-76 East. Be alert for a moving lane closure in this area.\t9/8/26, 11:21 AM\t9/8/26, 2:24 PM\t9/8/26, 12:24 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-81",
-        "Pennsylvania",
-        "Schuylkill",
-        "ROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.",
-        "9/8/26, 8:31 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 12:23 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374683"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Schuylkill</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:31 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 12:23 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374683\">View on map</a></td>",
-      "text": "Active Roadwork\tI-81\tPennsylvania\tSchuylkill\tROADWORK on I-81 Southbound between MM 106.5 and MM 105.5. Left Lane (of 2 Lanes) Blocked.\t9/8/26, 8:31 AM\t9/8/26, 3:00 PM\t9/8/26, 12:23 PM\tView on map"
     },
     {
       "eventId": "373871",
@@ -2884,35 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 724</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Utility work on PA 724 both directions between HANOVER ST and KEIM ST.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374756\">View on map</a></td>",
       "text": "Closure - Other Route\tPA - 724\tPennsylvania\tChester\tUtility work on PA 724 both directions between HANOVER ST and KEIM ST. All lanes closed.\t9/8/26, 8:56 AM\t9/8/26, 4:00 PM\t9/8/26, 9:03 AM\tView on map"
-    },
-    {
-      "eventId": "374755",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "TACONY ST / STATE RD",
-        "Pennsylvania",
-        "Philadelphia",
-        "Roadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST. All lanes closed.",
-        "9/8/26, 8:53 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 9:03 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374755"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>TACONY ST / STATE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Roadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:53 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374755\">View on map</a></td>",
-      "text": "Closure - Other Route\tTACONY ST / STATE RD\tPennsylvania\tPhiladelphia\tRoadwork on TACONY ST / STATE RD northbound between ARAMINGO AV and BRIDGE ST. All lanes closed.\t9/8/26, 8:53 AM\t9/8/26, 3:00 PM\t9/8/26, 9:03 AM\tView on map"
     }
   ]
 }
