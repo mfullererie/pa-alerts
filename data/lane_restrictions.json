@@ -1,8 +1,8 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T21:08:49.699Z",
+  "fetched_at": "2026-09-08T21:13:32.070Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 4,
+  "count": 3,
   "items": [
     {
       "id": "375082",
@@ -48,21 +48,6 @@
       "anticipated_end_time": "9/8/26, 5:46 PM",
       "last_updated": "9/8/26, 5:02 PM",
       "formatted": "I-81 (Cumberland County) | VEHICLE FIRE on I-81 Southbound At MM 53. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 17:46"
-    },
-    {
-      "id": "375127",
-      "eventId": "375127",
-      "type": "Incident - Major Route",
-      "roadway": "I-95",
-      "state": "Pennsylvania",
-      "county": "Philadelphia",
-      "route": "I-95",
-      "direction": "SOUTH",
-      "description": "Multi vehicle crash on I-95 southbound between .6 miles north of Exit 15: ENTERPRISE AVE/ISLAND AVE and .2 miles south of Exit 15: ENTERPRISE AVE/ISLAND AVE. There is a lane restriction.",
-      "start_time": "9/8/26, 4:54 PM",
-      "anticipated_end_time": "9/8/26, 5:40 PM",
-      "last_updated": "9/8/26, 4:55 PM",
-      "formatted": "I-95 (Philadelphia County) | Multi vehicle crash on I-95 southbound between.6 miles north of Exit 15: ENTERPRISE AVE/ISLAND AVE and.2 miles south of Exit 15: ENTERPRISE AVE/ISLAND AVE. Estimated Reopen: 9/8/26 - 17:40"
     }
   ]
 }

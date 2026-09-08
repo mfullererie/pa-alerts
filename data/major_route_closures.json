@@ -1,9 +1,31 @@
 {
   "name": "major_route_closures",
-  "fetched_at": "2026-09-08T21:08:49.699Z",
+  "fetched_at": "2026-09-08T21:13:32.070Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 2,
+  "count": 4,
   "items": [
+    {
+      "id": "375127",
+      "eventId": "375127",
+      "route": "I-95",
+      "direction": "SOUTH",
+      "between": null,
+      "county": "Philadelphia",
+      "anticipated_end_time": "9/8/26, 5:40 PM",
+      "description": "Multi vehicle crash on I-95 southbound between .6 miles north of Exit 15: ENTERPRISE AVE/ISLAND AVE and .2 miles south of Exit 15: ENTERPRISE AVE/ISLAND AVE. There is a shoulder closed.",
+      "formatted": "I-95 (Philadelphia County) | Multi-vehicle crash on I-95 southbound between.6 miles north of Exit 15: ENTERPRISE AVE/ISLAND AVE and.2 miles south of Exit 15: ENTERPRISE AVE/ISLAND AVE. There is a shoulder closed. Estimated Reopen: 9/8/26 - 17:40"
+    },
+    {
+      "id": "375137",
+      "eventId": "375137",
+      "route": "I-95",
+      "direction": "NORTH",
+      "between": null,
+      "county": "Bucks",
+      "anticipated_end_time": "9/8/26, 5:53 PM",
+      "description": "Disabled vehicle on I-95 northbound at Exit 39: PA 413 - BRISTOL. There is a shoulder closed.",
+      "formatted": "I-95 (Bucks County) | Disabled vehicle on I-95 northbound at Exit 39: PA 413 - BRISTOL. There is a shoulder closed. Estimated Reopen: 9/8/26 - 17:53"
+    },
     {
       "id": "375113",
       "eventId": "375113",
