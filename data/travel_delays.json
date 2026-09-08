@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T23:53:24.139Z",
+  "fetched_at": "2026-09-08T23:58:36.702Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,151 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "(4016) ROYAL RD / MAIN ST / SMOCK RD",
+        "Pennsylvania",
+        "Fayette",
+        "UTILITY WORK on (4016) ROYAL RD / MAIN ST / SMOCK RD BOTH DIRECTIONS At SMOCK RD. Right Lane (of 2 Lanes) Disrupted.",
+        "9/8/26, 6:14 AM",
+        "9/8/26, 9:00 PM",
+        "9/8/26, 7:55 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374505"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4016) ROYAL RD / MAIN ST / SMOCK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Fayette</td><td><span class=\"colHeader\">Description</span>UTILITY WORK on (4016) ROYAL RD / MAIN ST / SMOCK RD BOTH DIRECTIONS At SMOCK RD. Right Lane (of 2 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:55 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374505\">View on map</a></td>",
+      "text": "Active Roadwork\t(4016) ROYAL RD / MAIN ST / SMOCK RD\tPennsylvania\tFayette\tUTILITY WORK on (4016) ROYAL RD / MAIN ST / SMOCK RD BOTH DIRECTIONS At SMOCK RD. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 6:14 AM\t9/8/26, 9:00 PM\t9/8/26, 7:55 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-80",
+        "Pennsylvania",
+        "Monroe",
+        "ROADWORK on I-80 Westbound between MM 302 and MM 301.5. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 7:39 PM",
+        "9/9/26, 8:00 AM",
+        "9/8/26, 7:55 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375241"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Monroe</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Westbound between MM 302 and MM 301.5. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:39 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 8:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:55 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375241\">View on map</a></td>",
+      "text": "Active Roadwork\tI-80\tPennsylvania\tMonroe\tROADWORK on I-80 Westbound between MM 302 and MM 301.5. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 7:39 PM\t9/9/26, 8:00 AM\t9/8/26, 7:55 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-03",
+        "Pennsylvania",
+        "Chester",
+        "Utility work on PA 3 eastbound at CHURCH ST. There is a traffic disruption.",
+        "9/8/26, 7:51 PM",
+        "9/9/26, 5:00 AM",
+        "9/8/26, 7:53 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375255"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-03</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Utility work on PA 3 eastbound at CHURCH ST.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:51 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 5:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:53 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375255\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-03\tPennsylvania\tChester\tUtility work on PA 3 eastbound at CHURCH ST. There is a traffic disruption.\t9/8/26, 7:51 PM\t9/9/26, 5:00 AM\t9/8/26, 7:53 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-80",
+        "Pennsylvania",
+        "Monroe",
+        "ROADWORK on I-80 Eastbound between MM 309 and MM 309.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.",
+        "9/8/26, 7:31 PM",
+        "9/9/26, 8:00 AM",
+        "9/8/26, 7:53 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375236"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Monroe</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Eastbound between MM 309 and MM 309.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:31 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 8:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:53 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375236\">View on map</a></td>",
+      "text": "Active Roadwork\tI-80\tPennsylvania\tMonroe\tROADWORK on I-80 Eastbound between MM 309 and MM 309.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.\t9/8/26, 7:31 PM\t9/9/26, 8:00 AM\t9/8/26, 7:53 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "CHURCH RD",
+        "Pennsylvania",
+        "Montgomery",
+        "Roadwork on CHURCH RD both directions between NEW SECOND ST and CHURCH RD, WASHINGTON LN. There is a traffic disruption.",
+        "9/8/26, 7:49 PM",
+        "9/9/26, 1:00 AM",
+        "9/8/26, 7:52 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375250"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>CHURCH RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Roadwork on CHURCH RD both directions between NEW SECOND ST and CHURCH RD, WASHINGTON LN.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:49 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 1:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:52 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375250\">View on map</a></td>",
+      "text": "Active Roadwork\tCHURCH RD\tPennsylvania\tMontgomery\tRoadwork on CHURCH RD both directions between NEW SECOND ST and CHURCH RD, WASHINGTON LN. There is a traffic disruption.\t9/8/26, 7:49 PM\t9/9/26, 1:00 AM\t9/8/26, 7:52 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -138,35 +283,6 @@
         "I-80",
         "Pennsylvania",
         "Monroe",
-        "ROADWORK on I-80 Westbound between MM 302 and MM 301.5. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 7:39 PM",
-        "9/9/26, 8:00 AM",
-        "9/8/26, 7:40 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375241"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Monroe</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Westbound between MM 302 and MM 301.5. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:39 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 8:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:40 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375241\">View on map</a></td>",
-      "text": "Active Roadwork\tI-80\tPennsylvania\tMonroe\tROADWORK on I-80 Westbound between MM 302 and MM 301.5. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 7:39 PM\t9/9/26, 8:00 AM\t9/8/26, 7:40 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-80",
-        "Pennsylvania",
-        "Monroe",
         "ROADWORK on I-80 Westbound between MM 310 and MM 309. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.",
         "9/8/26, 7:31 PM",
         "9/9/26, 8:00 AM",
@@ -216,64 +332,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>Ramp from I-276 to PA 611</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Roadwork on Ramp from I-276 to PA 611.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 5:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:34 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375240\">View on map</a></td>",
       "text": "Active Roadwork\tRamp from I-276 to PA 611\tPennsylvania\tMontgomery\tRoadwork on Ramp from I-276 to PA 611.\t9/8/26, 7:00 PM\t9/9/26, 5:00 AM\t9/8/26, 7:34 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-80",
-        "Pennsylvania",
-        "Monroe",
-        "ROADWORK on I-80 Eastbound between MM 309 and MM 309.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.",
-        "9/8/26, 7:31 PM",
-        "9/9/26, 8:00 AM",
-        "9/8/26, 7:31 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375236"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Monroe</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Eastbound between MM 309 and MM 309.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:31 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 8:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:31 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375236\">View on map</a></td>",
-      "text": "Active Roadwork\tI-80\tPennsylvania\tMonroe\tROADWORK on I-80 Eastbound between MM 309 and MM 309.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.\t9/8/26, 7:31 PM\t9/9/26, 8:00 AM\t9/8/26, 7:31 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-76",
-        "Pennsylvania",
-        "Chester",
-        "Mobile closure on I-76 East. Be alert for a moving lane closure in this area.",
-        "9/8/26, 7:30 PM",
-        "9/8/26, 9:00 PM",
-        "9/8/26, 7:30 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375237"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Mobile closure on I-76 East. Be alert for a moving lane closure in this area.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:30 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:30 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375237\">View on map</a></td>",
-      "text": "Active Roadwork\tI-76\tPennsylvania\tChester\tMobile closure on I-76 East. Be alert for a moving lane closure in this area.\t9/8/26, 7:30 PM\t9/8/26, 9:00 PM\t9/8/26, 7:30 PM\tView on map"
     },
     {
       "eventId": null,
@@ -2683,35 +2741,6 @@
       "text": "Active Roadwork\tI-80\tPennsylvania\tClearfield\tROADWORK on I-80 Westbound between MM 118 and MM 117.5. Right Lane (of 2 Lanes) Blocked, Right Shoulder Disrupted.\t8/10/26, 10:11 AM\t10/15/26, 3:00 PM\t9/8/26, 6:38 AM\tView on map"
     },
     {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "(4016) ROYAL RD / MAIN ST / SMOCK RD",
-        "Pennsylvania",
-        "Fayette",
-        "UTILITY WORK on (4016) ROYAL RD / MAIN ST / SMOCK RD BOTH DIRECTIONS At SMOCK RD. Right Lane (of 2 Lanes) Disrupted.",
-        "9/8/26, 6:14 AM",
-        "9/8/26, 8:00 PM",
-        "9/8/26, 6:14 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374505"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4016) ROYAL RD / MAIN ST / SMOCK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Fayette</td><td><span class=\"colHeader\">Description</span>UTILITY WORK on (4016) ROYAL RD / MAIN ST / SMOCK RD BOTH DIRECTIONS At SMOCK RD. Right Lane (of 2 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:14 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374505\">View on map</a></td>",
-      "text": "Active Roadwork\t(4016) ROYAL RD / MAIN ST / SMOCK RD\tPennsylvania\tFayette\tUTILITY WORK on (4016) ROYAL RD / MAIN ST / SMOCK RD BOTH DIRECTIONS At SMOCK RD. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 6:14 AM\t9/8/26, 8:00 PM\t9/8/26, 6:14 AM\tView on map"
-    },
-    {
       "eventId": "373888",
       "cells": [
         "Row Details",
@@ -2884,35 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clinton</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Westbound At MM 171.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>8/9/26, 6:29 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/11/26, 6:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/4/26, 5:33 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-373915\">View on map</a></td>",
       "text": "Active Roadwork\tI-80\tPennsylvania\tClinton\tROADWORK on I-80 Westbound At MM 171.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.\t8/9/26, 6:29 AM\t9/11/26, 6:00 PM\t9/4/26, 5:33 PM\tView on map"
-    },
-    {
-      "eventId": "252247",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "DRAKE RD",
-        "Pennsylvania",
-        "Sullivan",
-        "Bridge outage on DRAKE RD both directions at DRAKE RD. All lanes closed.",
-        "4/13/26, 6:25 AM",
-        "9/11/26, 10:00 AM",
-        "9/4/26, 4:53 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-252247"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>DRAKE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Sullivan</td><td><span class=\"colHeader\">Description</span>Bridge outage on DRAKE RD both directions at DRAKE RD.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>4/13/26, 6:25 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/11/26, 10:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/4/26, 4:53 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-252247\">View on map</a></td>",
-      "text": "Closure - Other Route\tDRAKE RD\tPennsylvania\tSullivan\tBridge outage on DRAKE RD both directions at DRAKE RD. All lanes closed.\t4/13/26, 6:25 AM\t9/11/26, 10:00 AM\t9/4/26, 4:53 PM\tView on map"
     }
   ]
 }
