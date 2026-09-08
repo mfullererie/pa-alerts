@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T11:33:35.251Z",
+  "fetched_at": "2026-09-08T11:38:22.988Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,122 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": "374559",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-95",
+        "Pennsylvania",
+        "Philadelphia",
+        "Multi vehicle crash on I-95 northbound at Exit 26: BETSY ROSS BR - NEW JERSEY. All lanes now open.",
+        "9/8/26, 7:14 AM",
+        "9/8/26, 8:45 AM",
+        "9/8/26, 7:36 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374559"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on I-95 northbound at Exit 26: BETSY ROSS BR - NEW JERSEY.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:45 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:36 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374559\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tMulti vehicle crash on I-95 northbound at Exit 26: BETSY ROSS BR - NEW JERSEY. All lanes now open.\t9/8/26, 7:14 AM\t9/8/26, 8:45 AM\t9/8/26, 7:36 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-76",
+        "Pennsylvania",
+        "Bedford",
+        "Road work on I-76 East. The right lane is closed.",
+        "9/8/26, 8:00 AM",
+        "9/8/26, 1:00 PM",
+        "9/8/26, 7:36 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374593"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bedford</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 1:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:36 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374593\">View on map</a></td>",
+      "text": "Active Roadwork\tI-76\tPennsylvania\tBedford\tRoad work on I-76 East. The right lane is closed.\t9/8/26, 8:00 AM\t9/8/26, 1:00 PM\t9/8/26, 7:36 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Incident - Other Route",
+        "THIRTYFOURTH ST / THIRTYEIGHTH ST / TWENTYSIXTH ST / UNIVERSITY AV",
+        "Pennsylvania",
+        "Philadelphia",
+        "Disabled vehicle on THIRTYFOURTH ST / THIRTYEIGHTH ST / TWENTYSIXTH ST / UNIVERSITY AV northbound between HARTRANFT ST and SCHUYLKILL EX. There is a lane restriction.",
+        "9/8/26, 7:24 AM",
+        "9/8/26, 8:30 AM",
+        "9/8/26, 7:35 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteIncident-374592"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>THIRTYFOURTH ST / THIRTYEIGHTH ST / TWENTYSIXTH ST / UNIVERSITY AV</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on THIRTYFOURTH ST / THIRTYEIGHTH ST / TWENTYSIXTH ST / UNIVERSITY AV northbound between HARTRANFT ST and SCHUYLKILL EX.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:24 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:35 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-374592\">View on map</a></td>",
+      "text": "Incident - Other Route\tTHIRTYFOURTH ST / THIRTYEIGHTH ST / TWENTYSIXTH ST / UNIVERSITY AV\tPennsylvania\tPhiladelphia\tDisabled vehicle on THIRTYFOURTH ST / THIRTYEIGHTH ST / TWENTYSIXTH ST / UNIVERSITY AV northbound between HARTRANFT ST and SCHUYLKILL EX. There is a lane restriction.\t9/8/26, 7:24 AM\t9/8/26, 8:30 AM\t9/8/26, 7:35 AM\tView on map"
+    },
+    {
+      "eventId": "374577",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-83",
+        "Pennsylvania",
+        "York",
+        "CRASH (Multi-Vehicle) on I-83 Northbound At RAMP FROM PA 297 AT EXIT 28 - ZIONS VIEW/STRINESTO. Right Shoulder Blocked.",
+        "9/8/26, 7:14 AM",
+        "9/8/26, 8:20 AM",
+        "9/8/26, 7:34 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374577"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-83</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>York</td><td><span class=\"colHeader\">Description</span>CRASH (Multi-Vehicle) on I-83 Northbound At RAMP FROM PA 297 AT EXIT 28 - ZIONS VIEW/STRINESTO. Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:20 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:34 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374577\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-83\tPennsylvania\tYork\tCRASH (Multi-Vehicle) on I-83 Northbound At RAMP FROM PA 297 AT EXIT 28 - ZIONS VIEW/STRINESTO. Right Shoulder Blocked.\t9/8/26, 7:14 AM\t9/8/26, 8:20 AM\t9/8/26, 7:34 AM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -158,35 +274,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-376 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Beaver</td><td><span class=\"colHeader\">Description</span>Road work on I-376 West. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:36 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/22/26, 4:36 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:26 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374580\">View on map</a></td>",
       "text": "Active Roadwork\tI-376\tPennsylvania\tBeaver\tRoad work on I-376 West. The right lane is closed.\t9/8/26, 4:36 AM\t9/22/26, 4:36 AM\t9/8/26, 7:26 AM\tView on map"
-    },
-    {
-      "eventId": "374577",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-83",
-        "Pennsylvania",
-        "York",
-        "CRASH (Multi-Vehicle) on I-83 Northbound At RAMP FROM PA 297 AT EXIT 28 - ZIONS VIEW/STRINESTO. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 7:14 AM",
-        "9/8/26, 8:20 AM",
-        "9/8/26, 7:26 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374577"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-83</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>York</td><td><span class=\"colHeader\">Description</span>CRASH (Multi-Vehicle) on I-83 Northbound At RAMP FROM PA 297 AT EXIT 28 - ZIONS VIEW/STRINESTO. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:20 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:26 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374577\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-83\tPennsylvania\tYork\tCRASH (Multi-Vehicle) on I-83 Northbound At RAMP FROM PA 297 AT EXIT 28 - ZIONS VIEW/STRINESTO. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 7:14 AM\t9/8/26, 8:20 AM\t9/8/26, 7:26 AM\tView on map"
     },
     {
       "eventId": "374579",
@@ -421,35 +508,6 @@
       "text": "Incident - Major Route\tI-76\tPennsylvania\tPhiladelphia\tMulti vehicle crash on I-76 westbound between Exit 342: US 13/US 30 WEST - GIRARD AVE/PHILA ZOO and Exit 341: MONTGOMERY DR/WEST RIVER DRIVE. There is a shoulder closed.\t9/8/26, 7:12 AM\t9/8/26, 8:30 AM\t9/8/26, 7:20 AM\tView on map"
     },
     {
-      "eventId": "374559",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-95",
-        "Pennsylvania",
-        "Philadelphia",
-        "Multi vehicle crash on I-95 northbound at Exit 26: BETSY ROSS BR - NEW JERSEY. There is a ramp restriction.",
-        "9/8/26, 7:14 AM",
-        "9/8/26, 8:45 AM",
-        "9/8/26, 7:19 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374559"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on I-95 northbound at Exit 26: BETSY ROSS BR - NEW JERSEY.  There is a ramp restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:45 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:19 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374559\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tMulti vehicle crash on I-95 northbound at Exit 26: BETSY ROSS BR - NEW JERSEY. There is a ramp restriction.\t9/8/26, 7:14 AM\t9/8/26, 8:45 AM\t9/8/26, 7:19 AM\tView on map"
-    },
-    {
       "eventId": "374558",
       "cells": [
         "Row Details",
@@ -680,35 +738,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-153</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-153 Northbound At Exit I-80 EAST - BELLEFONTE. Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:06 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:07 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374541\">View on map</a></td>",
       "text": "Active Roadwork\tPA-153\tPennsylvania\tClearfield\tROADWORK on PA-153 Northbound At Exit I-80 EAST - BELLEFONTE. Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 7:06 AM\t9/8/26, 7:20 PM\t9/8/26, 7:07 AM\tView on map"
-    },
-    {
-      "eventId": "374518",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "US-30",
-        "Pennsylvania",
-        "Chester",
-        "Police activity on US 30 eastbound between Exit: US 322 - MANOR AVE and Exit: PA 113 SOUTH - DOWNINGTOWN. All lanes now open.",
-        "9/8/26, 6:40 AM",
-        "9/8/26, 8:08 AM",
-        "9/8/26, 7:03 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374518"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-30</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Police activity on US 30 eastbound between Exit: US 322 - MANOR AVE and Exit: PA 113 SOUTH - DOWNINGTOWN.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:40 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:08 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:03 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374518\">View on map</a></td>",
-      "text": "Incident - Major Route\tUS-30\tPennsylvania\tChester\tPolice activity on US 30 eastbound between Exit: US 322 - MANOR AVE and Exit: PA 113 SOUTH - DOWNINGTOWN. All lanes now open.\t9/8/26, 6:40 AM\t9/8/26, 8:08 AM\t9/8/26, 7:03 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2884,35 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4039) AUDUBON RD / HENRY RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on (4039) AUDUBON RD / HENRY RD BOTH DIRECTIONS between MAGEE RD and BARBERRY RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/1/26, 7:05 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/2/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/1/26, 7:06 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373864\">View on map</a></td>",
       "text": "Closure - Other Route\t(4039) AUDUBON RD / HENRY RD\tPennsylvania\tAllegheny\tROADWORK on (4039) AUDUBON RD / HENRY RD BOTH DIRECTIONS between MAGEE RD and BARBERRY RD. Closed.\t9/1/26, 7:05 AM\t10/2/26, 12:00 PM\t9/1/26, 7:06 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-476",
-        "Pennsylvania",
-        "Lackawanna",
-        "Road work on I-476 North. The right shoulder is closed.",
-        "11/3/25, 7:00 AM",
-        "9/30/26, 3:00 PM",
-        "8/31/26, 7:28 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-122369"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lackawanna</td><td><span class=\"colHeader\">Description</span>Road work on I-476 North. The right shoulder is closed.</td><td><span class=\"colHeader\">Start Time</span>11/3/25, 7:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/30/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/31/26, 7:28 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-122369\">View on map</a></td>",
-      "text": "Active Roadwork\tI-476\tPennsylvania\tLackawanna\tRoad work on I-476 North. The right shoulder is closed.\t11/3/25, 7:00 AM\t9/30/26, 3:00 PM\t8/31/26, 7:28 PM\tView on map"
     }
   ]
 }
