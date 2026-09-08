@@ -1,23 +1,23 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T19:58:39.244Z",
+  "fetched_at": "2026-09-08T20:03:45.275Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
   "count": 2,
   "items": [
     {
-      "id": "375057",
-      "eventId": "375057",
+      "id": "375082",
+      "eventId": "375082",
       "type": "Incident - Major Route",
-      "roadway": "US-01",
+      "roadway": "US-22",
       "state": "Pennsylvania",
-      "county": "Philadelphia",
-      "route": "US-01",
-      "direction": "NORTH",
-      "description": "Multi vehicle crash on US 1 northbound 0 miles NORTH of Exit: I-76 WEST. There is a lane restriction.",
-      "start_time": "9/8/26, 3:27 PM",
-      "anticipated_end_time": "9/8/26, 4:13 PM",
-      "last_updated": "9/8/26, 3:49 PM",
-      "formatted": "US-01 (Philadelphia County) | Multi vehicle crash on US 1 northbound 0 miles NORTH of Exit: I-76 WEST. Estimated Reopen: 9/8/26 - 16:13"
+      "county": "Northampton",
+      "route": "US-22",
+      "direction": "EAST",
+      "description": "FIRE DEPARTMENT ACTIVITY on US-22 Eastbound between RAMP FROM SR 3011 (CENTER ST) AT PA 512/CENTER ST and Exit PA 191 - NAZARETH PIKE. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+      "start_time": "9/8/26, 4:00 PM",
+      "anticipated_end_time": "9/8/26, 5:30 PM",
+      "last_updated": "9/8/26, 4:02 PM",
+      "formatted": "US-22 (Northampton County) | FIRE DEPARTMENT ACTIVITY on US-22 Eastbound between RAMP FROM SR 3011 (CENTER ST) AT PA 512/CENTER ST and Exit PA 191 - NAZARETH PIKE. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/8/26 - 17:30"
     },
     {
       "id": "375015",
@@ -30,9 +30,9 @@
       "direction": "WEST",
       "description": "Disabled vehicle on I-76 westbound between .2 miles east of Exit 340A: LINCOLN DR/KELLY DR and .1 miles east of Exit 339: US 1 SOUTH - CITY AVE. There is a lane restriction.",
       "start_time": "9/8/26, 2:13 PM",
-      "anticipated_end_time": "9/8/26, 4:00 PM",
-      "last_updated": "9/8/26, 2:54 PM",
-      "formatted": "I-76 (Philadelphia County) | Disabled vehicle on I-76 westbound between.2 miles east of Exit 340A: LINCOLN DR/KELLY DR and.1 miles east of Exit 339: US 1 SOUTH - CITY AVE. Estimated Reopen: 9/8/26 - 16:00"
+      "anticipated_end_time": "9/8/26, 4:30 PM",
+      "last_updated": "9/8/26, 4:01 PM",
+      "formatted": "I-76 (Philadelphia County) | Disabled vehicle on I-76 westbound between.2 miles east of Exit 340A: LINCOLN DR/KELLY DR and.1 miles east of Exit 339: US 1 SOUTH - CITY AVE. Estimated Reopen: 9/8/26 - 16:30"
     }
   ]
 }
