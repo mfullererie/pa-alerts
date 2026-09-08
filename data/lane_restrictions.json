@@ -1,8 +1,8 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T07:58:22.028Z",
+  "fetched_at": "2026-09-08T08:03:51.353Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 2,
+  "count": 1,
   "items": [
     {
       "id": "374482",
@@ -18,21 +18,6 @@
       "anticipated_end_time": "9/8/26, 4:45 AM",
       "last_updated": "9/8/26, 3:57 AM",
       "formatted": "I-95 (Philadelphia County) | Disabled vehicle on I-95 southbound at Exit 32: ACADEMY ROAD/LINDEN AVE. Estimated Reopen: 9/8/26 - 04:45"
-    },
-    {
-      "id": "374481",
-      "eventId": "374481",
-      "type": "Incident - Major Route",
-      "roadway": "I-99",
-      "state": "Pennsylvania",
-      "county": "Blair",
-      "route": "I-99",
-      "direction": "NORTH",
-      "description": "CRASH on I-99 Northbound between MM 49.5 and MM 50.5. Right Lane (of 2 Lanes) Blocked.",
-      "start_time": "9/8/26, 3:28 AM",
-      "anticipated_end_time": "9/8/26, 4:45 AM",
-      "last_updated": "9/8/26, 3:30 AM",
-      "formatted": "I-99 (Blair County) | CRASH on I-99 Northbound between MM 49.5 and MM 50.5. Right Lane Blocked. Estimated Reopen: 9/8/26 - 04:45"
     }
   ]
 }
