@@ -1,9 +1,24 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T12:28:22.010Z",
+  "fetched_at": "2026-09-08T12:33:16.047Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "count": 2,
+  "count": 3,
   "items": [
+    {
+      "id": "374681",
+      "eventId": "374681",
+      "type": "Incident - Major Route",
+      "roadway": "US - 202",
+      "state": "Pennsylvania",
+      "county": "Chester",
+      "route": "US-202",
+      "direction": "NORTH",
+      "description": "Multi vehicle crash on US 202 northbound between 1 miles NORTH of Exit: US 30 - FRAZER and Exit: PA 401 - FRAZER. There is a lane restriction.",
+      "start_time": "9/8/26, 8:28 AM",
+      "anticipated_end_time": "9/8/26, 9:57 AM",
+      "last_updated": "9/8/26, 8:30 AM",
+      "formatted": "US-202 (Chester County) | Multi vehicle crash on US 202 northbound between 1 miles NORTH of Exit: US 30 - FRAZER and Exit: PA 401 - FRAZER. Estimated Reopen: 9/8/26 - 09:57"
+    },
     {
       "id": "374664",
       "eventId": "374664",
