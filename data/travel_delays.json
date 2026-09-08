@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T11:08:34.724Z",
+  "fetched_at": "2026-09-08T11:13:52.092Z",
   "headers": [
     "",
     "Type",
@@ -15,17 +15,17 @@
   ],
   "rows": [
     {
-      "eventId": "374514",
+      "eventId": null,
       "cells": [
         "Row Details",
-        "Incident - Major Route",
-        "I-83",
+        "Incident - Other Route",
+        "PA-662",
         "Pennsylvania",
-        "Dauphin",
-        "DISABLED VEHICLE on I-83 Northbound At MM 44. Right Shoulder Blocked.",
-        "9/8/26, 6:35 AM",
-        "9/8/26, 7:17 AM",
-        "9/8/26, 7:07 AM",
+        "Berks",
+        "CRASH (Multi-Vehicle) on PA-662 BOTH DIRECTIONS At PRICETOWN RD. All Lanes Disrupted, Left Shoulder Blocked, Right Shoulder Blocked.",
+        "9/8/26, 6:17 AM",
+        "9/8/26, 8:00 AM",
+        "9/8/26, 7:11 AM",
         "View on map"
       ],
       "links": [
@@ -38,10 +38,126 @@
         "",
         "",
         "",
-        "https://www.511pa.com/map#MajorRouteIncident-374514"
+        "https://www.511pa.com/map#OtherRouteIncident-374506"
       ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-83</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>DISABLED VEHICLE on I-83 Northbound At MM 44. Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:35 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:17 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:07 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374514\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-83\tPennsylvania\tDauphin\tDISABLED VEHICLE on I-83 Northbound At MM 44. Right Shoulder Blocked.\t9/8/26, 6:35 AM\t9/8/26, 7:17 AM\t9/8/26, 7:07 AM\tView on map"
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-662</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Berks</td><td><span class=\"colHeader\">Description</span>CRASH (Multi-Vehicle) on PA-662 BOTH DIRECTIONS At PRICETOWN RD. All Lanes Disrupted, Left Shoulder Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:17 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:11 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-374506\">View on map</a></td>",
+      "text": "Incident - Other Route\tPA-662\tPennsylvania\tBerks\tCRASH (Multi-Vehicle) on PA-662 BOTH DIRECTIONS At PRICETOWN RD. All Lanes Disrupted, Left Shoulder Blocked, Right Shoulder Blocked.\t9/8/26, 6:17 AM\t9/8/26, 8:00 AM\t9/8/26, 7:11 AM\tView on map"
+    },
+    {
+      "eventId": "374547",
+      "cells": [
+        "Row Details",
+        "Closure - Other Route",
+        "(2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD",
+        "Pennsylvania",
+        "Carbon",
+        "ROADWORK on (2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD BOTH DIRECTIONS between HAHNS DAIRY RD and INTERCHANGE RD. Closed.",
+        "9/8/26, 7:08 AM",
+        "9/8/26, 5:00 PM",
+        "9/8/26, 7:09 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#OtherRouteClosure-374547"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Carbon</td><td><span class=\"colHeader\">Description</span>ROADWORK on (2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD BOTH DIRECTIONS between HAHNS DAIRY RD and INTERCHANGE RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:08 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:09 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374547\">View on map</a></td>",
+      "text": "Closure - Other Route\t(2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD\tPennsylvania\tCarbon\tROADWORK on (2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD BOTH DIRECTIONS between HAHNS DAIRY RD and INTERCHANGE RD. Closed.\t9/8/26, 7:08 AM\t9/8/26, 5:00 PM\t9/8/26, 7:09 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "Ramp from I-76 to PA 75",
+        "Pennsylvania",
+        "Franklin",
+        "Roadwork on Ramp from I-76 to PA 75.",
+        "9/8/26, 7:00 AM",
+        "9/8/26, 5:00 PM",
+        "9/8/26, 7:09 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374549"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>Ramp from I-76 to PA 75</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Franklin</td><td><span class=\"colHeader\">Description</span>Roadwork on Ramp from I-76 to PA 75.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:09 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374549\">View on map</a></td>",
+      "text": "Active Roadwork\tRamp from I-76 to PA 75\tPennsylvania\tFranklin\tRoadwork on Ramp from I-76 to PA 75.\t9/8/26, 7:00 AM\t9/8/26, 5:00 PM\t9/8/26, 7:09 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "Ramp from PA 100 N to I-76",
+        "Pennsylvania",
+        "Chester",
+        "Roadwork on Ramp from PA 100 N to I-76.",
+        "9/8/26, 7:00 AM",
+        "9/8/26, 5:00 PM",
+        "9/8/26, 7:08 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374548"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>Ramp from PA 100 N to I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Roadwork on Ramp from PA 100 N to I-76.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:08 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374548\">View on map</a></td>",
+      "text": "Active Roadwork\tRamp from PA 100 N to I-76\tPennsylvania\tChester\tRoadwork on Ramp from PA 100 N to I-76.\t9/8/26, 7:00 AM\t9/8/26, 5:00 PM\t9/8/26, 7:08 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-153",
+        "Pennsylvania",
+        "Clearfield",
+        "ROADWORK on PA-153 BOTH DIRECTIONS At FIREBREAK RD. Left Shoulder Disrupted, Right Shoulder Disrupted.",
+        "9/8/26, 7:07 AM",
+        "9/8/26, 7:20 PM",
+        "9/8/26, 7:08 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374542"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-153</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-153 BOTH DIRECTIONS At FIREBREAK RD. Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:07 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:08 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374542\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-153\tPennsylvania\tClearfield\tROADWORK on PA-153 BOTH DIRECTIONS At FIREBREAK RD. Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 7:07 AM\t9/8/26, 7:20 PM\t9/8/26, 7:08 AM\tView on map"
     },
     {
       "eventId": null,
@@ -680,35 +796,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Carbon</td><td><span class=\"colHeader\">Description</span>Road work on I-476 South. The left lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 5:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:23 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374508\">View on map</a></td>",
       "text": "Active Roadwork\tI-476\tPennsylvania\tCarbon\tRoad work on I-476 South. The left lane is closed.\t9/8/26, 5:00 AM\t9/8/26, 5:00 PM\t9/8/26, 6:23 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Incident - Other Route",
-        "PA-662",
-        "Pennsylvania",
-        "Berks",
-        "CRASH (Multi-Vehicle) on PA-662 BOTH DIRECTIONS At PRICETOWN RD. All Lanes Disrupted, Left Shoulder Blocked, Right Shoulder Blocked.",
-        "9/8/26, 6:17 AM",
-        "9/8/26, 7:10 AM",
-        "9/8/26, 6:18 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteIncident-374506"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-662</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Berks</td><td><span class=\"colHeader\">Description</span>CRASH (Multi-Vehicle) on PA-662 BOTH DIRECTIONS At PRICETOWN RD. All Lanes Disrupted, Left Shoulder Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:17 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:10 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:18 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-374506\">View on map</a></td>",
-      "text": "Incident - Other Route\tPA-662\tPennsylvania\tBerks\tCRASH (Multi-Vehicle) on PA-662 BOTH DIRECTIONS At PRICETOWN RD. All Lanes Disrupted, Left Shoulder Blocked, Right Shoulder Blocked.\t9/8/26, 6:17 AM\t9/8/26, 7:10 AM\t9/8/26, 6:18 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2826,93 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(3037) TULPEHOCKEN FORGE RD / FORGE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Berks</td><td><span class=\"colHeader\">Description</span>ROADWORK on (3037) TULPEHOCKEN FORGE RD / FORGE RD BOTH DIRECTIONS between CHARMING FORGE RD and CHARMING FORGE RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>8/7/26, 2:01 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>2/2/27, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/28/26, 11:31 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373913\">View on map</a></td>",
       "text": "Closure - Other Route\t(3037) TULPEHOCKEN FORGE RD / FORGE RD\tPennsylvania\tBerks\tROADWORK on (3037) TULPEHOCKEN FORGE RD / FORGE RD BOTH DIRECTIONS between CHARMING FORGE RD and CHARMING FORGE RD. Closed.\t8/7/26, 2:01 PM\t2/2/27, 3:30 PM\t8/28/26, 11:31 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "Ramp from PA 115 to I-476",
-        "Pennsylvania",
-        "Luzerne",
-        "Roadwork on Ramp from PA 115 to I-476.",
-        "8/26/26, 6:00 AM",
-        "9/11/26, 4:00 PM",
-        "8/28/26, 2:21 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-364824"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>Ramp from PA 115 to I-476</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Luzerne</td><td><span class=\"colHeader\">Description</span>Roadwork on Ramp from PA 115 to I-476.</td><td><span class=\"colHeader\">Start Time</span>8/26/26, 6:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/11/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/28/26, 2:21 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-364824\">View on map</a></td>",
-      "text": "Active Roadwork\tRamp from PA 115 to I-476\tPennsylvania\tLuzerne\tRoadwork on Ramp from PA 115 to I-476.\t8/26/26, 6:00 AM\t9/11/26, 4:00 PM\t8/28/26, 2:21 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "Ramp from I-476 to PA 115",
-        "Pennsylvania",
-        "Luzerne",
-        "Roadwork on Ramp from I-476 to PA 115.",
-        "8/26/26, 6:00 AM",
-        "9/11/26, 4:00 PM",
-        "8/28/26, 2:20 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-364823"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>Ramp from I-476 to PA 115</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Luzerne</td><td><span class=\"colHeader\">Description</span>Roadwork on Ramp from I-476 to PA 115.</td><td><span class=\"colHeader\">Start Time</span>8/26/26, 6:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/11/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/28/26, 2:20 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-364823\">View on map</a></td>",
-      "text": "Active Roadwork\tRamp from I-476 to PA 115\tPennsylvania\tLuzerne\tRoadwork on Ramp from I-476 to PA 115.\t8/26/26, 6:00 AM\t9/11/26, 4:00 PM\t8/28/26, 2:20 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "BAYFRONT PY / BAYFRONT PARKWAY",
-        "Pennsylvania",
-        "Erie",
-        "Roadwork on BAYFRONT PY / BAYFRONT PARKWAY both directions between SASSAFRAS ET and ORE DOCK RD. There is a lane restriction.",
-        "8/1/24, 3:50 PM",
-        "10/7/26, 12:00 PM",
-        "8/27/26, 2:37 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-252097"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>BAYFRONT PY / BAYFRONT PARKWAY</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Erie</td><td><span class=\"colHeader\">Description</span>Roadwork on BAYFRONT PY / BAYFRONT PARKWAY both directions between SASSAFRAS ET and ORE DOCK RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>8/1/24, 3:50 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/7/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/27/26, 2:37 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-252097\">View on map</a></td>",
-      "text": "Active Roadwork\tBAYFRONT PY / BAYFRONT PARKWAY\tPennsylvania\tErie\tRoadwork on BAYFRONT PY / BAYFRONT PARKWAY both directions between SASSAFRAS ET and ORE DOCK RD. There is a lane restriction.\t8/1/24, 3:50 PM\t10/7/26, 12:00 PM\t8/27/26, 2:37 PM\tView on map"
     }
   ]
 }
