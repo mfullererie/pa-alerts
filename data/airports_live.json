@@ -1,99 +1,9 @@
 {
-  "generatedAt": "2026-09-08T11:41:49.949Z",
+  "generatedAt": "2026-09-08T18:57:11.328Z",
   "faaFlow": {
-    "updatedAt": "2026-09-08T11:41:49.823Z",
+    "updatedAt": "2026-09-08T18:57:11.226Z",
     "source": "https://www.fly.faa.gov/adv/adv_spt",
     "terminal": [
-      {
-        "time": "—",
-        "text": "AFTER",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "Terminal Planned",
-        "airports": []
-      },
-      {
-        "time": "1200",
-        "text": "MSP GROUND STOP POSSIBLE",
-        "code": "GS",
-        "label": "Ground stop possible",
-        "level": "yellow",
-        "section": "Terminal Planned",
-        "airports": []
-      },
-      {
-        "time": "—",
-        "text": "AFTER",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "Terminal Planned",
-        "airports": []
-      },
-      {
-        "time": "1200",
-        "text": "MIA GROUND STOP/DELAY PROGRAM POSSIBLE",
-        "code": "GS",
-        "label": "Ground stop possible",
-        "level": "yellow",
-        "section": "Terminal Planned",
-        "airports": []
-      },
-      {
-        "time": "—",
-        "text": "AFTER",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "Terminal Planned",
-        "airports": []
-      },
-      {
-        "time": "1500",
-        "text": "SEA GROUND STOP POSSIBLE",
-        "code": "GS",
-        "label": "Ground stop possible",
-        "level": "yellow",
-        "section": "Terminal Planned",
-        "airports": []
-      },
-      {
-        "time": "—",
-        "text": "AFTER",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "Terminal Planned",
-        "airports": []
-      },
-      {
-        "time": "1600",
-        "text": "SAN GROUND STOP/DELAY PROGRAM POSSIBLE",
-        "code": "GS",
-        "label": "Ground stop possible",
-        "level": "yellow",
-        "section": "Terminal Planned",
-        "airports": []
-      },
-      {
-        "time": "—",
-        "text": "AFTER",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "Terminal Planned",
-        "airports": []
-      },
-      {
-        "time": "1800",
-        "text": "BOS GROUND DELAY PROGRAM PROBABLE",
-        "code": "GDP",
-        "label": "Ground delay possible",
-        "level": "orange",
-        "section": "Terminal Planned",
-        "airports": []
-      },
       {
         "time": "—",
         "text": "AFTER",
@@ -147,6 +57,24 @@
         "level": "yellow",
         "section": "Terminal Planned",
         "airports": []
+      },
+      {
+        "time": "—",
+        "text": "AFTER",
+        "code": "FLOW",
+        "label": "FAA flow impact",
+        "level": "yellow",
+        "section": "Terminal Planned",
+        "airports": []
+      },
+      {
+        "time": "2200",
+        "text": "DEN GROUND STOP/DELAY PROGRAM POSSIBLE",
+        "code": "GS",
+        "label": "Ground stop possible",
+        "level": "yellow",
+        "section": "Terminal Planned",
+        "airports": []
       }
     ],
     "enroute": [
@@ -160,152 +88,8 @@
         "airports": []
       },
       {
-        "time": "1100",
-        "text": "LAKE ERIE EAST/WEST PARTIAL POSSIBLE",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "—",
-        "text": "AFTER",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "1200",
-        "text": "MSP CDRS/SWAP/ARRIVAL ROUTES POSSIBLE",
-        "code": "ROUTE",
-        "label": "Route impact possible",
-        "level": "blue",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "—",
-        "text": "AFTER",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "1200",
-        "text": "AR/ATLANTIC Y-ROUTE CLOSURES PROBABLE",
-        "code": "CLOSURE",
-        "label": "Closure possible",
-        "level": "orange",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "—",
-        "text": "AFTER",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "1300",
-        "text": "OCEANIC ROUTE CLOSURES POSSIBLE",
-        "code": "CLOSURE",
-        "label": "Closure possible",
-        "level": "yellow",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "—",
-        "text": "AFTER",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "1300",
-        "text": "GULF ROUTE CLOSURES PROBABLE",
-        "code": "CLOSURE",
-        "label": "Closure possible",
-        "level": "orange",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "—",
-        "text": "AFTER",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "1500",
-        "text": "ORD/MDW CDRS/SWAP/ARRIVAL ROUTES POSSIBLE",
-        "code": "ROUTE",
-        "label": "Route impact possible",
-        "level": "blue",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "—",
-        "text": "AFTER",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "1600",
-        "text": "REGIONAL ROUTES/CAPPING/TUNNELING POSSIBLE",
-        "code": "ROUTE",
-        "label": "Route impact possible",
-        "level": "blue",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "—",
-        "text": "AFTER",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "1700",
-        "text": "MCO/TPA CDRS/SWAP/ESCAPE ROUTES POSSIBLE",
-        "code": "ROUTE",
-        "label": "Route impact possible",
-        "level": "blue",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "—",
-        "text": "AFTER",
-        "code": "FLOW",
-        "label": "FAA flow impact",
-        "level": "yellow",
-        "section": "En Route Planned",
-        "airports": []
-      },
-      {
-        "time": "1700",
-        "text": "MIA/FLL CDRS/SWAP POSSIBLE",
+        "time": "1800",
+        "text": "IAH/HOU CDRS/SWAP/ARRIVAL ROUTES POSSIBLE",
         "code": "ROUTE",
         "label": "Route impact possible",
         "level": "blue",
@@ -323,10 +107,10 @@
       },
       {
         "time": "1800",
-        "text": "IAH/HOU CDRS/SWAP/ARRIVAL ROUTES POSSIBLE",
-        "code": "ROUTE",
-        "label": "Route impact possible",
-        "level": "blue",
+        "text": "LAKE ERIE EAST/WEST PARTIAL POSSIBLE",
+        "code": "FLOW",
+        "label": "FAA flow impact",
+        "level": "yellow",
         "section": "En Route Planned",
         "airports": []
       },
@@ -376,8 +160,170 @@
         "airports": []
       },
       {
+        "time": "2000",
+        "text": "EGLIN WATER TEST ROUTING EXPECTED",
+        "code": "FLOW",
+        "label": "FAA flow impact",
+        "level": "yellow",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "—",
+        "text": "AFTER",
+        "code": "FLOW",
+        "label": "FAA flow impact",
+        "level": "yellow",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
         "time": "2200",
-        "text": "DEN CDRS/SWAP/ARRIVAL ROUTES POSSIBLE CDRS/SWAP/CAPPING/TUNNELING/HOTLINE/DIVERSION RECOVERY: NONE RUNWAY/EQUIPMENT/POSSIBLE SYSTEM IMPACT REPORTS(SIRs): DEN - TWY EE AND M CLOSED UNTIL 09/09/26",
+        "text": "DEN CDRS/SWAP/ARRIVAL ROUTES POSSIBLE",
+        "code": "ROUTE",
+        "label": "Route impact possible",
+        "level": "blue",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "—",
+        "text": "UNTIL",
+        "code": "FLOW",
+        "label": "FAA flow impact",
+        "level": "yellow",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "2300",
+        "text": "ORD/MDW CDRS/SWAP/ARRIVAL ROUTES POSSIBLE",
+        "code": "ROUTE",
+        "label": "Route impact possible",
+        "level": "blue",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "—",
+        "text": "UNTIL",
+        "code": "FLOW",
+        "label": "FAA flow impact",
+        "level": "yellow",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "2300",
+        "text": "REGIONAL ROUTES/CAPPING/TUNNELING POSSIBLE",
+        "code": "ROUTE",
+        "label": "Route impact possible",
+        "level": "blue",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "—",
+        "text": "UNTIL",
+        "code": "FLOW",
+        "label": "FAA flow impact",
+        "level": "yellow",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "2300",
+        "text": "MCO/TPA CDRS/SWAP/ESCAPE ROUTES POSSIBLE",
+        "code": "ROUTE",
+        "label": "Route impact possible",
+        "level": "blue",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "—",
+        "text": "UNTIL",
+        "code": "FLOW",
+        "label": "FAA flow impact",
+        "level": "yellow",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "2300",
+        "text": "AR/ATLANTIC Y-ROUTE CLOSURES PROBABLE CDRS/SWAP/CAPPING/TUNNELING/HOTLINE/DIVERSION RECOVERY:",
+        "code": "CLOSURE",
+        "label": "Closure possible",
+        "level": "orange",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "—",
+        "text": "UNTIL",
+        "code": "FLOW",
+        "label": "FAA flow impact",
+        "level": "yellow",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "1900",
+        "text": "ZMP SWAP STATEMENT",
+        "code": "ROUTE",
+        "label": "Route impact possible",
+        "level": "blue",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "—",
+        "text": "UNTIL",
+        "code": "FLOW",
+        "label": "FAA flow impact",
+        "level": "yellow",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "2300",
+        "text": "ZMA SWAP STATEMENT",
+        "code": "ROUTE",
+        "label": "Route impact possible",
+        "level": "blue",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "—",
+        "text": "UNTIL",
+        "code": "FLOW",
+        "label": "FAA flow impact",
+        "level": "yellow",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "2300",
+        "text": "ZMA CDRS",
+        "code": "ROUTE",
+        "label": "Route impact possible",
+        "level": "blue",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "—",
+        "text": "UNTIL",
+        "code": "FLOW",
+        "label": "FAA flow impact",
+        "level": "yellow",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "2300",
+        "text": "ZHU SWAP STATEMENT RUNWAY/EQUIPMENT/POSSIBLE SYSTEM IMPACT REPORTS(SIRs): DEN - TWY EE AND M CLOSED UNTIL 09/09/26",
         "code": "CLOSURE",
         "label": "Closure possible",
         "level": "yellow",
@@ -386,7 +332,16 @@
       },
       {
         "time": "0000",
-        "text": "10/12/26",
+        "text": "11/15/26",
+        "code": "FLOW",
+        "label": "FAA flow impact",
+        "level": "yellow",
+        "section": "En Route Planned",
+        "airports": []
+      },
+      {
+        "time": "—",
+        "text": "UNTIL",
         "code": "FLOW",
         "label": "FAA flow impact",
         "level": "yellow",
@@ -395,7 +350,7 @@
       },
       {
         "time": "0000",
-        "text": "11/15/26",
+        "text": "P93 AIRSPACE FLOW PROGRAM PROBABLE PLANNED LAUNCH/REENTRY: SPACEX R2, VANDENBERG SFB, CA PRIMARY: 09/10/26",
         "code": "FLOW",
         "label": "FAA flow impact",
         "level": "yellow",
@@ -432,168 +387,168 @@
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KPIT 081051Z 00000KT 10SM FEW070 BKN220 15/14 A3023 RMK AO2 SLP239 T01500139",
-      "metarObsTime": 1788864660,
+      "metarRaw": "METAR KPIT 081851Z 00000KT 10SM FEW045 SCT150 BKN250 27/17 A3023 RMK AO2 SLP237 T02720167",
+      "metarObsTime": 1788893460,
       "faaFlow": null
     },
     "KAGC": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KAGC 081053Z 00000KT 9SM CLR 15/14 A3023 RMK AO2 SLP234 T01500139",
-      "metarObsTime": 1788864780,
+      "metarRaw": "METAR KAGC 081853Z 10004KT 10SM BKN043 BKN055 27/17 A3023 RMK AO2 SLP233 T02670172",
+      "metarObsTime": 1788893580,
       "faaFlow": null
     },
     "KLBE": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KLBE 081047Z 00000KT 10SM CLR 14/14 A3026",
-      "metarObsTime": 1788864420,
+      "metarRaw": "METAR KLBE 081850Z 23004KT 9SM FEW043 SCT050 28/18 A3025",
+      "metarObsTime": 1788893400,
       "faaFlow": null
     },
     "KJST": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KJST 081054Z AUTO 20004KT 10SM CLR 14/11 A3027 RMK AO2 SLP245 T01390111",
-      "metarObsTime": 1788864840,
+      "metarRaw": "METAR KJST 081754Z AUTO 10SM FEW038 24/14 A3030 RMK AO2 SLP249 T02390144 10239 20150 58008",
+      "metarObsTime": 1788890040,
       "faaFlow": null
     },
     "KERI": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KERI 080951Z AUTO 17007KT 10SM CLR 16/11 A3022",
-      "metarObsTime": 1788861060,
+      "metarRaw": "METAR KERI 081551Z AUTO 04003KT 10SM CLR 24/15 A3025",
+      "metarObsTime": 1788882660,
       "faaFlow": null
     },
     "KDUJ": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KDUJ 081053Z AUTO 06004KT 10SM CLR 12/11 A3026 RMK AO2 SLP242 T01170106",
-      "metarObsTime": 1788864780,
+      "metarRaw": "METAR KDUJ 081853Z AUTO 28007KT 10SM CLR 24/14 A3026 RMK AO2 SLP240 T02440139",
+      "metarObsTime": 1788893580,
       "faaFlow": null
     },
     "KBFD": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KBFD 081053Z AUTO 34003KT 10SM CLR 08/08 A3029 RMK AO2 SLP254 T00830078",
-      "metarObsTime": 1788864780,
+      "metarRaw": "METAR KBFD 081853Z AUTO VRB04KT 10SM CLR 24/11 A3027 RMK AO2 SLP244 T02440106",
+      "metarObsTime": 1788893580,
       "faaFlow": null
     },
     "KBTP": {
       "status": "OK",
       "delay": "—",
-      "metarCat": "—",
-      "metarRaw": "METAR KBTP 070256Z AUTO 10SM 16/16 RMK AO2 SLPNO 6//// T01560156 $",
-      "metarObsTime": 1788749760,
+      "metarCat": "VFR",
+      "metarRaw": "METAR KBTP 081756Z AUTO VRB04KT 8SM CLR 26/16 A3025 RMK AO2 SLPNO 6//// T02560156 10261 20150 58015",
+      "metarObsTime": 1788890160,
       "faaFlow": null
     },
     "KFKL": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "SPECI KFKL 081127Z AUTO 00000KT 10SM SCT001 11/11 A3027 RMK AO2",
-      "metarObsTime": 1788866820,
+      "metarRaw": "METAR KFKL 081756Z AUTO VRB03KT 10SM CLR 26/16 A3027 RMK AO2 SLP245 T02560156 10256 20122 56014",
+      "metarObsTime": 1788890160,
       "faaFlow": null
     },
     "KIDI": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KIDI 081135Z AUTO 09004KT 8SM CLR 12/12 A3026 RMK A01",
-      "metarObsTime": 1788867300,
+      "metarRaw": "METAR KIDI 081855Z AUTO 00000KT 10SM FEW044 27/17 A3026 RMK A01",
+      "metarObsTime": 1788893700,
       "faaFlow": null
     },
     "KMDT": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KMDT 081056Z 00000KT 10SM BKN250 14/13 A3025 RMK AO2 SLP244 T01390128",
-      "metarObsTime": 1788864960,
+      "metarRaw": "METAR KMDT 081756Z 00000KT 10SM SCT045 27/15 A3022 RMK AO2 SLP231 T02720150 10272 20161 58016",
+      "metarObsTime": 1788890160,
       "faaFlow": null
     },
     "KCXY": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KCXY 081056Z 23004KT 10SM CLR 12/11 A3026 RMK AO2 SLP247 T01220111",
-      "metarObsTime": 1788864960,
+      "metarRaw": "METAR KCXY 081756Z 07005KT 10SM CLR 27/15 A3022 RMK AO2 SLP232 T02670150 10267 20144 58017",
+      "metarObsTime": 1788890160,
       "faaFlow": null
     },
     "KMUI": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KMUI 081058Z 00000KT 10SM SCT250 13/11 A3024 RMK WND DATA ESTMD ALSTG ESTMD SLPNO",
-      "metarObsTime": 1788865080,
+      "metarRaw": "METAR KMUI 081755Z 23006KT 10SM SCT050 28/15 A3021 RMK AO2A SLPNO T02760149 10277 20215 58016",
+      "metarObsTime": 1788890100,
       "faaFlow": null
     },
     "KUNV": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KUNV 081053Z 00000KT 10SM CLR 11/11 A3028",
-      "metarObsTime": 1788864780,
+      "metarRaw": "METAR KUNV 081853Z 15005KT 10SM SCT043 25/17 A3025",
+      "metarObsTime": 1788893580,
       "faaFlow": null
     },
     "KAOO": {
       "status": "OK",
       "delay": "—",
-      "metarCat": "MVFR",
-      "metarRaw": "SPECI KAOO 081130Z AUTO 00000KT 3SM BR FEW001 12/12 A3028 RMK AO2 T01170117",
-      "metarObsTime": 1788867000,
+      "metarCat": "VFR",
+      "metarRaw": "METAR KAOO 081853Z AUTO 00000KT 10SM CLR 27/16 A3026 RMK AO2 SLP240 T02670161",
+      "metarObsTime": 1788893580,
       "faaFlow": null
     },
     "KLNS": {
       "status": "OK",
       "delay": "—",
-      "metarCat": "MVFR",
-      "metarRaw": "METAR KLNS 081053Z 00000KT 5SM BR CLR 12/12 A3026 RMK AO2 SLP246 T01220117 $",
-      "metarObsTime": 1788864780,
+      "metarCat": "VFR",
+      "metarRaw": "METAR KLNS 081853Z 22005KT 10SM CLR 27/16 A3023 RMK AO2 SLP235 T02670156",
+      "metarObsTime": 1788893580,
       "faaFlow": null
     },
     "KIPT": {
       "status": "OK",
       "delay": "—",
-      "metarCat": "LIFR",
-      "metarRaw": "METAR KIPT 081054Z 31004KT 10SM OVC004 12/12 A3027 RMK AO2 SLP250 T01220117 $",
-      "metarObsTime": 1788864840,
+      "metarCat": "VFR",
+      "metarRaw": "METAR KIPT 081754Z VRB03KT 10SM CLR 27/13 A3022 RMK AO2 SLP231 T02670133 10267 20128 58017 $",
+      "metarObsTime": 1788890040,
       "faaFlow": null
     },
     "KPHL": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KPHL 081054Z 00000KT 10SM BKN280 18/13 A3025 RMK AO2 SLP243 T01780128 $",
-      "metarObsTime": 1788864840,
+      "metarRaw": "METAR KPHL 081754Z 35005KT 10SM FEW060 SCT260 28/11 A3022 RMK AO2 SLP234 T02830106 10289 20194 58012 $",
+      "metarObsTime": 1788890040,
       "faaFlow": null
     },
     "KABE": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KABE 081051Z AUTO 00000KT 10SM CLR 12/11 A3026 RMK AO2 SLP245 T01170111 $",
-      "metarObsTime": 1788864660,
+      "metarRaw": "METAR KABE 081851Z 00000KT 10SM CLR 27/14 A3022 RMK AO2 SLP231 T02670139 $",
+      "metarObsTime": 1788893460,
       "faaFlow": null
     },
     "KAVP": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KAVP 081054Z 10004KT 10SM CLR 11/10 A3028 RMK AO2 SLP250 T01110100",
-      "metarObsTime": 1788864840,
+      "metarRaw": "METAR KAVP 081754Z 31006KT 10SM CLR 25/13 A3025 RMK AO2 SLP239 T02500128 10250 20128 58010",
+      "metarObsTime": 1788890040,
       "faaFlow": null
     },
     "KHZL": {
       "status": "OK",
       "delay": "—",
       "metarCat": "VFR",
-      "metarRaw": "METAR KHZL 081135Z AUTO 00000KT 10SM CLR 10/09 A3033 RMK AO2",
-      "metarObsTime": 1788867300,
+      "metarRaw": "METAR KHZL 081835Z AUTO 00000KT 10SM CLR 24/12 A3031 RMK AO2",
+      "metarObsTime": 1788892500,
       "faaFlow": null
     }
   }
