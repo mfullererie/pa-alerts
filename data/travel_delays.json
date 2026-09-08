@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T17:48:20.615Z",
+  "fetched_at": "2026-09-08T17:53:41.901Z",
   "headers": [
     "",
     "Type",
@@ -19,13 +19,13 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "I-76",
+        "I-80",
         "Pennsylvania",
-        "Franklin",
-        "Road work on I-76 West. The left lane is closed.",
-        "9/8/26, 8:30 AM",
-        "9/8/26, 1:30 PM",
-        "9/8/26, 1:47 PM",
+        "Centre",
+        "Roadwork on I-80 eastbound between 1.6 miles west of Exit 158: MILESBURG and 1.3 miles west of Exit 161: US 220 SOUTH/PA 26 - BELLEFONTE. There is a lane restriction.",
+        "7/20/26, 9:17 AM",
+        "9/9/26, 5:00 PM",
+        "9/8/26, 1:52 PM",
         "View on map"
       ],
       "links": [
@@ -38,10 +38,68 @@
         "",
         "",
         "",
-        "https://www.511pa.com/map#ActiveRoadwork-374668"
+        "https://www.511pa.com/map#ActiveRoadwork-317089"
       ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Franklin</td><td><span class=\"colHeader\">Description</span>Road work on I-76 West. The left lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:30 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 1:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:47 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374668\">View on map</a></td>",
-      "text": "Active Roadwork\tI-76\tPennsylvania\tFranklin\tRoad work on I-76 West. The left lane is closed.\t9/8/26, 8:30 AM\t9/8/26, 1:30 PM\t9/8/26, 1:47 PM\tView on map"
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Centre</td><td><span class=\"colHeader\">Description</span>Roadwork on I-80 eastbound between 1.6 miles west of Exit 158: MILESBURG and 1.3 miles west of Exit 161: US 220 SOUTH/PA 26 - BELLEFONTE.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>7/20/26, 9:17 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:52 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-317089\">View on map</a></td>",
+      "text": "Active Roadwork\tI-80\tPennsylvania\tCentre\tRoadwork on I-80 eastbound between 1.6 miles west of Exit 158: MILESBURG and 1.3 miles west of Exit 161: US 220 SOUTH/PA 26 - BELLEFONTE. There is a lane restriction.\t7/20/26, 9:17 AM\t9/9/26, 5:00 PM\t9/8/26, 1:52 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-80",
+        "Pennsylvania",
+        "Clearfield",
+        "ROADWORK on I-80 Westbound between MM 99 and MM 95. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.",
+        "9/8/26, 1:00 PM",
+        "9/8/26, 5:15 PM",
+        "9/8/26, 1:51 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374979"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Westbound between MM 99 and MM 95. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 1:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:51 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374979\">View on map</a></td>",
+      "text": "Active Roadwork\tI-80\tPennsylvania\tClearfield\tROADWORK on I-80 Westbound between MM 99 and MM 95. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.\t9/8/26, 1:00 PM\t9/8/26, 5:15 PM\t9/8/26, 1:51 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-79",
+        "Pennsylvania",
+        "Allegheny",
+        "MOVING ROADWORK on I-79 Southbound At Exit 59B I-376 WEST - AIRPORT. Right Lane (of 3 Lanes) Disrupted.",
+        "9/8/26, 8:38 AM",
+        "9/8/26, 4:00 PM",
+        "9/8/26, 1:49 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374703"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-79</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on I-79 Southbound At Exit 59B I-376 WEST - AIRPORT. Right Lane (of 3 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:38 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:49 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374703\">View on map</a></td>",
+      "text": "Active Roadwork\tI-79\tPennsylvania\tAllegheny\tMOVING ROADWORK on I-79 Southbound At Exit 59B I-376 WEST - AIRPORT. Right Lane (of 3 Lanes) Disrupted.\t9/8/26, 8:38 AM\t9/8/26, 4:00 PM\t9/8/26, 1:49 PM\tView on map"
     },
     {
       "eventId": null,
@@ -309,35 +367,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "I-80",
-        "Pennsylvania",
-        "Clearfield",
-        "ROADWORK on I-80 Westbound between MM 99 and MM 95. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.",
-        "9/8/26, 1:00 PM",
-        "9/8/26, 5:15 PM",
-        "9/8/26, 1:26 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374979"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Westbound between MM 99 and MM 95. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 1:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:26 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374979\">View on map</a></td>",
-      "text": "Active Roadwork\tI-80\tPennsylvania\tClearfield\tROADWORK on I-80 Westbound between MM 99 and MM 95. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.\t9/8/26, 1:00 PM\t9/8/26, 5:15 PM\t9/8/26, 1:26 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "PA-307",
         "Pennsylvania",
         "Lackawanna",
@@ -506,35 +535,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Carbon</td><td><span class=\"colHeader\">Description</span>Road work on I-476 South. The left lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 5:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/10/26, 5:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:10 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374985\">View on map</a></td>",
       "text": "Active Roadwork\tI-476\tPennsylvania\tCarbon\tRoad work on I-476 South. The left lane is closed.\t9/8/26, 5:00 AM\t9/10/26, 5:00 AM\t9/8/26, 1:10 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-83",
-        "Pennsylvania",
-        "York",
-        "MOVING ROADWORK on I-83 Southbound At RAMP FROM PA 851 AT EXIT 4 - SHREWSBURY. Left Lane (of 2 Lanes) Disrupted, Left Shoulder Disrupted.",
-        "9/8/26, 1:02 PM",
-        "9/8/26, 2:50 PM",
-        "9/8/26, 1:06 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374983"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-83</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>York</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on I-83 Southbound At RAMP FROM PA 851 AT EXIT 4 - SHREWSBURY. Left Lane (of 2 Lanes) Disrupted, Left Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 1:02 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:50 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 1:06 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374983\">View on map</a></td>",
-      "text": "Active Roadwork\tI-83\tPennsylvania\tYork\tMOVING ROADWORK on I-83 Southbound At RAMP FROM PA 851 AT EXIT 4 - SHREWSBURY. Left Lane (of 2 Lanes) Disrupted, Left Shoulder Disrupted.\t9/8/26, 1:02 PM\t9/8/26, 2:50 PM\t9/8/26, 1:06 PM\tView on map"
     },
     {
       "eventId": null,
@@ -1929,35 +1929,6 @@
       "text": "Active Roadwork\tPA - 420\tPennsylvania\tDelaware\tUtility work on PA 420 both directions at FRANKLIN AV. There is a traffic disruption.\t9/8/26, 9:51 AM\t9/8/26, 4:00 PM\t9/8/26, 10:01 AM\tView on map"
     },
     {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-79",
-        "Pennsylvania",
-        "Allegheny",
-        "MOVING ROADWORK on I-79 Northbound At SR 0079 SH. Right Lane (of 2 Lanes) Disrupted.",
-        "9/8/26, 10:00 AM",
-        "9/8/26, 4:00 PM",
-        "9/8/26, 10:01 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374880"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-79</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on I-79 Northbound At SR 0079 SH. Right Lane (of 2 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 10:01 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374880\">View on map</a></td>",
-      "text": "Active Roadwork\tI-79\tPennsylvania\tAllegheny\tMOVING ROADWORK on I-79 Northbound At SR 0079 SH. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 10:00 AM\t9/8/26, 4:00 PM\t9/8/26, 10:01 AM\tView on map"
-    },
-    {
       "eventId": "374869",
       "cells": [
         "Row Details",
@@ -2913,6 +2884,35 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-910</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>UTILITY WORK on PA-910 BOTH DIRECTIONS At OAK RD. All Lanes Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:10 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:12 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374792\">View on map</a></td>",
       "text": "Active Roadwork\tPA-910\tPennsylvania\tAllegheny\tUTILITY WORK on PA-910 BOTH DIRECTIONS At OAK RD. All Lanes Disrupted.\t9/8/26, 9:10 AM\t9/8/26, 3:30 PM\t9/8/26, 9:12 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "US-11",
+        "Pennsylvania",
+        "Perry",
+        "MOVING ROADWORK on US-11 BOTH DIRECTIONS At FIREHOUSE RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.",
+        "9/8/26, 9:11 AM",
+        "9/8/26, 3:25 PM",
+        "9/8/26, 9:11 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374793"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-11</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Perry</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on US-11 BOTH DIRECTIONS At FIREHOUSE RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:11 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:25 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:11 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374793\">View on map</a></td>",
+      "text": "Active Roadwork\tUS-11\tPennsylvania\tPerry\tMOVING ROADWORK on US-11 BOTH DIRECTIONS At FIREHOUSE RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 9:11 AM\t9/8/26, 3:25 PM\t9/8/26, 9:11 AM\tView on map"
     }
   ]
 }
