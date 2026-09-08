@@ -1,23 +1,23 @@
 {
   "name": "lane_restrictions",
-  "fetched_at": "2026-09-08T00:58:10.647Z",
+  "fetched_at": "2026-09-08T01:03:39.845Z",
   "source_url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
   "count": 2,
   "items": [
     {
-      "id": "374432",
-      "eventId": "374432",
+      "id": "374440",
+      "eventId": "374440",
       "type": "Incident - Major Route",
-      "roadway": "I - 676",
+      "roadway": "I-76",
       "state": "Pennsylvania",
       "county": "Philadelphia",
-      "route": "I-676",
-      "direction": "WEST",
-      "description": "Multi vehicle crash on I-676 westbound at Exit: BEN FRANKLIN PARKWAY. There is a lane restriction.",
-      "start_time": "9/7/26, 7:54 PM",
-      "anticipated_end_time": "9/7/26, 9:30 PM",
-      "last_updated": "9/7/26, 8:48 PM",
-      "formatted": "I-676 (Philadelphia County) | Multi vehicle crash on I-676 westbound at Exit: BEN FRANKLIN PARKWAY. Estimated Reopen: 9/7/26 - 21:30"
+      "route": "I-76",
+      "direction": "EAST",
+      "description": "Disabled vehicle on I-76 eastbound at Exit 344: I-676 EAST CENTRAL PHILADELPHIA. There is a lane restriction.",
+      "start_time": "9/7/26, 9:00 PM",
+      "anticipated_end_time": "9/7/26, 10:00 PM",
+      "last_updated": "9/7/26, 9:02 PM",
+      "formatted": "I-76 (Philadelphia County) | Disabled vehicle on I-76 eastbound at Exit 344: I-676 EAST CENTRAL PHILADELPHIA. Estimated Reopen: 9/7/26 - 22:00"
     },
     {
       "id": "374424",
@@ -28,11 +28,11 @@
       "county": "Dauphin",
       "route": "I-81",
       "direction": "SOUTH",
-      "description": "CRASH on I-81 Southbound At Exit 65 US 11/15 NORTH AND SOUTH - MARYSVILLE/ENOL. Right Lane (of 3 Lanes) Blocked, Right Shoulder Blocked.",
+      "description": "CRASH on I-81 Southbound At Exit 65 US 11/15 NORTH AND SOUTH - MARYSVILLE/ENOL. Right Lane (of 3 Lanes) Blocked.",
       "start_time": "9/7/26, 7:28 PM",
       "anticipated_end_time": "9/7/26, 9:30 PM",
-      "last_updated": "9/7/26, 7:58 PM",
-      "formatted": "I-81 (Dauphin County) | CRASH on I-81 Southbound At Exit 65 US 11/15 NORTH AND SOUTH - MARYSVILLE/ENOL. Right Lane Blocked, Right Shoulder Blocked. Estimated Reopen: 9/7/26 - 21:30"
+      "last_updated": "9/7/26, 8:58 PM",
+      "formatted": "I-81 (Dauphin County) | CRASH on I-81 Southbound At Exit 65 US 11/15 NORTH AND SOUTH - MARYSVILLE/ENOL. Right Lane Blocked. Estimated Reopen: 9/7/26 - 21:30"
     }
   ]
 }

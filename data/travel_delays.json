@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T00:58:10.647Z",
+  "fetched_at": "2026-09-08T01:03:39.845Z",
   "headers": [
     "",
     "Type",
@@ -15,6 +15,122 @@
   ],
   "rows": [
     {
+      "eventId": "374440",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-76",
+        "Pennsylvania",
+        "Philadelphia",
+        "Disabled vehicle on I-76 eastbound at Exit 344: I-676 EAST CENTRAL PHILADELPHIA. There is a lane restriction.",
+        "9/7/26, 9:00 PM",
+        "9/7/26, 10:00 PM",
+        "9/7/26, 9:02 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374440"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-76 eastbound at Exit 344: I-676 EAST CENTRAL PHILADELPHIA.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 9:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 10:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 9:02 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374440\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-76\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-76 eastbound at Exit 344: I-676 EAST CENTRAL PHILADELPHIA. There is a lane restriction.\t9/7/26, 9:00 PM\t9/7/26, 10:00 PM\t9/7/26, 9:02 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-33",
+        "Pennsylvania",
+        "Northampton",
+        "ROADWORK on PA-33 Southbound between Exit PA 191 - STOCKERTOWN/NAZARETH and Exit TATAMY. Left Lane (of 2 Lanes) Blocked.",
+        "9/7/26, 7:24 PM",
+        "9/8/26, 6:30 AM",
+        "9/7/26, 8:58 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374422"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-33</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-33 Southbound between Exit PA 191 - STOCKERTOWN/NAZARETH and Exit TATAMY. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 7:24 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 6:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 8:58 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374422\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-33\tPennsylvania\tNorthampton\tROADWORK on PA-33 Southbound between Exit PA 191 - STOCKERTOWN/NAZARETH and Exit TATAMY. Left Lane (of 2 Lanes) Blocked.\t9/7/26, 7:24 PM\t9/8/26, 6:30 AM\t9/7/26, 8:58 PM\tView on map"
+    },
+    {
+      "eventId": "374424",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-81",
+        "Pennsylvania",
+        "Dauphin",
+        "CRASH on I-81 Southbound At Exit 65 US 11/15 NORTH AND SOUTH - MARYSVILLE/ENOL. Right Lane (of 3 Lanes) Blocked.",
+        "9/7/26, 7:28 PM",
+        "9/7/26, 9:30 PM",
+        "9/7/26, 8:58 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374424"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>CRASH on I-81 Southbound At Exit 65 US 11/15 NORTH AND SOUTH - MARYSVILLE/ENOL. Right Lane (of 3 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 7:28 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 9:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 8:58 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374424\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-81\tPennsylvania\tDauphin\tCRASH on I-81 Southbound At Exit 65 US 11/15 NORTH AND SOUTH - MARYSVILLE/ENOL. Right Lane (of 3 Lanes) Blocked.\t9/7/26, 7:28 PM\t9/7/26, 9:30 PM\t9/7/26, 8:58 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-33",
+        "Pennsylvania",
+        "Northampton",
+        "ROADWORK on PA-33 Northbound between Exit TATAMY and Exit PA 191 - STOCKERTOWN/BANGER. Left Lane (of 2 Lanes) Blocked.",
+        "9/7/26, 7:23 PM",
+        "9/8/26, 6:30 AM",
+        "9/7/26, 8:57 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374421"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-33</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-33 Northbound between Exit TATAMY and Exit PA 191 - STOCKERTOWN/BANGER. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 7:23 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 6:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 8:57 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374421\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-33\tPennsylvania\tNorthampton\tROADWORK on PA-33 Northbound between Exit TATAMY and Exit PA 191 - STOCKERTOWN/BANGER. Left Lane (of 2 Lanes) Blocked.\t9/7/26, 7:23 PM\t9/8/26, 6:30 AM\t9/7/26, 8:57 PM\tView on map"
+    },
+    {
       "eventId": "374432",
       "cells": [
         "Row Details",
@@ -22,10 +138,10 @@
         "I - 676",
         "Pennsylvania",
         "Philadelphia",
-        "Multi vehicle crash on I-676 westbound at Exit: BEN FRANKLIN PARKWAY. There is a lane restriction.",
+        "Multi vehicle crash on I-676 westbound at Exit: BEN FRANKLIN PARKWAY. All lanes now open.",
         "9/7/26, 7:54 PM",
         "9/7/26, 9:30 PM",
-        "9/7/26, 8:48 PM",
+        "9/7/26, 8:56 PM",
         "View on map"
       ],
       "links": [
@@ -40,8 +156,8 @@
         "",
         "https://www.511pa.com/map#MajorRouteIncident-374432"
       ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I - 676</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on I-676 westbound at Exit: BEN FRANKLIN PARKWAY.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 7:54 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 9:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 8:48 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374432\">View on map</a></td>",
-      "text": "Incident - Major Route\tI - 676\tPennsylvania\tPhiladelphia\tMulti vehicle crash on I-676 westbound at Exit: BEN FRANKLIN PARKWAY. There is a lane restriction.\t9/7/26, 7:54 PM\t9/7/26, 9:30 PM\t9/7/26, 8:48 PM\tView on map"
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I - 676</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on I-676 westbound at Exit: BEN FRANKLIN PARKWAY.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 7:54 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 9:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 8:56 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374432\">View on map</a></td>",
+      "text": "Incident - Major Route\tI - 676\tPennsylvania\tPhiladelphia\tMulti vehicle crash on I-676 westbound at Exit: BEN FRANKLIN PARKWAY. All lanes now open.\t9/7/26, 7:54 PM\t9/7/26, 9:30 PM\t9/7/26, 8:56 PM\tView on map"
     },
     {
       "eventId": "374391",
@@ -71,93 +187,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-49</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Potter</td><td><span class=\"colHeader\">Description</span>DOWNED UTILITY on PA-49 Eastbound between BROOKLYN RD and NEWFIELD JUNCTION RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 5:41 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 10:35 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 7:59 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374391\">View on map</a></td>",
       "text": "Closure - Other Route\tPA-49\tPennsylvania\tPotter\tDOWNED UTILITY on PA-49 Eastbound between BROOKLYN RD and NEWFIELD JUNCTION RD. Closed.\t9/7/26, 5:41 PM\t9/7/26, 10:35 PM\t9/7/26, 7:59 PM\tView on map"
-    },
-    {
-      "eventId": "374424",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-81",
-        "Pennsylvania",
-        "Dauphin",
-        "CRASH on I-81 Southbound At Exit 65 US 11/15 NORTH AND SOUTH - MARYSVILLE/ENOL. Right Lane (of 3 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/7/26, 7:28 PM",
-        "9/7/26, 9:30 PM",
-        "9/7/26, 7:58 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374424"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>CRASH on I-81 Southbound At Exit 65 US 11/15 NORTH AND SOUTH - MARYSVILLE/ENOL. Right Lane (of 3 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 7:28 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/7/26, 9:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 7:58 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374424\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-81\tPennsylvania\tDauphin\tCRASH on I-81 Southbound At Exit 65 US 11/15 NORTH AND SOUTH - MARYSVILLE/ENOL. Right Lane (of 3 Lanes) Blocked, Right Shoulder Blocked.\t9/7/26, 7:28 PM\t9/7/26, 9:30 PM\t9/7/26, 7:58 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-33",
-        "Pennsylvania",
-        "Northampton",
-        "ROADWORK on PA-33 Southbound between Exit PA 191 - STOCKERTOWN/NAZARETH and Exit TATAMY. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.",
-        "9/7/26, 7:24 PM",
-        "9/8/26, 6:30 AM",
-        "9/7/26, 7:25 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374422"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-33</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-33 Southbound between Exit PA 191 - STOCKERTOWN/NAZARETH and Exit TATAMY. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 7:24 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 6:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 7:25 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374422\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-33\tPennsylvania\tNorthampton\tROADWORK on PA-33 Southbound between Exit PA 191 - STOCKERTOWN/NAZARETH and Exit TATAMY. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.\t9/7/26, 7:24 PM\t9/8/26, 6:30 AM\t9/7/26, 7:25 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-33",
-        "Pennsylvania",
-        "Northampton",
-        "ROADWORK on PA-33 Northbound between Exit TATAMY and Exit PA 191 - STOCKERTOWN/BANGER. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.",
-        "9/7/26, 7:23 PM",
-        "9/8/26, 6:30 AM",
-        "9/7/26, 7:23 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374421"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-33</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-33 Northbound between Exit TATAMY and Exit PA 191 - STOCKERTOWN/BANGER. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/7/26, 7:23 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 6:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/7/26, 7:23 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374421\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-33\tPennsylvania\tNorthampton\tROADWORK on PA-33 Northbound between Exit TATAMY and Exit PA 191 - STOCKERTOWN/BANGER. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.\t9/7/26, 7:23 PM\t9/8/26, 6:30 AM\t9/7/26, 7:23 PM\tView on map"
     },
     {
       "eventId": null,
@@ -2884,35 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-50</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>8/3/26, 1:08 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 2:44 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-332174\">View on map</a></td>",
       "text": "Active Roadwork\tPA-50\tPennsylvania\tAllegheny\tRoadwork on PA 50 westbound at MILLERS RUN RD, PARKS RD. There is a lane restriction.\t8/3/26, 1:08 PM\t9/8/26, 3:00 PM\t8/24/26, 2:44 PM\tView on map"
-    },
-    {
-      "eventId": "316339",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "DERRY LN / LAUGHLIN FARM RD",
-        "Pennsylvania",
-        "Westmoreland",
-        "Flooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD. All lanes closed.",
-        "7/19/26, 2:20 PM",
-        "9/28/26, 4:00 PM",
-        "8/24/26, 2:38 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-316339"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>DERRY LN / LAUGHLIN FARM RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Westmoreland</td><td><span class=\"colHeader\">Description</span>Flooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>7/19/26, 2:20 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/28/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>8/24/26, 2:38 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-316339\">View on map</a></td>",
-      "text": "Closure - Other Route\tDERRY LN / LAUGHLIN FARM RD\tPennsylvania\tWestmoreland\tFlooding on DERRY LN / LAUGHLIN FARM RD both directions at PIPER RD. All lanes closed.\t7/19/26, 2:20 PM\t9/28/26, 4:00 PM\t8/24/26, 2:38 PM\tView on map"
     }
   ]
 }
