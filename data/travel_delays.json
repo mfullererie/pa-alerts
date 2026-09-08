@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T20:28:39.245Z",
+  "fetched_at": "2026-09-08T20:33:34.203Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,93 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST",
+        "Pennsylvania",
+        "Washington",
+        "Utility work on PLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST both directions between JEFFERSON AV and BEALLSVILLE RD, LONE PINE RD. All lanes now open.",
+        "9/8/26, 8:14 AM",
+        "9/8/26, 5:00 PM",
+        "9/8/26, 4:32 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374652"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Washington</td><td><span class=\"colHeader\">Description</span>Utility work on PLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST both directions between JEFFERSON AV and BEALLSVILLE RD, LONE PINE RD.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:32 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374652\">View on map</a></td>",
+      "text": "Active Roadwork\tPLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST\tPennsylvania\tWashington\tUtility work on PLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST both directions between JEFFERSON AV and BEALLSVILLE RD, LONE PINE RD. All lanes now open.\t9/8/26, 8:14 AM\t9/8/26, 5:00 PM\t9/8/26, 4:32 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-247",
+        "Pennsylvania",
+        "Susquehanna",
+        "ROADWORK on PA-247 Northbound between PRIVATE DR and SR 2023 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 6:34 AM",
+        "9/8/26, 8:00 PM",
+        "9/8/26, 4:29 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374513"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-247</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Susquehanna</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-247 Northbound between PRIVATE DR and SR 2023 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:34 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:29 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374513\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-247\tPennsylvania\tSusquehanna\tROADWORK on PA-247 Northbound between PRIVATE DR and SR 2023 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 6:34 AM\t9/8/26, 8:00 PM\t9/8/26, 4:29 PM\tView on map"
+    },
+    {
+      "eventId": "375086",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "US - 422",
+        "Pennsylvania",
+        "Chester",
+        "Crash on US 422 eastbound at Exit: PA 100 NORTH - ALLENTOWN. There is a ramp closure.",
+        "9/8/26, 4:02 PM",
+        "9/8/26, 5:00 PM",
+        "9/8/26, 4:28 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-375086"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 422</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Crash on US 422 eastbound at Exit: PA 100 NORTH - ALLENTOWN.  There is a ramp closure.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:02 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:28 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375086\">View on map</a></td>",
+      "text": "Incident - Major Route\tUS - 422\tPennsylvania\tChester\tCrash on US 422 eastbound at Exit: PA 100 NORTH - ALLENTOWN. There is a ramp closure.\t9/8/26, 4:02 PM\t9/8/26, 5:00 PM\t9/8/26, 4:28 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -247,35 +334,6 @@
       "text": "Incident - Major Route\tUS-22\tPennsylvania\tNorthampton\tFIRE DEPARTMENT ACTIVITY on US-22 Eastbound between RAMP FROM SR 3011 (CENTER ST) AT PA 512/CENTER ST and Exit PA 191 - NAZARETH PIKE. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 4:00 PM\t9/8/26, 5:30 PM\t9/8/26, 4:12 PM\tView on map"
     },
     {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST",
-        "Pennsylvania",
-        "Washington",
-        "Utility work on PLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST both directions between JEFFERSON AV and BEALLSVILLE RD, LONE PINE RD. There is a traffic disruption.",
-        "9/8/26, 8:14 AM",
-        "9/8/26, 5:00 PM",
-        "9/8/26, 4:10 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374652"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Washington</td><td><span class=\"colHeader\">Description</span>Utility work on PLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST both directions between JEFFERSON AV and BEALLSVILLE RD, LONE PINE RD.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:10 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374652\">View on map</a></td>",
-      "text": "Active Roadwork\tPLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST\tPennsylvania\tWashington\tUtility work on PLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST both directions between JEFFERSON AV and BEALLSVILLE RD, LONE PINE RD. There is a traffic disruption.\t9/8/26, 8:14 AM\t9/8/26, 5:00 PM\t9/8/26, 4:10 PM\tView on map"
-    },
-    {
       "eventId": "375087",
       "cells": [
         "Row Details",
@@ -305,35 +363,6 @@
       "text": "Incident - Major Route\tPA-283\tPennsylvania\tDauphin\tCRASH (Multi-Vehicle) on PA-283 Westbound At Exit I-283 NORTH TO I-81/I-83 - HARRISBURG. Right Shoulder Blocked.\t9/8/26, 4:06 PM\t9/8/26, 4:50 PM\t9/8/26, 4:07 PM\tView on map"
     },
     {
-      "eventId": "375086",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "US - 422",
-        "Pennsylvania",
-        "Chester",
-        "Fire department activity on US 422 eastbound at Exit: PA 100 NORTH - ALLENTOWN. There is a ramp closure.",
-        "9/8/26, 4:02 PM",
-        "9/8/26, 4:48 PM",
-        "9/8/26, 4:04 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-375086"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US - 422</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Fire department activity on US 422 eastbound at Exit: PA 100 NORTH - ALLENTOWN.  There is a ramp closure.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:02 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:48 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:04 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375086\">View on map</a></td>",
-      "text": "Incident - Major Route\tUS - 422\tPennsylvania\tChester\tFire department activity on US 422 eastbound at Exit: PA 100 NORTH - ALLENTOWN. There is a ramp closure.\t9/8/26, 4:02 PM\t9/8/26, 4:48 PM\t9/8/26, 4:04 PM\tView on map"
-    },
-    {
       "eventId": null,
       "cells": [
         "Row Details",
@@ -361,35 +390,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Carbon</td><td><span class=\"colHeader\">Description</span>Mobile closure on I-476 South. Be alert for a moving lane closure in this area.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:01 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375083\">View on map</a></td>",
       "text": "Active Roadwork\tI-476\tPennsylvania\tCarbon\tMobile closure on I-476 South. Be alert for a moving lane closure in this area.\t9/8/26, 4:00 PM\t9/9/26, 12:00 PM\t9/8/26, 4:01 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA - 232",
-        "Pennsylvania",
-        "Bucks",
-        "Roadwork on PA 232 both directions between PINEWOOD RD and CHERRY LN. All lanes now open.",
-        "9/8/26, 9:07 AM",
-        "9/8/26, 4:00 PM",
-        "9/8/26, 3:58 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374796"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 232</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bucks</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 232 both directions between PINEWOOD RD and CHERRY LN.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:07 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 3:58 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374796\">View on map</a></td>",
-      "text": "Active Roadwork\tPA - 232\tPennsylvania\tBucks\tRoadwork on PA 232 both directions between PINEWOOD RD and CHERRY LN. All lanes now open.\t9/8/26, 9:07 AM\t9/8/26, 4:00 PM\t9/8/26, 3:58 PM\tView on map"
     },
     {
       "eventId": "374579",
@@ -1933,35 +1933,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "(2015) MANADA GAP RD / SANDBEACH RD",
-        "Pennsylvania",
-        "Dauphin",
-        "UTILITY WORK on (2015) MANADA GAP RD / SANDBEACH RD BOTH DIRECTIONS between CRYSTAL A DR and BOATHOUSE RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Blocked.",
-        "9/8/26, 8:30 AM",
-        "9/8/26, 5:25 PM",
-        "9/8/26, 8:31 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374682"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2015) MANADA GAP RD / SANDBEACH RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>UTILITY WORK on (2015) MANADA GAP RD / SANDBEACH RD BOTH DIRECTIONS between CRYSTAL A DR and BOATHOUSE RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:30 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:25 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:31 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374682\">View on map</a></td>",
-      "text": "Active Roadwork\t(2015) MANADA GAP RD / SANDBEACH RD\tPennsylvania\tDauphin\tUTILITY WORK on (2015) MANADA GAP RD / SANDBEACH RD BOTH DIRECTIONS between CRYSTAL A DR and BOATHOUSE RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Blocked.\t9/8/26, 8:30 AM\t9/8/26, 5:25 PM\t9/8/26, 8:31 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "US-40",
         "Pennsylvania",
         "Washington",
@@ -2484,35 +2455,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "PA-247",
-        "Pennsylvania",
-        "Susquehanna",
-        "ROADWORK on PA-247 Northbound between PRIVATE DR and SR 2023 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 6:34 AM",
-        "9/8/26, 5:30 PM",
-        "9/8/26, 6:34 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374513"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-247</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Susquehanna</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-247 Northbound between PRIVATE DR and SR 2023 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:34 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 6:34 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374513\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-247\tPennsylvania\tSusquehanna\tROADWORK on PA-247 Northbound between PRIVATE DR and SR 2023 SH. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 6:34 AM\t9/8/26, 5:30 PM\t9/8/26, 6:34 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "(4016) ROYAL RD / MAIN ST / SMOCK RD",
         "Pennsylvania",
         "Fayette",
@@ -2913,6 +2855,64 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(3032) MAPLE AV</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Wayne</td><td><span class=\"colHeader\">Description</span>ROADWORK on (3032) MAPLE AV BOTH DIRECTIONS At SMITH LN. Closed.</td><td><span class=\"colHeader\">Start Time</span>8/4/26, 8:45 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 9:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/4/26, 8:50 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-373845\">View on map</a></td>",
       "text": "Closure - Other Route\t(3032) MAPLE AV\tPennsylvania\tWayne\tROADWORK on (3032) MAPLE AV BOTH DIRECTIONS At SMITH LN. Closed.\t8/4/26, 8:45 AM\t9/9/26, 9:00 AM\t9/4/26, 8:50 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-99",
+        "Pennsylvania",
+        "Blair",
+        "Roadwork on I-99 southbound between 1.6 miles south of Exit 28: US 22 - EBENSBURG/HOLLIDAYSBURG and .2 miles south of Exit 23: PA 36/PA 164 - ROARING SPRING/PORTAGE. There is a lane restriction.",
+        "4/16/26, 12:56 AM",
+        "10/1/26, 12:00 PM",
+        "9/3/26, 8:57 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-252256"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-99</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Blair</td><td><span class=\"colHeader\">Description</span>Roadwork on I-99 southbound between 1.6 miles south of Exit 28: US 22 - EBENSBURG/HOLLIDAYSBURG and .2 miles south of Exit 23: PA 36/PA 164 - ROARING SPRING/PORTAGE.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>4/16/26, 12:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/1/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/3/26, 8:57 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-252256\">View on map</a></td>",
+      "text": "Active Roadwork\tI-99\tPennsylvania\tBlair\tRoadwork on I-99 southbound between 1.6 miles south of Exit 28: US 22 - EBENSBURG/HOLLIDAYSBURG and .2 miles south of Exit 23: PA 36/PA 164 - ROARING SPRING/PORTAGE. There is a lane restriction.\t4/16/26, 12:56 AM\t10/1/26, 12:00 PM\t9/3/26, 8:57 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I - 476",
+        "Pennsylvania",
+        "Delaware",
+        "Roadwork on I-476 southbound 1.3 miles north of Exit 1: MACDADE BLVD. There is a traffic disruption.",
+        "8/31/26, 1:07 PM",
+        "10/15/26, 8:00 AM",
+        "9/3/26, 3:31 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-368414"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I - 476</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Delaware</td><td><span class=\"colHeader\">Description</span>Roadwork on I-476 southbound 1.3 miles north of Exit 1: MACDADE BLVD.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>8/31/26, 1:07 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/15/26, 8:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/3/26, 3:31 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-368414\">View on map</a></td>",
+      "text": "Active Roadwork\tI - 476\tPennsylvania\tDelaware\tRoadwork on I-476 southbound 1.3 miles north of Exit 1: MACDADE BLVD. There is a traffic disruption.\t8/31/26, 1:07 PM\t10/15/26, 8:00 AM\t9/3/26, 3:31 PM\tView on map"
     }
   ]
 }
