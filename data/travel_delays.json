@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T13:40:32.561Z",
+  "fetched_at": "2026-09-08T13:43:34.597Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,122 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-81",
+        "Pennsylvania",
+        "Schuylkill",
+        "ROADWORK on I-81 Southbound between MM 128 and MM 126. Right Lane (of 2 Lanes) Blocked.",
+        "9/8/26, 8:31 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 9:42 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374683"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Schuylkill</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 128 and MM 126. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:31 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:42 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374683\">View on map</a></td>",
+      "text": "Active Roadwork\tI-81\tPennsylvania\tSchuylkill\tROADWORK on I-81 Southbound between MM 128 and MM 126. Right Lane (of 2 Lanes) Blocked.\t9/8/26, 8:31 AM\t9/8/26, 3:00 PM\t9/8/26, 9:42 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "HENRY AV",
+        "Pennsylvania",
+        "Philadelphia",
+        "Utility work on HENRY AV southbound between BOWMAN ST and ROBERTS AV. There is a traffic disruption.",
+        "9/8/26, 8:56 AM",
+        "9/8/26, 3:23 PM",
+        "9/8/26, 9:41 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374752"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>HENRY AV</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Utility work on HENRY AV southbound between BOWMAN ST and ROBERTS AV.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:23 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:41 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374752\">View on map</a></td>",
+      "text": "Active Roadwork\tHENRY AV\tPennsylvania\tPhiladelphia\tUtility work on HENRY AV southbound between BOWMAN ST and ROBERTS AV. There is a traffic disruption.\t9/8/26, 8:56 AM\t9/8/26, 3:23 PM\t9/8/26, 9:41 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-18",
+        "Pennsylvania",
+        "Beaver",
+        "ROADWORK on PA-18 BOTH DIRECTIONS At EIGHTH ST. Right Lane (of 2 Lanes) Disrupted.",
+        "9/8/26, 9:39 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 9:40 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374856"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-18</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Beaver</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-18 BOTH DIRECTIONS At EIGHTH ST. Right Lane (of 2 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:39 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:40 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374856\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-18\tPennsylvania\tBeaver\tROADWORK on PA-18 BOTH DIRECTIONS At EIGHTH ST. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 9:39 AM\t9/8/26, 3:00 PM\t9/8/26, 9:40 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "US-13",
+        "Pennsylvania",
+        "Bucks",
+        "Utility work on US 13 both directions between CLOVER AV and CEDAR AV, WALNUT AV. There is a traffic disruption.",
+        "9/8/26, 9:29 AM",
+        "9/8/26, 10:15 AM",
+        "9/8/26, 9:39 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374855"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-13</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bucks</td><td><span class=\"colHeader\">Description</span>Utility work on US 13 both directions between CLOVER AV and CEDAR AV, WALNUT AV.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:29 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 10:15 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:39 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374855\">View on map</a></td>",
+      "text": "Active Roadwork\tUS-13\tPennsylvania\tBucks\tUtility work on US 13 both directions between CLOVER AV and CEDAR AV, WALNUT AV. There is a traffic disruption.\t9/8/26, 9:29 AM\t9/8/26, 10:15 AM\t9/8/26, 9:39 AM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -1262,35 +1378,6 @@
       "text": "Active Roadwork\tPA-03\tPennsylvania\tChester\tUtility work on PA 3 eastbound between (Beginning of PA - 003) and CIRCLE AV. There is a traffic disruption.\t9/8/26, 9:03 AM\t9/8/26, 3:00 PM\t9/8/26, 9:10 AM\tView on map"
     },
     {
-      "eventId": "374651",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-95",
-        "Pennsylvania",
-        "Philadelphia",
-        "Disabled vehicle on I-95 northbound 1.9 miles south of Exit 30: COTTMAN AVE/RHAWN ST. All lanes now open.",
-        "9/8/26, 8:14 AM",
-        "9/8/26, 9:30 AM",
-        "9/8/26, 9:10 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374651"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-95 northbound 1.9 miles south of Exit 30: COTTMAN AVE/RHAWN ST.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:10 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374651\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-95 northbound 1.9 miles south of Exit 30: COTTMAN AVE/RHAWN ST. All lanes now open.\t9/8/26, 8:14 AM\t9/8/26, 9:30 AM\t9/8/26, 9:10 AM\tView on map"
-    },
-    {
       "eventId": null,
       "cells": [
         "Row Details",
@@ -1695,35 +1782,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1005) HIGHLAND PK BR</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1005) HIGHLAND PK BR Southbound between RAMP FROM SR 1001 S (FREEPORT) AT HIGHLAND PARK BR and ALLEGHENY RIVER BL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374754\">View on map</a></td>",
       "text": "Active Roadwork\t(1005) HIGHLAND PK BR\tPennsylvania\tAllegheny\tROADWORK on (1005) HIGHLAND PK BR Southbound between RAMP FROM SR 1001 S (FREEPORT) AT HIGHLAND PARK BR and ALLEGHENY RIVER BL. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 9:02 AM\t9/8/26, 3:00 PM\t9/8/26, 9:02 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "HENRY AV",
-        "Pennsylvania",
-        "Philadelphia",
-        "Utility work on HENRY AV southbound between WISES MILL RD and GERHARD ST. There is a traffic disruption.",
-        "9/8/26, 8:56 AM",
-        "9/8/26, 3:23 PM",
-        "9/8/26, 9:02 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374752"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>HENRY AV</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Utility work on HENRY AV southbound between WISES MILL RD and GERHARD ST.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:56 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:23 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:02 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374752\">View on map</a></td>",
-      "text": "Active Roadwork\tHENRY AV\tPennsylvania\tPhiladelphia\tUtility work on HENRY AV southbound between WISES MILL RD and GERHARD ST. There is a traffic disruption.\t9/8/26, 8:56 AM\t9/8/26, 3:23 PM\t9/8/26, 9:02 AM\tView on map"
     },
     {
       "eventId": null,
@@ -2571,35 +2629,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "I-81",
-        "Pennsylvania",
-        "Schuylkill",
-        "ROADWORK on I-81 Southbound between MM 128.5 and MM 128. Right Lane (of 2 Lanes) Blocked.",
-        "9/8/26, 8:31 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 8:37 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374683"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Schuylkill</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 128.5 and MM 128. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:31 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:37 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374683\">View on map</a></td>",
-      "text": "Active Roadwork\tI-81\tPennsylvania\tSchuylkill\tROADWORK on I-81 Southbound between MM 128.5 and MM 128. Right Lane (of 2 Lanes) Blocked.\t9/8/26, 8:31 AM\t9/8/26, 3:00 PM\t9/8/26, 8:37 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "PA-307",
         "Pennsylvania",
         "Lackawanna",
@@ -2884,35 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-40</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Washington</td><td><span class=\"colHeader\">Description</span>ROADWORK on US-40 BOTH DIRECTIONS between NOBLE RD and MARKET ST. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:22 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 7:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:23 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374663\">View on map</a></td>",
       "text": "Active Roadwork\tUS-40\tPennsylvania\tWashington\tROADWORK on US-40 BOTH DIRECTIONS between NOBLE RD and MARKET ST. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.\t9/8/26, 8:22 AM\t9/8/26, 7:00 PM\t9/8/26, 8:23 AM\tView on map"
-    },
-    {
-      "eventId": "374662",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(1007) WHITE TOP RD / GLOBE MILLS RD",
-        "Pennsylvania",
-        "Snyder",
-        "ROADWORK on (1007) WHITE TOP RD / GLOBE MILLS RD BOTH DIRECTIONS between MINE RD and T V TOWER RD. Closed.",
-        "9/8/26, 8:21 AM",
-        "9/8/26, 3:20 PM",
-        "9/8/26, 8:22 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374662"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(1007) WHITE TOP RD / GLOBE MILLS RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Snyder</td><td><span class=\"colHeader\">Description</span>ROADWORK on (1007) WHITE TOP RD / GLOBE MILLS RD BOTH DIRECTIONS between MINE RD and T V TOWER RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:21 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:22 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374662\">View on map</a></td>",
-      "text": "Closure - Other Route\t(1007) WHITE TOP RD / GLOBE MILLS RD\tPennsylvania\tSnyder\tROADWORK on (1007) WHITE TOP RD / GLOBE MILLS RD BOTH DIRECTIONS between MINE RD and T V TOWER RD. Closed.\t9/8/26, 8:21 AM\t9/8/26, 3:20 PM\t9/8/26, 8:22 AM\tView on map"
     }
   ]
 }
