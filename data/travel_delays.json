@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T13:09:02.477Z",
+  "fetched_at": "2026-09-08T13:13:25.502Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,412 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST",
+        "Pennsylvania",
+        "Philadelphia",
+        "Utility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST northbound between MONUMENT RD and CONSHOHOCKEN AV. There is a traffic disruption.",
+        "9/8/26, 9:09 AM",
+        "9/8/26, 3:23 PM",
+        "9/8/26, 9:12 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374797"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Utility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST northbound between MONUMENT RD and CONSHOHOCKEN AV.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:09 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:23 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:12 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374797\">View on map</a></td>",
+      "text": "Active Roadwork\tTHIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST\tPennsylvania\tPhiladelphia\tUtility work on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST northbound between MONUMENT RD and CONSHOHOCKEN AV. There is a traffic disruption.\t9/8/26, 9:09 AM\t9/8/26, 3:23 PM\t9/8/26, 9:12 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA - 232",
+        "Pennsylvania",
+        "Bucks",
+        "Roadwork on PA 232 both directions between PINEWOOD RD and CHERRY LN. There is a traffic disruption.",
+        "9/8/26, 9:07 AM",
+        "9/8/26, 4:00 PM",
+        "9/8/26, 9:12 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374796"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 232</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bucks</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 232 both directions between PINEWOOD RD and CHERRY LN.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:07 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:12 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374796\">View on map</a></td>",
+      "text": "Active Roadwork\tPA - 232\tPennsylvania\tBucks\tRoadwork on PA 232 both directions between PINEWOOD RD and CHERRY LN. There is a traffic disruption.\t9/8/26, 9:07 AM\t9/8/26, 4:00 PM\t9/8/26, 9:12 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-910",
+        "Pennsylvania",
+        "Allegheny",
+        "UTILITY WORK on PA-910 BOTH DIRECTIONS At OAK RD. All Lanes Disrupted.",
+        "9/8/26, 9:10 AM",
+        "9/8/26, 3:30 PM",
+        "9/8/26, 9:12 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374792"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-910</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>UTILITY WORK on PA-910 BOTH DIRECTIONS At OAK RD. All Lanes Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:10 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:12 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374792\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-910\tPennsylvania\tAllegheny\tUTILITY WORK on PA-910 BOTH DIRECTIONS At OAK RD. All Lanes Disrupted.\t9/8/26, 9:10 AM\t9/8/26, 3:30 PM\t9/8/26, 9:12 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "US-11",
+        "Pennsylvania",
+        "Perry",
+        "MOVING ROADWORK on US-11 BOTH DIRECTIONS At FIREHOUSE RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.",
+        "9/8/26, 9:11 AM",
+        "9/8/26, 3:25 PM",
+        "9/8/26, 9:11 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374793"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-11</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Perry</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on US-11 BOTH DIRECTIONS At FIREHOUSE RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:11 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:25 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:11 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374793\">View on map</a></td>",
+      "text": "Active Roadwork\tUS-11\tPennsylvania\tPerry\tMOVING ROADWORK on US-11 BOTH DIRECTIONS At FIREHOUSE RD. All Lanes Disrupted, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 9:11 AM\t9/8/26, 3:25 PM\t9/8/26, 9:11 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "US-6",
+        "Pennsylvania",
+        "Crawford",
+        "ROADWORK on US-6 Westbound At MERCER PIKE. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 9:11 AM",
+        "9/8/26, 11:15 AM",
+        "9/8/26, 9:11 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374795"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-6</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Crawford</td><td><span class=\"colHeader\">Description</span>ROADWORK on US-6 Westbound At MERCER PIKE. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:11 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 11:15 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:11 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374795\">View on map</a></td>",
+      "text": "Active Roadwork\tUS-6\tPennsylvania\tCrawford\tROADWORK on US-6 Westbound At MERCER PIKE. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 9:11 AM\t9/8/26, 11:15 AM\t9/8/26, 9:11 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-83",
+        "Pennsylvania",
+        "York",
+        "MOVING ROADWORK on I-83 Southbound At RAMP FROM PA 216 AT EXIT 8 - GLEN ROCK. Left Lane (of 2 Lanes) Disrupted, Left Shoulder Disrupted.",
+        "9/8/26, 9:11 AM",
+        "9/8/26, 12:12 PM",
+        "9/8/26, 9:11 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374794"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-83</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>York</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on I-83 Southbound At RAMP FROM PA 216 AT EXIT 8 - GLEN ROCK. Left Lane (of 2 Lanes) Disrupted, Left Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:11 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 12:12 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:11 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374794\">View on map</a></td>",
+      "text": "Active Roadwork\tI-83\tPennsylvania\tYork\tMOVING ROADWORK on I-83 Southbound At RAMP FROM PA 216 AT EXIT 8 - GLEN ROCK. Left Lane (of 2 Lanes) Disrupted, Left Shoulder Disrupted.\t9/8/26, 9:11 AM\t9/8/26, 12:12 PM\t9/8/26, 9:11 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-28",
+        "Pennsylvania",
+        "Allegheny",
+        "ROADWORK on PA-28 Northbound At Exit 14 PA 366 - TARENTUM/NEW KENSINGTON. Right Lane (of 2 Lanes) Disrupted.",
+        "9/8/26, 9:10 AM",
+        "9/8/26, 12:00 PM",
+        "9/8/26, 9:11 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374790"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-28</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-28 Northbound At Exit 14 PA 366 - TARENTUM/NEW KENSINGTON. Right Lane (of 2 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:10 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:11 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374790\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-28\tPennsylvania\tAllegheny\tROADWORK on PA-28 Northbound At Exit 14 PA 366 - TARENTUM/NEW KENSINGTON. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 9:10 AM\t9/8/26, 12:00 PM\t9/8/26, 9:11 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-03",
+        "Pennsylvania",
+        "Chester",
+        "Utility work on PA 3 eastbound between (Beginning of PA - 003) and CIRCLE AV. There is a traffic disruption.",
+        "9/8/26, 9:03 AM",
+        "9/8/26, 3:00 PM",
+        "9/8/26, 9:10 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374789"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-03</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Utility work on PA 3 eastbound between (Beginning of PA - 003) and CIRCLE AV.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:03 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:10 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374789\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-03\tPennsylvania\tChester\tUtility work on PA 3 eastbound between (Beginning of PA - 003) and CIRCLE AV. There is a traffic disruption.\t9/8/26, 9:03 AM\t9/8/26, 3:00 PM\t9/8/26, 9:10 AM\tView on map"
+    },
+    {
+      "eventId": "374651",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-95",
+        "Pennsylvania",
+        "Philadelphia",
+        "Disabled vehicle on I-95 northbound 1.9 miles south of Exit 30: COTTMAN AVE/RHAWN ST. All lanes now open.",
+        "9/8/26, 8:14 AM",
+        "9/8/26, 9:30 AM",
+        "9/8/26, 9:10 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-374651"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-95 northbound 1.9 miles south of Exit 30: COTTMAN AVE/RHAWN ST.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:10 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374651\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-95 northbound 1.9 miles south of Exit 30: COTTMAN AVE/RHAWN ST. All lanes now open.\t9/8/26, 8:14 AM\t9/8/26, 9:30 AM\t9/8/26, 9:10 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "BYBERRY RD",
+        "Pennsylvania",
+        "Montgomery",
+        "Roadwork on BYBERRY RD both directions between PIONEER RD and MASONS MILL RD. There is a traffic disruption.",
+        "9/8/26, 9:06 AM",
+        "9/8/26, 4:00 PM",
+        "9/8/26, 9:10 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374788"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>BYBERRY RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Roadwork on BYBERRY RD both directions between PIONEER RD and MASONS MILL RD.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:06 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:10 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374788\">View on map</a></td>",
+      "text": "Active Roadwork\tBYBERRY RD\tPennsylvania\tMontgomery\tRoadwork on BYBERRY RD both directions between PIONEER RD and MASONS MILL RD. There is a traffic disruption.\t9/8/26, 9:06 AM\t9/8/26, 4:00 PM\t9/8/26, 9:10 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-611",
+        "Pennsylvania",
+        "Northampton",
+        "MOVING ROADWORK on PA-611 BOTH DIRECTIONS between SAYLORS LN and BROWNS DR. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.",
+        "9/8/26, 9:09 AM",
+        "9/8/26, 12:30 PM",
+        "9/8/26, 9:10 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374791"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-611</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on PA-611 BOTH DIRECTIONS between SAYLORS LN and BROWNS DR. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:09 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 12:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:10 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374791\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-611\tPennsylvania\tNorthampton\tMOVING ROADWORK on PA-611 BOTH DIRECTIONS between SAYLORS LN and BROWNS DR. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.\t9/8/26, 9:09 AM\t9/8/26, 12:30 PM\t9/8/26, 9:10 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "US-6",
+        "Pennsylvania",
+        "Crawford",
+        "ROADWORK on US-6 Eastbound At MERCER PIKE. Right Lane (of 3 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 9:09 AM",
+        "9/8/26, 11:15 AM",
+        "9/8/26, 9:09 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374775"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-6</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Crawford</td><td><span class=\"colHeader\">Description</span>ROADWORK on US-6 Eastbound At MERCER PIKE. Right Lane (of 3 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:09 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 11:15 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:09 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374775\">View on map</a></td>",
+      "text": "Active Roadwork\tUS-6\tPennsylvania\tCrawford\tROADWORK on US-6 Eastbound At MERCER PIKE. Right Lane (of 3 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 9:09 AM\t9/8/26, 11:15 AM\t9/8/26, 9:09 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-743",
+        "Pennsylvania",
+        "Lancaster",
+        "ROADWORK on PA-743 BOTH DIRECTIONS between VETERANS DR and CHRISTY CT. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 9:04 AM",
+        "9/8/26, 3:45 PM",
+        "9/8/26, 9:09 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374773"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-743</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-743 BOTH DIRECTIONS between VETERANS DR and CHRISTY CT. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:04 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:45 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:09 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374773\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-743\tPennsylvania\tLancaster\tROADWORK on PA-743 BOTH DIRECTIONS between VETERANS DR and CHRISTY CT. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 9:04 AM\t9/8/26, 3:45 PM\t9/8/26, 9:09 AM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-743",
+        "Pennsylvania",
+        "Lancaster",
+        "ROADWORK on PA-743 BOTH DIRECTIONS At VETERANS DR. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 8:59 AM",
+        "9/8/26, 3:45 PM",
+        "9/8/26, 9:09 AM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374748"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-743</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-743 BOTH DIRECTIONS At VETERANS DR. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:59 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:45 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:09 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374748\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-743\tPennsylvania\tLancaster\tROADWORK on PA-743 BOTH DIRECTIONS At VETERANS DR. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 8:59 AM\t9/8/26, 3:45 PM\t9/8/26, 9:09 AM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -42,64 +448,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>Ramp from I-276 E to PA 309</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Roadwork on Ramp from I-276 E to PA 309.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:07 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374774\">View on map</a></td>",
       "text": "Active Roadwork\tRamp from I-276 E to PA 309\tPennsylvania\tMontgomery\tRoadwork on Ramp from I-276 E to PA 309.\t9/8/26, 9:00 AM\t9/8/26, 2:00 PM\t9/8/26, 9:07 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-743",
-        "Pennsylvania",
-        "Lancaster",
-        "ROADWORK on PA-743 BOTH DIRECTIONS At VETERANS DR. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 8:59 AM",
-        "9/8/26, 3:45 PM",
-        "9/8/26, 9:05 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374748"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-743</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-743 BOTH DIRECTIONS At VETERANS DR. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:59 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:45 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:05 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374748\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-743\tPennsylvania\tLancaster\tROADWORK on PA-743 BOTH DIRECTIONS At VETERANS DR. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 8:59 AM\t9/8/26, 3:45 PM\t9/8/26, 9:05 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-743",
-        "Pennsylvania",
-        "Lancaster",
-        "ROADWORK on PA-743 BOTH DIRECTIONS between VETERANS DR and CHRISTY CT. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 9:04 AM",
-        "9/8/26, 3:45 PM",
-        "9/8/26, 9:05 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374773"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-743</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-743 BOTH DIRECTIONS between VETERANS DR and CHRISTY CT. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:04 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:45 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:05 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374773\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-743\tPennsylvania\tLancaster\tROADWORK on PA-743 BOTH DIRECTIONS between VETERANS DR and CHRISTY CT. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 9:04 AM\t9/8/26, 3:45 PM\t9/8/26, 9:05 AM\tView on map"
     },
     {
       "eventId": "374756",
@@ -1900,35 +2248,6 @@
       "text": "Active Roadwork\tPLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST\tPennsylvania\tWashington\tUtility work on PLUMSOCK RD / TEN MILE RD / HACKNEY STATION RD / MAIN ST both directions between JEFFERSON AV and BEALLSVILLE RD, LONE PINE RD. There is a traffic disruption.\t9/8/26, 8:14 AM\t9/8/26, 4:00 PM\t9/8/26, 8:17 AM\tView on map"
     },
     {
-      "eventId": "374651",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-95",
-        "Pennsylvania",
-        "Philadelphia",
-        "Disabled vehicle on I-95 northbound 1.9 miles south of Exit 30: COTTMAN AVE/RHAWN ST. There is a lane restriction.",
-        "9/8/26, 8:14 AM",
-        "9/8/26, 9:30 AM",
-        "9/8/26, 8:16 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-374651"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-95 northbound 1.9 miles south of Exit 30: COTTMAN AVE/RHAWN ST.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:30 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:16 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-374651\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-95 northbound 1.9 miles south of Exit 30: COTTMAN AVE/RHAWN ST. There is a lane restriction.\t9/8/26, 8:14 AM\t9/8/26, 9:30 AM\t9/8/26, 8:16 AM\tView on map"
-    },
-    {
       "eventId": null,
       "cells": [
         "Row Details",
@@ -2594,325 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>CREAM RD / SCROGGY RD / HOMEVILLE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Utility work on CREAM RD / SCROGGY RD / HOMEVILLE RD both directions at BROOKSIDE DR.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:33 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374746\">View on map</a></td>",
       "text": "Active Roadwork\tCREAM RD / SCROGGY RD / HOMEVILLE RD\tPennsylvania\tChester\tUtility work on CREAM RD / SCROGGY RD / HOMEVILLE RD both directions at BROOKSIDE DR. There is a traffic disruption.\t9/8/26, 9:00 AM\t9/8/26, 3:30 PM\t9/8/26, 7:33 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "US-322",
-        "Pennsylvania",
-        "Clarion",
-        "ROADWORK on US-322 BOTH DIRECTIONS between KNIGHTOWN RD and KNIGHTOWN RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.",
-        "9/8/26, 7:29 AM",
-        "9/8/26, 5:05 PM",
-        "9/8/26, 7:30 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374583"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-322</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clarion</td><td><span class=\"colHeader\">Description</span>ROADWORK on US-322 BOTH DIRECTIONS between KNIGHTOWN RD and KNIGHTOWN RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:29 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:05 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:30 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374583\">View on map</a></td>",
-      "text": "Active Roadwork\tUS-322\tPennsylvania\tClarion\tROADWORK on US-322 BOTH DIRECTIONS between KNIGHTOWN RD and KNIGHTOWN RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.\t9/8/26, 7:29 AM\t9/8/26, 5:05 PM\t9/8/26, 7:30 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-356",
-        "Pennsylvania",
-        "Butler",
-        "ROADWORK on PA-356 Southbound between OAKVALE BL and WHIPPO AV. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 7:26 AM",
-        "9/8/26, 1:00 PM",
-        "9/8/26, 7:27 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374578"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-356</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Butler</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-356 Southbound between OAKVALE BL and WHIPPO AV. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:26 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 1:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:27 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374578\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-356\tPennsylvania\tButler\tROADWORK on PA-356 Southbound between OAKVALE BL and WHIPPO AV. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 7:26 AM\t9/8/26, 1:00 PM\t9/8/26, 7:27 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-376",
-        "Pennsylvania",
-        "Beaver",
-        "Road work on I-376 West. The right lane is closed.",
-        "9/8/26, 4:36 AM",
-        "9/22/26, 4:36 AM",
-        "9/8/26, 7:26 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374580"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-376 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Beaver</td><td><span class=\"colHeader\">Description</span>Road work on I-376 West. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:36 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/22/26, 4:36 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:26 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374580\">View on map</a></td>",
-      "text": "Active Roadwork\tI-376\tPennsylvania\tBeaver\tRoad work on I-376 West. The right lane is closed.\t9/8/26, 4:36 AM\t9/22/26, 4:36 AM\t9/8/26, 7:26 AM\tView on map"
-    },
-    {
-      "eventId": "374579",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(4019) DORNSIFE MTN RD",
-        "Pennsylvania",
-        "Northumberland",
-        "ROADWORK on (4019) DORNSIFE MTN RD BOTH DIRECTIONS between MOUNTAIN RD and HALLOWING RUN RD. Closed.",
-        "9/8/26, 7:25 AM",
-        "9/8/26, 3:00 PM",
-        "9/8/26, 7:26 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374579"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4019) DORNSIFE MTN RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northumberland</td><td><span class=\"colHeader\">Description</span>ROADWORK on (4019) DORNSIFE MTN RD BOTH DIRECTIONS between MOUNTAIN RD and HALLOWING RUN RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:25 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:26 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374579\">View on map</a></td>",
-      "text": "Closure - Other Route\t(4019) DORNSIFE MTN RD\tPennsylvania\tNorthumberland\tROADWORK on (4019) DORNSIFE MTN RD BOTH DIRECTIONS between MOUNTAIN RD and HALLOWING RUN RD. Closed.\t9/8/26, 7:25 AM\t9/8/26, 3:00 PM\t9/8/26, 7:26 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-49",
-        "Pennsylvania",
-        "Tioga",
-        "ROADWORK on PA-49 BOTH DIRECTIONS between ERICKSON RD and WATER TOWER RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.",
-        "9/8/26, 7:25 AM",
-        "9/8/26, 5:10 PM",
-        "9/8/26, 7:25 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374576"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-49</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Tioga</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-49 BOTH DIRECTIONS between ERICKSON RD and WATER TOWER RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:25 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:10 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:25 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374576\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-49\tPennsylvania\tTioga\tROADWORK on PA-49 BOTH DIRECTIONS between ERICKSON RD and WATER TOWER RD. Right Lane (of 2 Lanes) Blocked, Left Shoulder Disrupted, Right Shoulder Disrupted.\t9/8/26, 7:25 AM\t9/8/26, 5:10 PM\t9/8/26, 7:25 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-80",
-        "Pennsylvania",
-        "Clearfield",
-        "ROADWORK on I-80 Eastbound between MM 105 and MM 109. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.",
-        "9/8/26, 7:00 AM",
-        "9/8/26, 12:15 PM",
-        "9/8/26, 7:21 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374533"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Clearfield</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Eastbound between MM 105 and MM 109. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 12:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:21 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374533\">View on map</a></td>",
-      "text": "Active Roadwork\tI-80\tPennsylvania\tClearfield\tROADWORK on I-80 Eastbound between MM 105 and MM 109. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked, Right Shoulder Disrupted.\t9/8/26, 7:00 AM\t9/8/26, 12:15 PM\t9/8/26, 7:21 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-76",
-        "Pennsylvania",
-        "Dauphin",
-        "Road work on I-76 West. The right shoulder is closed.",
-        "9/8/26, 7:30 AM",
-        "9/8/26, 2:30 PM",
-        "9/8/26, 7:20 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374570"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>Road work on I-76 West. The right shoulder is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:30 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 2:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:20 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374570\">View on map</a></td>",
-      "text": "Active Roadwork\tI-76\tPennsylvania\tDauphin\tRoad work on I-76 West. The right shoulder is closed.\t9/8/26, 7:30 AM\t9/8/26, 2:30 PM\t9/8/26, 7:20 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-76",
-        "Pennsylvania",
-        "Bedford",
-        "Road work on I-76 East. The right lane is closed.",
-        "9/8/26, 7:30 AM",
-        "9/8/26, 11:00 AM",
-        "9/8/26, 7:13 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374556"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bedford</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:30 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 11:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:13 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374556\">View on map</a></td>",
-      "text": "Active Roadwork\tI-76\tPennsylvania\tBedford\tRoad work on I-76 East. The right lane is closed.\t9/8/26, 7:30 AM\t9/8/26, 11:00 AM\t9/8/26, 7:13 AM\tView on map"
-    },
-    {
-      "eventId": "374547",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD",
-        "Pennsylvania",
-        "Carbon",
-        "ROADWORK on (2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD BOTH DIRECTIONS between HAHNS DAIRY RD and INTERCHANGE RD. Closed.",
-        "9/8/26, 7:08 AM",
-        "9/8/26, 5:00 PM",
-        "9/8/26, 7:09 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374547"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Carbon</td><td><span class=\"colHeader\">Description</span>ROADWORK on (2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD BOTH DIRECTIONS between HAHNS DAIRY RD and INTERCHANGE RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:08 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:09 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374547\">View on map</a></td>",
-      "text": "Closure - Other Route\t(2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD\tPennsylvania\tCarbon\tROADWORK on (2011) SPRUCE HOLLOW RD / POHOPOCO DR / TRACHSVILLE HILL RD BOTH DIRECTIONS between HAHNS DAIRY RD and INTERCHANGE RD. Closed.\t9/8/26, 7:08 AM\t9/8/26, 5:00 PM\t9/8/26, 7:09 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "Ramp from I-76 to PA 75",
-        "Pennsylvania",
-        "Franklin",
-        "Roadwork on Ramp from I-76 to PA 75.",
-        "9/8/26, 7:00 AM",
-        "9/8/26, 5:00 PM",
-        "9/8/26, 7:09 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374549"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>Ramp from I-76 to PA 75</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Franklin</td><td><span class=\"colHeader\">Description</span>Roadwork on Ramp from I-76 to PA 75.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:09 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374549\">View on map</a></td>",
-      "text": "Active Roadwork\tRamp from I-76 to PA 75\tPennsylvania\tFranklin\tRoadwork on Ramp from I-76 to PA 75.\t9/8/26, 7:00 AM\t9/8/26, 5:00 PM\t9/8/26, 7:09 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "Ramp from PA 100 N to I-76",
-        "Pennsylvania",
-        "Chester",
-        "Roadwork on Ramp from PA 100 N to I-76.",
-        "9/8/26, 7:00 AM",
-        "9/8/26, 5:00 PM",
-        "9/8/26, 7:08 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374548"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>Ramp from PA 100 N to I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Roadwork on Ramp from PA 100 N to I-76.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:00 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:08 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374548\">View on map</a></td>",
-      "text": "Active Roadwork\tRamp from PA 100 N to I-76\tPennsylvania\tChester\tRoadwork on Ramp from PA 100 N to I-76.\t9/8/26, 7:00 AM\t9/8/26, 5:00 PM\t9/8/26, 7:08 AM\tView on map"
     }
   ]
 }
