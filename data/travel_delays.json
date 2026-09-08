@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T20:18:47.574Z",
+  "fetched_at": "2026-09-08T20:23:32.205Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,122 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY",
+        "Pennsylvania",
+        "Chester",
+        "Roadwork on BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY both directions at CALN RD, OLIVE ST. All lanes now open.",
+        "9/8/26, 3:57 PM",
+        "9/8/26, 4:15 PM",
+        "9/8/26, 4:20 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374826"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Roadwork on BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY both directions at CALN RD, OLIVE ST.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 3:57 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:20 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374826\">View on map</a></td>",
+      "text": "Active Roadwork\tBUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY\tPennsylvania\tChester\tRoadwork on BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY both directions at CALN RD, OLIVE ST. All lanes now open.\t9/8/26, 3:57 PM\t9/8/26, 4:15 PM\t9/8/26, 4:20 PM\tView on map"
+    },
+    {
+      "eventId": "375015",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-76",
+        "Pennsylvania",
+        "Philadelphia",
+        "Disabled vehicle on I-76 westbound between .2 miles east of Exit 340A: LINCOLN DR/KELLY DR and .1 miles east of Exit 339: US 1 SOUTH - CITY AVE. There is a lane restriction.",
+        "9/8/26, 2:13 PM",
+        "9/8/26, 4:30 PM",
+        "9/8/26, 4:19 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-375015"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-76 westbound between .2 miles east of Exit 340A: LINCOLN DR/KELLY DR and .1 miles east of Exit 339: US 1 SOUTH - CITY AVE.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:13 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:19 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375015\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-76\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-76 westbound between .2 miles east of Exit 340A: LINCOLN DR/KELLY DR and .1 miles east of Exit 339: US 1 SOUTH - CITY AVE. There is a lane restriction.\t9/8/26, 2:13 PM\t9/8/26, 4:30 PM\t9/8/26, 4:19 PM\tView on map"
+    },
+    {
+      "eventId": "375088",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-95",
+        "Pennsylvania",
+        "Philadelphia",
+        "Incident cleared on I-95 northbound 2.1 miles north of Exit 13: TO I-76 / PA-291 WEST VALLEY FORGE. There are residual delays.",
+        "9/8/26, 4:04 PM",
+        "9/8/26, 4:50 PM",
+        "9/8/26, 4:19 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-375088"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Incident cleared on I-95 northbound 2.1 miles north of Exit 13: TO I-76 / PA-291 WEST VALLEY FORGE.  There are residual delays.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:04 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:50 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:19 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375088\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tIncident cleared on I-95 northbound 2.1 miles north of Exit 13: TO I-76 / PA-291 WEST VALLEY FORGE. There are residual delays.\t9/8/26, 4:04 PM\t9/8/26, 4:50 PM\t9/8/26, 4:19 PM\tView on map"
+    },
+    {
+      "eventId": "375104",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-95",
+        "Pennsylvania",
+        "Bucks",
+        "Multi vehicle crash on I-95 northbound between .4 miles south of Exit 35: PA 63 WEST - WOODHAVEN ROAD and .3 miles north of Exit 35: PA 63 WEST - WOODHAVEN ROAD. There is a shoulder closed.",
+        "9/8/26, 4:13 PM",
+        "9/8/26, 4:59 PM",
+        "9/8/26, 4:18 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-375104"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bucks</td><td><span class=\"colHeader\">Description</span>Multi vehicle crash on I-95 northbound between .4 miles south of Exit 35: PA 63 WEST - WOODHAVEN ROAD and .3 miles north of Exit 35: PA 63 WEST - WOODHAVEN ROAD.  There is a shoulder closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:13 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:59 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:18 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375104\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-95\tPennsylvania\tBucks\tMulti vehicle crash on I-95 northbound between .4 miles south of Exit 35: PA 63 WEST - WOODHAVEN ROAD and .3 miles north of Exit 35: PA 63 WEST - WOODHAVEN ROAD. There is a shoulder closed.\t9/8/26, 4:13 PM\t9/8/26, 4:59 PM\t9/8/26, 4:18 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -129,64 +245,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-22</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Northampton</td><td><span class=\"colHeader\">Description</span>FIRE DEPARTMENT ACTIVITY on US-22 Eastbound between RAMP FROM SR 3011 (CENTER ST) AT PA 512/CENTER ST  and Exit PA 191 - NAZARETH PIKE. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:12 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375082\">View on map</a></td>",
       "text": "Incident - Major Route\tUS-22\tPennsylvania\tNorthampton\tFIRE DEPARTMENT ACTIVITY on US-22 Eastbound between RAMP FROM SR 3011 (CENTER ST) AT PA 512/CENTER ST and Exit PA 191 - NAZARETH PIKE. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 4:00 PM\t9/8/26, 5:30 PM\t9/8/26, 4:12 PM\tView on map"
-    },
-    {
-      "eventId": "375015",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-76",
-        "Pennsylvania",
-        "Philadelphia",
-        "Disabled vehicle on I-76 westbound between .2 miles east of Exit 340A: LINCOLN DR/KELLY DR and .1 miles east of Exit 339: US 1 SOUTH - CITY AVE. There is a lane restriction.",
-        "9/8/26, 2:13 PM",
-        "9/8/26, 4:30 PM",
-        "9/8/26, 4:11 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-375015"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-76 westbound between .2 miles east of Exit 340A: LINCOLN DR/KELLY DR and .1 miles east of Exit 339: US 1 SOUTH - CITY AVE.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:13 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:11 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375015\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-76\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-76 westbound between .2 miles east of Exit 340A: LINCOLN DR/KELLY DR and .1 miles east of Exit 339: US 1 SOUTH - CITY AVE. There is a lane restriction.\t9/8/26, 2:13 PM\t9/8/26, 4:30 PM\t9/8/26, 4:11 PM\tView on map"
-    },
-    {
-      "eventId": "375088",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-95",
-        "Pennsylvania",
-        "Philadelphia",
-        "Disabled vehicle on I-95 northbound 2.1 miles north of Exit 13: TO I-76 / PA-291 WEST VALLEY FORGE. There is a lane restriction.",
-        "9/8/26, 4:04 PM",
-        "9/8/26, 4:50 PM",
-        "9/8/26, 4:10 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-375088"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-95 northbound 2.1 miles north of Exit 13: TO I-76 / PA-291 WEST VALLEY FORGE.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 4:04 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:50 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 4:10 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375088\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-95 northbound 2.1 miles north of Exit 13: TO I-76 / PA-291 WEST VALLEY FORGE. There is a lane restriction.\t9/8/26, 4:04 PM\t9/8/26, 4:50 PM\t9/8/26, 4:10 PM\tView on map"
     },
     {
       "eventId": null,
@@ -332,35 +390,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA - 232</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bucks</td><td><span class=\"colHeader\">Description</span>Roadwork on PA 232 both directions between PINEWOOD RD and CHERRY LN.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:07 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 3:58 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374796\">View on map</a></td>",
       "text": "Active Roadwork\tPA - 232\tPennsylvania\tBucks\tRoadwork on PA 232 both directions between PINEWOOD RD and CHERRY LN. All lanes now open.\t9/8/26, 9:07 AM\t9/8/26, 4:00 PM\t9/8/26, 3:58 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY",
-        "Pennsylvania",
-        "Chester",
-        "Roadwork on BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY both directions at CALN RD, OLIVE ST. There is a traffic disruption.",
-        "9/8/26, 3:57 PM",
-        "9/8/26, 4:15 PM",
-        "9/8/26, 3:57 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374826"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Roadwork on BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY both directions at CALN RD, OLIVE ST.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 3:57 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 3:57 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374826\">View on map</a></td>",
-      "text": "Active Roadwork\tBUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY\tPennsylvania\tChester\tRoadwork on BUSINESS 30/LINCOLN HWY / BUSINESS 30/LANCASTER AVE / BUSINESS 30/ LINCOLN HWY both directions at CALN RD, OLIVE ST. There is a traffic disruption.\t9/8/26, 3:57 PM\t9/8/26, 4:15 PM\t9/8/26, 3:57 PM\tView on map"
     },
     {
       "eventId": "374579",
@@ -535,35 +564,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-45</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Centre</td><td><span class=\"colHeader\">Description</span>CRASH on PA-45 Eastbound between APPLE BUTTER RD and SPORTS CAMP DR. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:45 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 5:15 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 3:49 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteIncident-375035\">View on map</a></td>",
       "text": "Incident - Other Route\tPA-45\tPennsylvania\tCentre\tCRASH on PA-45 Eastbound between APPLE BUTTER RD and SPORTS CAMP DR. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.\t9/8/26, 2:45 PM\t9/8/26, 5:15 PM\t9/8/26, 3:49 PM\tView on map"
-    },
-    {
-      "eventId": "375019",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-76",
-        "Pennsylvania",
-        "Philadelphia",
-        "Incident cleared on I-76 eastbound between .8 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE and .2 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE. All lanes now open.",
-        "9/8/26, 2:29 PM",
-        "9/8/26, 4:00 PM",
-        "9/8/26, 3:48 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-375019"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Incident cleared on I-76 eastbound between .8 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE and .2 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 2:29 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 4:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 3:48 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375019\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-76\tPennsylvania\tPhiladelphia\tIncident cleared on I-76 eastbound between .8 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE and .2 miles west of Exit 341: MONTGOMERY DR/WEST RIVER DRIVE. All lanes now open.\t9/8/26, 2:29 PM\t9/8/26, 4:00 PM\t9/8/26, 3:48 PM\tView on map"
     },
     {
       "eventId": "375072",
