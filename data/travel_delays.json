@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-09T00:40:57.260Z",
+  "fetched_at": "2026-09-09T00:43:36.656Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,64 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-81",
+        "Pennsylvania",
+        "Cumberland",
+        "ROADWORK on I-81 Southbound between MM 39.5 and MM 33.5. No lanes blocked.",
+        "9/8/26, 8:38 PM",
+        "9/9/26, 6:15 AM",
+        "9/8/26, 8:42 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375298"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Cumberland</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 39.5 and MM 33.5. No lanes blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:38 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:15 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:42 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375298\">View on map</a></td>",
+      "text": "Active Roadwork\tI-81\tPennsylvania\tCumberland\tROADWORK on I-81 Southbound between MM 39.5 and MM 33.5. No lanes blocked.\t9/8/26, 8:38 PM\t9/9/26, 6:15 AM\t9/8/26, 8:42 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Special Events",
+        "PA-128",
+        "Pennsylvania",
+        "Armstrong",
+        "SPECIAL EVENT on PA-128 BOTH DIRECTIONS between HIGH ST and MARKET ST. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.",
+        "9/8/26, 3:49 PM",
+        "9/8/26, 9:30 PM",
+        "9/8/26, 8:41 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#SpecialEvents-375075"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Special Events</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-128</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Armstrong</td><td><span class=\"colHeader\">Description</span>SPECIAL EVENT on PA-128 BOTH DIRECTIONS between HIGH ST and MARKET ST. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 3:49 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:41 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#SpecialEvents-375075\">View on map</a></td>",
+      "text": "Special Events\tPA-128\tPennsylvania\tArmstrong\tSPECIAL EVENT on PA-128 BOTH DIRECTIONS between HIGH ST and MARKET ST. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.\t9/8/26, 3:49 PM\t9/8/26, 9:30 PM\t9/8/26, 8:41 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -477,35 +535,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bedford</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The 2 right lanes are closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 9:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:16 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375269\">View on map</a></td>",
       "text": "Active Roadwork\tI-76\tPennsylvania\tBedford\tRoad work on I-76 East. The 2 right lanes are closed.\t9/8/26, 8:00 PM\t9/9/26, 9:00 AM\t9/8/26, 8:16 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-76",
-        "Pennsylvania",
-        "Chester",
-        "Road work on I-76 East. The right lane is closed.",
-        "9/8/26, 8:00 PM",
-        "9/9/26, 4:01 AM",
-        "9/8/26, 8:13 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375273"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 4:01 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:13 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375273\">View on map</a></td>",
-      "text": "Active Roadwork\tI-76\tPennsylvania\tChester\tRoad work on I-76 East. The right lane is closed.\t9/8/26, 8:00 PM\t9/9/26, 4:01 AM\t9/8/26, 8:13 PM\tView on map"
     },
     {
       "eventId": null,
@@ -2362,35 +2391,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bucks</td><td><span class=\"colHeader\">Description</span>Road work on I-476 South. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 5:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:34 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375152\">View on map</a></td>",
       "text": "Active Roadwork\tI-476\tPennsylvania\tBucks\tRoad work on I-476 South. The right lane is closed.\t9/8/26, 6:00 PM\t9/9/26, 5:00 AM\t9/8/26, 5:34 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Special Events",
-        "PA-128",
-        "Pennsylvania",
-        "Armstrong",
-        "SPECIAL EVENT on PA-128 BOTH DIRECTIONS between HIGH ST and MARKET ST. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.",
-        "9/8/26, 3:49 PM",
-        "9/8/26, 8:45 PM",
-        "9/8/26, 3:49 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#SpecialEvents-375075"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Special Events</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-128</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Armstrong</td><td><span class=\"colHeader\">Description</span>SPECIAL EVENT on PA-128 BOTH DIRECTIONS between HIGH ST and MARKET ST. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 3:49 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:45 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 3:49 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#SpecialEvents-375075\">View on map</a></td>",
-      "text": "Special Events\tPA-128\tPennsylvania\tArmstrong\tSPECIAL EVENT on PA-128 BOTH DIRECTIONS between HIGH ST and MARKET ST. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.\t9/8/26, 3:49 PM\t9/8/26, 8:45 PM\t9/8/26, 3:49 PM\tView on map"
     },
     {
       "eventId": "374207",
