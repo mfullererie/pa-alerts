@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-09T00:33:45.353Z",
+  "fetched_at": "2026-09-09T00:40:57.260Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,180 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-81",
+        "Pennsylvania",
+        "Franklin",
+        "ROADWORK on I-81 Northbound between MM 1 and MM 3.5. Right Lane (of 2 Lanes) Blocked.",
+        "9/8/26, 9:00 PM",
+        "9/8/26, 9:00 PM",
+        "9/8/26, 8:40 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375297"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Franklin</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Northbound between MM 1 and MM 3.5. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:40 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375297\">View on map</a></td>",
+      "text": "Active Roadwork\tI-81\tPennsylvania\tFranklin\tROADWORK on I-81 Northbound between MM 1 and MM 3.5. Right Lane (of 2 Lanes) Blocked.\t9/8/26, 9:00 PM\t9/8/26, 9:00 PM\t9/8/26, 8:40 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-81",
+        "Pennsylvania",
+        "Cumberland",
+        "ROADWORK on I-81 Northbound between MM 42 and MM 47. Left Lane (of 2 Lanes) Blocked.",
+        "9/8/26, 8:38 PM",
+        "9/9/26, 6:15 AM",
+        "9/8/26, 8:38 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375295"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Cumberland</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Northbound between MM 42 and MM 47. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:38 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:15 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:38 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375295\">View on map</a></td>",
+      "text": "Active Roadwork\tI-81\tPennsylvania\tCumberland\tROADWORK on I-81 Northbound between MM 42 and MM 47. Left Lane (of 2 Lanes) Blocked.\t9/8/26, 8:38 PM\t9/9/26, 6:15 AM\t9/8/26, 8:38 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "US-15",
+        "Pennsylvania",
+        "Lycoming",
+        "MOVING ROADWORK on US-15 Northbound between MARINE CORPS LEAG MEM HW and RAMP FROM I-180 W (at 1280/0000). Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 8:19 PM",
+        "9/9/26, 7:00 AM",
+        "9/8/26, 8:38 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375291"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-15</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lycoming</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on US-15 Northbound between MARINE CORPS LEAG MEM HW and RAMP FROM I-180 W (at 1280/0000). Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:19 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 7:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:38 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375291\">View on map</a></td>",
+      "text": "Active Roadwork\tUS-15\tPennsylvania\tLycoming\tMOVING ROADWORK on US-15 Northbound between MARINE CORPS LEAG MEM HW and RAMP FROM I-180 W (at 1280/0000). Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 8:19 PM\t9/9/26, 7:00 AM\t9/8/26, 8:38 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-81",
+        "Pennsylvania",
+        "Cumberland",
+        "ROADWORK on I-81 Southbound between MM 51 and MM 48. Left Lane (of 2 Lanes) Blocked.",
+        "9/8/26, 8:35 PM",
+        "9/9/26, 6:15 AM",
+        "9/8/26, 8:36 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375294"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Cumberland</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound between MM 51 and MM 48. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:35 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:15 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:36 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375294\">View on map</a></td>",
+      "text": "Active Roadwork\tI-81\tPennsylvania\tCumberland\tROADWORK on I-81 Southbound between MM 51 and MM 48. Left Lane (of 2 Lanes) Blocked.\t9/8/26, 8:35 PM\t9/9/26, 6:15 AM\t9/8/26, 8:36 PM\tView on map"
+    },
+    {
+      "eventId": "375278",
+      "cells": [
+        "Row Details",
+        "Incident - Major Route",
+        "I-95",
+        "Pennsylvania",
+        "Philadelphia",
+        "Disabled vehicle on I-95 northbound between Exit 26: BETSY ROSS BR - NEW JERSEY and 1 miles SOUTH of Exit 26: BETSY ROSS BR - NEW JERSEY. All lanes now open.",
+        "9/8/26, 8:19 PM",
+        "9/8/26, 9:20 PM",
+        "9/8/26, 8:35 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#MajorRouteIncident-375278"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-95 northbound between Exit 26: BETSY ROSS BR - NEW JERSEY and 1 miles SOUTH of Exit 26: BETSY ROSS BR - NEW JERSEY.  All lanes now open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:19 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:35 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375278\">View on map</a></td>",
+      "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-95 northbound between Exit 26: BETSY ROSS BR - NEW JERSEY and 1 miles SOUTH of Exit 26: BETSY ROSS BR - NEW JERSEY. All lanes now open.\t9/8/26, 8:19 PM\t9/8/26, 9:20 PM\t9/8/26, 8:35 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-81",
+        "Pennsylvania",
+        "Cumberland",
+        "ROADWORK on I-81 Southbound At MM 55.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.",
+        "9/8/26, 8:45 PM",
+        "9/8/26, 8:45 PM",
+        "9/8/26, 8:35 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375293"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-81</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Cumberland</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-81 Southbound At MM 55.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:45 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:45 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:35 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375293\">View on map</a></td>",
+      "text": "Active Roadwork\tI-81\tPennsylvania\tCumberland\tROADWORK on I-81 Southbound At MM 55.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.\t9/8/26, 8:45 PM\t9/8/26, 8:45 PM\t9/8/26, 8:35 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -42,35 +216,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-279</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Allegheny</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-279 Southbound between OHIO RIVER BL and MM 0.9. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:28 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 4:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:33 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375292\">View on map</a></td>",
       "text": "Active Roadwork\tI-279\tPennsylvania\tAllegheny\tROADWORK on I-279 Southbound between OHIO RIVER BL and MM 0.9. Right Lane (of 2 Lanes) Blocked.\t9/8/26, 8:28 PM\t9/9/26, 4:00 AM\t9/8/26, 8:33 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "US-15",
-        "Pennsylvania",
-        "Lycoming",
-        "MOVING ROADWORK on US-15 Northbound between MARINE CORPS LEAG MEM HW and RAMP FROM I-180 W (at 1280/0000). Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 8:19 PM",
-        "9/9/26, 7:00 AM",
-        "9/8/26, 8:32 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375291"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-15</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lycoming</td><td><span class=\"colHeader\">Description</span>MOVING ROADWORK on US-15 Northbound between MARINE CORPS LEAG MEM HW and RAMP FROM I-180 W (at 1280/0000). Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:19 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 7:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:32 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375291\">View on map</a></td>",
-      "text": "Active Roadwork\tUS-15\tPennsylvania\tLycoming\tMOVING ROADWORK on US-15 Northbound between MARINE CORPS LEAG MEM HW and RAMP FROM I-180 W (at 1280/0000). Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 8:19 PM\t9/9/26, 7:00 AM\t9/8/26, 8:32 PM\tView on map"
     },
     {
       "eventId": null,
@@ -158,35 +303,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-80</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Monroe</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-80 Westbound between MM 302 and MM 301.5. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:39 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:10 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:26 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375241\">View on map</a></td>",
       "text": "Active Roadwork\tI-80\tPennsylvania\tMonroe\tROADWORK on I-80 Westbound between MM 302 and MM 301.5. Right Lane (of 2 Lanes) Blocked.\t9/8/26, 7:39 PM\t9/9/26, 6:10 AM\t9/8/26, 8:26 PM\tView on map"
-    },
-    {
-      "eventId": "375278",
-      "cells": [
-        "Row Details",
-        "Incident - Major Route",
-        "I-95",
-        "Pennsylvania",
-        "Philadelphia",
-        "Disabled vehicle on I-95 northbound between Exit 26: BETSY ROSS BR - NEW JERSEY and 1 miles SOUTH of Exit 26: BETSY ROSS BR - NEW JERSEY. There is a lane restriction.",
-        "9/8/26, 8:19 PM",
-        "9/8/26, 9:20 PM",
-        "9/8/26, 8:26 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#MajorRouteIncident-375278"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Incident - Major Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-95</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Disabled vehicle on I-95 northbound between Exit 26: BETSY ROSS BR - NEW JERSEY and 1 miles SOUTH of Exit 26: BETSY ROSS BR - NEW JERSEY.  There is a lane restriction.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:19 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:20 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:26 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#MajorRouteIncident-375278\">View on map</a></td>",
-      "text": "Incident - Major Route\tI-95\tPennsylvania\tPhiladelphia\tDisabled vehicle on I-95 northbound between Exit 26: BETSY ROSS BR - NEW JERSEY and 1 miles SOUTH of Exit 26: BETSY ROSS BR - NEW JERSEY. There is a lane restriction.\t9/8/26, 8:19 PM\t9/8/26, 9:20 PM\t9/8/26, 8:26 PM\tView on map"
     },
     {
       "eventId": null,
@@ -2797,122 +2913,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(3007) HUMBERT RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Somerset</td><td><span class=\"colHeader\">Description</span>BRIDGE OUTAGE on (3007) HUMBERT RD BOTH DIRECTIONS At WINE-O RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:39 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/16/26, 5:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:45 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374857\">View on map</a></td>",
       "text": "Closure - Other Route\t(3007) HUMBERT RD\tPennsylvania\tSomerset\tBRIDGE OUTAGE on (3007) HUMBERT RD BOTH DIRECTIONS At WINE-O RD. Closed.\t9/8/26, 9:39 AM\t10/16/26, 5:00 PM\t9/8/26, 9:45 AM\tView on map"
-    },
-    {
-      "eventId": "374653",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "(2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD",
-        "Pennsylvania",
-        "Dauphin",
-        "ROADWORK on (2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD BOTH DIRECTIONS At SCHOOLHOUSE RD. Closed.",
-        "9/8/26, 8:15 AM",
-        "10/15/26, 3:00 PM",
-        "9/8/26, 8:54 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374653"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>ROADWORK on (2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD BOTH DIRECTIONS At SCHOOLHOUSE RD. Closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:15 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>10/15/26, 3:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:54 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374653\">View on map</a></td>",
-      "text": "Closure - Other Route\t(2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD\tPennsylvania\tDauphin\tROADWORK on (2011) CHOCOLATE AV / SWATARA AV / BACHMANVILLE RD / FISHBURN RD / HOCKERSVILLE RD BOTH DIRECTIONS At SCHOOLHOUSE RD. Closed.\t9/8/26, 8:15 AM\t10/15/26, 3:00 PM\t9/8/26, 8:54 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "US-22",
-        "Pennsylvania",
-        "Juniata",
-        "ROADWORK on US-22 Westbound At CROSSOVER. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.",
-        "9/8/26, 8:01 AM",
-        "9/18/26, 6:15 AM",
-        "9/8/26, 8:11 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374625"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-22</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Juniata</td><td><span class=\"colHeader\">Description</span>ROADWORK on US-22 Westbound At CROSSOVER. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:01 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/18/26, 6:15 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:11 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374625\">View on map</a></td>",
-      "text": "Active Roadwork\tUS-22\tPennsylvania\tJuniata\tROADWORK on US-22 Westbound At CROSSOVER. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.\t9/8/26, 8:01 AM\t9/18/26, 6:15 AM\t9/8/26, 8:11 AM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "US-62",
-        "Pennsylvania",
-        "Mercer",
-        "ROADWORK on US-62 Southbound At SPENCER AV. Right Lane (of 2 Lanes) Blocked.",
-        "9/4/26, 12:55 PM",
-        "9/23/26, 3:06 PM",
-        "9/8/26, 8:06 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374636"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-62</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Mercer</td><td><span class=\"colHeader\">Description</span>ROADWORK on US-62 Southbound At SPENCER AV. Right Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/4/26, 12:55 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/23/26, 3:06 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:06 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374636\">View on map</a></td>",
-      "text": "Active Roadwork\tUS-62\tPennsylvania\tMercer\tROADWORK on US-62 Southbound At SPENCER AV. Right Lane (of 2 Lanes) Blocked.\t9/4/26, 12:55 PM\t9/23/26, 3:06 PM\t9/8/26, 8:06 AM\tView on map"
-    },
-    {
-      "eventId": "374634",
-      "cells": [
-        "Row Details",
-        "Closure - Other Route",
-        "ARMSTRONG DR / WEIRICH AV / PLEASANT VALLEY RD / WEST WYLIE AV",
-        "Pennsylvania",
-        "Washington",
-        "Roadwork on ARMSTRONG DR / WEIRICH AV / PLEASANT VALLEY RD / WEST WYLIE AV both directions between GREEN VALLEY RD and MCKEE RD. All lanes closed.",
-        "9/8/26, 8:02 AM",
-        "11/16/26, 12:00 PM",
-        "9/8/26, 8:05 AM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#OtherRouteClosure-374634"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Closure - Other Route</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>ARMSTRONG DR / WEIRICH AV / PLEASANT VALLEY RD / WEST WYLIE AV</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Washington</td><td><span class=\"colHeader\">Description</span>Roadwork on ARMSTRONG DR / WEIRICH AV / PLEASANT VALLEY RD / WEST WYLIE AV both directions between GREEN VALLEY RD and MCKEE RD.  All lanes closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:02 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>11/16/26, 12:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:05 AM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#OtherRouteClosure-374634\">View on map</a></td>",
-      "text": "Closure - Other Route\tARMSTRONG DR / WEIRICH AV / PLEASANT VALLEY RD / WEST WYLIE AV\tPennsylvania\tWashington\tRoadwork on ARMSTRONG DR / WEIRICH AV / PLEASANT VALLEY RD / WEST WYLIE AV both directions between GREEN VALLEY RD and MCKEE RD. All lanes closed.\t9/8/26, 8:02 AM\t11/16/26, 12:00 PM\t9/8/26, 8:05 AM\tView on map"
     }
   ]
 }
