@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-09T00:58:30.448Z",
+  "fetched_at": "2026-09-09T01:03:34.466Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,93 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-441",
+        "Pennsylvania",
+        "Lancaster",
+        "ROADWORK on PA-441 Southbound At TURNPIKE RD. All Lanes Disrupted.",
+        "9/8/26, 9:00 PM",
+        "9/9/26, 6:10 AM",
+        "9/8/26, 9:02 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375317"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-441</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-441 Southbound At TURNPIKE RD. All Lanes Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:10 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:02 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375317\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-441\tPennsylvania\tLancaster\tROADWORK on PA-441 Southbound At TURNPIKE RD. All Lanes Disrupted.\t9/8/26, 9:00 PM\t9/9/26, 6:10 AM\t9/8/26, 9:02 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "(4016) ROYAL RD / MAIN ST / SMOCK RD",
+        "Pennsylvania",
+        "Fayette",
+        "UTILITY WORK on (4016) ROYAL RD / MAIN ST / SMOCK RD BOTH DIRECTIONS At SMOCK RD. Right Lane (of 2 Lanes) Disrupted.",
+        "9/8/26, 6:14 AM",
+        "9/8/26, 10:00 PM",
+        "9/8/26, 9:02 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-374505"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4016) ROYAL RD / MAIN ST / SMOCK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Fayette</td><td><span class=\"colHeader\">Description</span>UTILITY WORK on (4016) ROYAL RD / MAIN ST / SMOCK RD BOTH DIRECTIONS At SMOCK RD. Right Lane (of 2 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 10:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:02 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374505\">View on map</a></td>",
+      "text": "Active Roadwork\t(4016) ROYAL RD / MAIN ST / SMOCK RD\tPennsylvania\tFayette\tUTILITY WORK on (4016) ROYAL RD / MAIN ST / SMOCK RD BOTH DIRECTIONS At SMOCK RD. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 6:14 AM\t9/8/26, 10:00 PM\t9/8/26, 9:02 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "PA-581",
+        "Pennsylvania",
+        "Cumberland",
+        "ROADWORK on PA-581 Eastbound between RAMP FROM PA 641 and Exit 6B I-83 SOUTH - YORK. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
+        "9/8/26, 8:48 PM",
+        "9/9/26, 6:15 AM",
+        "9/8/26, 9:00 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375316"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-581</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Cumberland</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-581 Eastbound between RAMP FROM PA 641 and Exit 6B I-83 SOUTH - YORK. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:48 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:15 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 9:00 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375316\">View on map</a></td>",
+      "text": "Active Roadwork\tPA-581\tPennsylvania\tCumberland\tROADWORK on PA-581 Eastbound between RAMP FROM PA 641 and Exit 6B I-83 SOUTH - YORK. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 8:48 PM\t9/9/26, 6:15 AM\t9/8/26, 9:00 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -71,35 +158,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>US-322</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Dauphin</td><td><span class=\"colHeader\">Description</span>ROADWORK on US-322 Westbound between KUNKEL AV and WITMER DR. No lanes blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:50 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:52 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375311\">View on map</a></td>",
       "text": "Active Roadwork\tUS-322\tPennsylvania\tDauphin\tROADWORK on US-322 Westbound between KUNKEL AV and WITMER DR. No lanes blocked.\t9/8/26, 8:50 PM\t9/9/26, 6:00 AM\t9/8/26, 8:52 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-581",
-        "Pennsylvania",
-        "Cumberland",
-        "ROADWORK on PA-581 Eastbound between RAMP FROM PA 641 and Exit 6B I-83 SOUTH - YORK. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 9:00 PM",
-        "9/8/26, 9:00 PM",
-        "9/8/26, 8:52 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375309"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-581</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Cumberland</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-581 Eastbound between RAMP FROM PA 641 and Exit 6B I-83 SOUTH - YORK. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 9:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:52 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375309\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-581\tPennsylvania\tCumberland\tROADWORK on PA-581 Eastbound between RAMP FROM PA 641 and Exit 6B I-83 SOUTH - YORK. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 9:00 PM\t9/8/26, 9:00 PM\t9/8/26, 8:52 PM\tView on map"
     },
     {
       "eventId": null,
@@ -332,35 +390,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 4:01 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:42 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375307\">View on map</a></td>",
       "text": "Active Roadwork\tI-76\tPennsylvania\tChester\tRoad work on I-76 East. The right lane is closed.\t9/8/26, 8:00 PM\t9/9/26, 4:01 AM\t9/8/26, 8:42 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Special Events",
-        "PA-128",
-        "Pennsylvania",
-        "Armstrong",
-        "SPECIAL EVENT on PA-128 BOTH DIRECTIONS between HIGH ST and MARKET ST. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.",
-        "9/8/26, 3:49 PM",
-        "9/8/26, 9:30 PM",
-        "9/8/26, 8:41 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#SpecialEvents-375075"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Special Events</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-128</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Armstrong</td><td><span class=\"colHeader\">Description</span>SPECIAL EVENT on PA-128 BOTH DIRECTIONS between HIGH ST and MARKET ST. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 3:49 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:30 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:41 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#SpecialEvents-375075\">View on map</a></td>",
-      "text": "Special Events\tPA-128\tPennsylvania\tArmstrong\tSPECIAL EVENT on PA-128 BOTH DIRECTIONS between HIGH ST and MARKET ST. All Lanes Blocked, Left Shoulder Open, Right Shoulder Open.\t9/8/26, 3:49 PM\t9/8/26, 9:30 PM\t9/8/26, 8:41 PM\tView on map"
     },
     {
       "eventId": null,
@@ -1028,35 +1057,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Moving roadwork on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST both directions between FORTYFOURTH ST, LANCASTER AV and GIRARD AV.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:58 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 5:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:03 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375265\">View on map</a></td>",
       "text": "Active Roadwork\tTHIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST\tPennsylvania\tPhiladelphia\tMoving roadwork on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST both directions between FORTYFOURTH ST, LANCASTER AV and GIRARD AV. There is a traffic disruption.\t9/8/26, 7:58 PM\t9/9/26, 5:00 AM\t9/8/26, 8:03 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "(4016) ROYAL RD / MAIN ST / SMOCK RD",
-        "Pennsylvania",
-        "Fayette",
-        "UTILITY WORK on (4016) ROYAL RD / MAIN ST / SMOCK RD BOTH DIRECTIONS At SMOCK RD. Right Lane (of 2 Lanes) Disrupted.",
-        "9/8/26, 6:14 AM",
-        "9/8/26, 9:00 PM",
-        "9/8/26, 7:55 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374505"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>(4016) ROYAL RD / MAIN ST / SMOCK RD</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Fayette</td><td><span class=\"colHeader\">Description</span>UTILITY WORK on (4016) ROYAL RD / MAIN ST / SMOCK RD BOTH DIRECTIONS At SMOCK RD. Right Lane (of 2 Lanes) Disrupted.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:14 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 9:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:55 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374505\">View on map</a></td>",
-      "text": "Active Roadwork\t(4016) ROYAL RD / MAIN ST / SMOCK RD\tPennsylvania\tFayette\tUTILITY WORK on (4016) ROYAL RD / MAIN ST / SMOCK RD BOTH DIRECTIONS At SMOCK RD. Right Lane (of 2 Lanes) Disrupted.\t9/8/26, 6:14 AM\t9/8/26, 9:00 PM\t9/8/26, 7:55 PM\tView on map"
     },
     {
       "eventId": null,
