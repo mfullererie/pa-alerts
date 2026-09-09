@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-08T23:58:36.702Z",
+  "fetched_at": "2026-09-09T00:03:36.743Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,64 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-78",
+        "Pennsylvania",
+        "Berks",
+        "ROADWORK on I-78 Eastbound between MM 25.5 and MM 27.5. Left Lane (of 2 Lanes) Blocked.",
+        "9/8/26, 6:58 PM",
+        "9/9/26, 5:35 AM",
+        "9/8/26, 8:02 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375214"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-78</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Berks</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-78 Eastbound between MM 25.5 and MM 27.5. Left Lane (of 2 Lanes) Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:58 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 5:35 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:02 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375214\">View on map</a></td>",
+      "text": "Active Roadwork\tI-78\tPennsylvania\tBerks\tROADWORK on I-78 Eastbound between MM 25.5 and MM 27.5. Left Lane (of 2 Lanes) Blocked.\t9/8/26, 6:58 PM\t9/9/26, 5:35 AM\t9/8/26, 8:02 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-76",
+        "Pennsylvania",
+        "Chester",
+        "Road work on I-76 East. The right lane is closed.",
+        "9/8/26, 8:00 PM",
+        "9/9/26, 4:00 AM",
+        "9/8/26, 7:58 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375259"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 4:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:58 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375259\">View on map</a></td>",
+      "text": "Active Roadwork\tI-76\tPennsylvania\tChester\tRoad work on I-76 East. The right lane is closed.\t9/8/26, 8:00 PM\t9/9/26, 4:00 AM\t9/8/26, 7:58 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -831,35 +889,6 @@
       "cells": [
         "Row Details",
         "Active Roadwork",
-        "I-78",
-        "Pennsylvania",
-        "Berks",
-        "ROADWORK on I-78 Eastbound between MM 25.5 and MM 27.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.",
-        "9/8/26, 6:58 PM",
-        "9/9/26, 8:00 AM",
-        "9/8/26, 7:04 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375214"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-78</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Berks</td><td><span class=\"colHeader\">Description</span>ROADWORK on I-78 Eastbound between MM 25.5 and MM 27.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:58 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 8:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:04 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375214\">View on map</a></td>",
-      "text": "Active Roadwork\tI-78\tPennsylvania\tBerks\tROADWORK on I-78 Eastbound between MM 25.5 and MM 27.5. Left Lane (of 2 Lanes) Blocked, Left Shoulder Blocked.\t9/8/26, 6:58 PM\t9/9/26, 8:00 AM\t9/8/26, 7:04 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
         "PA - 663",
         "Pennsylvania",
         "Montgomery",
@@ -1637,35 +1666,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Lancaster</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The left lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 6:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 6:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:56 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375169\">View on map</a></td>",
       "text": "Active Roadwork\tI-76\tPennsylvania\tLancaster\tRoad work on I-76 East. The left lane is closed.\t9/8/26, 6:00 PM\t9/9/26, 6:00 AM\t9/8/26, 5:56 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "PA-18",
-        "Pennsylvania",
-        "Greene",
-        "ROADWORK on PA-18 Northbound At ROY E FURMAN HW. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.",
-        "9/8/26, 10:42 AM",
-        "9/8/26, 8:00 PM",
-        "9/8/26, 5:56 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-374907"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>PA-18</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Greene</td><td><span class=\"colHeader\">Description</span>ROADWORK on PA-18 Northbound At ROY E FURMAN HW. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 10:42 AM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/8/26, 8:00 PM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 5:56 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-374907\">View on map</a></td>",
-      "text": "Active Roadwork\tPA-18\tPennsylvania\tGreene\tROADWORK on PA-18 Northbound At ROY E FURMAN HW. Right Lane (of 2 Lanes) Blocked, Right Shoulder Blocked.\t9/8/26, 10:42 AM\t9/8/26, 8:00 PM\t9/8/26, 5:56 PM\tView on map"
     },
     {
       "eventId": null,
