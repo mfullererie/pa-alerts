@@ -1,6 +1,6 @@
 {
   "url": "https://www.511pa.com/list/events/traffic?start=0&length=250&order%5Bi%5D=8&order%5Bdir%5D=desc",
-  "fetched_at": "2026-09-09T00:13:59.572Z",
+  "fetched_at": "2026-09-09T00:18:48.548Z",
   "headers": [
     "",
     "Type",
@@ -14,6 +14,64 @@
     "Map"
   ],
   "rows": [
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-76",
+        "Pennsylvania",
+        "Bedford",
+        "Road work on I-76 East. The 2 right lanes are closed.",
+        "9/8/26, 8:00 PM",
+        "9/9/26, 9:00 AM",
+        "9/8/26, 8:16 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375269"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bedford</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The 2 right lanes are closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 9:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:16 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375269\">View on map</a></td>",
+      "text": "Active Roadwork\tI-76\tPennsylvania\tBedford\tRoad work on I-76 East. The 2 right lanes are closed.\t9/8/26, 8:00 PM\t9/9/26, 9:00 AM\t9/8/26, 8:16 PM\tView on map"
+    },
+    {
+      "eventId": null,
+      "cells": [
+        "Row Details",
+        "Active Roadwork",
+        "I-76",
+        "Pennsylvania",
+        "Chester",
+        "Road work on I-76 East. The right lane is closed.",
+        "9/8/26, 8:00 PM",
+        "9/9/26, 4:01 AM",
+        "9/8/26, 8:13 PM",
+        "View on map"
+      ],
+      "links": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "https://www.511pa.com/map#ActiveRoadwork-375273"
+      ],
+      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 4:01 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:13 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375273\">View on map</a></td>",
+      "text": "Active Roadwork\tI-76\tPennsylvania\tChester\tRoad work on I-76 East. The right lane is closed.\t9/8/26, 8:00 PM\t9/9/26, 4:01 AM\t9/8/26, 8:13 PM\tView on map"
+    },
     {
       "eventId": null,
       "cells": [
@@ -71,35 +129,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-476 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Montgomery</td><td><span class=\"colHeader\">Description</span>Road work on I-476 South. The 2 left lanes are closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 5:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:10 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375270\">View on map</a></td>",
       "text": "Active Roadwork\tI-476\tPennsylvania\tMontgomery\tRoad work on I-476 South. The 2 left lanes are closed.\t9/8/26, 7:00 PM\t9/9/26, 5:00 AM\t9/8/26, 8:10 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-76",
-        "Pennsylvania",
-        "Bedford",
-        "Road work on I-76 East. The left lane is closed.",
-        "9/8/26, 8:00 PM",
-        "9/9/26, 9:00 AM",
-        "9/8/26, 8:08 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375269"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Bedford</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The left lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 9:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:08 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375269\">View on map</a></td>",
-      "text": "Active Roadwork\tI-76\tPennsylvania\tBedford\tRoad work on I-76 East. The left lane is closed.\t9/8/26, 8:00 PM\t9/9/26, 9:00 AM\t9/8/26, 8:08 PM\tView on map"
     },
     {
       "eventId": null,
@@ -274,35 +303,6 @@
       ],
       "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST</td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Philadelphia</td><td><span class=\"colHeader\">Description</span>Moving roadwork on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST both directions between FORTYFOURTH ST, LANCASTER AV and GIRARD AV.  There is a traffic disruption.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 7:58 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 5:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 8:03 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375265\">View on map</a></td>",
       "text": "Active Roadwork\tTHIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST\tPennsylvania\tPhiladelphia\tMoving roadwork on THIRTYFOURTH ST / LANCASTER AV / BELMONT AV / CIVIC CENTER BL / THIRTYTHIRD ST both directions between FORTYFOURTH ST, LANCASTER AV and GIRARD AV. There is a traffic disruption.\t9/8/26, 7:58 PM\t9/9/26, 5:00 AM\t9/8/26, 8:03 PM\tView on map"
-    },
-    {
-      "eventId": null,
-      "cells": [
-        "Row Details",
-        "Active Roadwork",
-        "I-76",
-        "Pennsylvania",
-        "Chester",
-        "Road work on I-76 East. The right lane is closed.",
-        "9/8/26, 8:00 PM",
-        "9/9/26, 4:00 AM",
-        "9/8/26, 7:58 PM",
-        "View on map"
-      ],
-      "links": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "https://www.511pa.com/map#ActiveRoadwork-375259"
-      ],
-      "html": "<td class=\" control\" tabindex=\"0\" style=\"display: none;\"><span class=\"colHeader\"></span><button class=\"btn btn-link\" aria-expanded=\"false\"><i class=\"far fa-plus-circle\" aria-hidden=\"true\"></i><span class=\"sr-only\">Row Details</span></button></td><td><span class=\"colHeader\">Type</span>Active Roadwork</td><td class=\" roadwayAutoTest\"><span class=\"colHeader\">Roadway</span>I-76 </td><td><span class=\"colHeader\">State</span>Pennsylvania</td><td><span class=\"colHeader\">County</span>Chester</td><td><span class=\"colHeader\">Description</span>Road work on I-76 East. The right lane is closed.</td><td><span class=\"colHeader\">Start Time</span>9/8/26, 8:00 PM</td><td><span class=\"colHeader\">Anticipated End Time</span>9/9/26, 4:00 AM</td><td class=\"sorting_1\"><span class=\"colHeader\">Last Updated</span>9/8/26, 7:58 PM</td><td><span class=\"colHeader\">Map</span><a href=\"/map#ActiveRoadwork-375259\">View on map</a></td>",
-      "text": "Active Roadwork\tI-76\tPennsylvania\tChester\tRoad work on I-76 East. The right lane is closed.\t9/8/26, 8:00 PM\t9/9/26, 4:00 AM\t9/8/26, 7:58 PM\tView on map"
     },
     {
       "eventId": null,
